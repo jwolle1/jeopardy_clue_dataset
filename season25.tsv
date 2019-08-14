@@ -75,8 +75,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	FOOD & DRINK PHRASES	-	The theater area nicknamed this often held the cheapest seats, usually those in the rear of the balcony	the peanut gallery	2008-09-09	-
 1	800	no	FOOD & DRINK PHRASES	-	\"A book of verses underneath the bough," these 2 things--"and thou\"	a loaf of bread & a jug of wine	2008-09-09	-
 1	1000	no	FOOD & DRINK PHRASES	-	A pig product gave us this term meaning "clumsy" or "inept\"	ham-handed	2008-09-09	-
-1	400	no	BRING THE PAIN	(Jimmy: That's what they do at the Stanford Medical School's Human Pain Laboratory, all in the interest of science.  Ow!)	This drug known for wrinkle removal has also been found to relieve effects of cerebral palsy & migraines	Botox	2008-09-09	-
-1	800	no	BRING THE PAIN	(Jimmy: That's what they do at the Stanford Medical School's Human Pain Laboratory, all in the interest of science.  Ow!)	This type of injection associated with women giving birth can also deliver steroids for back & neck pain	an epidural	2008-09-09	-
+1	400	no	BRING THE PAI	(Jimmy: That's what they do at the Stanford Medical School's Human Pain Laboratory, all in the interest of science.  Ow!)	This drug known for wrinkle removal has also been found to relieve effects of cerebral palsy & migraines	Botox	2008-09-09	-
+1	800	no	BRING THE PAI	(Jimmy: That's what they do at the Stanford Medical School's Human Pain Laboratory, all in the interest of science.  Ow!)	This type of injection associated with women giving birth can also deliver steroids for back & neck pain	an epidural	2008-09-09	-
 2	400	no	SHAKESPEARE ON LOVE	-	Ophelia says, "'Tis brief, my lord"; he responds, "As women's love\"	Hamlet	2008-09-09	-
 2	800	no	SHAKESPEARE ON LOVE	-	\"Love is too young to know what conscience is" begins No. 151 of these	his sonnets	2008-09-09	-
 2	4000	yes	SHAKESPEARE ON LOVE	-	Told that his name is a problem, he says, "Call me but love, and I'll be new baptized\"	Romeo	2008-09-09	-
@@ -438,8 +438,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	KINGS & QUEENS	-	This queen reportedly referred to William Gladstone as "that dreadful old man\"	Queen Victoria	2008-09-18	2008 Kids Week Reunion game 4.
 1	800	no	KINGS & QUEENS	-	This king & his family have lived at La Zarzuela palace just outside Madrid since 1962	Juan Carlos	2008-09-18	2008 Kids Week Reunion game 4.
 1	1000	no	KINGS & QUEENS	-	Ancient Macedonia had 5 kings with this name; one came immediately before Alexander the Great & one immediately after	Philip	2008-09-18	2008 Kids Week Reunion game 4.
-1	400	no	60 YEARS OF THE EMMYS	(Alex: And in honor of the 60th prime-time Emmy which airs this weekend, we have...)	As of 2008, this Kelsey Grammer sitcom that ran from 1993 to 2004 had won the most Emmys, 37	Frasier	2008-09-18	2008 Kids Week Reunion game 4.
-1	800	no	60 YEARS OF THE EMMYS	(Alex: And in honor of the 60th prime-time Emmy which airs this weekend, we have...)	At the 59th Emmys in 2007, the Showtime show about Henry VIII & the rest of this dynasty won a costuming award	The Tudors	2008-09-18	2008 Kids Week Reunion game 4.
+1	400	no	60 YEARS OF THE EMMY	(Alex: And in honor of the 60th prime-time Emmy which airs this weekend, we have...)	As of 2008, this Kelsey Grammer sitcom that ran from 1993 to 2004 had won the most Emmys, 37	Frasier	2008-09-18	2008 Kids Week Reunion game 4.
+1	800	no	60 YEARS OF THE EMMY	(Alex: And in honor of the 60th prime-time Emmy which airs this weekend, we have...)	At the 59th Emmys in 2007, the Showtime show about Henry VIII & the rest of this dynasty won a costuming award	The Tudors	2008-09-18	2008 Kids Week Reunion game 4.
 1	200	no	AMERICANA	-	His innovations include the first American newspaper cartoon (in 1754) & bifocals (around 1780)	(Benjamin) Franklin	2008-09-18	2008 Kids Week Reunion game 4.
 1	1000	yes	AMERICANA	-	2 of the most performed songs in the U.S. after "Happy Birthday"; both were sung March 31, 2008 at Dodger Stadium	the National Anthem & "Take Me Out To The Ball Game\"	2008-09-18	2008 Kids Week Reunion game 4.
 1	600	no	AMERICANA	-	The first section of the boardwalk along this New Jersey seashore resort opened on June 26, 1870	Atlantic City	2008-09-18	2008 Kids Week Reunion game 4.
@@ -927,10 +927,10 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	ALBUM OF THE YEAR GRAMMYS	(Alex: Next, we want you to name the artist for the...)	1973: "Innervisions\"	Stevie Wonder	2008-10-01	-
 1	800	no	ALBUM OF THE YEAR GRAMMYS	(Alex: Next, we want you to name the artist for the...)	1996: "Falling into You\"	Céline Dion	2008-10-01	-
 1	1000	no	ALBUM OF THE YEAR GRAMMYS	(Alex: Next, we want you to name the artist for the...)	1997: "Time Out of Mind\"	Bob Dylan	2008-10-01	-
-1	200	no	HAPPY 50th NASA	-	NASA took up JFK's 1961 challenge to do this by decade's end & met it with 5 months to spare	put a man on the Moon	2008-10-01	-
-1	400	no	HAPPY 50th NASA	-	NASA took up W's 2004 challenge to do this as the first of "the next steps of space exploration\"	put a man on Mars	2008-10-01	-
-1	600	no	HAPPY 50th NASA	-	NASA radar checks out ECAs, Earth-orbit crossing these, in case one is about to wipe out civilization	an asteroid	2008-10-01	-
-1	800	no	HAPPY 50th NASA	-	Named for this rocketry pioneer, NASA's first space flight center was set up when NASA was 1	(Robert) Goddard	2008-10-01	-
+1	200	no	HAPPY 50th NAS	-	NASA took up JFK's 1961 challenge to do this by decade's end & met it with 5 months to spare	put a man on the Moon	2008-10-01	-
+1	400	no	HAPPY 50th NAS	-	NASA took up W's 2004 challenge to do this as the first of "the next steps of space exploration\"	put a man on Mars	2008-10-01	-
+1	600	no	HAPPY 50th NAS	-	NASA radar checks out ECAs, Earth-orbit crossing these, in case one is about to wipe out civilization	an asteroid	2008-10-01	-
+1	800	no	HAPPY 50th NAS	-	Named for this rocketry pioneer, NASA's first space flight center was set up when NASA was 1	(Robert) Goddard	2008-10-01	-
 1	200	no	UPDATED LITERATURE?	-	Quasimodo gets plastic surgery & really rings Esmeralda's bell	The Hunchback of Notre Dame	2008-10-01	-
 1	400	no	UPDATED LITERATURE?	-	Scarlett wins "Project Runway" with her fierce design of a dress made from green velvet curtains	Gone With the Wind	2008-10-01	-
 1	600	no	UPDATED LITERATURE?	-	Sal Paradise decides to see America; Dean Moriarty tells him gas is 5 bucks a gallon; Sal calls off his trip	On the Road	2008-10-01	-
@@ -1194,11 +1194,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	ON THE MENU	-	At Taco Bell: 7-layer or chili cheese this	burritos	2008-10-08	-
 1	800	no	ON THE MENU	-	An Outback appetizer: Bloomin' this	Onions	2008-10-08	-
 1	1000	no	ON THE MENU	-	At Le Grand Vefour: Les ravioles de this liver preparation a l'emulsion de creme truffee	foie gras	2008-10-08	-
-1	200	no	THE NEW YORK TIMES ELECTION COVERAGE	-	The Nov. 10, 1960 front page noted this first about President-elect JFK's background	his Catholicism	2008-10-08	-
-1	400	no	THE NEW YORK TIMES ELECTION COVERAGE	-	The report on the 1992 returns included a "jubilant bear hug" between these 2 men	Clinton & Gore	2008-10-08	-
-1	600	no	THE NEW YORK TIMES ELECTION COVERAGE	-	On Nov. 3, 2004 the Times headlined, "With echoes of 2000 vote," this state's "count is at issue\"	Ohio	2008-10-08	-
-1	1000	yes	THE NEW YORK TIMES ELECTION COVERAGE	-	\"Forecasts upset", read the front page in this year; at least the Times knew who defeats whom	1948	2008-10-08	-
-1	1000	no	THE NEW YORK TIMES ELECTION COVERAGE	-	On Nov. 5, 1924 page one said this man "wins, 357 to Davis's 136"; what will it say on Nov. 5, 2008?	(Calvin) Coolidge	2008-10-08	-
+1	200	no	THE NEW YORK TIMES ELECTION COVERAG	-	The Nov. 10, 1960 front page noted this first about President-elect JFK's background	his Catholicism	2008-10-08	-
+1	400	no	THE NEW YORK TIMES ELECTION COVERAG	-	The report on the 1992 returns included a "jubilant bear hug" between these 2 men	Clinton & Gore	2008-10-08	-
+1	600	no	THE NEW YORK TIMES ELECTION COVERAG	-	On Nov. 3, 2004 the Times headlined, "With echoes of 2000 vote," this state's "count is at issue\"	Ohio	2008-10-08	-
+1	1000	yes	THE NEW YORK TIMES ELECTION COVERAG	-	\"Forecasts upset", read the front page in this year; at least the Times knew who defeats whom	1948	2008-10-08	-
+1	1000	no	THE NEW YORK TIMES ELECTION COVERAG	-	On Nov. 5, 1924 page one said this man "wins, 357 to Davis's 136"; what will it say on Nov. 5, 2008?	(Calvin) Coolidge	2008-10-08	-
 1	200	no	\"M"-BRACE ME	-	Funnel-shaped amplifying device that's an essential cheerleader accessory	a megaphone	2008-10-08	-
 1	400	no	\"M"-BRACE ME	-	Where your name is if it's up in lights in front of a theater	the marquee	2008-10-08	-
 1	600	no	\"M"-BRACE ME	-	From the French, it's a group of wild animals on exhibit	a menagerie	2008-10-08	-
@@ -2551,11 +2551,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	FRENCH	-	Un cheval is a horse; cheveux is this, as on one's tete	hair	2008-11-11	2008-B Teen Tournament quarterfinal game 2.
 2	2000	no	FRENCH	-	Jamais is this adverb	never	2008-11-11	2008-B Teen Tournament quarterfinal game 2.
 3	0	no	EARTH FACTS	-	Because of the Earth's rotation, a person at sea level is lightest when standing at this degree of latitude	0 degrees	2008-11-11	2008-B Teen Tournament quarterfinal game 2.
-1	200	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	The eruption of this volcano in 79 A.D. caused an estimated 16,000 deaths	Vesuvius	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
-1	400	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	Not surprisingly, by volumes held, it's the top library in the U.S.	the Library of Congress	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
-1	800	yes	THE WORLD ALMANAC AND BOOK OF FACTS	-	It's the only country listed that starts with a "Q\"	Qatar	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
-1	800	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	2 who have been appointed to this post are William Wordsworth & Ted Hughes	Poet Laureate (of Great Britain)	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
-1	1000	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	The Chicago Spire, estimated to be completed in 2010, will replace this as the USA's tallest building	the Sears Tower	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
+1	200	no	THE WORLD ALMANAC AND BOOK OF FACT	-	The eruption of this volcano in 79 A.D. caused an estimated 16,000 deaths	Vesuvius	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
+1	400	no	THE WORLD ALMANAC AND BOOK OF FACT	-	Not surprisingly, by volumes held, it's the top library in the U.S.	the Library of Congress	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
+1	800	yes	THE WORLD ALMANAC AND BOOK OF FACT	-	It's the only country listed that starts with a "Q\"	Qatar	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
+1	800	no	THE WORLD ALMANAC AND BOOK OF FACT	-	2 who have been appointed to this post are William Wordsworth & Ted Hughes	Poet Laureate (of Great Britain)	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
+1	1000	no	THE WORLD ALMANAC AND BOOK OF FACT	-	The Chicago Spire, estimated to be completed in 2010, will replace this as the USA's tallest building	the Sears Tower	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
 1	200	no	WHO DID THAT TUNE?	-	\"S.O.S.", "Year 3000\"	the Jonas Brothers	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
 1	400	no	WHO DID THAT TUNE?	-	\"Yellow" , "Speed of Sound\"	Coldplay	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
 1	600	no	WHO DID THAT TUNE?	-	\"One Step Closer", "Somewhere I Belong\"	Linkin Park	2008-11-12	2008-B Teen Tournament quarterfinal game 3.
@@ -2688,11 +2688,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	POTTY MOUTH!	-	An estuary is where the salt & fresh types of this are mixed	water	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
 1	800	no	POTTY MOUTH!	-	A sudden rise of emotion, as in one "of anger"; in cards, it can be royal	a flush	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
 1	1000	no	POTTY MOUTH!	-	Poet Keats or jurist Marshall	John	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
-1	200	no	URBAN DICTIONARY LINGO	(Alex: Clues from the website urbandictionary.com.)	\"Christmas Adam" is the day before this	Christmas Eve	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
-1	400	no	URBAN DICTIONARY LINGO	(Alex: Clues from the website urbandictionary.com.)	Wikidemia is any scholarly work that's passed off as original but in reality is culled from this site	Wikipedia	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
-1	600	no	URBAN DICTIONARY LINGO	(Alex: Clues from the website urbandictionary.com.)	We're not joshing when we tell you that "JK" stands for this	just kidding	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
-1	800	no	URBAN DICTIONARY LINGO	(Alex: Clues from the website urbandictionary.com.)	A vacation spent at home is this, rhyming with "vacation\"	a staycation	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
-1	1000	no	URBAN DICTIONARY LINGO	(Alex: Clues from the website urbandictionary.com.)	urbandictionary says that this 3-letter word can mean a boyfriend or girlfriend or be a "word used to scare people\"	a boo	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
+1	200	no	URBAN DICTIONARY LING	(Alex: Clues from the website urbandictionary.com.)	\"Christmas Adam" is the day before this	Christmas Eve	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
+1	400	no	URBAN DICTIONARY LING	(Alex: Clues from the website urbandictionary.com.)	Wikidemia is any scholarly work that's passed off as original but in reality is culled from this site	Wikipedia	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
+1	600	no	URBAN DICTIONARY LING	(Alex: Clues from the website urbandictionary.com.)	We're not joshing when we tell you that "JK" stands for this	just kidding	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
+1	800	no	URBAN DICTIONARY LING	(Alex: Clues from the website urbandictionary.com.)	A vacation spent at home is this, rhyming with "vacation\"	a staycation	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
+1	1000	no	URBAN DICTIONARY LING	(Alex: Clues from the website urbandictionary.com.)	urbandictionary says that this 3-letter word can mean a boyfriend or girlfriend or be a "word used to scare people\"	a boo	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
 2	400	no	POSE-POURRI	-	Famke, Halle & Rebecca mutated from the runway to the big screen in this movie series	X-Men	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
 2	800	no	POSE-POURRI	-	Now a TV host, she was the first African-American model on the cover of Sports Illustrated's swimsuit issue	Tyra Banks	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
 2	1200	no	POSE-POURRI	-	Tyson isn't fowl: a co-host of "Make Me A Supermodel", he's been one of People's 50 Most Beautiful People	Tyson Beckford	2008-11-14	2008-B Teen Tournament quarterfinal game 5.
@@ -3066,18 +3066,18 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	BIOPIC SUBJECTS	-	1994: "Immortal Beloved\"	Beethoven	2008-11-25	-
 1	800	no	BIOPIC SUBJECTS	-	1956: "Lust for Life\"	Vincent van Gogh	2008-11-25	-
 1	1000	no	BIOPIC SUBJECTS	-	1962: "The Birdman of Alcatraz\"	Robert Stroud	2008-11-25	-
-1	200	no	75 YEARS OF ESQUIRE	-	On a 1990 cover Esquire went old school with this Windy City hoops star & asked, "Is he our new DiMaggio?\"	Michael Jordan	2008-11-25	-
-1	400	no	75 YEARS OF ESQUIRE	-	In Oct. 1994 this director's Esquire cover read "Look Who's Talking"; one of his talking points-- "Soon-Yi's charms\"	Woody Allen	2008-11-25	-
+1	200	no	75 YEARS OF ESQUIR	-	On a 1990 cover Esquire went old school with this Windy City hoops star & asked, "Is he our new DiMaggio?\"	Michael Jordan	2008-11-25	-
+1	400	no	75 YEARS OF ESQUIR	-	In Oct. 1994 this director's Esquire cover read "Look Who's Talking"; one of his talking points-- "Soon-Yi's charms\"	Woody Allen	2008-11-25	-
 1	200	no	MAKE NO MYTHTAKE	-	He blinded the man-eating Cyclops Polyphemus	Odysseus	2008-11-25	-
 1	400	no	MAKE NO MYTHTAKE	-	This resinous gemstone was said to be the solidified tears of Apollo's daughters	amber	2008-11-25	-
 1	600	no	MAKE NO MYTHTAKE	-	This guy had double the trouble battling the Hydra; every time he cut off a head, 2 grew in its place	Hercules	2008-11-25	-
 1	1000	yes	MAKE NO MYTHTAKE	-	It's the only day of the week named for a Roman god	Saturday	2008-11-25	-
 1	1000	no	MAKE NO MYTHTAKE	-	The Sphinx riddled & munched on travelers on the high road to this ancient city	Thebes	2008-11-25	-
-1	200	no	THE SPECIFIC PALM READER	-	The break in your heart line shows you had one of these, the voiding of a marriage that was never valid	an annulment	2008-11-25	-
-1	400	no	THE SPECIFIC PALM READER	-	Your line of fate is quite deep, indicating success investing with tech stocks, like Adobe & Oracle, on this exchange	NASDAQ	2008-11-25	-
-1	600	no	THE SPECIFIC PALM READER	-	Based on your life line, I wouldn't visit Tampico, located on this gulf, in hurricane season. I just wouldn't	Gulf of Mexico	2008-11-25	-
-1	800	no	THE SPECIFIC PALM READER	-	The creativity in your mount of Apollo means you should try out for this operetta, as Pooh-Bah	The Mikado	2008-11-25	-
-1	1000	no	THE SPECIFIC PALM READER	-	Your health line tells me that in 2 years you'll develop this, an inflammation of a fluid-filled sac, around the elbow	bursitis	2008-11-25	-
+1	200	no	THE SPECIFIC PALM READE	-	The break in your heart line shows you had one of these, the voiding of a marriage that was never valid	an annulment	2008-11-25	-
+1	400	no	THE SPECIFIC PALM READE	-	Your line of fate is quite deep, indicating success investing with tech stocks, like Adobe & Oracle, on this exchange	NASDAQ	2008-11-25	-
+1	600	no	THE SPECIFIC PALM READE	-	Based on your life line, I wouldn't visit Tampico, located on this gulf, in hurricane season. I just wouldn't	Gulf of Mexico	2008-11-25	-
+1	800	no	THE SPECIFIC PALM READE	-	The creativity in your mount of Apollo means you should try out for this operetta, as Pooh-Bah	The Mikado	2008-11-25	-
+1	1000	no	THE SPECIFIC PALM READE	-	Your health line tells me that in 2 years you'll develop this, an inflammation of a fluid-filled sac, around the elbow	bursitis	2008-11-25	-
 1	200	no	Z BOYS	-	This "Lumpy Gravy" musician howled on the Barking Pumpkin record label	Frank Zappa	2008-11-25	-
 1	400	no	Z BOYS	-	This career soldier who never voted served as president for fewer than 500 days	Zachary Taylor	2008-11-25	-
 1	600	no	Z BOYS	-	After buying the Tribune Company, he promised to sell the Chicago Cubs	Sam Zell	2008-11-25	-
@@ -3776,11 +3776,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	GYPSIES, TRAMPS & THIEVES	-	This dance was brought by the gypsies to Andalusia in Spain; castanets were not traditionally used in the dance	flamenco	2008-12-12	-
 1	800	no	GYPSIES, TRAMPS & THIEVES	-	In this 1968-1970 TV series, Robert Wagner played a reformed cat burglar working for the U.S. Government	\"It Takes A Thief\"	2008-12-12	-
 1	1000	no	GYPSIES, TRAMPS & THIEVES	-	In 1911 Vincenzo Perugia stole this painting from the Louvre; he was caught trying to sell it to an antiques dealer	the Mona Lisa	2008-12-12	-
-1	200	no	NEWS OF THE WEIRD	(Alex: The website.)	A Moscow circus couple's divorce is tricky; she's still contractually bound to shoot this off his head with a crossbow	an apple	2008-12-12	-
-1	400	no	NEWS OF THE WEIRD	(Alex: The website.)	A Galveston house had its roof blown off after 6 bug foggers were set & this 2-word stove part wasn't turned off	the pilot light	2008-12-12	-
-1	600	no	NEWS OF THE WEIRD	(Alex: The website.)	Defend & boogie: Taser Intl. made a combo dart-firing weapon & this alphanumeric music player	MP3	2008-12-12	-
-1	800	no	NEWS OF THE WEIRD	(Alex: The website.)	A South Dakota building was wiped out when a resident tried to thaw frozen pipes with this flame-spewing object	blowtorch	2008-12-12	-
-1	1000	no	NEWS OF THE WEIRD	(Alex: The website.)	2 men were busted in Traverse City in this state; they'd told a gas station worker 2 hours earlier that they'd soon rob him	Michigan	2008-12-12	-
+1	200	no	NEWS OF THE WEIR	(Alex: The website.)	A Moscow circus couple's divorce is tricky; she's still contractually bound to shoot this off his head with a crossbow	an apple	2008-12-12	-
+1	400	no	NEWS OF THE WEIR	(Alex: The website.)	A Galveston house had its roof blown off after 6 bug foggers were set & this 2-word stove part wasn't turned off	the pilot light	2008-12-12	-
+1	600	no	NEWS OF THE WEIR	(Alex: The website.)	Defend & boogie: Taser Intl. made a combo dart-firing weapon & this alphanumeric music player	MP3	2008-12-12	-
+1	800	no	NEWS OF THE WEIR	(Alex: The website.)	A South Dakota building was wiped out when a resident tried to thaw frozen pipes with this flame-spewing object	blowtorch	2008-12-12	-
+1	1000	no	NEWS OF THE WEIR	(Alex: The website.)	2 men were busted in Traverse City in this state; they'd told a gas station worker 2 hours earlier that they'd soon rob him	Michigan	2008-12-12	-
 1	200	no	GREECE IS THE WORD	-	When Greece gained indep. in 1829, this city had only a few thousand people; 4 years later, it became the capital	Athens	2008-12-12	-
 1	400	no	GREECE IS THE WORD	-	Tradition says in 490 B.C. Pheidippides began his long run at this coastal plain; go, P-Dippy!  Go!	Marathon	2008-12-12	-
 1	600	no	GREECE IS THE WORD	-	This ancient capital of Laconia, fabled for its military, was at one time the most powerful ancient Greek city-state	Sparta	2008-12-12	-
@@ -3791,7 +3791,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	IT'S GOT GROOVE	-	This title girl "is not my lover, she's just a girl who claims that I am the one, but the kid is not my son\"	Billie Jean	2008-12-12	-
 1	800	no	IT'S GOT GROOVE	-	\"Oh, you make my motor run, my motor run", sang the Knack in this 1979 No. 1 hit, woo!	\"My Sharona\"	2008-12-12	-
 1	1000	no	IT'S GOT GROOVE	-	Can't keep my feet from tapping to "I'm Your Boogie Man" by this group, fittingly formed in the Sunshine State	KC & The Sunshine Band	2008-12-12	-
-1	200	no	IT'S GOT MEANING	-	You're in it now--this is "Dan&#285;ero!" (translated from Esperanto)	Jeopardy	2008-12-12	-
+1	200	no	IT'S GOT MEANING	-	You're in it now--this is "Dangero!" (translated from Esperanto)	Jeopardy	2008-12-12	-
 1	400	no	IT'S GOT MEANING	-	This color means imperial, regal or princely; it can also precede "prose\"	purple	2008-12-12	-
 1	600	no	IT'S GOT MEANING	-	This 7-letter adverb, my dear, means candidly or openly	frankly	2008-12-12	-
 1	800	no	IT'S GOT MEANING	-	\'Tite fer is Cajun French for "little iron", this "geometric" musical instrument	the triangle	2008-12-12	-
@@ -4920,7 +4920,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	3000	yes	MERRY OLD SOUL	-	This band took its name from the 3 elements in founder Maurice White's astrological chart	Earth, Wind & Fire	2009-01-09	-
 2	1600	no	MERRY OLD SOUL	-	Was it just my imagination that "Just My Imagination" was a No. 1 hit for this band?	The Temptations	2009-01-09	-
 2	2000	no	MERRY OLD SOUL	-	You'll be mighty, mighty, just letting it all hang out by naming this "Brick House" band	The Commodores	2009-01-09	-
-2	1200	no	THE VIKING SHIP MUSEUM	(Jimmy: ...in Roskilde, Denmark. The vessels they used to ravage Europe and make history.)	A "side scan" type of this helps the museum locate old shipwrecks; sound waves are emitted & bounce back with results	sonar	2009-01-09	-
+2	1200	no	THE VIKING SHIP MUSEU	(Jimmy: ...in Roskilde, Denmark. The vessels they used to ravage Europe and make history.)	A "side scan" type of this helps the museum locate old shipwrecks; sound waves are emitted & bounce back with results	sonar	2009-01-09	-
 3	0	no	ALPHABETS	-	In the phonetic alphabet used by the U.S. military, it's the only letter that has the same name as a warrior people	Zulu	2009-01-09	-
 1	200	no	THE LOUVRE	-	Discovered on a Greek island in 1820, this statue would have had arms & been adorned with jewelry & color	the Venus de Milo	2009-01-12	-
 1	600	no	THE LOUVRE	-	Head to the first floor to see this great lady; the 16th c. portrait is surprisingly small: 21" x 30 1/2\"	the Mona Lisa	2009-01-12	-
@@ -6005,11 +6005,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	COMPOUNDS	-	A substance, like a plastic, made of macromolecules; the American Chemical Society has a division of this "chemistry\"	polymer	2009-02-06	-
 2	1600	no	COMPOUNDS	-	By definition, a carbide is a compound of carbon & this type of substance	metal	2009-02-06	-
 2	1000	yes	COMPOUNDS	-	Thiols, emitted by skunks & chopped onions, resemble alcohols but with an atom of this element in place of an oxygen atom	sulfur	2009-02-06	-
-2	400	no	ANIMALS EN ESPA&Ntilde;OL	-	Buggy's partner: caballo	horse	2009-02-06	-
-2	800	no	ANIMALS EN ESPA&Ntilde;OL	-	A popular pet: gato	cat	2009-02-06	-
-2	1200	no	ANIMALS EN ESPA&Ntilde;OL	-	Langosta (with butter, yum!)	lobster	2009-02-06	-
-2	1600	no	ANIMALS EN ESPA&Ntilde;OL	-	An arctic dweller: oso blanco	a polar bear	2009-02-06	-
-2	2000	no	ANIMALS EN ESPA&Ntilde;OL	-	A provider of meat: venado	deer	2009-02-06	-
+2	400	no	ANIMALS EN ESPAN;OL	-	Buggy's partner: caballo	horse	2009-02-06	-
+2	800	no	ANIMALS EN ESPAN;OL	-	A popular pet: gato	cat	2009-02-06	-
+2	1200	no	ANIMALS EN ESPAN;OL	-	Langosta (with butter, yum!)	lobster	2009-02-06	-
+2	1600	no	ANIMALS EN ESPAN;OL	-	An arctic dweller: oso blanco	a polar bear	2009-02-06	-
+2	2000	no	ANIMALS EN ESPAN;OL	-	A provider of meat: venado	deer	2009-02-06	-
 2	400	no	GEOGRAPHIC NICKNAMES	-	With its own Parthenon, Nashville, Tennesse is this Greek city "of the South\"	Athens	2009-02-06	-
 2	800	no	GEOGRAPHIC NICKNAMES	-	Louisville is this "city", like the race that's run there	Derby	2009-02-06	-
 2	1200	no	GEOGRAPHIC NICKNAMES	-	This Egyptian city earned the nickname "Mother of Books" from the library that was there in ancient times	Alexandria	2009-02-06	-
@@ -6832,7 +6832,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	MEASURE FOR MEASURE	-	In a surveyor's chain, it's a unit of length equal to 7.92 inches; on the web, it's an object connected via hypertext	a link	2009-02-27	-
 2	2000	no	MEASURE FOR MEASURE	-	With regard to height, 3 hands equals 1 of these	a foot	2009-02-27	-
 2	400	no	THE TEMPEST	-	Often compared to golf balls, this is the largest form of precipitation	hail	2009-02-27	-
-2	800	no	THE TEMPEST	-	The cold phase of the weather-causing phenomenon El Ni&ntilde;o is referred to as "La" this	Ni&ntilde;a	2009-02-27	-
+2	800	no	THE TEMPEST	-	The cold phase of the weather-causing phenomenon El Nino is referred to as "La" this	Nina	2009-02-27	-
 2	1200	no	THE TEMPEST	-	Monsoons prevail mainly in this ocean	the Indian	2009-02-27	-
 2	1600	no	THE TEMPEST	-	Meteorologist Theodore Fujita came up with the F-scale based on wind damage while studying these events	tornadoes	2009-02-27	-
 2	2000	no	THE TEMPEST	-	Some cyclones turn clockwise in the Southern Hemisphere due to this effect, which has no influence on toilet rotation	the Coriolis effect	2009-02-27	-
@@ -6842,7 +6842,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	HAMLET	-	On May 28, 1934 this fivesome was born in the hamlet of Callander, Ontario	the Dionne Quintuplets	2009-02-27	-
 2	2000	no	HAMLET	-	Sherwood Anderson's collection of short stories about life in a small Ohio Town	Winesburg, Ohio	2009-02-27	-
 2	400	no	MUCH "ADO" ABOUT NOTHING	-	Japanese for "exalted gate", it was a title once used for the emperor of Japan	Mikado	2009-02-27	-
-2	800	no	MUCH "ADO" ABOUT NOTHING	-	It's Spanish for "Saturday\"	s&aacute;bado	2009-02-27	-
+2	800	no	MUCH "ADO" ABOUT NOTHING	-	It's Spanish for "Saturday\"	sabado	2009-02-27	-
 2	2000	yes	MUCH "ADO" ABOUT NOTHING	-	In 1988 Congress passed an Indoor Abatement Act to reduce levels of this toxic gas in the home	radon	2009-02-27	-
 2	2000	no	MUCH "ADO" ABOUT NOTHING	-	This handsome young man loved by Aphrodite was killed by a wild boar	Adonis	2009-02-27	-
 3	0	no	ADVERTISING ICONS	-	On Advertising Age's list of the Top 10 Ad Icons of the 20th c., they're the 2 alliterative entries that end in "Man\"	the Michelin Man & the Marlboro Man	2009-02-27	-
@@ -7125,8 +7125,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	1961	-	A bunch of Cuban exiles showed up unannounced here on April 17	the Bay of Pigs	2009-03-09	-
 1	800	no	1961	-	On May 5 he rocketed into space from Cape Canaveral	Alan Shepard	2009-03-09	-
 1	1000	no	1961	-	Launching a 4-book series, John Updike published this novel in 1961	Rabbit, Run	2009-03-09	-
-1	400	no	BARBIE	-	Barbie's last name, which may remind you of another "pretty woman\"	Roberts	2009-03-09	-
-1	800	no	BARBIE	-	Ahoy! She's Barbie's sister introduced in 1964	Skipper	2009-03-09	-
+1	400	no	BARBI	-	Barbie's last name, which may remind you of another "pretty woman\"	Roberts	2009-03-09	-
+1	800	no	BARBI	-	Ahoy! She's Barbie's sister introduced in 1964	Skipper	2009-03-09	-
 1	200	no	MATERIAL	-	Coke cans are an average 60% recycled this metal	aluminum	2009-03-09	-
 1	400	no	MATERIAL	-	Tuflex flooring, made of this, is popular in gyms & weight rooms	rubber	2009-03-09	-
 1	800	no	MATERIAL	-	Many of George Segal's lifelike sculptures, such as "Hot Dog Stand", are made from this of Paris	plaster	2009-03-09	-
@@ -7552,9 +7552,9 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	SHAKESPEAREAN JEOPORTMANTEAU!	-	Mega-jealous guy plus a "prefrontal" type of brain surgery	Othellobotomy	2009-03-18	2009 Tournament of Champions semifinal game 1.
 2	1600	no	SHAKESPEAREAN JEOPORTMANTEAU!	-	Bitter Trojan comedy plus Marcel Duchamp's art movement	Troilus and Cressidada	2009-03-18	2009 Tournament of Champions semifinal game 1.
 2	2000	no	SHAKESPEAREAN JEOPORTMANTEAU!	-	One-handed Roman plus a large receptacle for chewing tobacco expectoration	Titus Andronicuspidor	2009-03-18	2009 Tournament of Champions semifinal game 1.
-2	400	no	THE WORLD COURT	(Jimmy: Deciding international issues here in the Hague.)	The World Court sprang from an 1899 initiative of this czar, who didn't get the benefit of a court himself	Nicholas II	2009-03-18	2009 Tournament of Champions semifinal game 1.
-2	1200	no	THE WORLD COURT	(Jimmy: Deciding international issues here in the Hague.)	The court's deliberations are secret, or "in" this--not "on" this, which would mean very un-secret	camera	2009-03-18	2009 Tournament of Champions semifinal game 1.
-2	5000	yes	THE WORLD COURT	(Jimmy: Deciding international issues here in the Hague.)	The International Criminal Court replaces ad hoc U.N. tribunals like this one for the 1994 events in this African country	Rwanda	2009-03-18	2009 Tournament of Champions semifinal game 1.
+2	400	no	THE WORLD COUR	(Jimmy: Deciding international issues here in the Hague.)	The World Court sprang from an 1899 initiative of this czar, who didn't get the benefit of a court himself	Nicholas II	2009-03-18	2009 Tournament of Champions semifinal game 1.
+2	1200	no	THE WORLD COUR	(Jimmy: Deciding international issues here in the Hague.)	The court's deliberations are secret, or "in" this--not "on" this, which would mean very un-secret	camera	2009-03-18	2009 Tournament of Champions semifinal game 1.
+2	5000	yes	THE WORLD COUR	(Jimmy: Deciding international issues here in the Hague.)	The International Criminal Court replaces ad hoc U.N. tribunals like this one for the 1994 events in this African country	Rwanda	2009-03-18	2009 Tournament of Champions semifinal game 1.
 3	0	no	ELVIS PRESLEY	(Alex: How appropriate since we're in Vegas.)	Though Elvis was known as the King of Rock & Roll, the only 3 Grammy Awards he ever won were in this Grammy genre	gospel music	2009-03-18	2009 Tournament of Champions semifinal game 1.
 1	200	no	FIRST LADIES	-	She was valedictorian of Plains High School, class of 1944	(Rosalynn) Carter	2009-03-19	2009 Tournament of Champions semifinal game 2.
 1	400	no	FIRST LADIES	-	While she was first lady, her half brother Samuel was killed at the Battle of Shiloh	Mary Lincoln	2009-03-19	2009 Tournament of Champions semifinal game 2.
@@ -8366,11 +8366,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	POETS' MONOGRAMS	-	She wove "The Harp Weaver": ESM (or ESVM)	Edna St. Vincent Millay	2009-04-08	-
 2	1600	no	POETS' MONOGRAMS	-	He spoon-fed us "Spoon River": ELM	Edgar Lee Masters	2009-04-08	-
 2	2000	no	POETS' MONOGRAMS	-	Prominent Pre-Raphaelite: DGR	Dante Gabriel Rossetti	2009-04-08	-
-2	400	no	THE NEW YORK TIMES: TRAVEL	-	With its economy ailing, in 2008 this country offered $559 packages including air & 3 nights at a Reykjavik hotel	Iceland	2009-04-08	-
-2	800	no	THE NEW YORK TIMES: TRAVEL	-	A "36 Hours" column showcased this city, with Molly Brown's Victorian Mansion & the mile high flea market	Denver	2009-04-08	-
-2	1200	no	THE NEW YORK TIMES: TRAVEL	-	At nytimes.com you can see a slide show of some of the hot spots to visit in this largest city in the UAE	Dubai	2009-04-08	-
-2	2600	yes	THE NEW YORK TIMES: TRAVEL	-	For a weekend getaway, The Frugal Traveler recommends this city of "O'Keefe, folk art & Frito pies\"	Sante Fe	2009-04-08	-
-2	2000	no	THE NEW YORK TIMES: TRAVEL	-	For a cheaper stay on this Caribbean island nytimes.com says head to Pointe du Bout instead of Fort-de-France	Martinique	2009-04-08	-
+2	400	no	THE NEW YORK TIMES: TRAVE	-	With its economy ailing, in 2008 this country offered $559 packages including air & 3 nights at a Reykjavik hotel	Iceland	2009-04-08	-
+2	800	no	THE NEW YORK TIMES: TRAVE	-	A "36 Hours" column showcased this city, with Molly Brown's Victorian Mansion & the mile high flea market	Denver	2009-04-08	-
+2	1200	no	THE NEW YORK TIMES: TRAVE	-	At nytimes.com you can see a slide show of some of the hot spots to visit in this largest city in the UAE	Dubai	2009-04-08	-
+2	2600	yes	THE NEW YORK TIMES: TRAVE	-	For a weekend getaway, The Frugal Traveler recommends this city of "O'Keefe, folk art & Frito pies\"	Sante Fe	2009-04-08	-
+2	2000	no	THE NEW YORK TIMES: TRAVE	-	For a cheaper stay on this Caribbean island nytimes.com says head to Pointe du Bout instead of Fort-de-France	Martinique	2009-04-08	-
 2	400	no	\"MEN" AT WORK	-	Rediscovered c. 1900, the work of this Austrian monk was thought irrelevant to evolutionary theory	(Gregor) Mendel	2009-04-08	-
 2	800	no	\"MEN" AT WORK	-	This journalist said no one "has ever lost money by underestimating the intelligence of the great masses\"	(H.L.) Mencken	2009-04-08	-
 2	1200	no	\"MEN" AT WORK	-	This composer of "Amahl and the Night Visitors" won 2 Pulitzers for his work	(Gian Carlo) Menotti	2009-04-08	-
@@ -8440,11 +8440,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	THE NOVEL LIST	-	\"The Winter of Our Discontent", "The Moon is Down\"	John Steinbeck	2009-04-10	-
 1	800	no	THE NOVEL LIST	-	\"The Moon is a Harsh Mistress", "Stranger in a Strange Land\"	Heinlein	2009-04-10	-
 1	1000	no	THE NOVEL LIST	-	\"The Joke", "The Book of Laughter and Forgetting\"	Milan Kundera	2009-04-10	-
-1	200	no	THE NEW YORK TIMES: ARTS & LEISURE	-	The Times said of these thin young twins, "It isn't the cover of Vogue they seem to seek as much as the cover of Fortune\"	the Olsen Twins	2009-04-10	-
-1	400	no	THE NEW YORK TIMES: ARTS & LEISURE	-	nytimes.com's "Find a Show" section tells how to get tickets to "Avenue Q" or this masked man musical	The Phantom of the Opera	2009-04-10	-
-1	600	no	THE NEW YORK TIMES: ARTS & LEISURE	-	From an artsbeat blog: The Vivian Girls, rockers from this NYC borough, are "really, really, really cute\"	Brooklyn	2009-04-10	-
-1	1000	yes	THE NEW YORK TIMES: ARTS & LEISURE	-	The times headlined its 2007 review of this series' first episode "smoking, drinking, cheating and selling\"	Mad Men	2009-04-10	-
-1	1000	no	THE NEW YORK TIMES: ARTS & LEISURE	-	nytimes.com has up-to-date info on this NYC museum of American art, like its exhibition on "artists making photographs\"	the Whitney	2009-04-10	-
+1	200	no	THE NEW YORK TIMES: ARTS & LEISUR	-	The Times said of these thin young twins, "It isn't the cover of Vogue they seem to seek as much as the cover of Fortune\"	the Olsen Twins	2009-04-10	-
+1	400	no	THE NEW YORK TIMES: ARTS & LEISUR	-	nytimes.com's "Find a Show" section tells how to get tickets to "Avenue Q" or this masked man musical	The Phantom of the Opera	2009-04-10	-
+1	600	no	THE NEW YORK TIMES: ARTS & LEISUR	-	From an artsbeat blog: The Vivian Girls, rockers from this NYC borough, are "really, really, really cute\"	Brooklyn	2009-04-10	-
+1	1000	yes	THE NEW YORK TIMES: ARTS & LEISUR	-	The times headlined its 2007 review of this series' first episode "smoking, drinking, cheating and selling\"	Mad Men	2009-04-10	-
+1	1000	no	THE NEW YORK TIMES: ARTS & LEISUR	-	nytimes.com has up-to-date info on this NYC museum of American art, like its exhibition on "artists making photographs\"	the Whitney	2009-04-10	-
 1	200	no	A PRIEST, AN ELEPHANT & EVEL KNIEVEL...	-	On elephants this prehensile body part has an estimated 150,000 muscles	a trunk	2009-04-10	-
 1	400	no	A PRIEST, AN ELEPHANT & EVEL KNIEVEL...	-	Catholic priests administer 7 of these acts, like penance & holy orders	sacraments	2009-04-10	-
 1	600	no	A PRIEST, AN ELEPHANT & EVEL KNIEVEL...	-	On his "Sky-Cycle" Evel tried to jump a canyon above this river in Idaho in 1974; too bad the parachute opened early	the Snake River	2009-04-10	-
@@ -8935,8 +8935,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	\"IQ" TEST	-	A special aura; Betty Friedan's was a "Feminine" one	mystique	2009-04-22	-
 2	1600	no	\"IQ" TEST	-	We assume you know it's French for a nickname or assumed name	sobriquet	2009-04-22	-
 2	2000	no	\"IQ" TEST	-	Maputo is the capital & largest city of this country	Mozambique	2009-04-22	-
-2	800	no	IN BRUGES	(Sarah: ...the life &amp; lore of one of Belgium's most picturesque cities.)	Tradition says as punishment for killing a noble, Bruges must forever keep these long-necked birds in its canals	swans	2009-04-22	-
-2	1600	no	IN BRUGES	(Sarah: ...the life &amp; lore of one of Belgium's most picturesque cities.)	Bruges is the starting point for one of Belgium's premier sporting events, a 164-mile race of these	bicycles	2009-04-22	-
+2	800	no	IN BRUGES	(Sarah: ...the life & lore of one of Belgium's most picturesque cities.)	Tradition says as punishment for killing a noble, Bruges must forever keep these long-necked birds in its canals	swans	2009-04-22	-
+2	1600	no	IN BRUGES	(Sarah: ...the life & lore of one of Belgium's most picturesque cities.)	Bruges is the starting point for one of Belgium's premier sporting events, a 164-mile race of these	bicycles	2009-04-22	-
 3	0	no	U.S. PRESIDENTS	-	Besides Carter, 1 of 2 20th century presidents to live at least 30 years past the day he entered office	(1 of) Gerald Ford & Herbert Hoover	2009-04-22	-
 1	200	no	ARCHAEOLOGY	-	In 1974 farmers digging for water found an army of clay warriors "protecting" an emperor's tomb in this country	China	2009-04-23	-
 1	400	no	ARCHAEOLOGY	-	This Andean civilization used knotted cords called quipus to store information	the Incas	2009-04-23	-
@@ -9045,7 +9045,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	no	8-LETTER WORDS	-	The name of this arboreal rodent can also mean to hide something away, like money	squirrel	2009-04-24	-
 2	800	no	8-LETTER WORDS	-	Relating to ships, as in a type of mile	nautical	2009-04-24	-
 2	2000	yes	8-LETTER WORDS	-	A French term for the skipping of a stone on water gave us this word meaning "Rebound", often used of bullets	ricochet	2009-04-24	-
-2	2000	no	WAKING THE BABY MAMMOTH	(Alex: And the baby mammoth's name is Lyuba, and a National Geographic special will be all about the baby mammoth this Sunday.)	(Paleontologist Dan Fisher delivers the clue) When Lyuba was transported for testing, researchers were required to wear haz-mat suits as protection from viruses or pathogens from this geologic epoch, marked by a succession of ice ages	the pleistocene epoch	2009-04-24	-
+2	2000	no	WAKING THE BABY MAMMOT	(Alex: And the baby mammoth's name is Lyuba, and a National Geographic special will be all about the baby mammoth this Sunday.)	(Paleontologist Dan Fisher delivers the clue) When Lyuba was transported for testing, researchers were required to wear haz-mat suits as protection from viruses or pathogens from this geologic epoch, marked by a succession of ice ages	the pleistocene epoch	2009-04-24	-
 3	0	no	SHAKESPEARE'S TITLE CHARACTERS	-	Though he reigned for only 2 years, this king has the second-longest role in a single Shakespeare play, speaking 1,164 lines	Richard III	2009-04-24	-
 1	200	no	THE 19th CENTURY	-	On Sept.16, 1810 Father Hidalgo's "Cry of Dolores" began a revolt in this country for independence from Spain	Mexico	2009-04-27	-
 1	400	no	THE 19th CENTURY	-	The doctrine of papal this was adopted in 1870 by a vote of 533-2; the 2 promptly declared, "Now I believe\"	infallibility	2009-04-27	-
@@ -9343,11 +9343,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	A HORSE IS A HORSE	-	The Lone Ranger rode Silver & this companion of his rode a horse named Scout	Tonto	2009-05-04	2009 College Championship quarterfinal game 1.
 1	800	no	A HORSE IS A HORSE	-	In "The Lord of the Rings", Gandalf rides this horse that only he could tame	Shadowfax	2009-05-04	2009 College Championship quarterfinal game 1.
 1	1000	no	A HORSE IS A HORSE	-	Alexander the Great conquered much of the known world riding this stallion	Bucephalus	2009-05-04	2009 College Championship quarterfinal game 1.
-1	200	no	THE FORTUNE 500	(Alex: ...according to the just-released version of the annual rankings.)	No. 242 on the list, this insurance co.'s $99.3 billion loss made it Fortune's biggest loser ever	AIG	2009-05-04	2009 College Championship quarterfinal game 1.
-1	400	no	THE FORTUNE 500	(Alex: ...according to the just-released version of the annual rankings.)	Since the Fortune 500 list began in 1955, only Exxon, Wal-Mart & this now-troubled auto co. have held the top spot	GM (General Motors)	2009-05-04	2009 College Championship quarterfinal game 1.
-1	600	no	THE FORTUNE 500	(Alex: ...according to the just-released version of the annual rankings.)	Fortune's "Most Likely to Succeed" was this Internet search site at No. 119 with 35 different "buy" ratings	Google	2009-05-04	2009 College Championship quarterfinal game 1.
-1	800	no	THE FORTUNE 500	(Alex: ...according to the just-released version of the annual rankings.)	With 14,000 videos, the most watched Fortune 500 CEO on YouTube was this bespectacled chairman of the No. 35 company	Bill Gates	2009-05-04	2009 College Championship quarterfinal game 1.
-1	1000	no	THE FORTUNE 500	(Alex: ...according to the just-released version of the annual rankings.)	At No. 9, this printer-heavy co. from Palo Alto had the biggest payroll bump after acquiring 149,000 EDS workers	HP	2009-05-04	2009 College Championship quarterfinal game 1.
+1	200	no	THE FORTUNE 50	(Alex: ...according to the just-released version of the annual rankings.)	No. 242 on the list, this insurance co.'s $99.3 billion loss made it Fortune's biggest loser ever	AIG	2009-05-04	2009 College Championship quarterfinal game 1.
+1	400	no	THE FORTUNE 50	(Alex: ...according to the just-released version of the annual rankings.)	Since the Fortune 500 list began in 1955, only Exxon, Wal-Mart & this now-troubled auto co. have held the top spot	GM (General Motors)	2009-05-04	2009 College Championship quarterfinal game 1.
+1	600	no	THE FORTUNE 50	(Alex: ...according to the just-released version of the annual rankings.)	Fortune's "Most Likely to Succeed" was this Internet search site at No. 119 with 35 different "buy" ratings	Google	2009-05-04	2009 College Championship quarterfinal game 1.
+1	800	no	THE FORTUNE 50	(Alex: ...according to the just-released version of the annual rankings.)	With 14,000 videos, the most watched Fortune 500 CEO on YouTube was this bespectacled chairman of the No. 35 company	Bill Gates	2009-05-04	2009 College Championship quarterfinal game 1.
+1	1000	no	THE FORTUNE 50	(Alex: ...according to the just-released version of the annual rankings.)	At No. 9, this printer-heavy co. from Palo Alto had the biggest payroll bump after acquiring 149,000 EDS workers	HP	2009-05-04	2009 College Championship quarterfinal game 1.
 1	200	no	RHYMES WITH TRACK	-	A pile of pancakes	stack	2009-05-04	2009 College Championship quarterfinal game 1.
 1	400	no	RHYMES WITH TRACK	-	A somewhat shapeless dress	a sack	2009-05-04	2009 College Championship quarterfinal game 1.
 1	600	no	RHYMES WITH TRACK	-	A knave who's a real card	a jack	2009-05-04	2009 College Championship quarterfinal game 1.
@@ -9828,7 +9828,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	2-LETTER WORDS	-	It's the name of the long-awaited new White House dog	Bo	2009-05-14	2009 College Championship final game 1.
 2	1600	no	2-LETTER WORDS	-	Third syllable intoned by the giant who smells the blood of an Englishman	fo	2009-05-14	2009 College Championship final game 1.
 2	2000	no	2-LETTER WORDS	-	The book of Genesis says this ancient city "of the Chaldees" was the home of Abraham	Ur	2009-05-14	2009 College Championship final game 1.
-2	400	no	ANGELS & DEMONS	(Alex: That long-awaited film from the Da Vinci Code people comes out tomorrow.)	Langdon finds clues in a work by this Italian called a heretic due to his pro-Copernican views	Galileo	2009-05-14	2009 College Championship final game 1.
+2	400	no	ANGELS & DEMON	(Alex: That long-awaited film from the Da Vinci Code people comes out tomorrow.)	Langdon finds clues in a work by this Italian called a heretic due to his pro-Copernican views	Galileo	2009-05-14	2009 College Championship final game 1.
 3	0	no	SCIENCE TERMS	-	In medieval England, it meant the smallest unit of time, 1/376 of a minute; it didn't refer to matter until the 16th century	atom	2009-05-14	2009 College Championship final game 1.
 1	200	no	WARS BY BATTLE	-	1942: The Battle of Midway	World War II	2009-05-15	2009 College Championship final game 2.
 1	400	no	WARS BY BATTLE	-	1814: The Battle of Lake Champlain	the War of 1812	2009-05-15	2009 College Championship final game 2.
@@ -9848,7 +9848,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	EUROPE	-	This Italian island's provinces include Syracuse, Messina & Palermo	Sicily	2009-05-15	2009 College Championship final game 2.
 1	400	no	EUROPE	-	From about 1500 to 1850, glaciers advanced in the Alps in what's called a "Little" this period	an Ice Age	2009-05-15	2009 College Championship final game 2.
 1	600	no	EUROPE	-	From 1714 to 1721 Russia occupied this neighbor in what has been called the "Great Wrath\"	Finland	2009-05-15	2009 College Championship final game 2.
-1	800	no	EUROPE	-	In 1998 this president of Yugoslavia sent troops into Kosovo to crush an ethnic Albanian uprising	(Slobodan) Miloševi&#263;	2009-05-15	2009 College Championship final game 2.
+1	800	no	EUROPE	-	In 1998 this president of Yugoslavia sent troops into Kosovo to crush an ethnic Albanian uprising	(Slobodan) Miloševic	2009-05-15	2009 College Championship final game 2.
 1	1000	no	EUROPE	-	In 1859 Moldavia & Walachia united to form this country with Prince Alexandru Ioan Cuza as its ruler	Romania	2009-05-15	2009 College Championship final game 2.
 1	200	no	FUN WITH FASHION	-	The shoes known as jellies are so-named because they resemble the look of these treats	jellybeans	2009-05-15	2009 College Championship final game 2.
 1	400	no	FUN WITH FASHION	-	Made by combining natural minerals with quartz sand, these Swarovski products sparkle on evening bags	crystals	2009-05-15	2009 College Championship final game 2.
@@ -10339,7 +10339,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	yes	A WORLD OF OPERA	-	This explorer turns up as a character in "A Night at the Chinese Opera\"	Marco Polo	2009-05-28	-
 2	1200	no	A WORLD OF OPERA	-	When this Austrian's "La Finta Giardiniera" premiered in 1775, he was almost 19--getting old for a prodigy	Mozart	2009-05-28	-
 2	1600	no	A WORLD OF OPERA	-	\"Hunyadi Laszlo" is one of this country's best-loved operas	Hungary	2009-05-28	-
-2	2000	no	A WORLD OF OPERA	-	Here's a secret: "The Secret" is a charming comic opera by this Czech composer of "The Bartered Bride\"	Bed&#345;ich Smetana	2009-05-28	-
+2	2000	no	A WORLD OF OPERA	-	Here's a secret: "The Secret" is a charming comic opera by this Czech composer of "The Bartered Bride\"	Bedrich Smetana	2009-05-28	-
 2	400	no	PLAYING JOURNALIST	-	In "Leatherheads", George Clooney vies for the affections of reporter Lexie Littleton, played by her	Renée Zellweger	2009-05-28	-
 2	1200	no	PLAYING JOURNALIST	-	In "A Mighty Heart", Dan Futterman played this reporter working in Pakistan & Angelina Jolie was his wife Mariane	(Daniel) Pearl	2009-05-28	-
 2	1600	no	PLAYING JOURNALIST	-	Coen Brothers movie with Jennifer Jason Leigh as reporter Amy Archer	The Hudsucker Proxy	2009-05-28	-
@@ -10896,8 +10896,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	IT'S SO "EZ\"	-	You'll ask for this if you want a Budweiser in Barcelona	a cerveza	2009-06-11	-
 2	1200	no	IT'S SO "EZ\"	-	He was the leader of the Soviet Union from 1960 to 1964 & from 1977 to 1982	Brezhnev	2009-06-11	-
 2	1600	no	IT'S SO "EZ\"	-	In 1877 the U.S. fought a war with this Indian tribe	the Nez Percé	2009-06-11	-
-2	800	no	ENERGY FROM EVERYWHERE	(Sarah: ...at RISO, Denmark's national laboratory for sustainable energy.)	To boost fuel cell technology, RISO is working to safely produce & store this, atomic No. 1	Hydrogen	2009-06-11	-
-2	1600	no	ENERGY FROM EVERYWHERE	(Sarah: ...at RISO, Denmark's national laboratory for sustainable energy.)	This Toyota hybrid model introduced in 1997 was already green, but the Danes made one that runs on wind power	the Prius	2009-06-11	-
+2	800	no	ENERGY FROM EVERYWHER	(Sarah: ...at RISO, Denmark's national laboratory for sustainable energy.)	To boost fuel cell technology, RISO is working to safely produce & store this, atomic No. 1	Hydrogen	2009-06-11	-
+2	1600	no	ENERGY FROM EVERYWHER	(Sarah: ...at RISO, Denmark's national laboratory for sustainable energy.)	This Toyota hybrid model introduced in 1997 was already green, but the Danes made one that runs on wind power	the Prius	2009-06-11	-
 3	0	no	HISTORIC AMERICANS	-	A 2007 book about these 2 men is subtitled "Victorious American and Vanquished Virginian\"	Ulysses S. Grant & Robert E. Lee	2009-06-11	-
 1	200	no	QUOTES FROM THE KING JAMES BIBLE	-	\"The Lord is my shepherd; I shall not want.  He maketh me to lie down" here	green pastures	2009-06-12	-
 1	400	no	QUOTES FROM THE KING JAMES BIBLE	-	In Matthew, Jesus said unto this disciple, "Get thee behind me, Satan\"	Peter	2009-06-12	-
@@ -11052,8 +11052,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	ON THE "MA"P	-	It's Mexico's largest Pacific port	Mazatlán	2009-06-16	-
 2	2000	yes	ON THE "MA"P	-	It became a special administrative region of China in 1999	Macau	2009-06-16	-
 2	2000	no	ON THE "MA"P	-	It's the strait between the Malay Peninsula & the Island of Sumatra	the Strait of Malacca	2009-06-16	-
-2	800	no	LACE	(Sarah: ...from the Lace Center in Bruges, a center of the craft for hundreds of years.)	It was originally made from pale silk, so even when it's dyed black, this type of lace bears the name of a fair hair color	blonde lace	2009-06-16	-
-2	1600	no	LACE	(Sarah: ...from the Lace Center in Bruges, a center of the craft for hundreds of years.)	The process of producing handmade lace with a small hand shuttle is called this; the word's origin is a mystery	tatting	2009-06-16	-
+2	800	no	LAC	(Sarah: ...from the Lace Center in Bruges, a center of the craft for hundreds of years.)	It was originally made from pale silk, so even when it's dyed black, this type of lace bears the name of a fair hair color	blonde lace	2009-06-16	-
+2	1600	no	LAC	(Sarah: ...from the Lace Center in Bruges, a center of the craft for hundreds of years.)	The process of producing handmade lace with a small hand shuttle is called this; the word's origin is a mystery	tatting	2009-06-16	-
 3	0	no	HISTORICAL POEMS	-	Poem that tells us: "Cossack and Russian reel'd from the sabre-stroke shatter'd and sunder'd\"	\"The Charge of the Light Brigade\\"	2009-06-16	-
 1	200	no	A YEAR ENDING IN '09	-	Peary & Henson reach the North Pole	1909	2009-06-17	-
 1	400	no	A YEAR ENDING IN '09	-	Robert Fulton patents the steamboat	1809	2009-06-17	-
@@ -11084,11 +11084,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	400	no	GOING "PRO\"	(Alex: Each correct response will begin with "P-R-O".)	Profusely productive, like some authors	prolific	2009-06-17	-
 1	600	no	GOING "PRO\"	(Alex: Each correct response will begin with "P-R-O".)	This gas used primarily as a fuel is also called dimethylmethane	propane	2009-06-17	-
 1	800	no	GOING "PRO\"	(Alex: Each correct response will begin with "P-R-O".)	This Titan was the father of Deucalion	Prometheus	2009-06-17	-
-2	400	no	CELEBRATING POE'S BICENTENNIAL	(Alex: 200 years of his birth.)	Sadly, Poe's still-mysterious death happened just 10 days before this event he'd planned with Elmira Shelton	his wedding	2009-06-17	-
-2	800	no	CELEBRATING POE'S BICENTENNIAL	(Alex: 200 years of his birth.)	Instead of happy hours, the Poe Museum in Richmond, Va. celebrates Poe with these antonymic events	unhappy hours	2009-06-17	-
-2	1200	no	CELEBRATING POE'S BICENTENNIAL	(Alex: 200 years of his birth.)	Visit Poe's room at the University of Virginia & you'll notice that it has this appropriate number	13	2009-06-17	-
-2	1600	no	CELEBRATING POE'S BICENTENNIAL	(Alex: 200 years of his birth.)	Take a tour of St. John's Church Cemetery, where Eliza, this relative of Poe's, is buried, led by an actress portraying her	his mother	2009-06-17	-
-2	2000	no	CELEBRATING POE'S BICENTENNIAL	(Alex: 200 years of his birth.)	The Casemate Museum in Fort Monroe, Va. has an exhibit on Poe's military life, including his appt. to this school	West Point	2009-06-17	-
+2	400	no	CELEBRATING POE'S BICENTENNIA	(Alex: 200 years of his birth.)	Sadly, Poe's still-mysterious death happened just 10 days before this event he'd planned with Elmira Shelton	his wedding	2009-06-17	-
+2	800	no	CELEBRATING POE'S BICENTENNIA	(Alex: 200 years of his birth.)	Instead of happy hours, the Poe Museum in Richmond, Va. celebrates Poe with these antonymic events	unhappy hours	2009-06-17	-
+2	1200	no	CELEBRATING POE'S BICENTENNIA	(Alex: 200 years of his birth.)	Visit Poe's room at the University of Virginia & you'll notice that it has this appropriate number	13	2009-06-17	-
+2	1600	no	CELEBRATING POE'S BICENTENNIA	(Alex: 200 years of his birth.)	Take a tour of St. John's Church Cemetery, where Eliza, this relative of Poe's, is buried, led by an actress portraying her	his mother	2009-06-17	-
+2	2000	no	CELEBRATING POE'S BICENTENNIA	(Alex: 200 years of his birth.)	The Casemate Museum in Fort Monroe, Va. has an exhibit on Poe's military life, including his appt. to this school	West Point	2009-06-17	-
 2	400	no	THE BELLES	-	Mary Ann Mobley was Miss Mississippi before winning this national title	Miss America	2009-06-17	-
 2	800	no	THE BELLES	-	Louisville belles wear custom-made hats for this equine event on the first Saturday in May	the Kentucky Derby	2009-06-17	-
 2	1600	yes	THE BELLES	-	The title of a play & a film written by Robert Harling popularized this 2-word "floral" term for Southern women	steel magnolias	2009-06-17	-
@@ -11586,11 +11586,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	\"R" WAY	-	This vertical plate helps steer a schooner	a rudder	2009-06-29	-
 2	2000	no	\"R" WAY	-	Steelhead trout are actually the adult seagoing type of this trout	rainbow	2009-06-29	-
 3	0	no	THE BEATLES	-	Fittingly, the cover of this Beatles album shows the Fab Four engaging in a semaphore message	Help!	2009-06-29	-
-1	200	no	THE NEW YORK TIMES BOOK REVIEW	-	This Toni Morrison novel won a 2006 Times survey of prominent literary types looking for the best fiction in the last 25 years	Beloved	2009-06-30	-
-1	400	no	THE NEW YORK TIMES BOOK REVIEW	-	This Bernhard Schlink novel about Hanna Schmitz was "ultimately hopeful"; it became a 2008 film	The Reader	2009-06-30	-
-1	600	no	THE NEW YORK TIMES BOOK REVIEW	-	The Times noted that this "Russia House" author left the Cold War behind for his new novel "A Most Wanted Man\"	John le Carré	2009-06-30	-
-1	800	no	THE NEW YORK TIMES BOOK REVIEW	-	In 2009 the Times liked "The Women", which dealt with this man's loves, like Mamah, who was murdered at Taliesin	Frank Lloyd Wright	2009-06-30	-
-1	1000	yes	THE NEW YORK TIMES BOOK REVIEW	-	In 2008 the Times called this author's "The Widows of Eastwick" a "predictably ingenious sequel\"	John Updike	2009-06-30	-
+1	200	no	THE NEW YORK TIMES BOOK REVIE	-	This Toni Morrison novel won a 2006 Times survey of prominent literary types looking for the best fiction in the last 25 years	Beloved	2009-06-30	-
+1	400	no	THE NEW YORK TIMES BOOK REVIE	-	This Bernhard Schlink novel about Hanna Schmitz was "ultimately hopeful"; it became a 2008 film	The Reader	2009-06-30	-
+1	600	no	THE NEW YORK TIMES BOOK REVIE	-	The Times noted that this "Russia House" author left the Cold War behind for his new novel "A Most Wanted Man\"	John le Carré	2009-06-30	-
+1	800	no	THE NEW YORK TIMES BOOK REVIE	-	In 2009 the Times liked "The Women", which dealt with this man's loves, like Mamah, who was murdered at Taliesin	Frank Lloyd Wright	2009-06-30	-
+1	1000	yes	THE NEW YORK TIMES BOOK REVIE	-	In 2008 the Times called this author's "The Widows of Eastwick" a "predictably ingenious sequel\"	John Updike	2009-06-30	-
 1	200	no	THE PUCK STOPS HERE	-	After stopping a puck with his face in 1930, Clint Benedict became the first NHL goalie to wear one of these	a mask	2009-06-30	-
 1	400	no	THE PUCK STOPS HERE	-	Goalies have done this only 11 times in NHL history	score a goal	2009-06-30	-
 1	600	no	THE PUCK STOPS HERE	-	When a goalie stops a shot on goal, he gets credit for this, like a relief pitcher in baseball	a save	2009-06-30	-
@@ -12003,11 +12003,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	BEST ACTOR OSCAR WINNERS	-	1987: As Gordon Gekko	Michael Douglas	2009-07-09	-
 1	800	no	BEST ACTOR OSCAR WINNERS	-	1952: As Marshal Will Kane	Gary Cooper	2009-07-09	-
 1	1000	no	BEST ACTOR OSCAR WINNERS	-	2002: As Wladyslaw Szpilman	Adrien Brody	2009-07-09	-
-1	200	no	THE NEW YORK TIMES STYLE	-	An nytimes.com slide show on this woman's style included the red & black number from Election Night 2008	Michelle Obama	2009-07-09	-
-1	400	no	THE NEW YORK TIMES STYLE	-	Disco hoops & other styles of extravagant these "suggest you are taking the party with you\"	earrings	2009-07-09	-
-1	600	no	THE NEW YORK TIMES STYLE	-	A blog post notes that Junya Watanabe's Spring '09 collection continues to rely on this basic type of working pants	jeans	2009-07-09	-
-1	800	no	THE NEW YORK TIMES STYLE	-	In May 2008 the times reported on a more modest look in this wear, including boy shorts & halter tops	swimwear	2009-07-09	-
-1	1000	no	THE NEW YORK TIMES STYLE	-	The times said this "NY" designer became "a Seventh Avenue original" using tights as a foundation for skirts & shirts	Donna Karan	2009-07-09	-
+1	200	no	THE NEW YORK TIMES STYL	-	An nytimes.com slide show on this woman's style included the red & black number from Election Night 2008	Michelle Obama	2009-07-09	-
+1	400	no	THE NEW YORK TIMES STYL	-	Disco hoops & other styles of extravagant these "suggest you are taking the party with you\"	earrings	2009-07-09	-
+1	600	no	THE NEW YORK TIMES STYL	-	A blog post notes that Junya Watanabe's Spring '09 collection continues to rely on this basic type of working pants	jeans	2009-07-09	-
+1	800	no	THE NEW YORK TIMES STYL	-	In May 2008 the times reported on a more modest look in this wear, including boy shorts & halter tops	swimwear	2009-07-09	-
+1	1000	no	THE NEW YORK TIMES STYL	-	The times said this "NY" designer became "a Seventh Avenue original" using tights as a foundation for skirts & shirts	Donna Karan	2009-07-09	-
 1	200	no	SOUVENIRS	-	This curved throwing club of the Aborigines is an excellent souvenir--it'll always come back to you	a boomerang	2009-07-09	-
 1	400	no	SOUVENIRS	-	A green foam crown with 7 points is a popular souvenir of this national monument	the Statue of Liberty	2009-07-09	-
 1	600	no	SOUVENIRS	-	Many snow globes feature this clock tower of London's Houses of Parliament	Big Ben	2009-07-09	-

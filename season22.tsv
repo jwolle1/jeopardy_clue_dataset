@@ -790,11 +790,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 3	0	no	THE NOBEL PRIZES	-	For the first time in its history, the Nobel Prize for Literature was not awarded in this year	1914	2005-09-30	-
 1	200	no	MONUMENTS	-	His words "The people's heroes are immortal" are engraved on a monument in Tiananmen Square	Mao Tse-tung	2005-10-03	-
 1	600	no	MONUMENTS	-	Though Mumtaz died in 1631, this tomb of hers (& it was some tomb) wasn't completed until about 1643	the Taj Mahal	2005-10-03	-
-1	200	no	IN STYLE	(Alex: ...the magazine.)	In Style's first issue, in 1994, visited Barbra Streisand's pad in this wealthy California coastal community	Malibu	2005-10-03	-
-1	400	no	IN STYLE	(Alex: ...the magazine.)	In Style's 10th anniversary cover girl was this South African actress in gold sequins	Charlize Theron	2005-10-03	-
-1	600	no	IN STYLE	(Alex: ...the magazine.)	In Style often features these places that feature massage & pampering, named for a town in Belgium	spa	2005-10-03	-
-1	800	no	IN STYLE	(Alex: ...the magazine.)	The TV special "In Style Celebrity Weddings" included the nuptials of Danielle Spencer to this actor	Russell Crowe	2005-10-03	-
-1	1000	no	IN STYLE	(Alex: ...the magazine.)	In Style defined this type of "fabulous" as requiring lots of jewelry & fur, as seen on Lil' Kim & Missy Elliott	ghetto fabulous	2005-10-03	-
+1	200	no	IN STYL	(Alex: ...the magazine.)	In Style's first issue, in 1994, visited Barbra Streisand's pad in this wealthy California coastal community	Malibu	2005-10-03	-
+1	400	no	IN STYL	(Alex: ...the magazine.)	In Style's 10th anniversary cover girl was this South African actress in gold sequins	Charlize Theron	2005-10-03	-
+1	600	no	IN STYL	(Alex: ...the magazine.)	In Style often features these places that feature massage & pampering, named for a town in Belgium	spa	2005-10-03	-
+1	800	no	IN STYL	(Alex: ...the magazine.)	The TV special "In Style Celebrity Weddings" included the nuptials of Danielle Spencer to this actor	Russell Crowe	2005-10-03	-
+1	1000	no	IN STYL	(Alex: ...the magazine.)	In Style defined this type of "fabulous" as requiring lots of jewelry & fur, as seen on Lil' Kim & Missy Elliott	ghetto fabulous	2005-10-03	-
 1	200	no	COLLEGES & UNIVERSITIES	-	In the 2005 Orange Bowl, this university's Trojans trampled the Sooners, 55-19	Southern California	2005-10-03	-
 1	1000	yes	COLLEGES & UNIVERSITIES	-	Of the Ivy League colleges, this one is alphabetically first	Brown	2005-10-03	-
 1	600	no	COLLEGES & UNIVERSITIES	-	Seton Hill University is in Greensburg, Penn.; Seton Hall University is in South Orange in this state	New Jersey	2005-10-03	-
@@ -1229,10 +1229,10 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	THE AMERICAN REVOLUTION	-	On Dec. 26, 1776, at this location, Washington's troops woke up to find 4 more inches of snow on the ground	Valley Forge	2005-10-13	2005 Back to School Week game 4.
 2	1000	yes	THE AMERICAN REVOLUTION	-	In the first of a series of pamphlets, he wrote, "Tyranny, like hell, is not easily conquered\"	(Thomas) Paine	2005-10-13	2005 Back to School Week game 4.
 2	2000	no	THE AMERICAN REVOLUTION	-	Although adopted by Congress in 1777, this temporary constitution did not take effect until 1781	the Articles of Confederation	2005-10-13	2005 Back to School Week game 4.
-2	400	no	STAR WARS FOREVER	-	While the first 5 "Star Wars" movies were all rated PG, "Revenge of the Sith" was rated this due to some violent scenes	PG-13	2005-10-13	2005 Back to School Week game 4.
-2	1200	no	STAR WARS FOREVER	-	The only actors to be in all 6 "Star Wars" movies are the men who played these 2 robots	C-3PO & R2-D2	2005-10-13	2005 Back to School Week game 4.
-2	1600	no	STAR WARS FOREVER	-	In "Attack of the Clones" and "Revenge of the Sith", this old Jedi master was entirely computer-generated	Yoda	2005-10-13	2005 Back to School Week game 4.
-2	2000	no	STAR WARS FOREVER	-	George Lucas gave this Jedi character a unique purple lightsaber at the request of actor Samuel L. Jackson	Mace Windu	2005-10-13	2005 Back to School Week game 4.
+2	400	no	STAR WARS FOREVE	-	While the first 5 "Star Wars" movies were all rated PG, "Revenge of the Sith" was rated this due to some violent scenes	PG-13	2005-10-13	2005 Back to School Week game 4.
+2	1200	no	STAR WARS FOREVE	-	The only actors to be in all 6 "Star Wars" movies are the men who played these 2 robots	C-3PO & R2-D2	2005-10-13	2005 Back to School Week game 4.
+2	1600	no	STAR WARS FOREVE	-	In "Attack of the Clones" and "Revenge of the Sith", this old Jedi master was entirely computer-generated	Yoda	2005-10-13	2005 Back to School Week game 4.
+2	2000	no	STAR WARS FOREVE	-	George Lucas gave this Jedi character a unique purple lightsaber at the request of actor Samuel L. Jackson	Mace Windu	2005-10-13	2005 Back to School Week game 4.
 2	400	no	MUSIC CLASS	-	Before it was a Broadway musical, "Aida" was one of these, composed by Giuseppe Verdi	an opera	2005-10-13	2005 Back to School Week game 4.
 2	800	no	MUSIC CLASS	-	When a piano is played, this is the term for 3 or more notes sounded together	a chord	2005-10-13	2005 Back to School Week game 4.
 2	1200	no	MUSIC CLASS	-	In a symphony orchestra, this section of instruments usually includes the drums, bells, cymbals & gongs	percussion	2005-10-13	2005 Back to School Week game 4.
@@ -3852,11 +3852,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	BOOK TITLES	-	Jerzy Kosinski novel set during the Holocaust: "The Painted" this	Bird	2005-12-20	-
 2	1600	no	BOOK TITLES	-	Part one of Cormac McCarthy's Border Trilogy: "All the Pretty" these	Horses	2005-12-20	-
 2	2000	no	BOOK TITLES	-	A tale by Madeleine L'Engle about a marine biology student: "The Arm of" this sea creature	the Starfish	2005-12-20	-
-2	400	no	OVERLAPS	(Alex: Similar to our BEFORE &amp; AFTER category but a little more compressed, we have...)	Postal delivery guy whose sidekick is Sancho Panza	the mailman of La Mancha	2005-12-20	-
-2	800	no	OVERLAPS	(Alex: Similar to our BEFORE &amp; AFTER category but a little more compressed, we have...)	Beloved Schulz cartoon boy who's a port city on the Rio Grande opposite Matamoros	Charlie Brownsville	2005-12-20	-
-2	1200	no	OVERLAPS	(Alex: Similar to our BEFORE &amp; AFTER category but a little more compressed, we have...)	Carbonated soft drink that was a VH1 show using thought balloons to comment on the action in the video	soda Pop-Up Video	2005-12-20	-
-2	1600	no	OVERLAPS	(Alex: Similar to our BEFORE &amp; AFTER category but a little more compressed, we have...)	Reddish-brown poisonous U.S. snake that leads the RNs at a hospital	copperhead nurse	2005-12-20	-
-2	2000	no	OVERLAPS	(Alex: Similar to our BEFORE &amp; AFTER category but a little more compressed, we have...)	The balderdash capital of the U.S.	Hogwashington, D.C.	2005-12-20	-
+2	400	no	OVERLAPS	(Alex: Similar to our BEFORE & AFTER category but a little more compressed, we have...)	Postal delivery guy whose sidekick is Sancho Panza	the mailman of La Mancha	2005-12-20	-
+2	800	no	OVERLAPS	(Alex: Similar to our BEFORE & AFTER category but a little more compressed, we have...)	Beloved Schulz cartoon boy who's a port city on the Rio Grande opposite Matamoros	Charlie Brownsville	2005-12-20	-
+2	1200	no	OVERLAPS	(Alex: Similar to our BEFORE & AFTER category but a little more compressed, we have...)	Carbonated soft drink that was a VH1 show using thought balloons to comment on the action in the video	soda Pop-Up Video	2005-12-20	-
+2	1600	no	OVERLAPS	(Alex: Similar to our BEFORE & AFTER category but a little more compressed, we have...)	Reddish-brown poisonous U.S. snake that leads the RNs at a hospital	copperhead nurse	2005-12-20	-
+2	2000	no	OVERLAPS	(Alex: Similar to our BEFORE & AFTER category but a little more compressed, we have...)	The balderdash capital of the U.S.	Hogwashington, D.C.	2005-12-20	-
 3	0	no	AMERICAN BUSINESSMEN	-	This man who died in 1984 remarked, "We're not in the hamburger business, we're in show business\"	Ray Kroc	2005-12-20	-
 1	200	no	PUBLIC HEALTH	-	A 1992 law introduced by Sen. Cranston aimed to reduce the use of paint containing too much of this element	lead	2005-12-21	-
 1	400	no	PUBLIC HEALTH	-	An effort lasting from 1985 to 1991 eliminated this paralytic illness from Latin America	polio	2005-12-21	-
@@ -6639,8 +6639,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	THE "I"s HAVE IT	-	Ships known as these were used in the Crimean War a few years before the U.S. outfitted the Monitor as one	an ironclad	2006-03-01	-
 2	2000	no	THE "I"s HAVE IT	-	This forest of the Congo is renowned as the home of the pygmies	the Ituri Forest	2006-03-01	-
 3	0	no	WORD ORIGINS	-	This word regarding infidelity came from a certain bird leaving its eggs in other nests to be raised	cuckold	2006-03-01	-
-1	400	no	REMEMBERING RICKY NELSON	-	It's the immensely popular TV show on which Ricky appeared from 1952 to 1966	The Adventures of Ozzie & Harriet	2006-03-02	-
-1	800	no	REMEMBERING RICKY NELSON	-	One of Ricky's identical twin sons who have recorded songs as the pop-rock duo Nelson	Gunnar (or Matthew)	2006-03-02	-
+1	400	no	REMEMBERING RICKY NELSO	-	It's the immensely popular TV show on which Ricky appeared from 1952 to 1966	The Adventures of Ozzie & Harriet	2006-03-02	-
+1	800	no	REMEMBERING RICKY NELSO	-	One of Ricky's identical twin sons who have recorded songs as the pop-rock duo Nelson	Gunnar (or Matthew)	2006-03-02	-
 1	200	no	A CAT-EGORY	-	We envy the Egyptian mau cat, whose eyes are the gooseberry shade of this color	green	2006-03-02	-
 1	400	no	A CAT-EGORY	-	The first Cornish Rex cat was the offspring of a tortie & a white barn cat in this part of SW England	Cornwall	2006-03-02	-
 1	600	no	A CAT-EGORY	-	Shulamith, a stray discovered in 1981, was the first American curl cat, named for its perky-looking pair of these	ears	2006-03-02	-
@@ -7860,9 +7860,9 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	HOLD THE FORT	-	Fort Orange was established by Dutch settlers in 1624 in what is now this state capital	Albany	2006-04-03	-
 2	1600	no	HOLD THE FORT	-	Built by George Washington's troops in June 1754, you might say it was the mother of invention	Fort Necessity	2006-04-03	-
 2	2000	no	HOLD THE FORT	-	Fort Leavenworth in Kansas was established in 1827 to protect travelers along this trail	the Santa Fe Trail	2006-04-03	-
-2	800	no	DESERT LIFE	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	Also called a Chaparral cock, it can't stay airborne long, but can reach about 15 mph on the ground	a roadrunner	2006-04-03	-
-2	1600	no	DESERT LIFE	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	This common name of Agave americana might make you think you'd wait 100 years for it to flower	a century plant	2006-04-03	-
-2	2000	no	DESERT LIFE	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	The Gila monster is as tough as it sounds; each scale has an osteoderm, a tiny one of these for armoring	bone	2006-04-03	-
+2	800	no	DESERT LIF	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	Also called a Chaparral cock, it can't stay airborne long, but can reach about 15 mph on the ground	a roadrunner	2006-04-03	-
+2	1600	no	DESERT LIF	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	This common name of Agave americana might make you think you'd wait 100 years for it to flower	a century plant	2006-04-03	-
+2	2000	no	DESERT LIF	(Sarah: Some of the remarkable creatures of the Southwestern United States.)	The Gila monster is as tough as it sounds; each scale has an osteoderm, a tiny one of these for armoring	bone	2006-04-03	-
 3	0	no	AMERICAN AUTHORS	-	The grandson of a humorist, the son of a children's author, his first novel in 1974 was huge bestseller	Peter Benchley	2006-04-03	-
 1	200	no	THE DAYS OF WORLD WAR II	-	This North American country declared war on Germany on September 10, 1939	Canada	2006-04-04	-
 1	400	no	THE DAYS OF WORLD WAR II	-	On May 27, 1941 this German battleship was sunk in the East Atlantic	the Bismarck	2006-04-04	-
@@ -8233,11 +8233,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	BOOK TITLES	-	Henry James: "The Turn of the ___\"	Screw	2006-04-12	-
 2	1600	no	BOOK TITLES	-	William Faulkner: "Go Down, ___\"	Moses	2006-04-12	-
 2	2000	no	BOOK TITLES	-	Thomas Wolfe: "You Can't ___\"	Go Home Again	2006-04-12	-
-2	400	no	THE NEW YORK TIMES OP-ED PAGE	-	In 1986 this U.S. attorney & future mayor wrote on "How to Return Ethics to New York\"	Giuliani	2006-04-12	-
-2	800	no	THE NEW YORK TIMES OP-ED PAGE	-	Lambasting Tom Cruise, Brooke Shields defended her use of drugs to treat this ailment of new mothers	postpartum depression	2006-04-12	-
-2	1200	no	THE NEW YORK TIMES OP-ED PAGE	-	His July 6, 2003 op-ed doubted Iraq's uranium purchase; 8 days later his wife was outed as a CIA agent	(Joseph) Wilson	2006-04-12	-
-2	1600	no	THE NEW YORK TIMES OP-ED PAGE	-	In political & journalistic circles, this op-edder's fame is such that she's simply called MoDo	Maureen Dowd	2006-04-12	-
-2	2000	no	THE NEW YORK TIMES OP-ED PAGE	-	His 2005 farewell column said, "Never retire!"; he kept his Sunday magazine language column	William Safire	2006-04-12	-
+2	400	no	THE NEW YORK TIMES OP-ED PAG	-	In 1986 this U.S. attorney & future mayor wrote on "How to Return Ethics to New York\"	Giuliani	2006-04-12	-
+2	800	no	THE NEW YORK TIMES OP-ED PAG	-	Lambasting Tom Cruise, Brooke Shields defended her use of drugs to treat this ailment of new mothers	postpartum depression	2006-04-12	-
+2	1200	no	THE NEW YORK TIMES OP-ED PAG	-	His July 6, 2003 op-ed doubted Iraq's uranium purchase; 8 days later his wife was outed as a CIA agent	(Joseph) Wilson	2006-04-12	-
+2	1600	no	THE NEW YORK TIMES OP-ED PAG	-	In political & journalistic circles, this op-edder's fame is such that she's simply called MoDo	Maureen Dowd	2006-04-12	-
+2	2000	no	THE NEW YORK TIMES OP-ED PAG	-	His 2005 farewell column said, "Never retire!"; he kept his Sunday magazine language column	William Safire	2006-04-12	-
 2	400	no	WEARABLE VOCABULARY	-	Wooden beams laid down to secure the rails of a railroad	ties	2006-04-12	-
 2	800	no	WEARABLE VOCABULARY	-	To endow a group with the power to do something, like wear part of a 3-piece suit	vest	2006-04-12	-
 2	1200	no	WEARABLE VOCABULARY	-	Saloonkeeper Clarke & political satirist O'Rourke	PJs	2006-04-12	-
@@ -8886,11 +8886,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	MOVIE QUOTES	-	This 1980 pic: "I did join the Army, but I joined a different army.  I joined the one with the condos & the private rooms\"	Private Benjamin	2006-04-28	-
 2	1600	no	MOVIE QUOTES	-	\"I'll be taking these Huggies & whatever cash you got" is from this 1987 pic	Raising Arizona	2006-04-28	-
 2	2000	no	MOVIE QUOTES	-	From 1978: "...Nothing is over until we decide it is!  Was it over when the Germans bombed Pearl Harbor?...  No!\"	National Lampoon's Animal House	2006-04-28	-
-2	400	no	THE NEW YORK TIMES OBITUARIES	-	The Nov. 1, 1984 obituary for this woman noted that she "presided over the world's most populous democracy\"	Indira Gandhi	2006-04-28	-
-2	800	no	THE NEW YORK TIMES OBITUARIES	-	His 1870 obit noted his 1861 resignation from the army & that he "immediately betook himself to Richmond\"	Robert E. Lee	2006-04-28	-
-2	1200	no	THE NEW YORK TIMES OBITUARIES	-	Part of this Egyptian's 1981 obit included, "...he was willing to ignore past Arab-Israeli hatreds\"	Sadat	2006-04-28	-
-2	2000	yes	THE NEW YORK TIMES OBITUARIES	-	In a 1936 obit, a pupil said of her, "I pray for strength to endure the silent dark until she smiles upon me again\"	Anne Sullivan	2006-04-28	-
-2	2000	no	THE NEW YORK TIMES OBITUARIES	-	A 1950 obit of this female poet said, "Greenwich Village & Vassar plus a gypsy childhood on the rocky coast of Maine\"	Edna St. Vincent Millay	2006-04-28	-
+2	400	no	THE NEW YORK TIMES OBITUARIE	-	The Nov. 1, 1984 obituary for this woman noted that she "presided over the world's most populous democracy\"	Indira Gandhi	2006-04-28	-
+2	800	no	THE NEW YORK TIMES OBITUARIE	-	His 1870 obit noted his 1861 resignation from the army & that he "immediately betook himself to Richmond\"	Robert E. Lee	2006-04-28	-
+2	1200	no	THE NEW YORK TIMES OBITUARIE	-	Part of this Egyptian's 1981 obit included, "...he was willing to ignore past Arab-Israeli hatreds\"	Sadat	2006-04-28	-
+2	2000	yes	THE NEW YORK TIMES OBITUARIE	-	In a 1936 obit, a pupil said of her, "I pray for strength to endure the silent dark until she smiles upon me again\"	Anne Sullivan	2006-04-28	-
+2	2000	no	THE NEW YORK TIMES OBITUARIE	-	A 1950 obit of this female poet said, "Greenwich Village & Vassar plus a gypsy childhood on the rocky coast of Maine\"	Edna St. Vincent Millay	2006-04-28	-
 2	400	no	UNREAL ESTATE BROKERS	(Alex: We want you to name the author who created each piece of unreal estate in...)	1901: Baskerville Hall	Arthur Conan Doyle	2006-04-28	-
 2	800	no	UNREAL ESTATE BROKERS	(Alex: We want you to name the author who created each piece of unreal estate in...)	1937: Middle-earth	J.R.R. Tolkien	2006-04-28	-
 2	1200	no	UNREAL ESTATE BROKERS	(Alex: We want you to name the author who created each piece of unreal estate in...)	1949: Oceania	Orwell	2006-04-28	-
@@ -9017,11 +9017,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	WHAT THE "H"?	-	Odium	hate	2006-05-02	-
 2	2000	no	WHAT THE "H"?	-	This Tasmanian capital was once a major center for Antarctic whalers	Hobart	2006-05-02	-
 3	0	no	WORD HISTORY	-	One Mongol tribe or army, it came to mean "a vast number" because the fierce Mongol warriors seemed so numerous	a horde	2006-05-02	-
-1	200	no	THE NEW YORK TIMES NEWS OF 2006	-	There was gold in the hills of this host city as the Times noted the start of the Winter Olympics there on Feb. 10	Turin	2006-05-03	-
-1	400	no	THE NEW YORK TIMES NEWS OF 2006	-	On Feb. 13, the Times reported Dick Cheney shot a man hunting, the first shooting by a sitting veep since this man	Aaron Burr	2006-05-03	-
-1	600	no	THE NEW YORK TIMES NEWS OF 2006	-	\"G.O.P. UNREST OVER PORTS" read a headline when this emirate's control of some U.S. ports was opposed by Congress in March	Dubai	2006-05-03	-
-1	800	no	THE NEW YORK TIMES NEWS OF 2006	-	Riots in this Ugandan capital city were reported in the Times on Feb. 26 following presidential elections there	Kampala	2006-05-03	-
-1	1000	no	THE NEW YORK TIMES NEWS OF 2006	-	\"A DRAMA STRAIGHT FROM THE TABLOIDS" blared the Times in a story on her appearance before the U.S. Supreme Court in March	Anna Nicole Smith	2006-05-03	-
+1	200	no	THE NEW YORK TIMES NEWS OF 200	-	There was gold in the hills of this host city as the Times noted the start of the Winter Olympics there on Feb. 10	Turin	2006-05-03	-
+1	400	no	THE NEW YORK TIMES NEWS OF 200	-	On Feb. 13, the Times reported Dick Cheney shot a man hunting, the first shooting by a sitting veep since this man	Aaron Burr	2006-05-03	-
+1	600	no	THE NEW YORK TIMES NEWS OF 200	-	\"G.O.P. UNREST OVER PORTS" read a headline when this emirate's control of some U.S. ports was opposed by Congress in March	Dubai	2006-05-03	-
+1	800	no	THE NEW YORK TIMES NEWS OF 200	-	Riots in this Ugandan capital city were reported in the Times on Feb. 26 following presidential elections there	Kampala	2006-05-03	-
+1	1000	no	THE NEW YORK TIMES NEWS OF 200	-	\"A DRAMA STRAIGHT FROM THE TABLOIDS" blared the Times in a story on her appearance before the U.S. Supreme Court in March	Anna Nicole Smith	2006-05-03	-
 1	200	no	1984 TV DEBUTS	-	Not only "Jeopardy!" but this game show based on a letters-&-words board game debuted in 1984	Scrabble	2006-05-03	-
 1	400	no	1984 TV DEBUTS	-	The Huxtables began their 8-year dominance of the Nielsen ratings on this sitcom	The Cosby Show	2006-05-03	-
 1	600	no	1984 TV DEBUTS	-	Penelope was the real first name of this title Soleil Moon Frye character who had her own show in 1984	Punky Brewster	2006-05-03	-
@@ -9184,11 +9184,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	PICK THE MAMMAL	-	Koi, bolshoi, borzoi, bok choy	a borzoi	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
 1	800	no	PICK THE MAMMAL	-	Scarab, scallop, escolar, echidna	an echidna	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
 1	1000	no	PICK THE MAMMAL	-	Newt, nutria, nucleolus, neufchatel	a nutria	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
-1	200	no	THE NEW YORK TIMES SPORTS	-	This "most primal sport... has been condemned since Cain & Abel, but it's still here... on barges or in barrooms\"	boxing	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
-1	400	no	THE NEW YORK TIMES SPORTS	-	Dave Anderson lamented that Jerry Kramer, Rich Jackson & Charley Conerly were not inducted into this sport's Hall of Fame	professional football	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
-1	600	no	THE NEW YORK TIMES SPORTS	-	On April 10, 2006 The New York Times said he "works magic for second Masters\"	(Phil) Mickelson	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
-1	800	no	THE NEW YORK TIMES SPORTS	-	Not typically thought of as a contact sport, it's "athletic ballet... a brutal sport played by large and powerful men\"	basketball	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
-1	1000	no	THE NEW YORK TIMES SPORTS	-	It's "a brief blur of colors between the pate and the brie" for fans attending the major event in this sport	the Tour de France	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
+1	200	no	THE NEW YORK TIMES SPORT	-	This "most primal sport... has been condemned since Cain & Abel, but it's still here... on barges or in barrooms\"	boxing	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
+1	400	no	THE NEW YORK TIMES SPORT	-	Dave Anderson lamented that Jerry Kramer, Rich Jackson & Charley Conerly were not inducted into this sport's Hall of Fame	professional football	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
+1	600	no	THE NEW YORK TIMES SPORT	-	On April 10, 2006 The New York Times said he "works magic for second Masters\"	(Phil) Mickelson	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
+1	800	no	THE NEW YORK TIMES SPORT	-	Not typically thought of as a contact sport, it's "athletic ballet... a brutal sport played by large and powerful men\"	basketball	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
+1	1000	no	THE NEW YORK TIMES SPORT	-	It's "a brief blur of colors between the pate and the brie" for fans attending the major event in this sport	the Tour de France	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
 1	400	no	PAINT JOB	-	Gloss & semigloss are this type of paint, also a decorative baked-on coating	enamel	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
 1	800	no	PAINT JOB	-	Traditionally, the finest oil paint brushes are made from the bristles of this animal, especially ones from Chungking	hogs	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
 1	200	no	PROPER NAMES	-	A small piece of butter, or something you get "on the back\"	Pat	2006-05-08	2006 Tournament of Champions quarterfinal game 1.
@@ -9264,11 +9264,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	400	no	YOU HAVE NO LIFE	-	Don't plan a Europan vacation--Jupiter's moon Europa is awash in this, also called battery acid	sulfuric acid	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
 1	800	no	YOU HAVE NO LIFE	-	In May 1980 life on the north side of this Washington mountain was obliterated by an 1,100-degree flow	Mount St. Helens	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
 1	1000	no	YOU HAVE NO LIFE	-	This 600-mile-long South American desert is noted for its extreme aridity that basically makes life impossible	the Atacama	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
-2	400	no	THE NEW YORK TIMES SCIENCE TIMES	-	A researcher has shown that this feared Amazon fish may gather in packs for safety, not to hunt	a piranha	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
-2	800	no	THE NEW YORK TIMES SCIENCE TIMES	-	This 8-letter particle named for its lack of charge is being studied by beaming it 450 miles in .0025 seconds	the neutrino	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
-2	1200	no	THE NEW YORK TIMES SCIENCE TIMES	-	Glen Canyon, inundated by the formation of this man-made Utah lake, is becoming visible again as the lake dries up	Lake Powell	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
-2	1600	no	THE NEW YORK TIMES SCIENCE TIMES	-	No, that's fine.  Of course you're right.  Science Times says "hostile cooperation" is part of this behavior pattern	passive-aggressiveness	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
-2	2000	no	THE NEW YORK TIMES SCIENCE TIMES	-	28 years after its 1977 launch, it passed through a sort of space sound barrier called the termination shock	Voyager	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
+2	400	no	THE NEW YORK TIMES SCIENCE TIME	-	A researcher has shown that this feared Amazon fish may gather in packs for safety, not to hunt	a piranha	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
+2	800	no	THE NEW YORK TIMES SCIENCE TIME	-	This 8-letter particle named for its lack of charge is being studied by beaming it 450 miles in .0025 seconds	the neutrino	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
+2	1200	no	THE NEW YORK TIMES SCIENCE TIME	-	Glen Canyon, inundated by the formation of this man-made Utah lake, is becoming visible again as the lake dries up	Lake Powell	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
+2	1600	no	THE NEW YORK TIMES SCIENCE TIME	-	No, that's fine.  Of course you're right.  Science Times says "hostile cooperation" is part of this behavior pattern	passive-aggressiveness	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
+2	2000	no	THE NEW YORK TIMES SCIENCE TIME	-	28 years after its 1977 launch, it passed through a sort of space sound barrier called the termination shock	Voyager	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
 2	400	no	ALPHABETICALLY FIRST	-	Alphabetically, it's the first of the five Great Lakes	Lake Erie	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
 2	800	no	ALPHABETICALLY FIRST	-	Of Miriam's Biblical brothers	Aaron	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
 2	3500	yes	ALPHABETICALLY FIRST	-	Of all U.S. Supreme Court justices in history by last name	Samuel Alito	2006-05-09	2006 Tournament of Champions quarterfinal game 2.
@@ -9305,11 +9305,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	LETTER PERFECT	-	It's the class of vitamins that includes thiamine & riboflavin	B	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 1	800	no	LETTER PERFECT	-	In standard tuning, the top & bottom strings of a 6-string guitar are tuned to this note	E	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 1	1000	no	LETTER PERFECT	-	In physics, it's the symbol for Planck's constant	h	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-2	400	no	THE NEW YORK TIMES ARTS	-	Computer analysis of newly found paintings said the drip patterns weren't consistent with this artist's previous works	Pollock	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-2	800	no	THE NEW YORK TIMES ARTS	-	The Times called this Fox sitcom, a critical darling, "an alliance between 'The Royal Tenenbaums' & 'The Simpsons'\"	Arrested Development	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-2	1200	no	THE NEW YORK TIMES ARTS	-	The Times said a 2005 production of this Shaw play about a career woman was "intriguingly nuanced drama\"	Mrs. Warren's Profession	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-2	1600	no	THE NEW YORK TIMES ARTS	-	In 2006 Angela Gheorghiu had a "supercharged star turn" as Violetta in this Verdi opera	La Traviata	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-2	2000	no	THE NEW YORK TIMES ARTS	-	\"The Seven", a hip-hop reworking of his "Seven Against Thebes", is a "risky adventure in aesthetic cross-pollination\"	Aeschylus	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
+2	400	no	THE NEW YORK TIMES ART	-	Computer analysis of newly found paintings said the drip patterns weren't consistent with this artist's previous works	Pollock	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
+2	800	no	THE NEW YORK TIMES ART	-	The Times called this Fox sitcom, a critical darling, "an alliance between 'The Royal Tenenbaums' & 'The Simpsons'\"	Arrested Development	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
+2	1200	no	THE NEW YORK TIMES ART	-	The Times said a 2005 production of this Shaw play about a career woman was "intriguingly nuanced drama\"	Mrs. Warren's Profession	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
+2	1600	no	THE NEW YORK TIMES ART	-	In 2006 Angela Gheorghiu had a "supercharged star turn" as Violetta in this Verdi opera	La Traviata	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
+2	2000	no	THE NEW YORK TIMES ART	-	\"The Seven", a hip-hop reworking of his "Seven Against Thebes", is a "risky adventure in aesthetic cross-pollination\"	Aeschylus	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 2	400	no	TV NUMBERS	-	This show finished in Nielsen's top 10 programs a record 23 consecutive seasons	60 Minutes	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 2	800	no	TV NUMBERS	-	714 was the number on the badge seen at the beginning & end of this show that debuted in 1951	Dragnet	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 2	1200	no	TV NUMBERS	-	Time stopped when Elisha Cuthbert was bitten by a mountain lion during the filming of this Fox show	24	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
@@ -9335,11 +9335,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	PARLEZ-VOUS ANGLAIS?	(Alex: Each clue will contain a literal translation of a French term.  You have to give us that French expression.)	\"Present yourself" at the designated place & time for this type of meeting	a rendezvous	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 2	2000	no	PARLEZ-VOUS ANGLAIS?	(Alex: Each clue will contain a literal translation of a French term.  You have to give us that French expression.)	Richard Branson & Michael Dell are 2 famous examples of this type of businessman: "one who undertakes\"	an entrepreneur	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
 3	0	no	CHARACTERS IN SHAKESPEARE	-	Poet Samuel Taylor Coleridge referred to the "motiveless malignity" of this character	Iago	2006-05-10	2006 Tournament of Champions quarterfinal game 3.
-1	200	no	THE NEW YORK TIMES BUSINESS	-	Union Pacific, HP & this Atlanta-based beverage company voted to impose limits on executive severance packages	Coca-Cola	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
-1	400	no	THE NEW YORK TIMES BUSINESS	-	This retailer's stock went up when it merged with Kmart, but it has room to improve operationally	Sears	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
-1	600	no	THE NEW YORK TIMES BUSINESS	-	Wal-Mart has been compared to this early grocery chain whose name goes back to 2 oceans	A&P	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
-1	800	no	THE NEW YORK TIMES BUSINESS	-	This oil company with record profits of $36 billion in 2005 appears to have a gradual liquidity strategy	ExxonMobil	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
-1	1000	no	THE NEW YORK TIMES BUSINESS	-	A Times writer's "Scandalot" featured Maurice Greenberg, who resigned as CEO of this insurance giant	AIG	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
+1	200	no	THE NEW YORK TIMES BUSINES	-	Union Pacific, HP & this Atlanta-based beverage company voted to impose limits on executive severance packages	Coca-Cola	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
+1	400	no	THE NEW YORK TIMES BUSINES	-	This retailer's stock went up when it merged with Kmart, but it has room to improve operationally	Sears	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
+1	600	no	THE NEW YORK TIMES BUSINES	-	Wal-Mart has been compared to this early grocery chain whose name goes back to 2 oceans	A&P	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
+1	800	no	THE NEW YORK TIMES BUSINES	-	This oil company with record profits of $36 billion in 2005 appears to have a gradual liquidity strategy	ExxonMobil	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
+1	1000	no	THE NEW YORK TIMES BUSINES	-	A Times writer's "Scandalot" featured Maurice Greenberg, who resigned as CEO of this insurance giant	AIG	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
 1	200	no	LOVE SONGS IN GERMAN	-	Sonny & Cher: "Ich Hab Dich Babe\"	\"I Got You Babe\"	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
 1	400	no	LOVE SONGS IN GERMAN	-	The Partridge Family: "Ich Denke Ich Liebe Dich\"	\"I Think I Love You\"	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
 1	600	no	LOVE SONGS IN GERMAN	-	The Captain & Tennille: "Liebe Halt Uns Zusammen\"	\"Love Will Keep Us Together\"	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
@@ -9388,11 +9388,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	QUOTATIONS	-	A motto of hers was "in politics, if you want anything said, ask a man; if you want anything done, ask a woman\"	(Margaret) Thatcher	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
 2	2000	no	QUOTATIONS	-	From Ft. Sill, Okla. he made the plea, "Arizona is my land, my home, my father's land, to which I now ask to... return\"	Geronimo	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
 3	0	no	HISTORIC NAMES	-	A silent movie title includes the last name of this 18th c. statesman & favorite of Catherine the Great	Grigori Alexandrovich Potemkin	2006-05-11	2006 Tournament of Champions quarterfinal game 4.
-1	200	no	THE NEW YORK TIMES BOOK REVIEW	-	At age 82 in 2005 this "Cat's Cradle" author had his first nonfiction bestseller, "A Man Without a Country\"	Kurt Vonnegut	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
-1	400	no	THE NEW YORK TIMES BOOK REVIEW	-	Julie Powell's "Julie & Julia", a blog-turned-book about mastering this chef's recipes, "has too much blog in its DNA\"	Julia Child	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
-1	600	no	THE NEW YORK TIMES BOOK REVIEW	-	\"The Year of Magical Thinking", her memoir of life after the death of husband John Gregory Dunne, "is not a downer\"	Joan Didion	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
-1	800	no	THE NEW YORK TIMES BOOK REVIEW	-	This late, great actor "had a heap of fun cranking out" "Fan-Tan" "while throwing back a few hundred martinis\"	Marlon Brando	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
-1	1000	no	THE NEW YORK TIMES BOOK REVIEW	-	His "A Man in Full" "contains passages as powerful and as beautiful as anything written... by any American novelist\"	Tom Wolfe	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
+1	200	no	THE NEW YORK TIMES BOOK REVIE	-	At age 82 in 2005 this "Cat's Cradle" author had his first nonfiction bestseller, "A Man Without a Country\"	Kurt Vonnegut	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
+1	400	no	THE NEW YORK TIMES BOOK REVIE	-	Julie Powell's "Julie & Julia", a blog-turned-book about mastering this chef's recipes, "has too much blog in its DNA\"	Julia Child	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
+1	600	no	THE NEW YORK TIMES BOOK REVIE	-	\"The Year of Magical Thinking", her memoir of life after the death of husband John Gregory Dunne, "is not a downer\"	Joan Didion	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
+1	800	no	THE NEW YORK TIMES BOOK REVIE	-	This late, great actor "had a heap of fun cranking out" "Fan-Tan" "while throwing back a few hundred martinis\"	Marlon Brando	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
+1	1000	no	THE NEW YORK TIMES BOOK REVIE	-	His "A Man in Full" "contains passages as powerful and as beautiful as anything written... by any American novelist\"	Tom Wolfe	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
 1	200	no	ROAD TRIP USA	-	On the road you're never far from one of this hotel's more than 840 locations that will "leave the light on for you\"	Motel 6	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
 1	400	no	ROAD TRIP USA	-	An overnight mule ride to the bottom of this landmark may include a stayover at the Phantom Ranch	the Grand Canyon	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
 1	600	no	ROAD TRIP USA	-	Head to this town in the Ozarks & enjoy a show at Andy Willliams' Moon River Theatre or at Yakov Smirnoff's	Branson	2006-05-12	2006 Tournament of Champions quarterfinal game 5.
@@ -9512,11 +9512,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	DICTATORS & TYRANTS	-	By murdering all his brothers around 1413, Mehmed I took power as the fifth ruler of this empire	the Ottoman Empire	2006-05-16	2006 Tournament of Champions semifinal game 2.
 1	1000	yes	DICTATORS & TYRANTS	-	The pro-Soviet dictator Babrak Karmal came to power in this country after a 1979 invasion	Afghanistan	2006-05-16	2006 Tournament of Champions semifinal game 2.
 1	1000	no	DICTATORS & TYRANTS	-	A humble lawyer from Arras, in 1793 he became Head of the Committee of Public Safety & launched a bloodbath	Robespierre	2006-05-16	2006 Tournament of Champions semifinal game 2.
-1	200	no	THE ONION	-	Nov. 15, 2001: This pasta treat "discontinued as Franco-American relations break down\"	SpaghettiOs	2006-05-16	2006 Tournament of Champions semifinal game 2.
-1	400	no	THE ONION	-	Feb. 20, 2006: This late "Feminine Mystique"  writer "honored with second-class postage stamp\"	(Betty) Friedan	2006-05-16	2006 Tournament of Champions semifinal game 2.
-1	600	no	THE ONION	-	Aug. 9, 2000: Popular names for these include Shopwood, Storemont & Indianburialgroundbrook	shopping malls	2006-05-16	2006 Tournament of Champions semifinal game 2.
-1	800	no	THE ONION	-	From an issue in 2056: This island & commonwealth ceded to the U.S. in 1898... "Should it become our 63rd state?\"	Puerto Rico	2006-05-16	2006 Tournament of Champions semifinal game 2.
-1	1000	no	THE ONION	-	Sept. 12, 1928: This "It Girl" "to appear sleeveless in Oct. Collier's; 'Besleeve yourself, strumpet!' clergy urge\"	(Clara) Bow	2006-05-16	2006 Tournament of Champions semifinal game 2.
+1	200	no	THE ONIO	-	Nov. 15, 2001: This pasta treat "discontinued as Franco-American relations break down\"	SpaghettiOs	2006-05-16	2006 Tournament of Champions semifinal game 2.
+1	400	no	THE ONIO	-	Feb. 20, 2006: This late "Feminine Mystique"  writer "honored with second-class postage stamp\"	(Betty) Friedan	2006-05-16	2006 Tournament of Champions semifinal game 2.
+1	600	no	THE ONIO	-	Aug. 9, 2000: Popular names for these include Shopwood, Storemont & Indianburialgroundbrook	shopping malls	2006-05-16	2006 Tournament of Champions semifinal game 2.
+1	800	no	THE ONIO	-	From an issue in 2056: This island & commonwealth ceded to the U.S. in 1898... "Should it become our 63rd state?\"	Puerto Rico	2006-05-16	2006 Tournament of Champions semifinal game 2.
+1	1000	no	THE ONIO	-	Sept. 12, 1928: This "It Girl" "to appear sleeveless in Oct. Collier's; 'Besleeve yourself, strumpet!' clergy urge\"	(Clara) Bow	2006-05-16	2006 Tournament of Champions semifinal game 2.
 1	200	no	WORLD AUTHORS	-	This Brit coined "doublethink" & "Big Brother is watching you\"	(George) Orwell	2006-05-16	2006 Tournament of Champions semifinal game 2.
 1	400	no	WORLD AUTHORS	-	In a 1605 prologue, this Spaniard tells the reader that he has written an "invective against books of chivalry\"	Cervantes	2006-05-16	2006 Tournament of Champions semifinal game 2.
 1	600	no	WORLD AUTHORS	-	While at University College, Dublin, he wrote the essay "The Day of the Rabblement", attacking the Irish Literary Theatre	James Joyce	2006-05-16	2006 Tournament of Champions semifinal game 2.
@@ -9652,11 +9652,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	U.N. SECRETARIES-GENERAL	-	He died tragically in Africa	Dag Hammarskjold	2006-05-18	2006 Tournament of Champions final game 1.
 2	1600	no	U.N. SECRETARIES-GENERAL	-	He was the first Arab & first African in the job	Boutros Boutros-Ghali	2006-05-18	2006 Tournament of Champions final game 1.
 2	2000	no	U.N. SECRETARIES-GENERAL	-	In 1946 he called the U.N. "A going organization\"	Trygve Lie	2006-05-18	2006 Tournament of Champions final game 1.
-2	400	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE &amp; AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Borden spokesanimal on the front of a locomotive to clear a Salinger work lacking the first "the\"	Elsie the Cow Catcher in the Rye	2006-05-18	2006 Tournament of Champions final game 1.
-2	800	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE &amp; AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Circular spinning food tray on a table set for a suffragist pioneer & a "Clockwork Orange" scribe	Lazy Susan B. Anthony Burgess	2006-05-18	2006 Tournament of Champions final game 1.
-2	1200	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE &amp; AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Hastert's job before joining the Dutch royal family & starting a Roman leader's fruit drink chain	Speaker of the House of Orange Julius (Speaker of the House of Orange Julius Caesar accepted)	2006-05-18	2006 Tournament of Champions final game 1.
-2	1600	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE &amp; AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Bellicose Elton John weekend tune regarding a Notre Dame team & a large red hunting dog	\"Saturday Night's Alright For Fighting Irish Setter\"	2006-05-18	2006 Tournament of Champions final game 1.
-2	2000	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE &amp; AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Edith Piaf tune that's at home in the White House flower beds, admiring a Hieronymous Bosch painting	\"La Vie En Rose Garden Of Earthly Delights\"	2006-05-18	2006 Tournament of Champions final game 1.
+2	400	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE & AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Borden spokesanimal on the front of a locomotive to clear a Salinger work lacking the first "the\"	Elsie the Cow Catcher in the Rye	2006-05-18	2006 Tournament of Champions final game 1.
+2	800	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE & AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Circular spinning food tray on a table set for a suffragist pioneer & a "Clockwork Orange" scribe	Lazy Susan B. Anthony Burgess	2006-05-18	2006 Tournament of Champions final game 1.
+2	1200	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE & AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Hastert's job before joining the Dutch royal family & starting a Roman leader's fruit drink chain	Speaker of the House of Orange Julius (Speaker of the House of Orange Julius Caesar accepted)	2006-05-18	2006 Tournament of Champions final game 1.
+2	1600	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE & AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Bellicose Elton John weekend tune regarding a Notre Dame team & a large red hunting dog	\"Saturday Night's Alright For Fighting Irish Setter\"	2006-05-18	2006 Tournament of Champions final game 1.
+2	2000	no	BEFORE, DURING & AFTER	(Alex: It's sort of like BEFORE & AFTER, but with that added element that'll make it most enjoyable for the three of you.) [Laughter]	Edith Piaf tune that's at home in the White House flower beds, admiring a Hieronymous Bosch painting	\"La Vie En Rose Garden Of Earthly Delights\"	2006-05-18	2006 Tournament of Champions final game 1.
 3	0	no	LEGAL TERMS	-	Congress has passed 2 laws named for this, defined as inciting rebellion: one in 1918 and one 120 years earlier	sedition	2006-05-18	2006 Tournament of Champions final game 1.
 1	200	no	CIVIL WAR GENERALS	-	After routing Union troops at the first battle of this, P.G.T. Beauregard was promoted to the rank of general	Bull Run	2006-05-19	2006 Tournament of Champions final game 2.
 1	400	no	CIVIL WAR GENERALS	-	The Library of America has a boxed set of the memoirs of these 2 Union generals	Grant & Sherman	2006-05-19	2006 Tournament of Champions final game 2.
@@ -9901,10 +9901,10 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	WORLD AUTHORS	-	Peer Gynt, the title character of his 1867 play, is based on a legendary Norwegian folk hero	Ibsen	2006-05-25	-
 2	1600	no	WORLD AUTHORS	-	\"The House of the Spirits" is the first novel by this Lima-born woman	Isabel Allende	2006-05-25	-
 2	2000	yes	WORLD AUTHORS	-	In Italy in October 2005 this author helped re-create the experiment with Foucault's pendulum	(Umberto) Eco	2006-05-25	-
-2	400	no	THE EMMYS	-	The 1999 Emmy telecast featured an interpretive dance by the hosts: Jenna Elfman & this "Frasier" co-star	Hyde Pierce	2006-05-25	-
-2	800	no	THE EMMYS	-	No psychic in real life, she was "99% certain" she wouldn't win an Emmy for "Medium" in 2005--but she did	(Patricia) Arquette	2006-05-25	-
-2	1200	no	THE EMMYS	-	This enigmatic show is such a find that it won the 2005 Emmy for Outstanding Drama Series	Lost	2006-05-25	-
-2	2000	no	THE EMMYS	-	Geoffrey Rush rushed to the podium in 2005 when he won for starring in "The Life and Death of" this comic actor	Peter Sellers	2006-05-25	-
+2	400	no	THE EMMY	-	The 1999 Emmy telecast featured an interpretive dance by the hosts: Jenna Elfman & this "Frasier" co-star	Hyde Pierce	2006-05-25	-
+2	800	no	THE EMMY	-	No psychic in real life, she was "99% certain" she wouldn't win an Emmy for "Medium" in 2005--but she did	(Patricia) Arquette	2006-05-25	-
+2	1200	no	THE EMMY	-	This enigmatic show is such a find that it won the 2005 Emmy for Outstanding Drama Series	Lost	2006-05-25	-
+2	2000	no	THE EMMY	-	Geoffrey Rush rushed to the podium in 2005 when he won for starring in "The Life and Death of" this comic actor	Peter Sellers	2006-05-25	-
 2	400	no	EXECUTIVE JOHNS	-	In the 1890s this oil tycoon retired from actively running his business; he lived until 1937	John D. Rockefeller	2006-05-25	-
 2	800	no	EXECUTIVE JOHNS	-	In 1865 he opened a factory in Philadelphia & began producing his "10-gallon" hat	(John) Stetson	2006-05-25	-
 2	1200	no	EXECUTIVE JOHNS	-	This "perfect pizza" company began in 1984 in the back of a tavern in Indiana	Papa John's	2006-05-25	-
@@ -10754,11 +10754,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	no	EPONYMS	-	The name of this unit of magnetic flux comes from a Scottish physicist not a "smart" sitcom spy	the maxwell	2006-06-16	-
 2	800	no	CITY OF THE DAY: SAVANNAH	-	In Savannah, head for the Lady & Sons Restaurant run by this Food Network chef known for her "home cooking\"	Paula Deen	2006-06-16	-
 2	1600	no	CITY OF THE DAY: SAVANNAH	-	In 1864 this general telegraphed Lincoln, "I beg to present you as a Christmas gift, the city of Savannah\"	William Tecumseh Sherman	2006-06-16	-
-2	400	no	WHO'S WHO IN AMERICA	-	The Who's Who 60, an all-time list in the 60th Edition, incudes this "aviator, b. Detroit, Feb. 4, 1902\"	Charles Lindbergh	2006-06-16	-
-2	800	no	WHO'S WHO IN AMERICA	-	Some new 2006 names are "Jeopardy!" champ Ken Jennings & this first skateboarder to do "the 900" trick	Tony Hawk	2006-06-16	-
-2	1200	no	WHO'S WHO IN AMERICA	-	He listed himself in Who's Who as an "electrician"--guess inventing the incandescent bulb qualifies	Edison	2006-06-16	-
-2	2400	yes	WHO'S WHO IN AMERICA	-	Once the youngest person ever listed, she's still in the 2006 edition, now as "former ambassador\"	Shirley Temple Black	2006-06-16	-
-2	2000	no	WHO'S WHO IN AMERICA	-	This famous man's entry features his 1960-62 chairmanship of the Sumter County, Georgia school board	Jimmy Carter	2006-06-16	-
+2	400	no	WHO'S WHO IN AMERIC	-	The Who's Who 60, an all-time list in the 60th Edition, incudes this "aviator, b. Detroit, Feb. 4, 1902\"	Charles Lindbergh	2006-06-16	-
+2	800	no	WHO'S WHO IN AMERIC	-	Some new 2006 names are "Jeopardy!" champ Ken Jennings & this first skateboarder to do "the 900" trick	Tony Hawk	2006-06-16	-
+2	1200	no	WHO'S WHO IN AMERIC	-	He listed himself in Who's Who as an "electrician"--guess inventing the incandescent bulb qualifies	Edison	2006-06-16	-
+2	2400	yes	WHO'S WHO IN AMERIC	-	Once the youngest person ever listed, she's still in the 2006 edition, now as "former ambassador\"	Shirley Temple Black	2006-06-16	-
+2	2000	no	WHO'S WHO IN AMERIC	-	This famous man's entry features his 1960-62 chairmanship of the Sumter County, Georgia school board	Jimmy Carter	2006-06-16	-
 2	400	no	THE INDIE 5	-	Before a jewelry heist in this film, Mr. Pink (Steve Buscemi) tells us that he abhors automatically tipping	Reservoir Dogs	2006-06-16	-
 2	800	no	THE INDIE 5	-	It was Gallagher, MacDowell & Spader in the Deep South in this atmospheric 1989 film	sex, lies, and videotape	2006-06-16	-
 2	1200	no	THE INDIE 5	-	George Harrison started Handmade Films to help make this Monty Python religious epic	The Life of Brian	2006-06-16	-
@@ -10973,11 +10973,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	HEROES OF LITERATURE	-	This bread-stealing criminal & fugitive from justice is the hero of Victor Hugo's "Les Miserables\"	Jean Valjean	2006-06-22	-
 2	1600	no	HEROES OF LITERATURE	-	This "haloed" hero is the perpetual thorn in Inspector Teal's side in works by Leslie Charteris	The Saint (Simon Templar)	2006-06-22	-
 2	2000	no	HEROES OF LITERATURE	-	Ernest J. Gaines wrote a fictional autobiography of this heroic 110-year-old ex-slave	Miss Jane Pittman	2006-06-22	-
-2	400	no	THE NEW YORK TIMES MOVIE REVIEWS	-	In 2006 The New York Times said that this animated monkey movie "is an unexpected delight\"	Curious George	2006-06-22	-
-2	800	no	THE NEW YORK TIMES MOVIE REVIEWS	-	Vincent Canby felt "fondly towards this "race of small, teddy bear-like creatures" in "Return of the Jedi\"	the Ewoks	2006-06-22	-
-2	1200	no	THE NEW YORK TIMES MOVIE REVIEWS	-	Steve Carell raised "the comedy bar with an excruciatingly funny" body-waxing scene in this 2005 film	The 40-Year-Old Virgin	2006-06-22	-
-2	1600	no	THE NEW YORK TIMES MOVIE REVIEWS	-	Vincent Canby said it's Woody Allen's "homage to Tolstoy, Kierkegaard, Einstein, Groucho Marx...\"	Love and Death	2006-06-22	-
-2	2000	no	THE NEW YORK TIMES MOVIE REVIEWS	-	The spacemen in this 1951 film are so peaceful "you'd hardly expect them to split an infinitive, let alone an atom\"	The Day the Earth Stood Still	2006-06-22	-
+2	400	no	THE NEW YORK TIMES MOVIE REVIEW	-	In 2006 The New York Times said that this animated monkey movie "is an unexpected delight\"	Curious George	2006-06-22	-
+2	800	no	THE NEW YORK TIMES MOVIE REVIEW	-	Vincent Canby felt "fondly towards this "race of small, teddy bear-like creatures" in "Return of the Jedi\"	the Ewoks	2006-06-22	-
+2	1200	no	THE NEW YORK TIMES MOVIE REVIEW	-	Steve Carell raised "the comedy bar with an excruciatingly funny" body-waxing scene in this 2005 film	The 40-Year-Old Virgin	2006-06-22	-
+2	1600	no	THE NEW YORK TIMES MOVIE REVIEW	-	Vincent Canby said it's Woody Allen's "homage to Tolstoy, Kierkegaard, Einstein, Groucho Marx...\"	Love and Death	2006-06-22	-
+2	2000	no	THE NEW YORK TIMES MOVIE REVIEW	-	The spacemen in this 1951 film are so peaceful "you'd hardly expect them to split an infinitive, let alone an atom\"	The Day the Earth Stood Still	2006-06-22	-
 2	400	no	THE FABULOUS 14th CENTURY	-	Casimir III, who passed the statute of Wislica, allowed the Jews to settle in this country that he ruled	Poland	2006-06-22	-
 2	800	no	THE FABULOUS 14th CENTURY	-	Around 1365 Adrianople became the capital of this empire; Constantinople replaced it in 1453	the Ottoman Empire	2006-06-22	-
 2	1200	no	THE FABULOUS 14th CENTURY	-	In this 14th century Boccaccio work, 3 men & 7 women flee to the countryside to escape the plague	The Decameron	2006-06-22	-
@@ -11803,11 +11803,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1000	yes	MEATY WORDS	-	The extreme left or right side of an army	flank	2006-07-13	-
 2	2000	no	MEATY WORDS	-	Name given to the English Parliament during the civil war in the mid-1600s	rump	2006-07-13	-
 3	0	no	U.S. HISTORY	-	He was the commanding Union general at Bentonville, site of the last major Confederate offensive	William Tecumseh Sherman	2006-07-13	-
-1	200	no	THE NEW YORK TIMES PULITZER PRIZE WINNERS	-	William Laurence won a Prize in 1946 for his eyewitness account of the atomic bombing of this city, after Hiroshima	Nagasaki	2006-07-14	-
-1	400	no	THE NEW YORK TIMES PULITZER PRIZE WINNERS	-	The Times won its first Pulitzer in 1918 for its coverage of this	World War I	2006-07-14	-
-1	600	no	THE NEW YORK TIMES PULITZER PRIZE WINNERS	-	Max Frankel won a 1973 Prize for his reporting on President Nixon's trip to this country	China	2006-07-14	-
-1	800	no	THE NEW YORK TIMES PULITZER PRIZE WINNERS	-	In 1972 The Times won for meritorious public service for publishing these documents leaked by Daniel Ellsberg	the Pentagon Papers	2006-07-14	-
-1	1000	no	THE NEW YORK TIMES PULITZER PRIZE WINNERS	-	Wonder if he mentioned his 1979 win for his "Observer" column in his memoir "Growing Up"?	Russell Baker	2006-07-14	-
+1	200	no	THE NEW YORK TIMES PULITZER PRIZE WINNER	-	William Laurence won a Prize in 1946 for his eyewitness account of the atomic bombing of this city, after Hiroshima	Nagasaki	2006-07-14	-
+1	400	no	THE NEW YORK TIMES PULITZER PRIZE WINNER	-	The Times won its first Pulitzer in 1918 for its coverage of this	World War I	2006-07-14	-
+1	600	no	THE NEW YORK TIMES PULITZER PRIZE WINNER	-	Max Frankel won a 1973 Prize for his reporting on President Nixon's trip to this country	China	2006-07-14	-
+1	800	no	THE NEW YORK TIMES PULITZER PRIZE WINNER	-	In 1972 The Times won for meritorious public service for publishing these documents leaked by Daniel Ellsberg	the Pentagon Papers	2006-07-14	-
+1	1000	no	THE NEW YORK TIMES PULITZER PRIZE WINNER	-	Wonder if he mentioned his 1979 win for his "Observer" column in his memoir "Growing Up"?	Russell Baker	2006-07-14	-
 1	200	no	HOMETOWN ATHLETES	-	Out of retirement to play for this hometown team, Roger Clemens led them to their first World Series in 2005	the (Houston) Astros	2006-07-14	-
 1	600	no	HOMETOWN ATHLETES	-	Known as "Junior", this Cincinnati high school superstar joined the Reds in 2000	Ken Griffey, Jr.	2006-07-14	-
 1	800	no	HOMETOWN ATHLETES	-	Stephon Marbury, a Brooklyn native & childhood fan of this team, joined them in 2004--with mixed results	the Knicks	2006-07-14	-
@@ -11827,11 +11827,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	RHYME RIGHT	(Alex: Responses will rhyme with the word "right".)	A perceived snub or act of contempt	a slight	2006-07-14	-
 1	800	no	RHYME RIGHT	(Alex: Responses will rhyme with the word "right".)	It's a bend in a coastline that forms a bay	a bight	2006-07-14	-
 1	1000	no	RHYME RIGHT	(Alex: Responses will rhyme with the word "right".)	Isle where Victoria shuffled off her mortal throne	the Isle of Wight	2006-07-14	-
-1	200	no	SIDE EFFECTS OF JEPOLAX	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	There have been reports of the basilar type of this brutal headache, which includes vertigo	a migraine	2006-07-14	-
-1	400	no	SIDE EFFECTS OF JEPOLAX	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	In a few cases Jepolax may destroy alveoli, leading to this lung disease that includes short wind	emphysema	2006-07-14	-
-1	600	no	SIDE EFFECTS OF JEPOLAX	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	Combining Jepolax with liquor can lead to this scarring final stage of alcoholic liver disease	cirrhosis	2006-07-14	-
-1	800	no	SIDE EFFECTS OF JEPOLAX	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	There are slight risks of acidosis, carcinoma & this sensation, from the Latin for "choking chest pain\"	angina	2006-07-14	-
-1	1000	no	SIDE EFFECTS OF JEPOLAX	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	Discontinue use at the first sign of seborrheic inflammation of this	the skin	2006-07-14	-
+1	200	no	SIDE EFFECTS OF JEPOLA	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	There have been reports of the basilar type of this brutal headache, which includes vertigo	a migraine	2006-07-14	-
+1	400	no	SIDE EFFECTS OF JEPOLA	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	In a few cases Jepolax may destroy alveoli, leading to this lung disease that includes short wind	emphysema	2006-07-14	-
+1	600	no	SIDE EFFECTS OF JEPOLA	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	Combining Jepolax with liquor can lead to this scarring final stage of alcoholic liver disease	cirrhosis	2006-07-14	-
+1	800	no	SIDE EFFECTS OF JEPOLA	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	There are slight risks of acidosis, carcinoma & this sensation, from the Latin for "choking chest pain\"	angina	2006-07-14	-
+1	1000	no	SIDE EFFECTS OF JEPOLA	(Alex: This is a new, not-quite-perfect drug that has been concocted in the Jeopardy! laboratories.)	Discontinue use at the first sign of seborrheic inflammation of this	the skin	2006-07-14	-
 2	400	no	SOUTH AFRICA	-	An English word for an ill-mannered person is related to this term for a South African settler	Boer	2006-07-14	-
 2	800	no	SOUTH AFRICA	-	In South Africa, Ford sells the Bantam, a popular bakkie; the U.S. equivalent is the F-series of these	trucks	2006-07-14	-
 2	400	no	I'M TOMMY LEE JONES!	-	I suffered no alienation protecting the Earth as Agent K in this 1997 comedy	Men in Black	2006-07-14	-
@@ -11947,11 +11947,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	EARTHQUAKES	-	S, or secondary, seismic waves travel fairly slowly, but these waves deep in the earth exceed 25,000 mph	P waves (primary)	2006-07-18	-
 2	5000	yes	EARTHQUAKES	-	The USA's most powerful quake occurred in 1964 in Alaska on this Christian holiday also associated with a quake	Good Friday	2006-07-18	-
 2	2000	no	EARTHQUAKES	-	A 2005 quake beneath Lake Tanganyika on this 3,500-mile-long "Great" African fault was felt 600 mi. away in Nairobi	the Great Rift Valley	2006-07-18	-
-2	400	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion &amp; sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Commander-in-chief plus a job with teeth	presidentist	2006-07-18	-
-2	800	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion &amp; sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Tanzanian island of Hope/Crosby fame plus Sweeney Todd profession	Zanzibarber	2006-07-18	-
-2	1200	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion &amp; sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Sweet treat symbol of Kojak plus tree of willow family	a lollipoplar	2006-07-18	-
-2	1600	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion &amp; sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Hawaiian nut plus an adjective meaning cordial	macadamiable	2006-07-18	-
-2	2000	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion &amp; sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Amendment to a will plus a Latin American leafy spice, aka coriander	codicilantro	2006-07-18	-
+2	400	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion & sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Commander-in-chief plus a job with teeth	presidentist	2006-07-18	-
+2	800	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion & sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Tanzanian island of Hope/Crosby fame plus Sweeney Todd profession	Zanzibarber	2006-07-18	-
+2	1200	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion & sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Sweet treat symbol of Kojak plus tree of willow family	a lollipoplar	2006-07-18	-
+2	1600	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion & sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Hawaiian nut plus an adjective meaning cordial	macadamiable	2006-07-18	-
+2	2000	no	JEOPORTMANTEAU!	(Alex: Each correct response will be two words joined together.) ... (Alex: Now, a further explanation on the [*].  I said, "two words joined together".  For instance, if we said, "Salt companion & sweat", you would say, "What is pepperspiration?"  That's an example.  So watch out.)	Amendment to a will plus a Latin American leafy spice, aka coriander	codicilantro	2006-07-18	-
 2	400	no	19th CENTURY AMERICA	-	This Akron-based company got rolling in 1898, making bicycle & carriage tires, horseshoe pads, & yes, poker chips	Goodyear	2006-07-18	-
 2	800	no	19th CENTURY AMERICA	-	Disgusted by Americans' tobacco chewing, Dickens noted the prevalence of these vessels in public places	spittoons	2006-07-18	-
 2	1200	no	19th CENTURY AMERICA	-	In 1815 he was appointed minister to Great Britain, a post held by his father &, later, by his son Charles	John Quincy Adams	2006-07-18	-

@@ -142,7 +142,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	yes	NATURE	-	These chemicals secreted by some animals may signal alarm or attract a member of the opposite sex	pheromones	1996-09-05	-
 1	100	no	BASKETBALL	-	Chet the Jet was Chet Walker, Bill the Hill was Bill McGill & Wilt the Stilt was this man	Wilt Chamberlain	1996-09-05	-
 1	200	no	BASKETBALL	-	NBA players competed in the Olympics for the 1st time in this city in 1992 & won the gold	Barcelona	1996-09-05	-
-1	300	no	BASKETBALL	-	Number 14 on the 1945&ndash;46 NBL champion Rochester Royals, he went on to play "The Rifleman\"	Chuck Connors	1996-09-05	-
+1	300	no	BASKETBALL	-	Number 14 on the 1945-46 NBL champion Rochester Royals, he went on to play "The Rifleman\"	Chuck Connors	1996-09-05	-
 1	400	no	BASKETBALL	-	This comical team's 1st trip wasn't around the world but to a town 50 miles from Chicago January 7, 1927	the Harlem Globetrotters	1996-09-05	-
 1	500	no	BASKETBALL	-	In the 1st NBA Draft Lottery in 1985, this team got the first pick & took Georgetown's Patrick Ewing	the New York Knicks	1996-09-05	-
 1	100	no	\"IN" PLACES	-	In February 1994 an earthquake struck the island of Sumatra in this nation, killing 215 people	Indonesia	1996-09-05	-
@@ -234,7 +234,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	HOSPITALS	-	In 1967 the first human heart transplant was performed at Groote Schuur Hospital in this city	Cape Town	1996-09-06	-
 2	1000	no	HOSPITALS	-	The Army Medical Center in Washington, D.C. was named for this bacteriologist	Walter Reed	1996-09-06	-
 2	200	no	SUITES	(Alex: We have the other kind of suites in round two.)	This "Carmen" composer wrote the symphonic suite "Roma" between 1866 & 1868	Bizet	1996-09-06	-
-2	400	no	SUITES	(Alex: We have the other kind of suites in round two.)	\"Uranus&mdash;The Magician" is the sixth part of this Gustav Holst suite	The Planets	1996-09-06	-
+2	400	no	SUITES	(Alex: We have the other kind of suites in round two.)	\"Uranus-The Magician" is the sixth part of this Gustav Holst suite	The Planets	1996-09-06	-
 2	2500	yes	SUITES	(Alex: We have the other kind of suites in round two.)	\"Liberian Suite" & "Far East Suite" are among this jazz giant's large-scale works	Duke Ellington	1996-09-06	-
 2	800	no	SUITES	(Alex: We have the other kind of suites in round two.)	This Spaniard was noted for his interpretations of Bach's suites for unaccompanied cello	Pablo Casals	1996-09-06	-
 3	0	no	CANADA	-	The flag & the coat of arms of this Canadian province feature a setting sun	British Columbia	1996-09-06	-
@@ -2779,7 +2779,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	500	no	PERILS	-	Aleksandr Pushkin, Stephen Decatur & Button Gwinnett all died from wounds received in one of these	duel	1996-12-03	-
 1	100	no	MEXICO	-	In 1525 Cortes ordered Cuauhtemoc, the last emperor of these people, hanged	Aztecs	1996-12-03	-
 1	200	no	MEXICO	-	A library near the Pink Zone in Mexico City is named after this American library founder	Benjamin Franklin	1996-12-03	-
-1	300	no	MEXICO	-	These suspended candy-filled objects are broken open by a blindfolded person with a stick	pi&ntilde;ata	1996-12-03	-
+1	300	no	MEXICO	-	These suspended candy-filled objects are broken open by a blindfolded person with a stick	pinata	1996-12-03	-
 1	400	no	MEXICO	-	Processions known as posadas are associated with this holiday	Christmas	1996-12-03	-
 1	500	yes	MEXICO	-	These 2 animals appear on Mexico's flag	snake & eagle	1996-12-03	-
 1	100	no	ODDS & ENDS	-	In football it's the imaginary "line" on which the ball rests at the start of each play	line of scrimmage	1996-12-03	-
@@ -9058,11 +9058,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	600	no	SCULPTURE	(SKULPTUR)	In 1881 this Cubist painter & sculptor was born in Malaga, Spain, the son of a professor of art	Pablo Picasso	1997-05-05	1997 International Tournament semifinal game 1.
 2	1500	yes	SCULPTURE	(SKULPTUR)	A Cellini masterpiece shows this Greek hero holding the head of Medusa	Perseus	1997-05-05	1997 International Tournament semifinal game 1.
 2	1000	no	SCULPTURE	(SKULPTUR)	Toronto's City Hall has an outdoor work by this British sculptor known for using holes in his art	Henry Moore	1997-05-05	1997 International Tournament semifinal game 1.
-2	200	no	TRAVEL & TOURISM	(RESOR &amp; TURISM)	At the National Museum in Dublin you can see a bell reportedly used by this patron saint	Saint Patrick	1997-05-05	1997 International Tournament semifinal game 1.
-2	400	no	TRAVEL & TOURISM	(RESOR &amp; TURISM)	Not surprisingly, this Israeli national airline offers the most nonstop flights between Israel & the U.S.	El Al	1997-05-05	1997 International Tournament semifinal game 1.
-2	600	no	TRAVEL & TOURISM	(RESOR &amp; TURISM)	In Moscow's Teatralnaya Square, you can take in a show at this famous opera & ballet theater	Bolshoi	1997-05-05	1997 International Tournament semifinal game 1.
-2	800	no	TRAVEL & TOURISM	(RESOR &amp; TURISM)	Verses from the Koran decorate the walls of this marble tomb in Agra built by Shah Jahan for his late wife	Taj Mahal	1997-05-05	1997 International Tournament semifinal game 1.
-2	1000	no	TRAVEL & TOURISM	(RESOR &amp; TURISM)	Tourism is a growing industry in this pair of Caribbean islands known as T&T for short	Trinidad & Tobago	1997-05-05	1997 International Tournament semifinal game 1.
+2	200	no	TRAVEL & TOURISM	(RESOR & TURISM)	At the National Museum in Dublin you can see a bell reportedly used by this patron saint	Saint Patrick	1997-05-05	1997 International Tournament semifinal game 1.
+2	400	no	TRAVEL & TOURISM	(RESOR & TURISM)	Not surprisingly, this Israeli national airline offers the most nonstop flights between Israel & the U.S.	El Al	1997-05-05	1997 International Tournament semifinal game 1.
+2	600	no	TRAVEL & TOURISM	(RESOR & TURISM)	In Moscow's Teatralnaya Square, you can take in a show at this famous opera & ballet theater	Bolshoi	1997-05-05	1997 International Tournament semifinal game 1.
+2	800	no	TRAVEL & TOURISM	(RESOR & TURISM)	Verses from the Koran decorate the walls of this marble tomb in Agra built by Shah Jahan for his late wife	Taj Mahal	1997-05-05	1997 International Tournament semifinal game 1.
+2	1000	no	TRAVEL & TOURISM	(RESOR & TURISM)	Tourism is a growing industry in this pair of Caribbean islands known as T&T for short	Trinidad & Tobago	1997-05-05	1997 International Tournament semifinal game 1.
 2	200	no	THE ELEMENTS	(GRUNDAMMENA)	Around 3600 B.C. King Menes of Egypt set this precious metal's value at two-fifths that of gold	Silver	1997-05-05	1997 International Tournament semifinal game 1.
 2	400	no	THE ELEMENTS	(GRUNDAMMENA)	By volume, this element makes up about 78% of our atmosphere	Nitrogen	1997-05-05	1997 International Tournament semifinal game 1.
 2	600	no	THE ELEMENTS	(GRUNDAMMENA)	Diamond, the hardest known substance, is made of crystallized atoms of this element	Carbon	1997-05-05	1997 International Tournament semifinal game 1.
@@ -9083,11 +9083,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	300	no	NAME THE AUTHOR	(SAG FORFATTAREN)	\"The Idiot", "Crime and Punishment\"	Fyodor Dostoevsky	1997-05-06	1997 International Tournament semifinal game 2.
 1	400	no	NAME THE AUTHOR	(SAG FORFATTAREN)	\"The Tin Drum", "Dog Years\"	Gunter Grass	1997-05-06	1997 International Tournament semifinal game 2.
 1	500	no	NAME THE AUTHOR	(SAG FORFATTAREN)	\"The Stranger", "The Plague\"	Albert Camus	1997-05-06	1997 International Tournament semifinal game 2.
-1	100	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT &amp; DRYCK)	Sushi, which is most associated with this country, is often flavored with rice vinegar	Japan	1997-05-06	1997 International Tournament semifinal game 2.
-1	200	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT &amp; DRYCK)	Swedish for "bread & butter table", it's a Swedish buffet featuring an assortment of taste treats	Smorgasbord	1997-05-06	1997 International Tournament semifinal game 2.
-1	300	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT &amp; DRYCK)	Many hot, spicy dishes such as Szechwan shrimp originated in this country's Szechwan province	China	1997-05-06	1997 International Tournament semifinal game 2.
-1	400	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT &amp; DRYCK)	Jerk chicken is a specialty of this Caribbean island, the home of reggae music	Jamaica	1997-05-06	1997 International Tournament semifinal game 2.
-1	500	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT &amp; DRYCK)	The Rioja region of this European country is noted for its wines	Spain	1997-05-06	1997 International Tournament semifinal game 2.
+1	100	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT & DRYCK)	Sushi, which is most associated with this country, is often flavored with rice vinegar	Japan	1997-05-06	1997 International Tournament semifinal game 2.
+1	200	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT & DRYCK)	Swedish for "bread & butter table", it's a Swedish buffet featuring an assortment of taste treats	Smorgasbord	1997-05-06	1997 International Tournament semifinal game 2.
+1	300	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT & DRYCK)	Many hot, spicy dishes such as Szechwan shrimp originated in this country's Szechwan province	China	1997-05-06	1997 International Tournament semifinal game 2.
+1	400	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT & DRYCK)	Jerk chicken is a specialty of this Caribbean island, the home of reggae music	Jamaica	1997-05-06	1997 International Tournament semifinal game 2.
+1	500	no	INTERNATIONAL FOOD & DRINK	(INTERNATIONELLA MAT & DRYCK)	The Rioja region of this European country is noted for its wines	Spain	1997-05-06	1997 International Tournament semifinal game 2.
 1	100	no	DISCOVERIES	(UPPTACKAS)	In 1947 a Bedouin discovered important scrolls in a cave on the shore of this sea	Dead Sea	1997-05-06	1997 International Tournament semifinal game 2.
 1	200	no	DISCOVERIES	(UPPTACKAS)	\"Sir Humphry Davy/ Abominated gravy/ He lived in the odium/ of having discovered" this rhyming element	Sodium	1997-05-06	1997 International Tournament semifinal game 2.
 1	300	no	DISCOVERIES	(UPPTACKAS)	The 1820 discovery of this continent is claimed by both sailors & sealers	Antarctica	1997-05-06	1997 International Tournament semifinal game 2.
@@ -9096,11 +9096,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	100	no	BALLET	(BALLETT)	The Royal Danish Ballet has been based in this capital city for more than 200 years	Copenhagen	1997-05-06	1997 International Tournament semifinal game 2.
 1	200	no	BALLET	(BALLETT)	Part I of the ballet "Jewels" is named for these green gems; Part II is called "Rubies\"	Emeralds	1997-05-06	1997 International Tournament semifinal game 2.
 1	300	no	BALLET	(BALLETT)	\"Noblissima Visione" is a dramatic, stylized ballet about this saint of Assisi	Saint Francis of Assisi	1997-05-06	1997 International Tournament semifinal game 2.
-1	100	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR &amp; UNIVERSITET)	Founded in 1348, Charles University in this Czech capital is the oldest university in central Europe	Prague	1997-05-06	1997 International Tournament semifinal game 2.
-1	200	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR &amp; UNIVERSITET)	Opened around 1257, it's now a part of the universities of Paris	The Sorbonne	1997-05-06	1997 International Tournament semifinal game 2.
-1	300	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR &amp; UNIVERSITET)	From 1902 to 1938, Sigmund Freud served as a professor of neuropathology at this university	University of Vienna	1997-05-06	1997 International Tournament semifinal game 2.
-1	400	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR &amp; UNIVERSITET)	The Radcliffe Camera, a domed building at this British university, is a reading room for the Bodleian Library	Oxford	1997-05-06	1997 International Tournament semifinal game 2.
-1	500	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR &amp; UNIVERSITET)	Monrovia is home to the university of this African country	Liberia	1997-05-06	1997 International Tournament semifinal game 2.
+1	100	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR & UNIVERSITET)	Founded in 1348, Charles University in this Czech capital is the oldest university in central Europe	Prague	1997-05-06	1997 International Tournament semifinal game 2.
+1	200	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR & UNIVERSITET)	Opened around 1257, it's now a part of the universities of Paris	The Sorbonne	1997-05-06	1997 International Tournament semifinal game 2.
+1	300	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR & UNIVERSITET)	From 1902 to 1938, Sigmund Freud served as a professor of neuropathology at this university	University of Vienna	1997-05-06	1997 International Tournament semifinal game 2.
+1	400	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR & UNIVERSITET)	The Radcliffe Camera, a domed building at this British university, is a reading room for the Bodleian Library	Oxford	1997-05-06	1997 International Tournament semifinal game 2.
+1	500	no	COLLEGES & UNIVERSITIES	(HOGSKOLOR & UNIVERSITET)	Monrovia is home to the university of this African country	Liberia	1997-05-06	1997 International Tournament semifinal game 2.
 1	100	no	ENDS WITH "IST\"	(SLUTAR MED "IST")	At the grocery store, one of these can help you remember what to buy	(shopping) List	1997-05-06	1997 International Tournament semifinal game 2.
 1	200	no	ENDS WITH "IST\"	(SLUTAR MED "IST")	It connects the hand & the forearm	Wrist	1997-05-06	1997 International Tournament semifinal game 2.
 1	300	no	ENDS WITH "IST\"	(SLUTAR MED "IST")	It's like fog but doesn't reduce visibility as much	Mist	1997-05-06	1997 International Tournament semifinal game 2.
@@ -9126,11 +9126,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	600	no	POTPOURRI	(POTPURRI)	This airline was founded in 1920 as the Queensland & Northern Territory Aerial Services Ltd.	Qantas	1997-05-06	1997 International Tournament semifinal game 2.
 2	800	no	POTPOURRI	(POTPURRI)	In 1783 these brothers demonstrated their hot air balloon to Louis XVI & Marie Antoinette	the Montgolfier brothers	1997-05-06	1997 International Tournament semifinal game 2.
 2	1000	no	POTPOURRI	(POTPURRI)	In mythology Laius & Oedipus both reigned over this Greek city	Thebes	1997-05-06	1997 International Tournament semifinal game 2.
-2	200	no	PLAYS & PLAYWRIGHTS	(PJASER &amp; DRAMATIKER)	\"Protest" is a semi-autobiographical play by this president of the Czech Republic	Vaclav Havel	1997-05-06	1997 International Tournament semifinal game 2.
-2	400	no	PLAYS & PLAYWRIGHTS	(PJASER &amp; DRAMATIKER)	Scene VI of George Bernard Shaw's play about this female saint is set in Rouen in 1431	Joan of Arc	1997-05-06	1997 International Tournament semifinal game 2.
-2	600	no	PLAYS & PLAYWRIGHTS	(PJASER &amp; DRAMATIKER)	A count's daughter seduces a servant in this Swede's 1880s drama "Miss Julie\"	August Strindberg	1997-05-06	1997 International Tournament semifinal game 2.
-2	800	no	PLAYS & PLAYWRIGHTS	(PJASER &amp; DRAMATIKER)	\"La Cantatrice Chauve", or "The Bald Soprano", is an Absurdist play by this author of "Rhinoceros\"	Eugene Ionesco	1997-05-06	1997 International Tournament semifinal game 2.
-2	1000	yes	PLAYS & PLAYWRIGHTS	(PJASER &amp; DRAMATIKER)	This American won a 1928 Pulitzer Prize for his very long, 9-act drama "Strange Interlude\"	Eugene O'Neill	1997-05-06	1997 International Tournament semifinal game 2.
+2	200	no	PLAYS & PLAYWRIGHTS	(PJASER & DRAMATIKER)	\"Protest" is a semi-autobiographical play by this president of the Czech Republic	Vaclav Havel	1997-05-06	1997 International Tournament semifinal game 2.
+2	400	no	PLAYS & PLAYWRIGHTS	(PJASER & DRAMATIKER)	Scene VI of George Bernard Shaw's play about this female saint is set in Rouen in 1431	Joan of Arc	1997-05-06	1997 International Tournament semifinal game 2.
+2	600	no	PLAYS & PLAYWRIGHTS	(PJASER & DRAMATIKER)	A count's daughter seduces a servant in this Swede's 1880s drama "Miss Julie\"	August Strindberg	1997-05-06	1997 International Tournament semifinal game 2.
+2	800	no	PLAYS & PLAYWRIGHTS	(PJASER & DRAMATIKER)	\"La Cantatrice Chauve", or "The Bald Soprano", is an Absurdist play by this author of "Rhinoceros\"	Eugene Ionesco	1997-05-06	1997 International Tournament semifinal game 2.
+2	1000	yes	PLAYS & PLAYWRIGHTS	(PJASER & DRAMATIKER)	This American won a 1928 Pulitzer Prize for his very long, 9-act drama "Strange Interlude\"	Eugene O'Neill	1997-05-06	1997 International Tournament semifinal game 2.
 2	200	no	PARDONNEZ MON FRANCAIS	-	Raising his glass, a Frenchman might say, "A votre sante", which means this	To your health	1997-05-06	1997 International Tournament semifinal game 2.
 2	400	no	PARDONNEZ MON FRANCAIS	-	A pas de trois is a dance for this many people	3	1997-05-06	1997 International Tournament semifinal game 2.
 2	600	no	PARDONNEZ MON FRANCAIS	-	At Le Bureau de Poste, you may buy les timbres, these	Stamps	1997-05-06	1997 International Tournament semifinal game 2.
@@ -9207,11 +9207,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	300	no	INTERNATIONAL POTPOURRI	(INTERNATIONELL BLANDNING)	The concept of Tapu---sacredness---is sacred to these indigenous people of New Zealand	Maori	1997-05-08	1997 International Tournament final game 1.
 1	400	no	INTERNATIONAL POTPOURRI	(INTERNATIONELL BLANDNING)	It's the seductive ballroom dance most associated with Buenos Aires	tango	1997-05-08	1997 International Tournament final game 1.
 1	500	no	INTERNATIONAL POTPOURRI	(INTERNATIONELL BLANDNING)	Kiunguja, which is spoken in Zanzibar, is a dialect of this African Bantu language	Swahili	1997-05-08	1997 International Tournament final game 1.
-1	100	no	NOVELS & NOVELISTS	(ROMANER &amp; FORFATTARE)	D'Artagnan is the swashbuckling hero of this author's "The Three Musketeers\"	Alexandre Dumas	1997-05-08	1997 International Tournament final game 1.
-1	200	no	NOVELS & NOVELISTS	(ROMANER &amp; FORFATTARE)	He's scared readers with such popular novels as "It", "Carrie" & "The Stand\"	Stephen King	1997-05-08	1997 International Tournament final game 1.
-1	300	no	NOVELS & NOVELISTS	(ROMANER &amp; FORFATTARE)	This British author wrote "The War in the Air" as well as "The War of the Worlds\"	H.G. Wells	1997-05-08	1997 International Tournament final game 1.
-1	400	no	NOVELS & NOVELISTS	(ROMANER &amp; FORFATTARE)	He died in 1924 without completing "The Trial" & "The Castle\"	Franz Kafka	1997-05-08	1997 International Tournament final game 1.
-1	500	no	NOVELS & NOVELISTS	(ROMANER &amp; FORFATTARE)	1943's "Magister Ludi", or "The Glass Bead Game", was the last novel by this German author	Hermann Hesse	1997-05-08	1997 International Tournament final game 1.
+1	100	no	NOVELS & NOVELISTS	(ROMANER & FORFATTARE)	D'Artagnan is the swashbuckling hero of this author's "The Three Musketeers\"	Alexandre Dumas	1997-05-08	1997 International Tournament final game 1.
+1	200	no	NOVELS & NOVELISTS	(ROMANER & FORFATTARE)	He's scared readers with such popular novels as "It", "Carrie" & "The Stand\"	Stephen King	1997-05-08	1997 International Tournament final game 1.
+1	300	no	NOVELS & NOVELISTS	(ROMANER & FORFATTARE)	This British author wrote "The War in the Air" as well as "The War of the Worlds\"	H.G. Wells	1997-05-08	1997 International Tournament final game 1.
+1	400	no	NOVELS & NOVELISTS	(ROMANER & FORFATTARE)	He died in 1924 without completing "The Trial" & "The Castle\"	Franz Kafka	1997-05-08	1997 International Tournament final game 1.
+1	500	no	NOVELS & NOVELISTS	(ROMANER & FORFATTARE)	1943's "Magister Ludi", or "The Glass Bead Game", was the last novel by this German author	Hermann Hesse	1997-05-08	1997 International Tournament final game 1.
 1	100	no	COOKING	(MATLAGNING)	The device for doing this to flour is basically a cup with a mesh screen	sifting	1997-05-08	1997 International Tournament final game 1.
 1	200	no	COOKING	(MATLAGNING)	The soup of these split vegetables is popular in the Middle East as well as in colder areas	peas/beans	1997-05-08	1997 International Tournament final game 1.
 1	300	no	COOKING	(MATLAGNING)	If you don't want to break this dish used to make aspic or pudding, use one of metal, not ceramic	mold/bowl	1997-05-08	1997 International Tournament final game 1.
@@ -9268,11 +9268,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	300	no	TRANSPORTATION	(TRANSPORTER)	An "underground city" connects the subway with downtown offices & shopping in this largest Quebec city	Montreal	1997-05-09	1997 International Tournament final game 2.
 1	400	no	TRANSPORTATION	(TRANSPORTER)	It's a chair carried on poles by porters, or a car with 4 doors	sedan	1997-05-09	1997 International Tournament final game 2.
 1	2000	yes	TRANSPORTATION	(TRANSPORTER)	This consortium of European aircraft makers is headquartered near Toulouse, France	Airbus	1997-05-09	1997 International Tournament final game 2.
-1	100	no	ACTORS & ACTRESSES	(SKADESPELARE &amp; SKADESPELERSKOR)	His original name was Carl Adolf Von Sydow	Max Von Sydow	1997-05-09	1997 International Tournament final game 2.
-1	200	no	ACTORS & ACTRESSES	(SKADESPELARE &amp; SKADESPELERSKOR)	Before he played "Dirty Harry", he made a name for himself as the "Man With No Name" in Sergio Leone westerns	Clint Eastwood	1997-05-09	1997 International Tournament final game 2.
-1	300	no	ACTORS & ACTRESSES	(SKADESPELARE &amp; SKADESPELERSKOR)	He played Michael Corleone in all 3 of Francis Ford Coppola's "Godfather" films	Al Pacino	1997-05-09	1997 International Tournament final game 2.
-1	400	no	ACTORS & ACTRESSES	(SKADESPELARE &amp; SKADESPELERSKOR)	This star of "Schindler's List" used to drive a forklift in Belfast	Liam Neeson	1997-05-09	1997 International Tournament final game 2.
-1	500	no	ACTORS & ACTRESSES	(SKADESPELARE &amp; SKADESPELERSKOR)	In her 1997 autobiography, she writes of her mariage at age 21 to Frank Sinatra, who was 50	Mia Farrow	1997-05-09	1997 International Tournament final game 2.
+1	100	no	ACTORS & ACTRESSES	(SKADESPELARE & SKADESPELERSKOR)	His original name was Carl Adolf Von Sydow	Max Von Sydow	1997-05-09	1997 International Tournament final game 2.
+1	200	no	ACTORS & ACTRESSES	(SKADESPELARE & SKADESPELERSKOR)	Before he played "Dirty Harry", he made a name for himself as the "Man With No Name" in Sergio Leone westerns	Clint Eastwood	1997-05-09	1997 International Tournament final game 2.
+1	300	no	ACTORS & ACTRESSES	(SKADESPELARE & SKADESPELERSKOR)	He played Michael Corleone in all 3 of Francis Ford Coppola's "Godfather" films	Al Pacino	1997-05-09	1997 International Tournament final game 2.
+1	400	no	ACTORS & ACTRESSES	(SKADESPELARE & SKADESPELERSKOR)	This star of "Schindler's List" used to drive a forklift in Belfast	Liam Neeson	1997-05-09	1997 International Tournament final game 2.
+1	500	no	ACTORS & ACTRESSES	(SKADESPELARE & SKADESPELERSKOR)	In her 1997 autobiography, she writes of her mariage at age 21 to Frank Sinatra, who was 50	Mia Farrow	1997-05-09	1997 International Tournament final game 2.
 1	100	no	HISTORY	(HISTORIA)	A potato famine during the 1840s caused this island's population to decline by about 2 million	Ireland	1997-05-09	1997 International Tournament final game 2.
 1	200	no	HISTORY	(HISTORIA)	The Treaty of Versailles ended this war & set up the League of Nations	World War I	1997-05-09	1997 International Tournament final game 2.
 1	300	no	HISTORY	(HISTORIA)	Hernando Cortes conquered the Aztecs & Francisco Pizarro conquered this Indian empire	Incan	1997-05-09	1997 International Tournament final game 2.
@@ -9283,11 +9283,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	300	no	MUSEUMS	(MUSEER)	The National Museum of American History is just one part of this Washington, D.C. institution	Smithsonian	1997-05-09	1997 International Tournament final game 2.
 1	400	no	MUSEUMS	(MUSEER)	The Museo Numismatico in Lima contains coins from this country from colonial times to the present	Peru	1997-05-09	1997 International Tournament final game 2.
 1	500	no	MUSEUMS	(MUSEER)	The setting for "Hamlet", Kronberg Castle in this Danish town now houses a maritime museum	Helsingborg	1997-05-09	1997 International Tournament final game 2.
-1	100	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR &amp; SYMBOLER)	(Big white "H" on a blue background)	Hospital	1997-05-09	1997 International Tournament final game 2.
-1	200	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR &amp; SYMBOLER)	(Giant marsupial with a pouch in the middle of a yellow sign)	\"Careful -  Kangaroo Crossing\"	1997-05-09	1997 International Tournament final game 2.
-1	300	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR &amp; SYMBOLER)	(White rectangle in middle of a red dot)	\"No Entrance\"	1997-05-09	1997 International Tournament final game 2.
-1	400	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR &amp; SYMBOLER)	(Table symbol on a brown square)	\"Picnic Area\"	1997-05-09	1997 International Tournament final game 2.
-1	500	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR &amp; SYMBOLER)	(Pair of up & down arrows above drawings of man & woman, on a blue square)	Elevator	1997-05-09	1997 International Tournament final game 2.
+1	100	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR & SYMBOLER)	(Big white "H" on a blue background)	Hospital	1997-05-09	1997 International Tournament final game 2.
+1	200	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR & SYMBOLER)	(Giant marsupial with a pouch in the middle of a yellow sign)	\"Careful -  Kangaroo Crossing\"	1997-05-09	1997 International Tournament final game 2.
+1	300	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR & SYMBOLER)	(White rectangle in middle of a red dot)	\"No Entrance\"	1997-05-09	1997 International Tournament final game 2.
+1	400	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR & SYMBOLER)	(Table symbol on a brown square)	\"Picnic Area\"	1997-05-09	1997 International Tournament final game 2.
+1	500	no	INTERNATIONAL SIGNS & SYMBOLS	(INTERNATIONELLA SKYLTAR & SYMBOLER)	(Pair of up & down arrows above drawings of man & woman, on a blue square)	Elevator	1997-05-09	1997 International Tournament final game 2.
 2	200	no	WORLD CURRENCY	(VARLDENS VALUTOR)	In December 1995 Venezuela devalued by 41% this currency named for its liberator	Bolivar	1997-05-09	1997 International Tournament final game 2.
 2	400	no	WORLD CURRENCY	(VARLDENS VALUTOR)	The aluminum & bronze schilling coin of this country is equivalent to 100 groschen	Austria	1997-05-09	1997 International Tournament final game 2.
 2	600	no	WORLD CURRENCY	(VARLDENS VALUTOR)	This country's 1996 2-dollar coin features Queen Elizabeth on one side & a polar bear on the other	Canada	1997-05-09	1997 International Tournament final game 2.
@@ -9308,11 +9308,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	600	no	THE OLYMPIC GAMES	(OLYMPISKA SPELEN)	Bob Mathias & Daley Thompson are the only men to win this 10-event track & field contest twice	decathlon	1997-05-09	1997 International Tournament final game 2.
 2	800	no	THE OLYMPIC GAMES	(OLYMPISKA SPELEN)	The Soviet Union & this country have won more gold medals in ice hockey than any others	Canada	1997-05-09	1997 International Tournament final game 2.
 2	1000	no	THE OLYMPIC GAMES	(OLYMPISKA SPELEN)	With 6 medals, this Russian gymnast was the most decorated athlete of the Atlanta games	Alexei Nemov	1997-05-09	1997 International Tournament final game 2.
-2	200	no	SCIENCE & NATURE	(NATURVETENSKAP &amp; NATUR)	Skiers in late spring might thank Ukichiro Nakaya, who pioneered the artificial creation of this	snow	1997-05-09	1997 International Tournament final game 2.
-2	400	no	SCIENCE & NATURE	(NATURVETENSKAP &amp; NATUR)	A branch of geology studies these ice masses, which formed the Svealand area where we're taping "Jeopardy!\"	glaciers	1997-05-09	1997 International Tournament final game 2.
-2	600	no	SCIENCE & NATURE	(NATURVETENSKAP &amp; NATUR)	In one of these areas, the tops of the trees are collectively called the canopy	rain forest	1997-05-09	1997 International Tournament final game 2.
-2	800	no	SCIENCE & NATURE	(NATURVETENSKAP &amp; NATUR)	In the physics of sound or on the ocean, it's the distance from crest to crest	wavelength	1997-05-09	1997 International Tournament final game 2.
-2	2000	yes	SCIENCE & NATURE	(NATURVETENSKAP &amp; NATUR)	These theorized subatomic particles take their name from James Joyce's "Finnegans Wake\"	quarks	1997-05-09	1997 International Tournament final game 2.
+2	200	no	SCIENCE & NATURE	(NATURVETENSKAP & NATUR)	Skiers in late spring might thank Ukichiro Nakaya, who pioneered the artificial creation of this	snow	1997-05-09	1997 International Tournament final game 2.
+2	400	no	SCIENCE & NATURE	(NATURVETENSKAP & NATUR)	A branch of geology studies these ice masses, which formed the Svealand area where we're taping "Jeopardy!\"	glaciers	1997-05-09	1997 International Tournament final game 2.
+2	600	no	SCIENCE & NATURE	(NATURVETENSKAP & NATUR)	In one of these areas, the tops of the trees are collectively called the canopy	rain forest	1997-05-09	1997 International Tournament final game 2.
+2	800	no	SCIENCE & NATURE	(NATURVETENSKAP & NATUR)	In the physics of sound or on the ocean, it's the distance from crest to crest	wavelength	1997-05-09	1997 International Tournament final game 2.
+2	2000	yes	SCIENCE & NATURE	(NATURVETENSKAP & NATUR)	These theorized subatomic particles take their name from James Joyce's "Finnegans Wake\"	quarks	1997-05-09	1997 International Tournament final game 2.
 2	200	no	AUTHORS	(FORFATTARE)	His "Voyages Extraordinaires" include one "From the Earth to the Moon" & one "To the Center of the Earth\"	Jules Verne	1997-05-09	1997 International Tournament final game 2.
 2	400	no	AUTHORS	(FORFATTARE)	She met poet Percy in the spring of 1814, eloped to France with him in July & married him in 1816	Mary Shelley	1997-05-09	1997 International Tournament final game 2.
 2	600	no	AUTHORS	(FORFATTARE)	This author of "The Son of the Wolf" & "The Sea-Wolf" called his home "Wolf House\"	Jack London	1997-05-09	1997 International Tournament final game 2.
@@ -11129,11 +11129,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	600	no	FICTIONAL CHARACTERS	-	She married Christian de Neuvillette but it was Cyrano de Bergerac's poetry that she really loved	Roxanne	1997-06-20	-
 2	800	no	FICTIONAL CHARACTERS	-	In plot "The Deerslayer" is chronologically the first of 5 tales about this frontiersman	Natty Bumppo	1997-06-20	-
 2	1000	yes	FICTIONAL CHARACTERS	-	In "The Great Gatsby", this bonds salesman lives next door to Jay Gatsby	Nick Carraway	1997-06-20	-
-2	200	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter &amp; number combined)	On its label, this brown condiment claims to be "How Steak Is Done\"	A-1	1997-06-20	-
-2	400	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter &amp; number combined)	Filed by employers with the SSA, this form shows workers' yearly wages & taxes withheld	W-2	1997-06-20	-
-2	600	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter &amp; number combined)	Viacom Inc. owns MTV as well as this music network aimed at an older audience	VH1	1997-06-20	-
-2	1500	yes	LETTERS & NUMBERS	(In this category, each correct response will be a letter &amp; number combined)	Common term for the group of wealthy nations whose leaders hold annual summer summits	G-7	1997-06-20	-
-2	1000	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter &amp; number combined)	This controversial drug used to end pregnancies was developed by the French company Roussel Uclaf	RU-486	1997-06-20	-
+2	200	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter & number combined)	On its label, this brown condiment claims to be "How Steak Is Done\"	A-1	1997-06-20	-
+2	400	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter & number combined)	Filed by employers with the SSA, this form shows workers' yearly wages & taxes withheld	W-2	1997-06-20	-
+2	600	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter & number combined)	Viacom Inc. owns MTV as well as this music network aimed at an older audience	VH1	1997-06-20	-
+2	1500	yes	LETTERS & NUMBERS	(In this category, each correct response will be a letter & number combined)	Common term for the group of wealthy nations whose leaders hold annual summer summits	G-7	1997-06-20	-
+2	1000	no	LETTERS & NUMBERS	(In this category, each correct response will be a letter & number combined)	This controversial drug used to end pregnancies was developed by the French company Roussel Uclaf	RU-486	1997-06-20	-
 3	0	no	19th CENTURY POLITICS	(Alex:  A long time ago!)	These 7 events occurred between August 21 & October 15, 1858 & each lasted 3 hours	the Lincoln-Douglas Debates for Senator in Illinois	1997-06-20	-
 1	100	no	THE BIBLE	-	This husband of Mary is not named in Mark's gospel	Joseph	1997-06-23	-
 1	200	no	THE BIBLE	-	Solomon proposed that this object of contention be divided between 2 women	a baby	1997-06-23	-

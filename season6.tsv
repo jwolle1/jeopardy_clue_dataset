@@ -2815,7 +2815,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	500	no	SING-ALONG SONGS	-	Building whose "roof is so slanty it touches the ground\"	a shanty in old shanty town	1989-11-22	-
 1	100	no	WOMEN	-	She logged 14 days of flight time in space in 1983 & 1984 on 2 shuttle missions	Sally Ride	1989-11-22	-
 1	200	no	WOMEN	-	\"I've been seen around the world by more people than any other actress on TV," she told us in 1987	Lucille Ball	1989-11-22	-
-1	300	no	WOMEN	-	At the 1976 Olympics she scored 7 10.00s & took home 5 medals	Nadia Com&#259;neci	1989-11-22	-
+1	300	no	WOMEN	-	At the 1976 Olympics she scored 7 10.00s & took home 5 medals	Nadia Comaneci	1989-11-22	-
 1	100	no	COOKING	-	Cooking method used to make Japanese tempura or Italian fritto misto	frying	1989-11-22	-
 1	200	no	COOKING	-	\"Joy of Cooking" says 1 ounce of this will raise 4 cups of flour in 1 1/2 to 2 hours	yeast	1989-11-22	-
 1	300	no	COOKING	-	Literally "blue ribbon", this French cooking school is one of the most renowned in the world	Cordon Bleu	1989-11-22	-
@@ -4125,7 +4125,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	no	SEAFOOD	-	It's the kind of seafood that's most frequently deviled	crab	1990-01-16	-
 2	600	no	SEAFOOD	-	A rollmop is a fillet of this fish rolled around a pickle or onion & marinated	herring	1990-01-16	-
 2	800	no	SEAFOOD	-	If fish such as shad is baked on a wooden board, it's said to be this	planked	1990-01-16	-
-2	1000	no	SEAFOOD	-	Sole topped with butter sauce & parsley is called this, French for "Miller's Wife\"	Meuni&egrave;re	1990-01-16	-
+2	1000	no	SEAFOOD	-	Sole topped with butter sauce & parsley is called this, French for "Miller's Wife\"	Meuniere	1990-01-16	-
 3	0	no	PUBLISHING	-	Annual publication whose 1992 issue will mark its bicentennial	The Old Farmer's Almanac	1990-01-16	-
 1	100	no	FAMOUS TOMs	-	This NBC newsman used to co-host the "Today" show with Barbara Walters & her successor, Jane Pauley	Tom Brokaw	1990-01-19	-
 1	200	no	FAMOUS TOMs	-	In 1863 he married Lavinia, who, like him, stood 35 inches tall	Tom Thumb	1990-01-19	-
@@ -4324,7 +4324,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	300	no	BUSINESS BIGGIES	-	Owned by Bristol-Myers, this hair-care line includes the most popular hair-coloring products in U.S.	Clairol	1990-01-24	-
 1	400	no	BUSINESS BIGGIES	-	The grass is always greener when it's this, the world's 1st synthetic turf	AstroTurf	1990-01-24	-
 1	500	no	BUSINESS BIGGIES	-	G.D. are the 1st & middle initials of this man who founded the company that created NutraSweet	Searle	1990-01-24	-
-1	100	no	LITERARY RELATIVES	-	Their father, an Irish-born clergyman named Patrick Brunty, changed the spelling of the family name	Bront&euml; Sisters (The Bront&euml;s)	1990-01-24	-
+1	100	no	LITERARY RELATIVES	-	Their father, an Irish-born clergyman named Patrick Brunty, changed the spelling of the family name	Bronte Sisters (The Brontes)	1990-01-24	-
 1	200	no	LITERARY RELATIVES	-	Sara Coleridge wrote children's verse but was best known for editing the works of this man, her father	Samuel Coleridge	1990-01-24	-
 1	300	no	LITERARY RELATIVES	-	Her mother, feminist author Mary Wollstonecraft, died 11 days after her birth	Mary Shelley	1990-01-24	-
 1	400	no	LITERARY RELATIVES	-	The adventures of his grandfather "Foul-Weather Jack" inspired parts of "Don Juan\"	Lord Byron	1990-01-24	-
@@ -7097,7 +7097,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1000	no	THE 20th CENTURY	-	Teddy Roosevelt mediated the 1905 Treaty of Portsmouth which ended this war	Russo-Japanese War	1990-05-07	1990 College Championship quarterfinal game 1.
 2	200	no	ISLAND NICKNAMES	-	\"The Land of the Shamrock\"	Ireland	1990-05-07	1990 College Championship quarterfinal game 1.
 2	400	no	ISLAND NICKNAMES	-	\"The Rock", or "America's Devil's Island\"	Alcatraz	1990-05-07	1990 College Championship quarterfinal game 1.
-2	600	no	ISLAND NICKNAMES	-	\"Islands of the Tortoises\"	Gal&aacute;pagos	1990-05-07	1990 College Championship quarterfinal game 1.
+2	600	no	ISLAND NICKNAMES	-	\"Islands of the Tortoises\"	Galapagos	1990-05-07	1990 College Championship quarterfinal game 1.
 2	800	no	ISLAND NICKNAMES	-	\"The Isle of the Tailess Cat\"	Mann (The Isle of Man)	1990-05-07	1990 College Championship quarterfinal game 1.
 2	1000	no	ISLAND NICKNAMES	-	Hawaiian island known as "The Island of Lepers\"	Molokai	1990-05-07	1990 College Championship quarterfinal game 1.
 2	200	no	PHYSICAL SCIENCE	-	This body accounts for over 99% of the mass of our solar system	sun	1990-05-07	1990 College Championship quarterfinal game 1.
@@ -8373,18 +8373,18 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	AGATHA CHRISTIE	-	Christie said this female detective always expected the worst of everyone, & was usually right	Miss Marple	1990-06-11	-
 2	1000	no	AGATHA CHRISTIE	-	Many people wanted her to change the surprise ending of this '53 courtroom drama, but she refused	Witness for the Prosecution	1990-06-11	-
 3	0	no	MINERALS	-	These 2 nations lead the world in the production of gold	South Africa & USSR	1990-06-11	-
-2	200	no	HISTORIC NAMES	-	He accepted the Dukedom of Bront&euml; in Sicily a few years before he died at Trafalgar	Admiral Nelson	1990-06-12	-
+2	200	no	HISTORIC NAMES	-	He accepted the Dukedom of Bronte in Sicily a few years before he died at Trafalgar	Admiral Nelson	1990-06-12	-
 2	400	no	HISTORIC NAMES	-	The English kidnapped her in 1613 & baptized her "Lady Rebecca\"	Pocahontas	1990-06-12	-
 2	600	no	HISTORIC NAMES	-	Empress Eugenie of France was born the daughter of a grandee in this country, where she also died	Spain	1990-06-12	-
 2	600	no	CLASSICAL MUSIC	-	These 20 Liszt piano works are Gypsy rather than Magyar in origin	Hungarian Rhapsodies	1990-06-12	-
-2	1000	no	CLASSICAL MUSIC	-	Personal tragedies made this French composer of "The Swan" an existentialist before Sartre	Camille Saint-Sa&euml;ns	1990-06-12	-
+2	1000	no	CLASSICAL MUSIC	-	Personal tragedies made this French composer of "The Swan" an existentialist before Sartre	Camille Saint-Saens	1990-06-12	-
 2	200	no	COUNTIES	-	Oklahoma's Rogers County was named for Clem Rogers, father of this man	Will Rogers	1990-06-12	-
 2	400	no	COUNTIES	-	This state's Los Alamos & Cibola Counties were the last in the U.S. to be established	New Mexico	1990-06-12	-
 2	600	no	COUNTIES	-	North Carolina has the only county named for this first English child born in America	Virginia Dare	1990-06-12	-
 2	800	no	COUNTIES	-	Of this state's 14 counties, only Nantucket & Franklin are not named for British people or place names	Massachusetts	1990-06-12	-
 2	600	no	WORLD RELIGIONS	-	The Society of Friends are the Quakers & the United Society of Believers in Christ's Second Coming, this group	Shakers	1990-06-12	-
 2	800	no	WORLD RELIGIONS	-	What Jews call the 5 Books of Moses Christians call this, which means 5 books	Pentateuch	1990-06-12	-
-2	1000	no	WORLD RELIGIONS	-	Born in &Aacute;vila, Spain in the 16th century, she reformed the Carmelite Order of nuns	St. Teresa	1990-06-12	-
+2	1000	no	WORLD RELIGIONS	-	Born in Avila, Spain in the 16th century, she reformed the Carmelite Order of nuns	St. Teresa	1990-06-12	-
 2	500	yes	LITERARY OCCUPATIONS	-	In the Dostoevsky novel, one was a writer, one a student at a monastery & one didn't work at all	The Brothers Karamazov	1990-06-12	-
 3	0	no	REPUBLICANS	-	This California Senator was the first Republican nominee for president, but he lost	(John Charles) Fremont	1990-06-12	-
 1	100	no	PRESIDENTIAL TRIVIA	-	Davy Crockett was "King of the Wild Frontier", & people called him "Man of the New Frontier\"	John Kennedy	1990-06-20	-
@@ -8423,16 +8423,16 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1000	no	THE CIVIL WAR	-	Entering from Canada, Confederate troops raided St. Albans in this New England state	Vermont	1990-06-20	-
 2	200	no	FASHION	-	In ancient times the women of this country wore the peplos, a tunic secured at the waist by a girdle	Greece	1990-06-20	-
 2	800	no	FASHION	-	The name for this pair of eyeglasses on a handle comes from the French for "to cast sidelong glances\"	lorgnettes	1990-06-20	-
-2	1000	no	FASHION	-	This empress of France appointed C.F. Worth, an Englishman, court dressmaker in 1869	Eug&eacute;nie	1990-06-20	-
+2	1000	no	FASHION	-	This empress of France appointed C.F. Worth, an Englishman, court dressmaker in 1869	Eugenie	1990-06-20	-
 2	400	no	ORGANIZATIONS	-	\"The Speckled Band of Boston", "Mrs. Hudson's Lodgers" & "Dr. Watson's Neglected Patients\"	organizations for Sherlock Holmes aficionados	1990-06-20	-
 2	600	no	ORGANIZATIONS	-	The oldest & largest Jewish service organization, its name means "sons of the covenant\"	B'nai B'rith	1990-06-20	-
 2	800	no	ORGANIZATIONS	-	Founded by 20 officers of the American Expeditionary Force, it's the largest veterans org. in the U.S.	American Legion	1990-06-20	-
 2	1000	no	ORGANIZATIONS	-	Occupation of most of the 1.7 million members of the NEA	teachers	1990-06-20	-
 2	200	no	EUROPEAN ARTISTS	-	In 1768 Sir Joshua Reynolds became the first pres. of this country's Royal Academy of Arts	Great Britain (England)	1990-06-20	-
 2	400	no	EUROPEAN ARTISTS	-	This troubled Dutchman's career lasted only 10 years; he shot himself in 1890	Van Gogh	1990-06-20	-
-2	2800	yes	EUROPEAN ARTISTS	-	It isn't known when he left his birthplace, Crete, but as a young man he studied with Titian in Venice	El Greco (Dom&eacute;nikos Theotok&oacute;poulos	1990-06-20	-
-2	800	no	EUROPEAN ARTISTS	-	Belgian surrealist who often painted mysterious men in bowler hats	(Ren&eacute;) Magritte	1990-06-20	-
-2	1000	no	EUROPEAN ARTISTS	-	Painter & woodcut designer called the greatest German Renaissance artist	Albrecht D&uuml;rer	1990-06-20	-
+2	2800	yes	EUROPEAN ARTISTS	-	It isn't known when he left his birthplace, Crete, but as a young man he studied with Titian in Venice	El Greco (Domenikos Theotokopoulos	1990-06-20	-
+2	800	no	EUROPEAN ARTISTS	-	Belgian surrealist who often painted mysterious men in bowler hats	(Rene) Magritte	1990-06-20	-
+2	1000	no	EUROPEAN ARTISTS	-	Painter & woodcut designer called the greatest German Renaissance artist	Albrecht Durer	1990-06-20	-
 2	200	no	U.S. CITIES	-	In 1722 French explorer B. de la Harpe called the site of this future capital "La Petite Roche\"	Little Rock	1990-06-20	-
 2	400	no	U.S. CITIES	-	2 of the smaller airports serving this southern city are Charlie Brown & DeKalb Peachtree	Atlanta	1990-06-20	-
 2	600	no	U.S. CITIES	-	This state's second largest city is Rockford	Illinois	1990-06-20	-
@@ -8656,13 +8656,13 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1000	no	PHILADELPHIA	-	One of Philadelphia's two daily newspapers	(1 of) Inquirer (or Daily News)	1990-06-27	-
 2	200	no	ART	-	Dadaist leader Marcel Duchamp painted a moustache on a reproduction of this famous da Vinci work	Mona Lisa	1990-06-27	-
 2	400	no	ART	-	This painter's landscapes drew compliments at a Manet exhibition, much to the chagrin of Manet	Monet	1990-06-27	-
-2	600	no	ART	-	Honor&eacute; Daumier went to prison for caricaturing King Louis Philippe as this fictional giant	Gargantua	1990-06-27	-
+2	600	no	ART	-	Honore Daumier went to prison for caricaturing King Louis Philippe as this fictional giant	Gargantua	1990-06-27	-
 2	800	no	ART	-	It's not known for sure if painters Hubert & Jan who had this last name were brothers	Van Eyck	1990-06-27	-
 2	1000	no	ART	-	Dutch artist who called his rigidly geometric style "Neoplasticism\"	Piet Mondrian	1990-06-27	-
 2	200	no	FOOD FACTS	-	Ads tell us this food has "36 calories a pat, same as margarine\"	butter	1990-06-27	-
 2	400	no	FOOD FACTS	-	The leaves of this vegetable are eaten with the fingers; the heart with a knife & fork	artichoke	1990-06-27	-
 2	600	no	FOOD FACTS	-	The literal translation of the Italian "tutti frutti\"	all fruits	1990-06-27	-
-2	800	no	FOOD FACTS	-	The name for this fluffy baked dish made with eggs comes from the French for "to blow\"	souffl&eacute;	1990-06-27	-
+2	800	no	FOOD FACTS	-	The name for this fluffy baked dish made with eggs comes from the French for "to blow\"	souffle	1990-06-27	-
 2	1000	no	FOOD FACTS	-	In cooking a farce is this, & hopefully yours won't turn out funny	stuffing	1990-06-27	-
 2	200	no	SECRETARIES OF STATE	-	This co-winner of the 1973 Nobel Peace Prize was America's 1st foreign-born Sec'y of State	Henry Kissinger	1990-06-27	-
 2	400	no	SECRETARIES OF STATE	-	In December 1985 he threatened to resign if required to take a polygraph test	George Shultz	1990-06-27	-
@@ -8705,7 +8705,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	200	no	MUSIC	-	Note in the tonic sol-fa scale, it's a name I call myself	mi	1990-06-28	-
 2	400	no	MUSIC	-	The William Tell Overture contains a ranz de vache, a Swiss alphorn melody used to call these	cows	1990-06-28	-
 2	600	no	MUSIC	-	The death of his mother inspired Brahms to compose this	A German Requiem	1990-06-28	-
-2	800	no	MUSIC	-	Sebastien &Eacute;rard's 19th c. invention of the double escapement made it possible to play rapid notes on this	piano	1990-06-28	-
+2	800	no	MUSIC	-	Sebastien Erard's 19th c. invention of the double escapement made it possible to play rapid notes on this	piano	1990-06-28	-
 2	1000	no	MUSIC	-	A chorale prelude is a piece written for this instrument	organ	1990-06-28	-
 2	200	no	BUSINESS & INDUSTRY	-	Headquarters of Bank of America, this Calif. city is considered the financial capital of the west	San Francisco	1990-06-28	-
 2	400	no	BUSINESS & INDUSTRY	-	This Italian gunmaker has licensed its name to Chevy for use on a sports car	Beretta	1990-06-28	-
@@ -8723,7 +8723,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	WORLD CITIES	-	The cultural center of Moorish Spain until 1248, a Muslim minaret is part of its famous cathedral	Seville	1990-06-28	-
 2	1000	no	WORLD CITIES	-	Basra was this country's 2nd largest city until war reduced its population from 1 million to 300,000	Iraq	1990-06-28	-
 2	200	no	NAME THE AUTHOR	-	\"I am sure the grapes are sour.\"	Aesop	1990-06-28	-
-2	400	no	NAME THE AUTHOR	-	\"I am Heathcliff.\"	Emily Bront&euml;	1990-06-28	-
+2	400	no	NAME THE AUTHOR	-	\"I am Heathcliff.\"	Emily Bronte	1990-06-28	-
 2	600	no	NAME THE AUTHOR	-	\"A salesman is got to dream, boy. It comes with the territory.\"	Arthur Miller	1990-06-28	-
 2	1000	yes	NAME THE AUTHOR	-	\"In the affluent society no useful distinction can be made between luxuries and necessities.\"	John Kenneth Galbraith	1990-06-28	-
 2	1000	no	NAME THE AUTHOR	-	\"I'm as mad as hell, and I'm not going to take this any more.\"	(Paddy) Chayefsky	1990-06-28	-
@@ -8844,11 +8844,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	FAMOUS SPEECHES	-	This senator told an audience in 1968, "Like my brothers before me, I pick up a fallen standard.\"	Ted Kennedy	1990-07-04	-
 2	1000	no	FAMOUS SPEECHES	-	In his 1st speech as president he said, "My fellow Americans, our long national nightmare is over.\"	Gerald Ford	1990-07-04	-
 3	0	no	VICE PRESIDENTS	-	11 of our 44 Vice Presidents were residents of this state	New York	1990-07-04	-
-1	100	no	19TH CENTURY AMERICA	[The TH was upper case &amp; underlined, about half the size of the 19 and there was space between the underlining and the TH.]	He was Thomas Jefferson's private sec'y before he & Clark went exploring	(Meriwether) Lewis	1990-07-05	-
-1	200	no	19TH CENTURY AMERICA	[The TH was upper case &amp; underlined, about half the size of the 19 and there was space between the underlining and the TH.]	The Wilmot Proviso tried to outlaw this practice in any territory acquired from Mexico	slavery	1990-07-05	-
-1	300	no	19TH CENTURY AMERICA	[The TH was upper case &amp; underlined, about half the size of the 19 and there was space between the underlining and the TH.]	In 1869 the final link in the Transcontinental RR was completed in what's now this state	Utah	1990-07-05	-
-1	400	no	19TH CENTURY AMERICA	[The TH was upper case &amp; underlined, about half the size of the 19 and there was space between the underlining and the TH.]	He wrote, "I went to the woods because I wished...to front only the essential facts of life\"	(Henry David) Thoreau	1990-07-05	-
-1	500	no	19TH CENTURY AMERICA	[The TH was upper case &amp; underlined, about half the size of the 19 and there was space between the underlining and the TH.]	The first official championship match in this sport in the U.S. was held at the Newport Casino in Rhode Island	tennis	1990-07-05	-
+1	100	no	19TH CENTURY AMERICA	[The TH was upper case & underlined, about half the size of the 19 and there was space between the underlining and the TH.]	He was Thomas Jefferson's private sec'y before he & Clark went exploring	(Meriwether) Lewis	1990-07-05	-
+1	200	no	19TH CENTURY AMERICA	[The TH was upper case & underlined, about half the size of the 19 and there was space between the underlining and the TH.]	The Wilmot Proviso tried to outlaw this practice in any territory acquired from Mexico	slavery	1990-07-05	-
+1	300	no	19TH CENTURY AMERICA	[The TH was upper case & underlined, about half the size of the 19 and there was space between the underlining and the TH.]	In 1869 the final link in the Transcontinental RR was completed in what's now this state	Utah	1990-07-05	-
+1	400	no	19TH CENTURY AMERICA	[The TH was upper case & underlined, about half the size of the 19 and there was space between the underlining and the TH.]	He wrote, "I went to the woods because I wished...to front only the essential facts of life\"	(Henry David) Thoreau	1990-07-05	-
+1	500	no	19TH CENTURY AMERICA	[The TH was upper case & underlined, about half the size of the 19 and there was space between the underlining and the TH.]	The first official championship match in this sport in the U.S. was held at the Newport Casino in Rhode Island	tennis	1990-07-05	-
 1	100	no	MEDICINE	-	In a normal delivery, this part of the baby appears first	head	1990-07-05	-
 1	200	no	MEDICINE	-	In 1985 health officials said this OTC drug could reduce the risk of a second heart attack	aspirin	1990-07-05	-
 1	300	no	MEDICINE	-	Herpes simplex causes these small skin blisters around the mouth	cold sores	1990-07-05	-

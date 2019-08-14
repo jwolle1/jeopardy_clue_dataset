@@ -750,10 +750,10 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	ANIMAL HUSBANDRY	-	Orson Welles voiced Nag & June Foray voiced his wife Nagaina, 2 cobras who were dealt with by this 1975 title hero	Rikki Tikki Tavi	2009-10-02	-
 1	800	no	ANIMAL HUSBANDRY	-	In the 1936 movie sequel "After" this guy, Asta the Terrier is seen chasing away a "suitor" of Mrs. Asta	the Thin Man	2009-10-02	-
 1	1000	no	ANIMAL HUSBANDRY	-	This animated family comprises Mama & Papa Bear & their kids, Sister & Brother Bear	the Berenstain Bears	2009-10-02	-
-1	200	no	PEZ	-	In 1927 an Austrian candy man created the name "Pez" by shortening the German word "Pfefferminz" (this flavor)	peppermint	2009-10-02	-
-1	400	no	PEZ	-	Pez was invented as an alternative to this habit; early dispensers had no character heads & resembled lighters	smoking	2009-10-02	-
-1	600	no	PEZ	-	In 1987 these body parts were added to the bottoms of dispensers to help them stand upright	feet	2009-10-02	-
-1	800	no	PEZ	-	This beloved icon remains the best-selling dispenser today (but that won't make him visit more than once a year)	Santa Claus	2009-10-02	-
+1	200	no	PE	-	In 1927 an Austrian candy man created the name "Pez" by shortening the German word "Pfefferminz" (this flavor)	peppermint	2009-10-02	-
+1	400	no	PE	-	Pez was invented as an alternative to this habit; early dispensers had no character heads & resembled lighters	smoking	2009-10-02	-
+1	600	no	PE	-	In 1987 these body parts were added to the bottoms of dispensers to help them stand upright	feet	2009-10-02	-
+1	800	no	PE	-	This beloved icon remains the best-selling dispenser today (but that won't make him visit more than once a year)	Santa Claus	2009-10-02	-
 1	200	no	MOBY DICK	(Alex: The novel.)	This enigmatic & reclusive captain has lost a leg & possibly his mind	Ahab	2009-10-02	-
 1	400	no	MOBY DICK	(Alex: The novel.)	The ship in "Moby Dick", the Pequod, was named after one of these groups	a Native American tribe	2009-10-02	-
 1	600	no	MOBY DICK	(Alex: The novel.)	Have yourself a cup of coffee after you name this first mate in the book	Starbuck	2009-10-02	-
@@ -1157,11 +1157,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	no	DENTIST-SPEAK	-	Bruxism means doing this, especially when you sleep; might we suggest a mouth guard?	grinding your teeth	2009-10-13	-
 2	1200	no	DENTIST-SPEAK	-	Like the blast of a volcano, the process of teeth first breaking through the gums is called this	eruption	2009-10-13	-
 2	2000	no	DENTIST-SPEAK	-	We just call it a teeth cleaning, but dentists & insurance providers call it this "P" word	a prophylaxis	2009-10-13	-
-2	400	no	SPORTS FOR DUMMIES	-	\"Getting into the Swing of Things" & "It's Your Sandbox" are chapters in this "for Dummies\"	Golf	2009-10-13	-
-2	800	no	SPORTS FOR DUMMIES	-	This Olympian woman who, sadly, passed away in 1998 is the co-author of "Running for Dummies\"	(Florence Griffith) Joyner	2009-10-13	-
-2	1200	no	SPORTS FOR DUMMIES	-	Hot foot it to this "for Dummies" to learn about the Cruyff move & the Zico move	Soccer	2009-10-13	-
-2	1600	no	SPORTS FOR DUMMIES	-	\"Baseball for Dummies" is by this Hall of Fame Reds second baseman & "Sunday Night Baseball" analyst	Joe Morgan	2009-10-13	-
-2	2000	no	SPORTS FOR DUMMIES	-	In "Hockey for Dummies", Mike Vernon tells how to stop one of these solo bursts in on goal	a breakaway	2009-10-13	-
+2	400	no	SPORTS FOR DUMMIE	-	\"Getting into the Swing of Things" & "It's Your Sandbox" are chapters in this "for Dummies\"	Golf	2009-10-13	-
+2	800	no	SPORTS FOR DUMMIE	-	This Olympian woman who, sadly, passed away in 1998 is the co-author of "Running for Dummies\"	(Florence Griffith) Joyner	2009-10-13	-
+2	1200	no	SPORTS FOR DUMMIE	-	Hot foot it to this "for Dummies" to learn about the Cruyff move & the Zico move	Soccer	2009-10-13	-
+2	1600	no	SPORTS FOR DUMMIE	-	\"Baseball for Dummies" is by this Hall of Fame Reds second baseman & "Sunday Night Baseball" analyst	Joe Morgan	2009-10-13	-
+2	2000	no	SPORTS FOR DUMMIE	-	In "Hockey for Dummies", Mike Vernon tells how to stop one of these solo bursts in on goal	a breakaway	2009-10-13	-
 2	400	no	COMMERCIAL JINGLE LYRICS	(Alex: You have to name the product.  We'll give you the...)	\"The mountain grown aroma always comin' through, oh, the best part of waking up...\"	Folgers	2009-10-13	-
 2	800	no	COMMERCIAL JINGLE LYRICS	(Alex: You have to name the product.  We'll give you the...)	\"Gimme a break, gimme a break, break me off a piece of that...\"	Kit Kat bar	2009-10-13	-
 2	1200	no	COMMERCIAL JINGLE LYRICS	(Alex: You have to name the product.  We'll give you the...)	\"They say a man should always dress for the job he wants, so why'm I dressed up like a pirate in this restaurant\"	FreeCreditReport.com	2009-10-13	-
@@ -1716,11 +1716,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	\"P.M.\"	-	Longitude east & west is reckoned by this, which runs through Greenwich, England	the Prime Meridian	2009-10-27	-
 2	2000	no	\"P.M.\"	-	A good soil conditioner, it's often spread on the ground to protect plants in hot, dry weather	peat moss	2009-10-27	-
 3	0	no	LANDMARKS	-	Operation Felix, a planned 1941 Nazi action to seize this territory, was never carried out because Spain wouldn't go along	Gibraltar	2009-10-27	-
-1	200	no	THE ENCYCLOPEDIA OF LIFE	-	E.O. Wilson, the man behind the EOL, is an expert on these insects, like the black & red fire types you'll find listed	ants	2009-10-28	-
-1	400	no	THE ENCYCLOPEDIA OF LIFE	-	Don't telephone an Arctic ground squirrel between early September & late April--it's doing this	hibernating	2009-10-28	-
-1	600	no	THE ENCYCLOPEDIA OF LIFE	-	The goal is a website for each of 1.8 million species, including this phylum's dinoflagellates & ciliates	protozoa	2009-10-28	-
-1	800	no	THE ENCYCLOPEDIA OF LIFE	-	It's a common error if you confused the call of the glaucous-winged type of this sea bird with the herring type	gulls	2009-10-28	-
-1	1000	no	THE ENCYCLOPEDIA OF LIFE	-	If you have video of the black-collared, coast horned or Nevada gridiron-tailed type of this reptile, send it in	lizard	2009-10-28	-
+1	200	no	THE ENCYCLOPEDIA OF LIF	-	E.O. Wilson, the man behind the EOL, is an expert on these insects, like the black & red fire types you'll find listed	ants	2009-10-28	-
+1	400	no	THE ENCYCLOPEDIA OF LIF	-	Don't telephone an Arctic ground squirrel between early September & late April--it's doing this	hibernating	2009-10-28	-
+1	600	no	THE ENCYCLOPEDIA OF LIF	-	The goal is a website for each of 1.8 million species, including this phylum's dinoflagellates & ciliates	protozoa	2009-10-28	-
+1	800	no	THE ENCYCLOPEDIA OF LIF	-	It's a common error if you confused the call of the glaucous-winged type of this sea bird with the herring type	gulls	2009-10-28	-
+1	1000	no	THE ENCYCLOPEDIA OF LIF	-	If you have video of the black-collared, coast horned or Nevada gridiron-tailed type of this reptile, send it in	lizard	2009-10-28	-
 1	200	no	MUSIC'S MISSING PERSONS	-	Elton John: "____ And The Jets\"	Bennie	2009-10-28	-
 1	400	no	MUSIC'S MISSING PERSONS	-	Bo Donaldson and The Heywoods: "____ Don't Be A Hero\"	Billy	2009-10-28	-
 1	600	no	MUSIC'S MISSING PERSONS	-	Dexys Midnight Runners: "Come On ____\"	Eileen	2009-10-28	-
@@ -2480,7 +2480,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	no	NEED HELP WITH PRONUNCIATION?	-	Ghanaian ex-U.N. Secretary-General: Long O in the first name, not like the drink	Kofi Annan	2009-11-16	-
 2	800	no	NEED HELP WITH PRONUNCIATION?	-	Welsh name, as of author Richard: Kind of aspirate the first "L" sound around both sides of your tongue--try it if you can!	Llewellyn	2009-11-16	-
 2	1200	no	NEED HELP WITH PRONUNCIATION?	-	Mexican state bordering Chiapas: The "X" sounds like "H\"	Oaxaca	2009-11-16	-
-2	1600	no	NEED HELP WITH PRONUNCIATION?	-	Vietnamese imperial city: A homophone of curds' partner	Hu&#7871;	2009-11-16	-
+2	1600	no	NEED HELP WITH PRONUNCIATION?	-	Vietnamese imperial city: A homophone of curds' partner	Hue	2009-11-16	-
 2	2000	no	NEED HELP WITH PRONUNCIATION?	-	Last name of Iran's controversial president: Just like it looks	Ahmadinejad	2009-11-16	-
 2	400	no	THEY SHOT THE SHERIFF	-	He & 5 accomplices ambushed Lincoln, N.M. sheriff William Brady in 1878, 3 years before Pat Garrett caught up with him	Billy the Kid	2009-11-16	-
 2	800	no	THEY SHOT THE SHERIFF	-	Dodge City marshal Ed Masterson, brother of this sheriff, was shot to death by Jack Wagner in 1878	Bat Masterson	2009-11-16	-
@@ -2809,11 +2809,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	LYRICS FROM MUSICALS	-	\"Shoeless Joe from Hannibal, Mo.  Lucky are we to be having him\"	Damn Yankees	2009-11-24	-
 2	1600	no	LYRICS FROM MUSICALS	-	\"Once I'm with the Wizard my whole life will change, 'cuz once you're with the Wizard no one thinks you're strange\"	Wicked	2009-11-24	-
 2	2000	no	LYRICS FROM MUSICALS	-	\"Suddenly Seymour is standing beside me, he don't give me orders, he don't condescend\"	Little Shop of Horrors	2009-11-24	-
-2	400	no	THE NEW YORK TIMES 2009 FICTION BESTSELLERS	-	Temperance Brennan is accused of mishandling an autopsy in Kathy Reichs' "206" these body parts	Bones	2009-11-24	-
-2	800	no	THE NEW YORK TIMES 2009 FICTION BESTSELLERS	-	Hey, y'all, this CNN legal analyst made the list with her novel "The Eleventh Victim\"	Nancy Grace	2009-11-24	-
-2	1200	no	THE NEW YORK TIMES 2009 FICTION BESTSELLERS	-	In "Dead and Gone" by Charlaine Harris, this "True Blood" waitress searches for the killer of a werepanther	Sookie Stackhouse	2009-11-24	-
-2	1600	no	THE NEW YORK TIMES 2009 FICTION BESTSELLERS	-	\"Homer & Langley" by this author of "Ragtime" details the lives of the reclusive Collyer Brothers	(E.L.) Doctorow	2009-11-24	-
-2	2000	no	THE NEW YORK TIMES 2009 FICTION BESTSELLERS	-	Richard DiLallo & this author teamed to write "Alex Cross's 'Trial"', a novel about the detective's great-uncle	(James) Patterson	2009-11-24	-
+2	400	no	THE NEW YORK TIMES 2009 FICTION BESTSELLER	-	Temperance Brennan is accused of mishandling an autopsy in Kathy Reichs' "206" these body parts	Bones	2009-11-24	-
+2	800	no	THE NEW YORK TIMES 2009 FICTION BESTSELLER	-	Hey, y'all, this CNN legal analyst made the list with her novel "The Eleventh Victim\"	Nancy Grace	2009-11-24	-
+2	1200	no	THE NEW YORK TIMES 2009 FICTION BESTSELLER	-	In "Dead and Gone" by Charlaine Harris, this "True Blood" waitress searches for the killer of a werepanther	Sookie Stackhouse	2009-11-24	-
+2	1600	no	THE NEW YORK TIMES 2009 FICTION BESTSELLER	-	\"Homer & Langley" by this author of "Ragtime" details the lives of the reclusive Collyer Brothers	(E.L.) Doctorow	2009-11-24	-
+2	2000	no	THE NEW YORK TIMES 2009 FICTION BESTSELLER	-	Richard DiLallo & this author teamed to write "Alex Cross's 'Trial"', a novel about the detective's great-uncle	(James) Patterson	2009-11-24	-
 2	400	no	PAPAL NAMES	-	The constellation between Cancer & Virgo	Leo	2009-11-24	-
 2	800	no	PAPAL NAMES	-	Not guilty	Innocent	2009-11-24	-
 2	1000	yes	PAPAL NAMES	-	From the Latin for "blessed\"	Benedict	2009-11-24	-
@@ -3469,11 +3469,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	FRUIT BOWL	-	Sweetheart, Kansas Sweet, Rainier	cherries	2009-12-10	-
 2	1600	no	FRUIT BOWL	-	Burbank, Santa Rosa, Green Gage	plums	2009-12-10	-
 2	4800	yes	FRUIT BOWL	-	Sugarloaf, Red Spanish, Hilo	pineapples	2009-12-10	-
-2	400	no	URBAN DICTIONARY	-	The playoff type of this isn't just for athletes; It's also "grown by male college students during... finals week\"	a beard	2009-12-10	-
-2	800	no	URBAN DICTIONARY	-	It's one way to make use of an unwanted present; a usage example begins, "Grandma gave me a horrible sweater\"	regifting	2009-12-10	-
-2	1200	no	URBAN DICTIONARY	-	\"Love and affection shared by two straight males" is this type of affair	a bromance	2009-12-10	-
-2	1600	no	URBAN DICTIONARY	-	Title of a dy-no-mite '70s sitcom, it's said ironically about something not all that fun & "often used in a repetitive manner\"	good times	2009-12-10	-
-2	2000	no	URBAN DICTIONARY	-	Rhyming with "juiced", it's "to lose one's job because of one's blog", coined by blogger Heather Armstrong	dooced	2009-12-10	-
+2	400	no	URBAN DICTIONAR	-	The playoff type of this isn't just for athletes; It's also "grown by male college students during... finals week\"	a beard	2009-12-10	-
+2	800	no	URBAN DICTIONAR	-	It's one way to make use of an unwanted present; a usage example begins, "Grandma gave me a horrible sweater\"	regifting	2009-12-10	-
+2	1200	no	URBAN DICTIONAR	-	\"Love and affection shared by two straight males" is this type of affair	a bromance	2009-12-10	-
+2	1600	no	URBAN DICTIONAR	-	Title of a dy-no-mite '70s sitcom, it's said ironically about something not all that fun & "often used in a repetitive manner\"	good times	2009-12-10	-
+2	2000	no	URBAN DICTIONAR	-	Rhyming with "juiced", it's "to lose one's job because of one's blog", coined by blogger Heather Armstrong	dooced	2009-12-10	-
 3	0	no	1989 NO. 1 HITS	-	The Billboard Book of No. 1 Hits says this song brought mail from history teachers who hailed it as an educational aid	\"We Didn't Start The Fire" (by Billy Joel)	2009-12-10	-
 1	200	no	ELVES	-	Alabaster Snowball, administrator of the Naughty & Nice List, is one of his elves	Santa Claus	2009-12-11	-
 1	400	no	ELVES	-	Originally, these 3 elves who promote Kellogg's Rice Krispies had a brother named Pow	Snap, Crackle, & Pop	2009-12-11	-
@@ -4095,7 +4095,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	800	no	\"HAL\"	-	It's the medical term for bad breath	halitosis	2009-12-28	-
 1	1000	no	\"HAL\"	-	Naturally occurring crystalline sodium chloride	halite	2009-12-28	-
 1	200	no	2001	-	September 8: she defeats her younger sister 6-2, 6-4 to repeat as women's champion at the U.S. Open	Venus Williams	2009-12-28	-
-1	400	no	2001	-	April 1: April fool! This former Serbian dictator surrenders to the police	Miloševi&#263;	2009-12-28	-
+1	400	no	2001	-	April 1: April fool! This former Serbian dictator surrenders to the police	Miloševic	2009-12-28	-
 1	600	no	2001	-	November 19: the establishment of this agency that cleared you to get on the plane that brought you to Los Angeles	the TSA (Transportation Security Administration)	2009-12-28	-
 1	800	no	2001	-	March 13: the U.S. bans meat imports from the EU due to outbreaks of this "anatomical" disease	hoof-and-mouth	2009-12-28	-
 1	200	no	I'M SORRY DAVE	-	Soccer fan Marc Anthony sent an apology to this L.A. Galaxy midfielder after missing his first game	David Beckham	2009-12-28	-
@@ -4344,11 +4344,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	THE ASSASSINATION OF LINCOLN	-	Dirty Harry could tell you it's also the caliber of the Derringer used by John Wilkes Booth to shoot Lincoln	.44	2010-01-01	-
 2	1600	no	THE ASSASSINATION OF LINCOLN	-	The 3-word Latin phrase yelled out by John Wilkes Booth while making his escape	sic semper tyrannis	2010-01-01	-
 2	2000	no	THE ASSASSINATION OF LINCOLN	-	Attempts on the lives of VP Andrew Johnson & this Secretary of State were also part of the plot	Seward	2010-01-01	-
-2	400	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE &amp; AFTER"--we call it...)	Son of Philip II of Macedonia who became the world's largest coral system	Alexander the Great Barrier Reef	2010-01-01	-
-2	800	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE &amp; AFTER"--we call it...)	Period of time named for an alloy of copper & tin & the new water-bearing Zodiacal era	the Bronze Age of Aquarius	2010-01-01	-
-2	1200	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE &amp; AFTER"--we call it...)	\"Wonder"-ful giant statue of Helios that brings financial aid to study at Oxford	The Colossus of Rhodes Scholarship	2010-01-01	-
-2	1600	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE &amp; AFTER"--we call it...)	Sophoclean tragedy about the killing of a father & his friend, the actor who portrayed Henry Higgins on film	Oedipus Rex Harrison	2010-01-01	-
-2	2000	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE &amp; AFTER"--we call it...)	Homo erectus archaeological find on Jakarta's island by an expatriate U.S. photographer	Java Man Ray	2010-01-01	-
+2	400	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE & AFTER"--we call it...)	Son of Philip II of Macedonia who became the world's largest coral system	Alexander the Great Barrier Reef	2010-01-01	-
+2	800	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE & AFTER"--we call it...)	Period of time named for an alloy of copper & tin & the new water-bearing Zodiacal era	the Bronze Age of Aquarius	2010-01-01	-
+2	1200	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE & AFTER"--we call it...)	\"Wonder"-ful giant statue of Helios that brings financial aid to study at Oxford	The Colossus of Rhodes Scholarship	2010-01-01	-
+2	1600	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE & AFTER"--we call it...)	Sophoclean tragedy about the killing of a father & his friend, the actor who portrayed Henry Higgins on film	Oedipus Rex Harrison	2010-01-01	-
+2	2000	no	B.C. & AFTER	(Alex: A historical twist on "BEFORE & AFTER"--we call it...)	Homo erectus archaeological find on Jakarta's island by an expatriate U.S. photographer	Java Man Ray	2010-01-01	-
 3	0	no	ROSE BOWL HISTORY	-	The only time the game wasn't held in Calif. was 1942, when it was in N.C., amidst fears of another event like this one	Pearl Harbor	2010-01-01	-
 1	200	no	BRITISH HISTORY DATEBOOK	-	January 20, 1265: This political body meets for the first time	the Parliament	2010-01-04	-
 1	400	no	BRITISH HISTORY DATEBOOK	-	October 4, 1535: The first complete modern English version of this is published	the Bible	2010-01-04	-
@@ -5133,11 +5133,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	POP QUIZ	-	An early label for this soda showed a hillbilly shooting at a revenuer running from an outhouse	Mountain Dew	2010-01-22	-
 1	800	no	POP QUIZ	-	In 1963 the U.S. fifth district court in Dallas ruled that this, with 23 flavors, was not a cola	Dr. Pepper	2010-01-22	-
 1	1000	no	POP QUIZ	-	The logo of this ginger ale brand once featured the outline of North America	Canada Dry	2010-01-22	-
-2	400	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	If you're in the South Pacific on July 11, you can get a good look at a total one of these	an eclipse	2010-01-22	-
-2	800	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	The July 2009 sit-down among President Obama, a Harvard prof & a Cambridge cop was dubbed this sudsy summit	the Beer Summit	2010-01-22	-
-2	1200	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	160 square rods equals 1 of this square measure (that one was in the '09 book too)	an acre	2010-01-22	-
-2	1600	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	This state is big, it's fiercely independent & it has the highest percentage of people without health insurance	Texas	2010-01-22	-
-2	2000	no	THE WORLD ALMANAC AND BOOK OF FACTS	-	With over 30 million tons, China leads the world in this, a 1-word equivalent of fish farming	aquaculture	2010-01-22	-
+2	400	no	THE WORLD ALMANAC AND BOOK OF FACT	-	If you're in the South Pacific on July 11, you can get a good look at a total one of these	an eclipse	2010-01-22	-
+2	800	no	THE WORLD ALMANAC AND BOOK OF FACT	-	The July 2009 sit-down among President Obama, a Harvard prof & a Cambridge cop was dubbed this sudsy summit	the Beer Summit	2010-01-22	-
+2	1200	no	THE WORLD ALMANAC AND BOOK OF FACT	-	160 square rods equals 1 of this square measure (that one was in the '09 book too)	an acre	2010-01-22	-
+2	1600	no	THE WORLD ALMANAC AND BOOK OF FACT	-	This state is big, it's fiercely independent & it has the highest percentage of people without health insurance	Texas	2010-01-22	-
+2	2000	no	THE WORLD ALMANAC AND BOOK OF FACT	-	With over 30 million tons, China leads the world in this, a 1-word equivalent of fish farming	aquaculture	2010-01-22	-
 2	400	no	MELON-CHOLY	-	One food book says, "There are those who wouldn't trade a slice of" this "on a hot summer day for anything\"	watermelon	2010-01-22	-
 2	800	no	MELON-CHOLY	-	Americans call an orange-fleshed melon with a netted rind this; charentais is a variety of the true one	a cantaloupe	2010-01-22	-
 2	1200	no	MELON-CHOLY	-	This melon that was prized by ancient Egyptians has a name that tells you how juicy & sweet it is	honeydew	2010-01-22	-
@@ -5314,8 +5314,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	THEY NAMED A CITY FOR ME IN...	(Alex: You have to tell us which state.)	Commodore Robert F. Stockton (1850)	California	2010-01-27	-
 2	2200	yes	THEY NAMED A CITY FOR ME IN...	(Alex: You have to tell us which state.)	Reverend Newitt Vick (1811)	Mississippi	2010-01-27	-
 2	2000	no	THEY NAMED A CITY FOR ME IN...	(Alex: You have to tell us which state.)	Lieutenant Caspar (sic) Collins (1888)	Wyoming	2010-01-27	-
-2	800	no	THIS OLD HOUSE 30th ANNIVERSARY	-	In 1998 the show worked on a home in this bay city, addressing concerns about seismic fitness	San Francisco	2010-01-27	-
-2	1600	no	THIS OLD HOUSE 30th ANNIVERSARY	-	This master carpenter is pure New England & even has the same name as a "Cheers" character	Norm Abram	2010-01-27	-
+2	800	no	THIS OLD HOUSE 30th ANNIVERSAR	-	In 1998 the show worked on a home in this bay city, addressing concerns about seismic fitness	San Francisco	2010-01-27	-
+2	1600	no	THIS OLD HOUSE 30th ANNIVERSAR	-	This master carpenter is pure New England & even has the same name as a "Cheers" character	Norm Abram	2010-01-27	-
 2	400	no	MYSTERY FICTION	-	Although best known for his Pooh stories, he did publish "The Red House Mystery" in 1922	Milne	2010-01-27	-
 2	800	no	MYSTERY FICTION	-	In 1953 she adapted her short story "Witness for the Prosecution" for the London stage	(Agatha) Christie	2010-01-27	-
 2	1200	no	MYSTERY FICTION	-	This stripper is credited with writing the 1941 mystery "The G-String Murders" with herself as the detective	Gypsy Rose Lee	2010-01-27	-
@@ -5401,8 +5401,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	SHAME ON YOU	-	In 1983 he wrote "Shame"; 5 years later "The Satanic Verses" would make a bigger splash	Salman Rushdie	2010-01-29	-
 1	800	no	SHAME ON YOU	-	The shame this French "fils" felt over his illegitimate birth in 1824 didn't stop him from writing "Camille" in 1852	Dumas	2010-01-29	-
 1	1000	no	SHAME ON YOU	-	Spoiler alert!  In "Oedipus Rex", ol' Oedi blinds himself, while this woman hangs herself in shame	Jocasta (his mother accepted)	2010-01-29	-
-1	400	no	THE GRAMMYS	(Alex: And in honor of the 52nd Grammy Awards show, which will be on CBS this Sunday, we have a whole category devoted to...)	In 2007 this ex-Mouseketeer not named Britney was honored for her song "Ain't No Other Man\"	Christina Aguilera	2010-01-29	-
-1	800	no	THE GRAMMYS	(Alex: And in honor of the 52nd Grammy Awards show, which will be on CBS this Sunday, we have a whole category devoted to...)	Kristian Bush & Jennifer Nettles make sweet music as this country duo, Grammy winners in 2009	Sugarland	2010-01-29	-
+1	400	no	THE GRAMMY	(Alex: And in honor of the 52nd Grammy Awards show, which will be on CBS this Sunday, we have a whole category devoted to...)	In 2007 this ex-Mouseketeer not named Britney was honored for her song "Ain't No Other Man\"	Christina Aguilera	2010-01-29	-
+1	800	no	THE GRAMMY	(Alex: And in honor of the 52nd Grammy Awards show, which will be on CBS this Sunday, we have a whole category devoted to...)	Kristian Bush & Jennifer Nettles make sweet music as this country duo, Grammy winners in 2009	Sugarland	2010-01-29	-
 2	400	no	GERMAN LITERATURE	-	Many of the fairy tales compiled by them came from Dorthea Viehmann, a widow who came to town to sell produce	the Brothers Grimm	2010-01-29	-
 2	400	no	HOLLYWOOD REMAKES	-	This 1960 Rat Pack film was remade in 2001	Ocean's Eleven	2010-01-29	-
 2	800	no	HOLLYWOOD REMAKES	-	This waterlogged 1935 movie with Charles Laughton & Clark Gable was remade in 1962 & 1984	Mutiny on the Bounty	2010-01-29	-
@@ -6441,7 +6441,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	MIND THE "GAP\"	-	It's that yawning gulf between the old & the young	a generation gap	2010-02-25	-
 1	800	no	MIND THE "GAP\"	-	Unit of resolution for your digital camera	mega-pixels	2010-02-25	-
 1	1000	no	MIND THE "GAP\"	-	Greek term for spiritual, not sensual, love	agápe	2010-02-25	-
-1	200	no	THE BOY SCOUTS OF AMERICA	(Jimmy: The Boy Scouts of America--celebrating 100 years of building character.)	In 1940 this composer gave the Boy & Girl Scouts all future royalties from the song "God Bless America\"	(Irving) Berlin	2010-02-25	-
+1	200	no	THE BOY SCOUTS OF AMERIC	(Jimmy: The Boy Scouts of America--celebrating 100 years of building character.)	In 1940 this composer gave the Boy & Girl Scouts all future royalties from the song "God Bless America\"	(Irving) Berlin	2010-02-25	-
 2	400	no	THE BEATLES	-	This song with a simple desire is significant as The Beatles' first chart topper in America	\"I Want To Hold Your Hand\"	2010-02-25	-
 2	800	no	THE BEATLES	-	John Lennon said this 1965 movie title tune was one of his favorites, in part because he wrote it about himself	\"Help!\"	2010-02-25	-
 2	1200	no	THE BEATLES	-	In 1964 it was all about "me" with The Beatles--the lads had these 2 No. 1 hits with "me" in the title	\"Can't Buy Me Love" & "Love Me Do\"	2010-02-25	-
@@ -6785,11 +6785,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	A "D" IN GEOGRAPHY	-	It occupies 18,600 square miles in the West Indies & shares its island home with another nation	the Dominican Republic	2010-03-05	-
 2	1600	no	A "D" IN GEOGRAPHY	-	This Scottish river flows into the North Sea at Aberdeen	the Dee	2010-03-05	-
 2	2000	no	A "D" IN GEOGRAPHY	-	Once part of the French Protectorate of Somaliland, this nation gained its independence in 1977	Djibouti	2010-03-05	-
-2	400	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE &amp; AFTER.  It's called...)	Brat Pack detention in a 1985 film leads to a meal with 3 slices of toast, turkey, bacon & mayo	The Breakfast Club Sandwich	2010-03-05	-
-2	800	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE &amp; AFTER.  It's called...)	Charlton Heston goes crazy when he finds out a revolutionary new foodstuff is "haricots verts" in French	Soylent Green Beans	2010-03-05	-
-2	1200	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE &amp; AFTER.  It's called...)	War is afoot in this Marx Brothers classic about the daily changing of broth at a restaurant	Duck Soup du Jour	2010-03-05	-
-2	1600	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE &amp; AFTER.  It's called...)	Stephen King's tale of Nebraska young 'uns who go homicidal when a frankfurter is battered & put on a stick	Children of the Corn Dog	2010-03-05	-
-2	2000	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE &amp; AFTER.  It's called...)	\"Larger" than life animated tale from Roald Dahl served as a dessert that sounds like it should be for shoe menders	James and the Giant Peach Cobbler	2010-03-05	-
+2	400	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE & AFTER.  It's called...)	Brat Pack detention in a 1985 film leads to a meal with 3 slices of toast, turkey, bacon & mayo	The Breakfast Club Sandwich	2010-03-05	-
+2	800	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE & AFTER.  It's called...)	Charlton Heston goes crazy when he finds out a revolutionary new foodstuff is "haricots verts" in French	Soylent Green Beans	2010-03-05	-
+2	1200	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE & AFTER.  It's called...)	War is afoot in this Marx Brothers classic about the daily changing of broth at a restaurant	Duck Soup du Jour	2010-03-05	-
+2	1600	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE & AFTER.  It's called...)	Stephen King's tale of Nebraska young 'uns who go homicidal when a frankfurter is battered & put on a stick	Children of the Corn Dog	2010-03-05	-
+2	2000	no	A MOVIE BEFORE, THEN DINNER AFTER	(Alex: Next we have a new twist on BEFORE & AFTER.  It's called...)	\"Larger" than life animated tale from Roald Dahl served as a dessert that sounds like it should be for shoe menders	James and the Giant Peach Cobbler	2010-03-05	-
 2	400	no	I AM SAM	-	Mathew Brady learned about daugerreotypes from this coded inventor	Samuel Morse	2010-03-05	-
 2	800	no	I AM SAM	-	The government ordered 1,000 pistols from him during the Mexican War	Samuel Colt	2010-03-05	-
 2	1200	no	I AM SAM	-	He went to a J.C. Penney management training program; later he opened his own five-&-dime store in Arkansas	(Sam) Walton	2010-03-05	-
@@ -7715,7 +7715,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	ARE YOU HAVING A LAUGH?	-	A sly laugh; pluralize & it's a candy bar	a snicker	2010-03-30	-
 2	1600	no	ARE YOU HAVING A LAUGH?	-	Switch out a vowel in a group of geese & you get this short spasmodic laugh	giggle	2010-03-30	-
 2	2000	no	ARE YOU HAVING A LAUGH?	-	This laugh, a combination of 2 words, was coined by Lewis Carroll in "Through the Looking Glass\"	chortle	2010-03-30	-
-2	1200	no	ECUADOR OF YORE	(Kelly: Days of prosperity and pyromania from the Parque Histórico in Guayaquil.)	Guayaquilenos with sensitive noses were pleased when in 1910 vehicles powered by this replaced quaint horse-drawn trams	electricity	2010-03-30	-
+2	1200	no	ECUADOR OF YOR	(Kelly: Days of prosperity and pyromania from the Parque Histórico in Guayaquil.)	Guayaquilenos with sensitive noses were pleased when in 1910 vehicles powered by this replaced quaint horse-drawn trams	electricity	2010-03-30	-
 3	0	no	NAVAL HEROES	-	When he was killed in battle in 1805, he was wearing a uniform coat with sewn-on replicas of his 4 orders of chivalry	Admiral Nelson	2010-03-30	-
 1	200	no	A TOMB WITH A VIEW	-	Among the more than 100 tombs within this Vatican City church are those of 91 popes & Queen Christina of Sweden	St. Peter's Cathedral	2010-03-31	-
 1	400	no	A TOMB WITH A VIEW	-	UNESCO calls this, a world heritage site since 1983, "The jewel of Muslim art in India\"	the Taj Mahal	2010-03-31	-
@@ -7816,8 +7816,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	\"W"ORDS	-	As Juliet knows, this 9-letter word means "why?\"	wherefore	2010-04-01	-
 2	1600	no	\"W"ORDS	-	This word for a phantom or a ghost is of Scottish origin	a wraith	2010-04-01	-
 2	2000	no	\"W"ORDS	-	In weaving, the threads that run at right angles to the warp are called the woof or this	the weft	2010-04-01	-
-2	800	no	NATIONAL GEOGRAPHIC WATER	(Jeff Probst: ...based on the current issue of that magazine.)	Because the Jordan is at a tenth of its normal flow, the briny waters of this sea have dropped 130 feet since 1980	the Dead Sea	2010-04-01	-
-2	1600	no	NATIONAL GEOGRAPHIC WATER	(Jeff Probst: ...based on the current issue of that magazine.)	The weight of the water held in this country's Three Gorges dam tilts the earth's axis nearly an inch	China	2010-04-01	-
+2	800	no	NATIONAL GEOGRAPHIC WATE	(Jeff Probst: ...based on the current issue of that magazine.)	Because the Jordan is at a tenth of its normal flow, the briny waters of this sea have dropped 130 feet since 1980	the Dead Sea	2010-04-01	-
+2	1600	no	NATIONAL GEOGRAPHIC WATE	(Jeff Probst: ...based on the current issue of that magazine.)	The weight of the water held in this country's Three Gorges dam tilts the earth's axis nearly an inch	China	2010-04-01	-
 2	400	no	WHO PLAYED 'EM ON TV?	-	Jittery deputy Barney Fife	Don Knotts	2010-04-01	-
 2	800	no	WHO PLAYED 'EM ON TV?	-	Starfleet medical officer Leonard "Bones" McCoy	DeForest Kelley	2010-04-01	-
 2	1200	no	WHO PLAYED 'EM ON TV?	-	Sewer worker Ed Norton	Art Carney	2010-04-01	-
@@ -8037,9 +8037,9 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	THE USUAL GANG OF IDIOTS	-	\"The Complete Idiot's Guide to" this year addresses Mayans' predictions & their long count calendar	2012	2010-04-07	-
 2	1600	no	THE USUAL GANG OF IDIOTS	-	In "Love and Death" Berdykov is one of these & is seen attending a convention of them from all over Russia	village idiots	2010-04-07	-
 2	2000	no	THE USUAL GANG OF IDIOTS	-	At the end of this man's "The Idiot", Prince Myshkin goes back to his doctor in Switzerland after failing at love	Dostoyevsky	2010-04-07	-
-2	800	no	MAD MAGAZINE	-	Mad is under the corporate control of this comic book company that isn't based in Washington	DC	2010-04-07	-
-2	1200	no	MAD MAGAZINE	-	This composer sued Mad & lost over "Louella Schwartz Describes Her Malady", spoofing his "A Pretty Girl is Like a Melody\"	Irving Berlin	2010-04-07	-
-2	2000	no	MAD MAGAZINE	-	In 1987 legendary cartoonist Don Martin left Mad & jumped to this rival magazine	Cracked	2010-04-07	-
+2	800	no	MAD MAGAZIN	-	Mad is under the corporate control of this comic book company that isn't based in Washington	DC	2010-04-07	-
+2	1200	no	MAD MAGAZIN	-	This composer sued Mad & lost over "Louella Schwartz Describes Her Malady", spoofing his "A Pretty Girl is Like a Melody\"	Irving Berlin	2010-04-07	-
+2	2000	no	MAD MAGAZIN	-	In 1987 legendary cartoonist Don Martin left Mad & jumped to this rival magazine	Cracked	2010-04-07	-
 3	0	no	CELEBRITY NAMES	-	This Oscar winner who had his own WB sitcom took his last name as a tribute to an earlier comic & sitcom star	Jamie Foxx	2010-04-07	-
 1	200	no	PRESIDENTIAL PASTIMES	-	Jimmy Carter liked to grab his flies & do some of this in Hunting Creek, near Camp David	fishing	2010-04-08	-
 1	400	no	PRESIDENTIAL PASTIMES	-	John Quincy Adams loved to "rack 'em up" after buying the first one of these for the White House	a pool table	2010-04-08	-
@@ -9150,11 +9150,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	BEGINS & ENDS WITH "O\"	-	It's another word for margarine	oleo	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
 1	800	no	BEGINS & ENDS WITH "O\"	-	This term for an extended musical composition comes from the Italian for "small chapel\"	oratorio	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
 1	1000	no	BEGINS & ENDS WITH "O\"	-	L.A. restaurant Locanda Veneta serves this veal dish con risotto	osso bucco	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
-2	400	no	THE NEW YORK TIMES THEATER	-	Frank Rich wrote you could feel Broadway history being made in this musical about a black female singing group	Dreamgirls	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
-2	800	no	THE NEW YORK TIMES THEATER	-	Times multimedia features include snapshots taken at this exit, the proverbial spot to have a moment with a theater star	the stage door	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
-2	1200	no	THE NEW YORK TIMES THEATER	-	The Times found audience participation having a heyday in shows like "The 25th Annual Putnam County" this	Spelling Bee	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
-2	1600	no	THE NEW YORK TIMES THEATER	-	As a critics' pick in 2008, this Lin-Manuel Miranda musical was called "a salsa-flavored soap opera\"	In the Heights	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
-2	2000	no	THE NEW YORK TIMES THEATER	-	Ben Brantley says "injustice has been very good" to this musical writing duo; see "Chicago" & their new "The Scottsboro Boys\"	Kander & Ebb	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
+2	400	no	THE NEW YORK TIMES THEATE	-	Frank Rich wrote you could feel Broadway history being made in this musical about a black female singing group	Dreamgirls	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
+2	800	no	THE NEW YORK TIMES THEATE	-	Times multimedia features include snapshots taken at this exit, the proverbial spot to have a moment with a theater star	the stage door	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
+2	1200	no	THE NEW YORK TIMES THEATE	-	The Times found audience participation having a heyday in shows like "The 25th Annual Putnam County" this	Spelling Bee	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
+2	1600	no	THE NEW YORK TIMES THEATE	-	As a critics' pick in 2008, this Lin-Manuel Miranda musical was called "a salsa-flavored soap opera\"	In the Heights	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
+2	2000	no	THE NEW YORK TIMES THEATE	-	Ben Brantley says "injustice has been very good" to this musical writing duo; see "Chicago" & their new "The Scottsboro Boys\"	Kander & Ebb	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
 2	400	no	DESCRIBING THE NO. 1 SONG	-	1990: Madonna turns a magazine into a dance	\"Vogue\"	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
 2	800	no	DESCRIBING THE NO. 1 SONG	-	1975: John Denver explains why he's grateful for the simple, rural life	\"Thank God I'm A Country Boy\"	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
 2	1200	no	DESCRIBING THE NO. 1 SONG	-	1968: Marvin Gaye gets the news through third parties that his girlfriend will be leaving him	\"Heard It Through the Grapevine\"	2010-05-06	2009-2010 Million Dollar Celebrity Invitational final game 1.
@@ -9213,11 +9213,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	THE SPIRIT OF 1976	-	On Sept. 9 China's news agency announced the death of this "esteemed and beloved great leader\"	Mao Tse-tung	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
 2	1600	no	THE SPIRIT OF 1976	-	In March baseball's American League voted to award its first Canadian franchise to this city	Toronto	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
 2	2000	no	THE SPIRIT OF 1976	-	On July 2 North & South this reunited to form a republic	Vietnam	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
-2	400	no	THE NEW YORK TIMES MOVIES	-	A.O. Scott says he's not entirely joking calling this 2010 John Cusack comedy a "poignant story of 3 men, adrift in their 40s\"	Hot Tub Time Machine	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
-2	800	no	THE NEW YORK TIMES MOVIES	-	The Times liked the "smoky, greasy, steam-punk rendering of Victorian London" in this 2009 Robert Downey Jr. caper	Sherlock Holmes	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
-2	1200	no	THE NEW YORK TIMES MOVIES	-	The Times said that this director tackled "Alice In Wonderland" with "his customary mix of torpor and frenzy\"	Tim Burton	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
-2	1600	no	THE NEW YORK TIMES MOVIES	-	\"Looking every inch a heavy-metal god, with a tangle of beard and power shoulder pads", Liam Neeson is Zeus in this 2010 flick	Clash of the Titans	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
-2	2000	no	THE NEW YORK TIMES MOVIES	-	Reviewing "The Last Song", the Times noted, "It is likely that we can look forward to more movies starring" this teen singer	Miley Cyrus	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
+2	400	no	THE NEW YORK TIMES MOVIE	-	A.O. Scott says he's not entirely joking calling this 2010 John Cusack comedy a "poignant story of 3 men, adrift in their 40s\"	Hot Tub Time Machine	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
+2	800	no	THE NEW YORK TIMES MOVIE	-	The Times liked the "smoky, greasy, steam-punk rendering of Victorian London" in this 2009 Robert Downey Jr. caper	Sherlock Holmes	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
+2	1200	no	THE NEW YORK TIMES MOVIE	-	The Times said that this director tackled "Alice In Wonderland" with "his customary mix of torpor and frenzy\"	Tim Burton	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
+2	1600	no	THE NEW YORK TIMES MOVIE	-	\"Looking every inch a heavy-metal god, with a tangle of beard and power shoulder pads", Liam Neeson is Zeus in this 2010 flick	Clash of the Titans	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
+2	2000	no	THE NEW YORK TIMES MOVIE	-	Reviewing "The Last Song", the Times noted, "It is likely that we can look forward to more movies starring" this teen singer	Miley Cyrus	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
 2	400	no	HOW LOW CAN YOU GO?	-	In a standard type of draw poker, you need a pair of these face cards also called knaves to open the betting	jacks	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
 2	800	no	HOW LOW CAN YOU GO?	-	\"I went fishing just for the halibut" is one of these, which have been termed "the lowest form of wit\"	a pun	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
 2	1200	no	HOW LOW CAN YOU GO?	-	An 1895 textbook calls this one-celled creature the lowest form of animal life	an amoeba	2010-05-07	2009-2010 Million Dollar Celebrity Invitational final game 2.
@@ -9435,11 +9435,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	THE FINAL FORE	-	In 1999 David Duval shot a record-tying last-round 59 to win this golf-loving comedian's "Classic" tournament	Bob Hope	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
 1	800	no	THE FINAL FORE	-	In 1978 this South African shot a final-round 64 to win the green jacket, & the Masters, by one stroke	Gary Player	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
 1	1000	no	THE FINAL FORE	-	4 months before his fatal jet crash, this golfer known for his old-time outfits rallied to win the 1999 U.S. Open	Payne Stewart	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
-2	400	no	THE NEW YORK TIMES SCIENCE TIMES	-	nytimes.com calls these insects "the angels of agriculture\"	bees	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
-2	800	no	THE NEW YORK TIMES SCIENCE TIMES	-	A Times headline said Beelzebufo ampinga, at 10 pounds the largest of these ever, "hopped with dinosaurs\"	a frog	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
-2	1200	no	THE NEW YORK TIMES SCIENCE TIMES	-	In February 2010 the Times reported on the decoding of the genomes of 5 South Africans, including this Bantu clergyman	Desmond Tutu	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
-2	3000	yes	THE NEW YORK TIMES SCIENCE TIMES	-	The Dot Earth blog had an interview with the maker of this documentary about dolphin slaughter that just won an Oscar	The Cove	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
-2	2000	no	THE NEW YORK TIMES SCIENCE TIMES	-	nytimes.com/health has a handy primer on the PSA blood test done on older gents, PSA standing for this	prostate-specific antigen	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
+2	400	no	THE NEW YORK TIMES SCIENCE TIME	-	nytimes.com calls these insects "the angels of agriculture\"	bees	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
+2	800	no	THE NEW YORK TIMES SCIENCE TIME	-	A Times headline said Beelzebufo ampinga, at 10 pounds the largest of these ever, "hopped with dinosaurs\"	a frog	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
+2	1200	no	THE NEW YORK TIMES SCIENCE TIME	-	In February 2010 the Times reported on the decoding of the genomes of 5 South Africans, including this Bantu clergyman	Desmond Tutu	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
+2	3000	yes	THE NEW YORK TIMES SCIENCE TIME	-	The Dot Earth blog had an interview with the maker of this documentary about dolphin slaughter that just won an Oscar	The Cove	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
+2	2000	no	THE NEW YORK TIMES SCIENCE TIME	-	nytimes.com/health has a handy primer on the PSA blood test done on older gents, PSA standing for this	prostate-specific antigen	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
 2	400	no	CABLE DRAMAS	-	Denis Leary has to deal with fires & ghosts as Tommy Gavin on this show	Rescue Me	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
 2	800	no	CABLE DRAMAS	-	Starz entered the arena with an ultra-bloody take on this character once played by Kirk Douglas	Spartacus	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
 2	1200	no	CABLE DRAMAS	-	Jennifer Beals & Mia Kirshner are 2 of the women on this long-running Showtime drama	The L Word	2010-05-13	2010 Tournament of Champions quarterfinal game 4.
@@ -9580,11 +9580,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	no	McACTORS	-	Ilya Kuryakin on "The Man From U.N.C.L.E.", he plays Dr. Donald "Ducky" Mallard on "NCIS\"	David McCallum	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	400	no	GOOD DOGGIE	-	Lord Tweedsmuir bred some yellow these to produce the breed we know as golden these	retrievers	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	800	no	GOOD DOGGIE	-	The pharaohs bred this ancient dog, also called the gazelle hound	salukis	2010-05-18	2010 Tournament of Champions semifinal game 2.
-1	200	no	THE NEW YORK TIMES LETTERS TO THE EDITOR	-	This Conn. senator wants to spread Homeland Security funds, as the enemy "will strike wherever there is a... target\"	(Joseph) Lieberman	2010-05-18	2010 Tournament of Champions semifinal game 2.
-1	400	no	THE NEW YORK TIMES LETTERS TO THE EDITOR	-	This author of "Push" wrote a letter to the editor saying "Silence will not save African Americans\"	Sapphire	2010-05-18	2010 Tournament of Champions semifinal game 2.
-1	600	no	THE NEW YORK TIMES LETTERS TO THE EDITOR	-	In a lighter vein, Ogden Nash wrote to complain that these won't stick unless he uses Scotch tape	stamps	2010-05-18	2010 Tournament of Champions semifinal game 2.
-1	800	no	THE NEW YORK TIMES LETTERS TO THE EDITOR	-	A 1998 letter from this longtime head of the Motion Picture Association of America praised China's crackdown on piracy	(Jack) Valenti	2010-05-18	2010 Tournament of Champions semifinal game 2.
-1	1000	no	THE NEW YORK TIMES LETTERS TO THE EDITOR	-	In a 1934 letter this economist said a U.S. recovery would be helped by low interest rates, like in Britain	John Maynard Keynes	2010-05-18	2010 Tournament of Champions semifinal game 2.
+1	200	no	THE NEW YORK TIMES LETTERS TO THE EDITO	-	This Conn. senator wants to spread Homeland Security funds, as the enemy "will strike wherever there is a... target\"	(Joseph) Lieberman	2010-05-18	2010 Tournament of Champions semifinal game 2.
+1	400	no	THE NEW YORK TIMES LETTERS TO THE EDITO	-	This author of "Push" wrote a letter to the editor saying "Silence will not save African Americans\"	Sapphire	2010-05-18	2010 Tournament of Champions semifinal game 2.
+1	600	no	THE NEW YORK TIMES LETTERS TO THE EDITO	-	In a lighter vein, Ogden Nash wrote to complain that these won't stick unless he uses Scotch tape	stamps	2010-05-18	2010 Tournament of Champions semifinal game 2.
+1	800	no	THE NEW YORK TIMES LETTERS TO THE EDITO	-	A 1998 letter from this longtime head of the Motion Picture Association of America praised China's crackdown on piracy	(Jack) Valenti	2010-05-18	2010 Tournament of Champions semifinal game 2.
+1	1000	no	THE NEW YORK TIMES LETTERS TO THE EDITO	-	In a 1934 letter this economist said a U.S. recovery would be helped by low interest rates, like in Britain	John Maynard Keynes	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	200	no	THE ATMOSPHERE	-	The overall effect of these, especially thick stratocumulus ones, is to cool the Earth's surface	clouds	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	600	no	THE ATMOSPHERE	-	Rossby waves are formed when air from these 2 chilly spots heads for the equator	the poles	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	800	no	THE ATMOSPHERE	-	At about 37,000', this "sphere" begins & the temp. actually rises with altitude; give that blanket back to a flight attendant	the stratosphere	2010-05-18	2010 Tournament of Champions semifinal game 2.
@@ -9614,8 +9614,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	\"EU" VEY!	-	Josef Breuer wrote an 1895 book on hysteria with this fellow Austrian	Sigmund Freud	2010-05-18	2010 Tournament of Champions semifinal game 2.
 2	1200	no	\"EU" VEY!	-	This crumbly coffee cake topping is often paired with "swirl\"	Streusel	2010-05-18	2010 Tournament of Champions semifinal game 2.
 2	2000	yes	\"EU" VEY!	-	He whipped the Continental Army into shape in the 1770s; the Ohio ville named for him lost the Prussian pronunciation	Steuben	2010-05-18	2010 Tournament of Champions semifinal game 2.
-2	800	no	DARWIN IN THE GALAPAGOS	(Alex: The 1835 visit that changed the way we think about the development of life on Earth.)	Ecuador made the Galapagos its first national park in 1959, the centennial year of this seminal Darwin work	The Origin of Species	2010-05-18	2010 Tournament of Champions semifinal game 2.
-2	1600	no	DARWIN IN THE GALAPAGOS	(Alex: The 1835 visit that changed the way we think about the development of life on Earth.)	Young Darwin saw himself as a geologist, & his 1st entry on the isles says, "They are all formed of... rocks" from this event	a volcanic eruption	2010-05-18	2010 Tournament of Champions semifinal game 2.
+2	800	no	DARWIN IN THE GALAPAGO	(Alex: The 1835 visit that changed the way we think about the development of life on Earth.)	Ecuador made the Galapagos its first national park in 1959, the centennial year of this seminal Darwin work	The Origin of Species	2010-05-18	2010 Tournament of Champions semifinal game 2.
+2	1600	no	DARWIN IN THE GALAPAGO	(Alex: The 1835 visit that changed the way we think about the development of life on Earth.)	Young Darwin saw himself as a geologist, & his 1st entry on the isles says, "They are all formed of... rocks" from this event	a volcanic eruption	2010-05-18	2010 Tournament of Champions semifinal game 2.
 3	0	no	ROMAN EMPERORS	-	In 59 A.D. Agrippina wrote to this man, her son, "Tell me why I should plot against your life?"--she was killed anyway	Nero	2010-05-18	2010 Tournament of Champions semifinal game 2.
 1	200	no	BRIT-POURRI	-	Better known for his operettas with a partner, he also composed the hymn "Onward Christian Soldiers\"	Sir Arthur Sullivan	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	400	no	BRIT-POURRI	-	The fourth king of this name ruled Britannia from 1399 to 1413	Henry	2010-05-19	2010 Tournament of Champions semifinal game 3.
@@ -9626,11 +9626,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	400	no	IN THE ARENA	-	For WWE fans Jan. 25, 2010 was this night "Raw" at Nationwide Arena in Columbus, Ohio	Monday Night	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	600	no	IN THE ARENA	-	This city's Mellon Arena was formerly Civic Arena	Pittsburgh	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	1000	no	IN THE ARENA	-	In other words, this home of the Minnesota Timberwolves could be called "the bull's eye\"	the Target Center	2010-05-19	2010 Tournament of Champions semifinal game 3.
-1	200	no	THE FORTUNE 500	(Alex: ...from figures just released.)	The largest entertainment company on the list, at No. 57, is this one that owns both ABC & ESPN	Disney	2010-05-19	2010 Tournament of Champions semifinal game 3.
-1	400	no	THE FORTUNE 500	(Alex: ...from figures just released.)	Despite a 57% drop in profits last year, this oil company, No. 2, is still the most profitable co. on the list	Exxon Mobil	2010-05-19	2010 Tournament of Champions semifinal game 3.
-1	600	no	THE FORTUNE 500	(Alex: ...from figures just released.)	Kaplan, an education subsidiary of this "capital" media co., helped put it back on the list after a 16-year absence	The Washington Post	2010-05-19	2010 Tournament of Champions semifinal game 3.
-1	800	no	THE FORTUNE 500	(Alex: ...from figures just released.)	Perhaps reflecting the bust, for the first time in 15 yrs., no cos, from this industry; last year the list had Centex & Pulte	building	2010-05-19	2010 Tournament of Champions semifinal game 3.
-1	1000	no	THE FORTUNE 500	(Alex: ...from figures just released.)	The first female African-American Fortune 500 CEO is Ursula Burns of this document technology giant	Xerox	2010-05-19	2010 Tournament of Champions semifinal game 3.
+1	200	no	THE FORTUNE 50	(Alex: ...from figures just released.)	The largest entertainment company on the list, at No. 57, is this one that owns both ABC & ESPN	Disney	2010-05-19	2010 Tournament of Champions semifinal game 3.
+1	400	no	THE FORTUNE 50	(Alex: ...from figures just released.)	Despite a 57% drop in profits last year, this oil company, No. 2, is still the most profitable co. on the list	Exxon Mobil	2010-05-19	2010 Tournament of Champions semifinal game 3.
+1	600	no	THE FORTUNE 50	(Alex: ...from figures just released.)	Kaplan, an education subsidiary of this "capital" media co., helped put it back on the list after a 16-year absence	The Washington Post	2010-05-19	2010 Tournament of Champions semifinal game 3.
+1	800	no	THE FORTUNE 50	(Alex: ...from figures just released.)	Perhaps reflecting the bust, for the first time in 15 yrs., no cos, from this industry; last year the list had Centex & Pulte	building	2010-05-19	2010 Tournament of Champions semifinal game 3.
+1	1000	no	THE FORTUNE 50	(Alex: ...from figures just released.)	The first female African-American Fortune 500 CEO is Ursula Burns of this document technology giant	Xerox	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	200	no	BIBLICAL PROVERBS: FILL IN THE BLANK	-	\"To the hungry soul every bitter thing is ____\"	sweet	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	400	no	BIBLICAL PROVERBS: FILL IN THE BLANK	-	\"The ____ is servant to the lender\"	borrower	2010-05-19	2010 Tournament of Champions semifinal game 3.
 1	600	no	BIBLICAL PROVERBS: FILL IN THE BLANK	-	\"As cold waters to a thirsty soul, so is ____ news from a far country\"	good	2010-05-19	2010 Tournament of Champions semifinal game 3.
@@ -9677,11 +9677,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	ON THE 1980s MOVIE SOUNDTRACK	-	1986: "Danger Zone" by Kenny Loggins	Top Gun	2010-05-20	2010 Tournament of Champions final game 1.
 1	800	no	ON THE 1980s MOVIE SOUNDTRACK	-	1984: "Axel F." by Harold Faltermeyer	Beverly Hills Cop	2010-05-20	2010 Tournament of Champions final game 1.
 1	1000	no	ON THE 1980s MOVIE SOUNDTRACK	-	1980: "Call Me" by Blondie	American Gigolo	2010-05-20	2010 Tournament of Champions final game 1.
-1	200	no	THE NEW YORK TIMES DINING & WINE	-	On Dec. 23, 2009 The Pour, a blog about wine on nytimes.com, focused on this bubbly beverage	champagne	2010-05-20	2010 Tournament of Champions final game 1.
-1	400	no	THE NEW YORK TIMES DINING & WINE	-	The Bitten blog discussed how these salty little fish "turn up on traditional & not-so-traditional English menus\"	anchovies	2010-05-20	2010 Tournament of Champions final game 1.
-1	600	no	THE NEW YORK TIMES DINING & WINE	-	A 2010 article reported on the hard times that have fallen on wineries in this California valley	Napa Valley	2010-05-20	2010 Tournament of Champions final game 1.
-1	800	no	THE NEW YORK TIMES DINING & WINE	-	A tasty but tongue-twisting recipe from Mark Bittman paired the bay type of this bivalve mollusk with scallions	a scallop	2010-05-20	2010 Tournament of Champions final game 1.
-1	1000	no	THE NEW YORK TIMES DINING & WINE	-	A recipe for Mediterranean citrus chicken skewers had this Mid-Eastern sauce made of ground sesame seeds	tahini	2010-05-20	2010 Tournament of Champions final game 1.
+1	200	no	THE NEW YORK TIMES DINING & WIN	-	On Dec. 23, 2009 The Pour, a blog about wine on nytimes.com, focused on this bubbly beverage	champagne	2010-05-20	2010 Tournament of Champions final game 1.
+1	400	no	THE NEW YORK TIMES DINING & WIN	-	The Bitten blog discussed how these salty little fish "turn up on traditional & not-so-traditional English menus\"	anchovies	2010-05-20	2010 Tournament of Champions final game 1.
+1	600	no	THE NEW YORK TIMES DINING & WIN	-	A 2010 article reported on the hard times that have fallen on wineries in this California valley	Napa Valley	2010-05-20	2010 Tournament of Champions final game 1.
+1	800	no	THE NEW YORK TIMES DINING & WIN	-	A tasty but tongue-twisting recipe from Mark Bittman paired the bay type of this bivalve mollusk with scallions	a scallop	2010-05-20	2010 Tournament of Champions final game 1.
+1	1000	no	THE NEW YORK TIMES DINING & WIN	-	A recipe for Mediterranean citrus chicken skewers had this Mid-Eastern sauce made of ground sesame seeds	tahini	2010-05-20	2010 Tournament of Champions final game 1.
 1	200	no	SIGN OF THE FOUR	-	Of the 4 "Little Women" characters Jo, Beth, Laurie & Amy, the one not a sister of the others	Laurie	2010-05-20	2010 Tournament of Champions final game 1.
 1	400	no	SIGN OF THE FOUR	-	Of the 4 suits in tarot cards, the one that's designed to hold liquids	cups	2010-05-20	2010 Tournament of Champions final game 1.
 1	600	no	SIGN OF THE FOUR	-	Of the 4 traditional symphonic movements, the one whose name is Italian for "joke\"	scherzo	2010-05-20	2010 Tournament of Champions final game 1.
@@ -9882,10 +9882,10 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	HISTORIC PLACES	-	The first clash between Europeans & New World natives was in 1493 at a bay on this largest U.S. Virgin Island	St. Croix	2010-05-26	-
 1	800	no	HISTORIC PLACES	-	2 battles near this "Springs" city of upstate N.Y. are often called the turning point of the American Revolution	Saratoga Springs	2010-05-26	-
 1	1000	no	HISTORIC PLACES	-	This favorite palace of Henry VIII's was given to him by Cardinal Wolsey	Hampton Court	2010-05-26	-
-1	200	no	CORRECT ME IF I'M WRONG	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	This "hit the Bay Area... (&) caused a record 11-day layoff between Series games.  (It) also caused death and destruction\"	an earthquake	2010-05-26	-
-1	400	no	CORRECT ME IF I'M WRONG	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	2003: This then-Russian president "cancels plans for trip after bombing at rock concert\"	Vladimir Putin	2010-05-26	-
-1	600	no	CORRECT ME IF I'M WRONG	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	\"'Barbara of Seville' opens... season" in this musical genre	opera	2010-05-26	-
-1	800	no	CORRECT ME IF I'M WRONG	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	From 1976: These 2 Republicans "neck in presidential primary\"	Gerald Ford & Ronald Reagan	2010-05-26	-
+1	200	no	CORRECT ME IF I'M WRON	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	This "hit the Bay Area... (&) caused a record 11-day layoff between Series games.  (It) also caused death and destruction\"	an earthquake	2010-05-26	-
+1	400	no	CORRECT ME IF I'M WRON	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	2003: This then-Russian president "cancels plans for trip after bombing at rock concert\"	Vladimir Putin	2010-05-26	-
+1	600	no	CORRECT ME IF I'M WRON	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	\"'Barbara of Seville' opens... season" in this musical genre	opera	2010-05-26	-
+1	800	no	CORRECT ME IF I'M WRON	(Alex: Now, all of the clues in this category will be from the press bloopers book from the Newseum in Washington, D.C.)	From 1976: These 2 Republicans "neck in presidential primary\"	Gerald Ford & Ronald Reagan	2010-05-26	-
 1	200	no	ECO SUAVE	-	Recent studies in Oman & New Guinea have discovered peridotite rocks that can absorb tons of this major greenhouse gas	carbon dioxide	2010-05-26	-
 1	600	no	ECO SUAVE	-	Turn your roof into a wind farm using new, more efficient ones of these rotor machines to generate power	windmills (or turbines)	2010-05-26	-
 1	200	no	CHEW MUST REMEMBER THIS	-	The Wampanoag tribe helped out with the first of these celebrations in autumn 1621	Thanksgiving	2010-05-26	-
@@ -10423,11 +10423,11 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	HUEY, DEWEY OR LOUIS	(Alex: In this category, [*] we're going to need more than just one of those names.)	In 1935 Dr. Carl Weiss allegedly killed him in Louisiana	Huey Long	2010-06-08	-
 2	1600	no	HUEY, DEWEY OR LOUIS	(Alex: In this category, [*] we're going to need more than just one of those names.)	\"Pops", a 2009 biography of this trumpeter, breaks the stories of his run-ins with Chicago gangsters & President Eisenhower	Louis Armstrong	2010-06-08	-
 2	2000	no	HUEY, DEWEY OR LOUIS	(Alex: In this category, [*] we're going to need more than just one of those names.)	This oversized cartoon duckling debuted in the 1950 release "Quack a Doodle Doo\"	Baby Huey	2010-06-08	-
-2	400	no	LISTED IN THE WORLD ALMANAC	-	Born in 1982, this famous son is second in line to the British throne	Prince William	2010-06-08	-
-2	800	no	LISTED IN THE WORLD ALMANAC	-	World Almanac lists his birth name (Paul David Hewson) & calls him a "musician, social activist, and philanthropist\"	Bono	2010-06-08	-
-2	1200	no	LISTED IN THE WORLD ALMANAC	-	The Almanac notes that the Reverend Sun Myung Moon was the founder of this church	the Unification Church	2010-06-08	-
-2	1600	no	LISTED IN THE WORLD ALMANAC	-	The World Almanac says she's the "American-born widow of Jordan's King Hussein\"	Queen Noor	2010-06-08	-
-2	2000	no	LISTED IN THE WORLD ALMANAC	-	Gerry Adams, born in Belfast, is listed as a leader of this political organization, "We Ourselves\"	Sinn Féin	2010-06-08	-
+2	400	no	LISTED IN THE WORLD ALMANA	-	Born in 1982, this famous son is second in line to the British throne	Prince William	2010-06-08	-
+2	800	no	LISTED IN THE WORLD ALMANA	-	World Almanac lists his birth name (Paul David Hewson) & calls him a "musician, social activist, and philanthropist\"	Bono	2010-06-08	-
+2	1200	no	LISTED IN THE WORLD ALMANA	-	The Almanac notes that the Reverend Sun Myung Moon was the founder of this church	the Unification Church	2010-06-08	-
+2	1600	no	LISTED IN THE WORLD ALMANA	-	The World Almanac says she's the "American-born widow of Jordan's King Hussein\"	Queen Noor	2010-06-08	-
+2	2000	no	LISTED IN THE WORLD ALMANA	-	Gerry Adams, born in Belfast, is listed as a leader of this political organization, "We Ourselves\"	Sinn Féin	2010-06-08	-
 2	400	no	ALL YOU NEED IS "LOVE\"	-	Rawlings makes them for ballplayers	gloves	2010-06-08	-
 2	800	no	ALL YOU NEED IS "LOVE\"	-	Split, like some hooves	cloven	2010-06-08	-
 2	1200	no	ALL YOU NEED IS "LOVE\"	-	It seceded from Yugoslavia in 1991	Slovenia	2010-06-08	-
@@ -10537,9 +10537,9 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	CATS & DOGS	-	An English greyhound in miniature, this speedy dog has been called the "poor man's racehorse\"	a whippet	2010-06-10	-
 2	2500	yes	CATS & DOGS	-	This Turkish cat was nearly extinct by the early 1960s; a Turkish zoo began a breeding program that saved them	Angoras	2010-06-10	-
 2	2000	no	CATS & DOGS	-	This "great" mountain dog was once used to smuggle contraband between France & Spain	the Great Pyrenees	2010-06-10	-
-2	800	no	KIBBUTZ LIFE	(Jimmy: From Kibbutz Amiad, just north of the Sea of Galilee.)  (Alex: We are in Israel.)	The kibbutzim were agricultural leaders in the project of "making" this arid type of land "bloom\"	the desert	2010-06-10	-
+2	800	no	KIBBUTZ LIF	(Jimmy: From Kibbutz Amiad, just north of the Sea of Galilee.)  (Alex: We are in Israel.)	The kibbutzim were agricultural leaders in the project of "making" this arid type of land "bloom\"	the desert	2010-06-10	-
 3	0	no	SHORT STORIES	-	In an 1842 tale he wrote, "Down--still unceasingly--still inevitably down!... I shrunk convulsively at its every sweep\"	Edgar Allan Poe	2010-06-10	-
-1	600	no	COUSTEAU	(Alex: ...on the 100th anniversary of his birth date.)	Cousteau was fascinated by future human life underwater, breathing through these organs	gills	2010-06-11	-
+1	600	no	COUSTEA	(Alex: ...on the 100th anniversary of his birth date.)	Cousteau was fascinated by future human life underwater, breathing through these organs	gills	2010-06-11	-
 1	200	no	COOKING VERBS	-	To heat water to 212 degrees	boil	2010-06-11	-
 1	400	no	COOKING VERBS	-	2-word term meaning to cook by submerging in hot fat	deep fry	2010-06-11	-
 1	600	no	COOKING VERBS	-	From the French, it means to remove bones, especially the backbones, from fish	filet	2010-06-11	-

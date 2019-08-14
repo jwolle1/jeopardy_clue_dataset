@@ -1544,7 +1544,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	BIRDS	-	Though this southwestern bird can fly, it prefers to sprint at speeds up to 15 mph	roadrunner	1991-11-26	-
 1	300	no	BIRDS	-	Some of these nocturnal birds have tufts of feathers on their heads called "ears" or "horns\"	owls	1991-11-26	-
 1	400	no	BIRDS	-	These purplish-black Asian birds, that can imitate human speech, are types of starlings	mynah birds	1991-11-26	-
-1	500	no	BIRDS	-	The "Arctic" variety of this sea bird migrates farthest&mdash;about 22,000 miles back & forth in a year	tern	1991-11-26	-
+1	500	no	BIRDS	-	The "Arctic" variety of this sea bird migrates farthest-about 22,000 miles back & forth in a year	tern	1991-11-26	-
 1	100	no	FOREIGN CURRENCY	-	On this country's standard coin you'll find the motto, "Liberte, Egalite, Fraternite\"	France	1991-11-26	-
 1	200	no	FOREIGN CURRENCY	-	This country's peseta features an engraving of Juan Carlos I	Spain	1991-11-26	-
 1	300	no	FOREIGN CURRENCY	-	It's the monetary unit of New Zealand & Australia	dollar	1991-11-26	-
@@ -2249,9 +2249,9 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 3	0	no	WOMEN AUTHORS	-	In 1901 she published what has become the best-selling children's book of all time	Beatrix Potter	1992-01-23	-
 1	100	no	PARIS	-	This Paris subway system opened in July 1900	Metro	1992-01-24	-
 1	200	no	PARIS	-	It's 1 of 2 international airports serving Paris	(1 of) Charles de Gaulle ( or Orly)	1992-01-24	-
-1	300	no	PARIS	-	This avenue, once a marshland, was created as a fashionable carriage-drive by Marie de Medicis in 1616	Champs-&Eacute;lys&eacute;es	1992-01-24	-
+1	300	no	PARIS	-	This avenue, once a marshland, was created as a fashionable carriage-drive by Marie de Medicis in 1616	Champs-Elysees	1992-01-24	-
 1	400	yes	PARIS	-	12 avenues radiate from this landmark built by Jean Chalgrin in the early 19th century	Arc de Triomphe	1992-01-24	-
-1	500	no	PARIS	-	Paris was founded over 2,000 years ago on this island in the Seine River	&Icirc;le de la Cit&eacute;	1992-01-24	-
+1	500	no	PARIS	-	Paris was founded over 2,000 years ago on this island in the Seine River	Ile de la Cite	1992-01-24	-
 1	100	no	NURSERY RHYMES	-	They're made of "sugar and spice, and everything nice\"	little girls	1992-01-24	-
 1	200	no	NURSERY RHYMES	-	With his "bow and arrow" the sparrow killed this character	Cock Robin	1992-01-24	-
 1	300	no	NURSERY RHYMES	-	\"Bobby Shaftoe's gone to sea" with these items "on his knee\"	silver buckles	1992-01-24	-
@@ -2612,7 +2612,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	RAPPERS	-	This white rapper's real name is Robert Van Winkle	Vanilla Ice	1992-03-04	1992 Teen Tournament semifinal game 3.
 1	300	no	RAPPERS	-	In 1990 this group's "As Nasty as They Wanna Be" LP was judged obscene by a Florida judge	2 Live Crew	1992-03-04	1992 Teen Tournament semifinal game 3.
 1	400	no	RAPPERS	-	This NBC series was the first prime-time network TV program to star a rap artist	The Fresh Prince of Bel Air	1992-03-04	1992 Teen Tournament semifinal game 3.
-1	500	no	RAPPERS	-	A combination of rap and guitar rock took his "Wild Thing" single to No. 2 on the Billboard pop chart	Tone L&#333;c	1992-03-04	1992 Teen Tournament semifinal game 3.
+1	500	no	RAPPERS	-	A combination of rap and guitar rock took his "Wild Thing" single to No. 2 on the Billboard pop chart	Tone Loc	1992-03-04	1992 Teen Tournament semifinal game 3.
 1	100	no	HINTS FROM HELOISE	-	Diets can chill unopened cans of soup in the fridge, then skim this off the top before heating	the fat	1992-03-04	1992 Teen Tournament semifinal game 3.
 1	200	no	HINTS FROM HELOISE	-	Hot peppers can irritate your skin, so Heloise says to wear these when you handle them	gloves	1992-03-04	1992 Teen Tournament semifinal game 3.
 1	300	no	HINTS FROM HELOISE	-	The rubbing type of this can remove hair spray haze from your bathroom mirror	alcohol	1992-03-04	1992 Teen Tournament semifinal game 3.
@@ -4136,7 +4136,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	RECYCLING	-	Doing this to aluminum cans makes it easier to store & transport them	crushing them	1992-06-08	-
 1	300	no	RECYCLING	-	For some envelopes to be recyclable, this material must be removed from the address window	cellophane (plastic)	1992-06-08	-
 1	400	no	RECYCLING	-	Some cities provide curbside pickup of leaves, which are then recycled into this for fertilizing gardens	mulch (compost)	1992-06-08	-
-1	600	yes	RECYCLING	-	To make this material, furnaces must run at 2800&deg; F.; to recycle it, at lower temperatures	glass	1992-06-08	-
+1	600	yes	RECYCLING	-	To make this material, furnaces must run at 2800deg F.; to recycle it, at lower temperatures	glass	1992-06-08	-
 1	100	no	COUNTRIES OF THE WORLD	-	In mid-1992 this Baltic country will change its unit of currency to the lats	Latvia	1992-06-08	-
 1	200	no	COUNTRIES OF THE WORLD	-	One of this country's most populous counties is Pest	Hungary	1992-06-08	-
 1	300	no	COUNTRIES OF THE WORLD	-	Part of this country was once known as the Kingdom of Fez	Morocco	1992-06-08	-
