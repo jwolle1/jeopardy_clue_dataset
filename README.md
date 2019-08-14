@@ -2,8 +2,7 @@
 
 This dataset contains jeopardy clues from Season 1 through the end of
 Season 35. It does not contain every clue that has appeared on the
-show. The data source would prefer not to be named. You can PM me on 
-Reddit (same username) for more information.
+show. The data source prefers not to be credited.
 
 There are 349,641 clues in total. They can all be found in 
 *master_season1-35.tsv*. There are also files for each season. 
