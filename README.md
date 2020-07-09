@@ -1,18 +1,19 @@
 # jeopardy_clue_dataset
 
-This dataset contains jeopardy clues from Season 1 through the end of
-Season 35. It does not contain every clue that has appeared on the
-show. The data source prefers not to be credited.
+This dataset contains jeopardy clues from Season 1 through 
+June 2020 (Season 36, currently on a break). It does not contain
+every clue that has appeared on the show. The data source prefers 
+not to be credited.
 
-There are 349,641 clues in total. They can all be found in 
-*master_season1-35.tsv*. There are also files for each season. 
-Seasons 13 and later contain 12,000 to 14,000 clues each. Seasons 12 
-and earlier contain fewer. There is also a *kids_teen.tsv* file 
-which contains only clues that appeared in special Kids and Teen 
+There are 359,678 clues in total. They can all be found in 
+*master_season1-36.tsv*. There are also files for each season. 
+Seasons 13 and later contain about 12,000 to 14,000 clues each. 
+Seasons 12 and earlier contain fewer. There is also a *kids_teen.tsv* 
+file which contains only clues that appeared in special Kids and Teen 
 Tournament matches.
 
-Note that *master_season1-35.tsv* is zipped. When uncompressed it
-is approximately 51.0 MB.
+Note that *master_season1-36.tsv* is zipped. When uncompressed it
+is approximately 53 MB.
 
 <br />
 
