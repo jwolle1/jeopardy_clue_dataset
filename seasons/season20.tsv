@@ -30,7 +30,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1000	yes	BALLET	-	Agnes de Mille's ballet "Fall River Legend" was based on the case of this accused murderess	Lizzie Borden	2003-09-08	-
 2	1200	no	BALLET	-	During his long association with the NYC ballet, he choreographed "West Side Story" & other musicals	Jerome Robbins	2003-09-08	-
 2	400	no	SINGERS	-	This man was the lead vocalist on the 1970 No. 1 hit "Bridge Over Troubled Water\"	Art Garfunkel	2003-09-08	-
-2	800	no	SINGERS	-	He's the lead singer heard on the following	Peter Wolf	2003-09-08	-
 2	1200	no	SINGERS	-	When I see you, I can tell you're this distinctive singer	Macy Gray	2003-09-08	-
 2	1600	no	SINGERS	-	Ms. Lopez sang, "Don't be fooled by the rocks that I got… I'm still" her	Jenny from the Block	2003-09-08	-
 2	2000	no	SINGERS	-	In July 2003 thousands of mourners paid tribute to this late "Queen of Salsa\"	Celia Cruz	2003-09-08	-
@@ -75,7 +74,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	LOVE, HONOR OR OBEY	-	The one that doesn't appear in the Boy Scout oath	love	2003-09-09	-
 1	400	no	LOVE, HONOR OR OBEY	-	The Daleks of "Dr. Who" have a limited vocabulary; basically it's this or "You will be exterminated!\"	obey	2003-09-09	-
 1	600	no	LOVE, HONOR OR OBEY	-	Those darn Brits add a "U' to it	honor (honour)	2003-09-09	-
-1	800	no	LOVE, HONOR OR OBEY	-	It's repeated 9 times at the start of the following	love	2003-09-09	-
 1	1000	no	LOVE, HONOR OR OBEY	-	This type of guard accompanies a casket at a military funeral	honor guard	2003-09-09	-
 1	200	no	10-LETTER WORDS	-	It's the good book's last book	Revelation	2003-09-09	-
 1	400	no	10-LETTER WORDS	-	It's a 3-flavored ice cream usually consisting of chocolate, strawberry & vanilla	Neapolitan	2003-09-09	-
@@ -523,7 +521,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	400	no	RACK YOUR BRAIN	-	To decay or decline is to "go to rack &" this	ruin	2003-09-19	-
 1	600	no	RACK YOUR BRAIN	-	Rack & this is a steering system used in sports cars	pinion	2003-09-19	-
 1	800	no	RACK YOUR BRAIN	-	Take a rack of lamb, form it in a circle & you have this roast fit for a king	a crown roast	2003-09-19	-
-1	1000	no	RACK YOUR BRAIN	-	(Video of Jimmy, clear in the foreground.) From a cinematographer's bag of tricks, it's...  (Video of Sarah, in the background.) ...the in-camera effect being demonstrated here	rack focus	2003-09-19	-
 1	200	no	PILOT TALK	-	When the plane's on its glide path it's about to do this	land	2003-09-19	-
 1	400	no	PILOT TALK	-	A dive is a steep, sudden descent; this is an ascent to cruising altitude	climb	2003-09-19	-
 1	600	no	PILOT TALK	-	It's the movement of an aircraft under its own power on the ground	taxi	2003-09-19	-
@@ -1952,7 +1949,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	no	BEST SCREENPLAY OSCARS	-	1992: Neil Jordan for this IRA love story with a twist	The Crying Game	2003-10-23	-
 2	400	no	MULE DRIVING	-	\"Borax Bill" Parkinson was one of the top 20-Mule Team drivers that used to haul borax out of this valley	Death Valley	2003-10-23	-
 2	800	no	MULE DRIVING	-	A new book says the model for this title character in this D.H. Lawrence book was a Sicilian mule driver	Lady Chatterley's Lover	2003-10-23	-
-2	2000	no	MULE DRIVING	-	In 1949 this singer drove up the charts with the following	Frankie Laine	2003-10-23	-
 2	400	no	STORY COLLECTIONS	-	The tellers in this classic collection include the Knight & the Wife of Bath	The Canterbury Tales	2003-10-23	-
 2	800	no	STORY COLLECTIONS	-	The history of Ali Baba & the history of Sinbad the Sailor were told by her over many, many nights	Scheherazade	2003-10-23	-
 2	1200	no	STORY COLLECTIONS	-	10 people fleeing Florence to escape the plague each tell 10 tales in this Boccaccio book	The Decameron	2003-10-23	-
@@ -2230,9 +2226,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	HOLMES & WATSON	-	\"Old Ironsides" author Oliver Wendell Holmes was one of this city's "Brahmins", a local group of intellectuals	Boston	2003-10-30	-
 1	800	no	HOLMES & WATSON	-	Homer Watson's line of work; Oscar Wilde called him "The Canadian Constable\"	an artist	2003-10-30	-
 1	1000	no	HOLMES & WATSON	-	This Watson wrote a book on "Behaviorism" back in 1925	John B. Watson	2003-10-30	-
-2	400	no	MISSION CONTROL	-	(Video of Cheryl at the Johnson Space Center in Houston.) "Houston, we've had a problem" were the words this mission radioed back to Mission Control, April 13, 1970	Apollo 13	2003-10-30	-
 2	800	no	MISSION CONTROL	-	2001's Genesis, like 1994's Wind, was sent up to study this "wind\"	the solar wind	2003-10-30	-
-2	1200	no	MISSION CONTROL	-	(Video of Cheryl at the Johnson Space Center in Houston.) This Mission Control console was responsible for these first stages that launch the rockets	boosters	2003-10-30	-
 2	1600	no	MISSION CONTROL	-	Denmark's Orsted Satellite, launched in 1999, mapped this field around the Earth	the magnetic field	2003-10-30	-
 2	2000	no	MISSION CONTROL	-	Launched back in 1997, the Cassini-Huygens Satellite should reach this planet in July 2004	Saturn	2003-10-30	-
 2	400	no	POP MUSIC	-	The Bangles made their Top 40 debut with this song of weekday woe	\"Manic Monday\"	2003-10-30	-
@@ -2409,11 +2403,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	PLAYS & PLAYWRIGHTS	-	(Hi, I'm CCH Pounder from "The Shield.") I played the title role of a recently married woman in a production of this Ibsen drama	Hedda Gabler	2003-11-04	-
 2	1600	no	PLAYS & PLAYWRIGHTS	-	\"Private Lives", a comedy by this wit, concerns Elyot Chase & Amanda Prynne, a divorced couple	Noel Coward	2003-11-04	-
 2	2000	no	PLAYS & PLAYWRIGHTS	-	(Hi, I'm Lauren Graham from "The Gilmore Girls.") I starred in a revival of "Once in a Lifetime", which was a collaboration between George S. Kaufman & this playwright	Moss Hart	2003-11-04	-
-2	400	no	TENNIS	-	(Video of Cheryl at the Tennis Hall of Fame in Newport, RI.) The first U.S. Men's National Singles Championship, played right here in 1881, evolved into this New York City tournament	the U.S. Open	2003-11-04	-
 2	800	no	TENNIS	-	Though he sits in a high chair, this official at matches is expected to act mature	the umpire	2003-11-04	-
-2	2500	yes	TENNIS	-	(Video of Cheryl at the Tennis Hall of Fame in Newport, RI.) Let's raise a cup to this man for whom the International Tennis Federation Men's Team Championship trophy is named	Dwight Davis	2003-11-04	-
 2	1600	no	TENNIS	-	Culinary term for what you do when you step in front of your doubles partner to hit a ball	poach	2003-11-04	-
-2	2000	no	TENNIS	-	(Video of Sarah at the Tennis Hall of Fame in Newport, RI.) Tennis Hall of Fame founder James Van Alen came up with this innovation, that prevents 19-17 sets	the tiebreaker	2003-11-04	-
 2	400	no	LET'S HAVE SOME CHILE	-	Just as in San Francisco, these are used in the port of Valparaiso to carry passengers up steep hillsides	cable cars	2003-11-04	-
 2	800	no	LET'S HAVE SOME CHILE	-	Chile's coat of arms features an Andean deer & this vulture that has a 10-foot wingspan	a condor	2003-11-04	-
 2	1200	no	LET'S HAVE SOME CHILE	-	Chile's southernmost point, it lies on an island in the Tierra Del Fuego Archipelago	Cape Horn	2003-11-04	-
@@ -2518,11 +2509,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	WORD "UP\"	-	Neil Sedaka said this "is hard to do\"	Breaking Up	2003-11-06	-
 1	800	no	WORD "UP\"	-	In 2001 Rick Baker & Gail Ryan won Oscars in this category for "How the Grinch Stole Christmas\"	makeup	2003-11-06	-
 1	1000	no	WORD "UP\"	-	A delay, or an armed robbery	hold-up	2003-11-06	-
-2	400	no	WHERE AM I?	-	(Video of Sarah.) I'm in this "Biggest Little City in the World," celebrating its centennial in 2003	Reno, Nevada	2003-11-06	-
-2	800	no	WHERE AM I?	-	(Video of Jimmy swinging a baseball bat.) I'm in this city, swinging one of its signature products	Louisville, Kentucky	2003-11-06	-
-2	1200	no	WHERE AM I?	-	(Video of Cheryl & Jimmy at Grambling State University.) We're in this southern state, home of the world famed Tiger Marching Band	Louisiana	2003-11-06	-
-2	1600	no	WHERE AM I?	-	(Video of Sarah.) I'm in this L.A. area that gave its name to the towers behind me	Watts	2003-11-06	-
-2	2000	no	WHERE AM I?	-	(Video of Sofia in a boat.) I'm just off this New England city, looking at its Head Light, one of the USA's oldest operating lighthouses	Portland, Maine	2003-11-06	-
 2	400	no	CELEBRITY WINEMAKERS	-	This director is "The Godfather" of celebrity winemakers	Francis Ford Coppola	2003-11-06	-
 2	800	no	CELEBRITY WINEMAKERS	-	You can buy coonskin bottle toppers at the winery owned by this man, TV's Davy Crockett	Fess Parker	2003-11-06	-
 2	1200	no	CELEBRITY WINEMAKERS	-	Find out about this golfer's wines at www.shark.com	Greg Norman	2003-11-06	-
@@ -2698,7 +2684,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	no	THINGS IN THE YALE LIBRARY	-	An empty envelope that once contained a rose belonged to this expatriate American woman who lived in Paris	Gertrude Stein	2003-11-11	2003 College Championship quarterfinal game 2.
 2	400	no	MUSIC MAKERS	-	She's the Oscar-nominated singer/actress belting it out here in a song from a film   "Don't you know that this hand washes that one too...\"	Queen Latifah	2003-11-11	2003 College Championship quarterfinal game 2.
 2	800	no	MUSIC MAKERS	-	\"Mr. S" is a 2003 memoir by the valet of this legendary blue-eyed singer	Frank Sinatra	2003-11-11	2003 College Championship quarterfinal game 2.
-2	1200	no	MUSIC MAKERS	-	\"God bless" this man, whose compositions include the following	Irving Berlin	2003-11-11	2003 College Championship quarterfinal game 2.
 2	1600	no	MUSIC MAKERS	-	\"The End" of this '60s band isn't yet in sight as the "21st Century" version toured in 2003	The Doors	2003-11-11	2003 College Championship quarterfinal game 2.
 2	2000	no	MUSIC MAKERS	-	This group that sings of "Stacy's Mom" is named for a New Jersey lawn ornament store	Fountains of Wayne	2003-11-11	2003 College Championship quarterfinal game 2.
 2	400	no	HERE COMES THE SUN	-	Appropriately, the sun is classified as a dwarf star of this color	yellow	2003-11-11	2003 College Championship quarterfinal game 2.
@@ -2724,7 +2709,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	no	LIBRARIES	-	Andrew himself dedicated this city's Carnegie Library in 1895	Pittsburgh	2003-11-12	2003 College Championship quarterfinal game 3.
 1	200	no	NEW VIDEO GAMES	-	You can download "Wheel of Fortune" onto the Nokia 3650, one of these devices	a cell phone	2003-11-12	2003 College Championship quarterfinal game 3.
 1	400	no	NEW VIDEO GAMES	-	X-2 isn't a Marvel super hero game, it's the sequel to the 10th game in this long-running Japanese RPG series	Final Fantasy	2003-11-12	2003 College Championship quarterfinal game 3.
-1	600	no	NEW VIDEO GAMES	-	This 1982 cult film set in a computer was updated in 2003 with gameplay that includes the following	Tron	2003-11-12	2003 College Championship quarterfinal game 3.
 1	800	no	NEW VIDEO GAMES	-	A bright red Ford Torino & voice-overs by Antonio Fargas (aka Huggy Bear) are in the game of this '70s cop show	Starsky & Hutch	2003-11-12	2003 College Championship quarterfinal game 3.
 1	1000	no	NEW VIDEO GAMES	-	For 2004, EA has brought this game, popular in Europe, to American PCs and PlayStations	rugby	2003-11-12	2003 College Championship quarterfinal game 3.
 1	200	no	WORLD CAPITALS	-	This city has the ruins of forums of 5 rulers still standing, including Trajan & Nerva	Rome	2003-11-12	2003 College Championship quarterfinal game 3.
@@ -2745,7 +2729,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	IDIOMS	-	Find the "happy" one between extremes	the medium	2003-11-12	2003 College Championship quarterfinal game 3.
 1	400	no	IDIOMS	-	It can be done to a book, a joke or a smile	crack	2003-11-12	2003 College Championship quarterfinal game 3.
 1	600	no	IDIOMS	-	Bad news can "set you back on" these	your heels	2003-11-12	2003 College Championship quarterfinal game 3.
-1	800	no	IDIOMS	-	Don't get trapped in one of these, illustrated here by Charlie Brown	a vicious circle	2003-11-12	2003 College Championship quarterfinal game 3.
 1	1000	no	IDIOMS	-	To "follow" this comes from card games such as bridge	suit	2003-11-12	2003 College Championship quarterfinal game 3.
 2	400	no	SHARED TEAM NICKNAMES	-	Johnson State College & the University of Wisconsin	the Badgers	2003-11-12	2003 College Championship quarterfinal game 3.
 2	800	no	SHARED TEAM NICKNAMES	-	Michigan State & Case Western Reserve University	the Spartans	2003-11-12	2003 College Championship quarterfinal game 3.
@@ -3088,9 +3071,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	600	no	WILDLIFE	-	As in reindeer, both the male & female have antlers in this North American deer, the "nomad of the north\"	a caribou	2003-11-20	2003 College Championship final game 1.
 1	800	no	WILDLIFE	-	This bear may also be called a silvertip because of the white hairs growing in its brown coat	the grizzly	2003-11-20	2003 College Championship final game 1.
 1	1000	no	WILDLIFE	-	The unau is the 2-toed species of this South American animal; the ai is the 3-toed species	a sloth	2003-11-20	2003 College Championship final game 1.
-1	200	no	CAN YOU PICTURE THIS?	-	10-letter adjective shared by the following	potbellied	2003-11-20	2003 College Championship final game 1.
 1	400	no	CAN YOU PICTURE THIS?	-	18th century religious sect that shares its name with these	Shakers	2003-11-20	2003 College Championship final game 1.
-1	600	no	CAN YOU PICTURE THIS?	-	Words illustrated here, forwards and backwards	spool & loops	2003-11-20	2003 College Championship final game 1.
 1	200	no	ROTC	-	Army ROTC produces 75% of these, represented by the second letter in ROTC	officers	2003-11-20	2003 College Championship final game 1.
 1	400	no	ROTC	-	As well as leadership, ROTC teaches this "ship" that you learn with a rifle in your hands	marksmanship	2003-11-20	2003 College Championship final game 1.
 1	600	no	ROTC	-	If you get an Army ROTC scholarship, you're committed to serve, either on active duty or in this group	the Reserves or National Guard	2003-11-20	2003 College Championship final game 1.
@@ -3111,9 +3092,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	21st CENTURY ROCK	-	A No. 1 album from 2002 was titled "P. Diddy & Bad Boy Records Present ... We Invented" this	the remix	2003-11-20	2003 College Championship final game 1.
 2	1600	no	21st CENTURY ROCK	-	3-letter name for the confessional genre of bands like Bright Eyes & Dashboard Confessional	emo	2003-11-20	2003 College Championship final game 1.
 2	2000	no	21st CENTURY ROCK	-	The documentary "I Am Trying to Break Your Heart" chronicled this band's "Yankee Hotel Foxtrot" CD	Wilco	2003-11-20	2003 College Championship final game 1.
-2	400	no	DIET & EXERCISE	-	(Video of Cheryl on an exercise bench.) It's the noisy name for this exercise, with a smaller range of motion than regular sit-ups	crunches	2003-11-20	2003 College Championship final game 1.
 2	800	no	DIET & EXERCISE	-	3 ounces of cooked chicken liver gives 40% of the daily value of the heme type of this mineral	iron	2003-11-20	2003 College Championship final game 1.
-2	1200	no	DIET & EXERCISE	-	(Video of Cheryl fencing.) It's this position in fencing, or what I'm tempted to say to my opponent	en garde	2003-11-20	2003 College Championship final game 1.
 2	2000	no	DIET & EXERCISE	-	If you're 5'10" & weigh 150 pounds, your BMI, short for this, is a normal 21.5	body mass index	2003-11-20	2003 College Championship final game 1.
 2	400	no	COLLEGE PROFESSORS	-	This "Song of Hiawatha" poet was Bowdoin College's first Professor of Modern Languages	Henry Wadsworth Longfellow	2003-11-20	2003 College Championship final game 1.
 2	800	no	COLLEGE PROFESSORS	-	M.I.T. Professor & Nobel Prize winner John Nash inspired this Oscar-winning movie	A Beautiful Mind	2003-11-20	2003 College Championship final game 1.
@@ -3248,7 +3227,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	no	NEW IN BARTLETT'S	(Alex: We're dealing with quotations from their 17th edition, which was published in 2002.)	Her number of entries doubled from the 16th edition to the 17th with 2 quotations from her "Song of Solomon\"	Toni Morrison	2003-11-24	-
 3	0	no	WOMEN IN BUSINESS	-	In 1963 she founded her company with a sales force of 9; today that number is over 950,000	Mary Kay	2003-11-24	-
 1	200	no	WE "LOVE" LITERATURE	-	What can you say about a 33-year-old novel by Erich Segal? Perhaps just this, the book's title	Love Story	2003-11-25	-
-1	400	no	WE "LOVE" LITERATURE	-	(Video of Cheryl in Providence, RI.) This is the original 1920 manuscript of a horror story by this author, whose initials stood for Howard Phillips	H.P. Lovecraft	2003-11-25	-
 1	600	no	WE "LOVE" LITERATURE	-	Modern lit just wouldn't be the same without such seminal works as this 1969 Jacqueline Susann novel	The Love Machine	2003-11-25	-
 1	800	yes	WE "LOVE" LITERATURE	-	Despite war & outbreaks of disease, the love of Florentino for Fermina endures in this Gabriel Garcia Marquez novel	Love in the Time of Cholera	2003-11-25	-
 1	1000	no	WE "LOVE" LITERATURE	-	It's the only Evelyn Waugh novel we know that became a film starring Jonathan Winters & Liberace	The Loved One	2003-11-25	-
@@ -3260,7 +3238,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	POTPOURRI	-	Damon Runyon mentions gefilte fish in this 1932 collection of tales	Guys and Dolls	2003-11-25	-
 1	400	no	POTPOURRI	-	The British Home Office's crime computer was named the "Home Office Large Major Enquiry System" after him	Sherlock Holmes	2003-11-25	-
 1	600	no	POTPOURRI	-	A belief that they increased the content of something in milk provided the name of these yellow flowers	buttercups	2003-11-25	-
-1	800	no	POTPOURRI	-	(Video of Jeff Probst in the Amazon Rainforest, Brazil.) Until about 1910, the economy of the Amazon depended on the other black gold, this resource, derived from latex.	rubber	2003-11-25	-
 1	1000	no	POTPOURRI	-	The Little Entente was a 1920s alliance of Romania, Yugoslavia & this country that's since split in 2	Czechoslovakia	2003-11-25	-
 1	200	no	& IN THIS CORNER	-	In the 1411 Battle of Harlaw, it was the Lowland Scots vs. these Scots	the Highland Scots	2003-11-25	-
 1	400	no	& IN THIS CORNER	-	The First Peloponnesian War was just Sparta vs. this city	Athens	2003-11-25	-
@@ -3283,7 +3260,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	STATES BY COUNTY	-	Antrim, Huron, Mackinac	Michigan	2003-11-25	-
 2	2000	no	STATES BY COUNTY	-	Waldo, Aroostook, Penobscot	Maine	2003-11-25	-
 2	400	no	\'90s MOVIE CHARACTERS	-	In "Ed Wood", this movie Dracula describes Boris Karloff with a string of expletives	Bela Lugosi	2003-11-25	-
-2	800	no	\'90s MOVIE CHARACTERS	-	(Video of Sofia at the California Science Center Titanic Artifact Exhibit.) In "Titanic", this character, played by Kate Winslet, sweeps down the grand staircase to meet Jack	Rose	2003-11-25	-
 2	1200	no	\'90s MOVIE CHARACTERS	-	This central character in "Clueless" shares her name with an entertainer	Cher	2003-11-25	-
 2	1600	no	\'90s MOVIE CHARACTERS	-	The cop who gets Van Goghed in this film has a name, Marvin Nash	Reservoir Dogs	2003-11-25	-
 2	2000	no	\'90s MOVIE CHARACTERS	-	In "Braveheart", the English King who's trying to "take our freedom\"	Edward I (Edward Longshanks)?	2003-11-25	-
@@ -3306,7 +3282,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	OF THE KALAHARI	-	The hartebeest & tsessebe are 2 of these animals you may see bounding gracefully across the plain	antelopes	2003-11-25	-
 2	1200	no	OF THE KALAHARI	-	A depression between these "hills", which can be a mile long & 200' high, is called a straat, "street\"	sand dunes	2003-11-25	-
 2	1000	yes	OF THE KALAHARI	-	Using watering holes, this Scot struggled across the Kalahari in 1849	Dr. Livingstone	2003-11-25	-
-2	2000	no	OF THE KALAHARI	-	(Video of Jimmy with a map of Africa.) The Kalahari covers portions of Botswana, South Africa, and this country	Namibia	2003-11-25	-
 3	0	no	RELIGION	-	The 2 main religions on this island nation are Greek Orthodox & Islam	Cyprus	2003-11-25	-
 1	200	no	HISTORICAL QUOTES	-	In a July 14, 1940 speech, he told England, "We shall defend every village, every town and every city\"	Winston Churchill	2003-11-26	-
 1	400	no	HISTORICAL QUOTES	-	In 1775 he wrote, "If the British went out by water, we would show 2 lanterns in the North Church steeple\"	Paul Revere	2003-11-26	-
@@ -3348,7 +3323,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	FIX THE LYRIC	(Alex: We'll give you an ungrammatical line from a song; you correct it.)	Prince: "If I was your girlfriend, would you remember to tell me...?\"	\"If I were your girlfriend, would you remember to tell me...?\"	2003-11-26	-
 2	2000	no	FIX THE LYRIC	(Alex: We'll give you an ungrammatical line from a song; you correct it.)	Elvis Presley: "Love me tender, love me dear, tell me you are mine\"	\"Love me tenderly, love me dear, tell me you are mine\"	2003-11-26	-
 2	400	no	SIGNS & SYMBOLS	-	A symbol of Jesus since early Christian times, this creature is seen representing him on bumper stickers	fish	2003-11-26	-
-2	800	no	SIGNS & SYMBOLS	-	On homebuilders' floor plans the spot where this item will go is symbolized here:	stove	2003-11-26	-
 2	1200	no	SIGNS & SYMBOLS	-	Proofreadersuse asymbolthat lookslikea tic-tac-toeboard toindicate "insert" this	space	2003-11-26	-
 2	6000	yes	SIGNS & SYMBOLS	-	The compass rose, which contains the cross of St. George, symbolizes this church's communion	Church of England	2003-11-26	-
 2	2000	no	SIGNS & SYMBOLS	-	In heraldry, this word follows "bend" to denote a diagonal line ending in the lower left	sinister	2003-11-26	-
@@ -3399,9 +3373,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	800	yes	TERM COINERS	-	Herbert Spencer, not Darwin, coined this 4-word phrase to describe competition among group members	survival of the fittest	2003-11-27	-
 2	400	no	ECONOMICS	-	U.S. prices in 1940 were roughly the same as in 1800, so this is a fairly recent problem	inflation	2003-11-27	-
 2	800	no	ECONOMICS	-	David Ricardo said the economic effect is the same whether the government gets money by borrowing or this	taxation	2003-11-27	-
-2	1200	no	ECONOMICS	-	(Video of Jimmy with an economics graph.) This, for a good or service, increases as price falls, so the curve named for it always slopes down	demand	2003-11-27	-
 2	1600	no	ECONOMICS	-	Measured in goods only, it's a country's exports minus its imports	the balance of trade	2003-11-27	-
-2	2000	no	ECONOMICS	-	(Video of Sarah with an Economics graphic.) Depression, recovery, boom, recession. Investors take a ride on this series of fluctuations of economic activity	the business cycle	2003-11-27	-
 2	400	no	BODY PARTS BY PREFIX	-	Sangui-	blood	2003-11-27	-
 2	800	no	BODY PARTS BY PREFIX	-	Nephro-	kidneys	2003-11-27	-
 2	1200	no	BODY PARTS BY PREFIX	-	Oto-	ear	2003-11-27	-
@@ -3451,9 +3423,7 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	800	no	LET IT "B\"	-	From Middle English for "attack", it's whining or arguing in a bad-tempered way	bickering	2003-11-28	-
 1	1000	no	LET IT "B\"	-	One of the paired instruments of God's wrath in Genesis 19:24	brimstone	2003-11-28	-
 2	400	no	\"S"CIENCE	-	On June 7, 1973 astronaut Joseph Kerwin managed to free one of these panels, getting power back to Skylab	a solar panel	2003-11-28	-
-2	800	no	\"S"CIENCE	-	(Video of Sarah in Alaska.) Glacier ice appears blue because its dense structure absorbs all of this except blue	the spectrum	2003-11-28	-
 2	800	yes	\"S"CIENCE	-	2 of the 3 elements with atomic numbers between 10 & 20 that fit the category	(any 2 of) sodium, silicon & sulfur	2003-11-28	-
-2	1600	no	\"S"CIENCE	-	(Video of Jimmy by a blackboard.) In physics, it's a wave whose form is the same as the trig function of the same name	sine	2003-11-28	-
 2	2000	no	\"S"CIENCE	-	The heart of a black hole is a point of zero volume & infinite density called this	singularity	2003-11-28	-
 2	400	no	PRIME MIME	-	His famous mime character Bip is based in part on Charles Chaplin's Little Tramp character	Marcel Marceau	2003-11-28	-
 2	800	no	PRIME MIME	-	3-word phrase that follows "running" in a Bob Seger lyric & "walking" in a famous mime routine	against the wind	2003-11-28	-
@@ -3475,7 +3445,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	BETTER KNOWN AS...	-	Songwriter Israel Baline	Irving Berlin	2003-11-28	-
 2	2000	no	BETTER KNOWN AS...	-	Spy novelist David John Moore Cornwell	John le Carre	2003-11-28	-
 2	400	no	LETTER-THING	-	It's usually used to indicate June 6, 1944	D-Day	2003-11-28	-
-2	800	no	LETTER-THING	-	Here are audio & video clues that will yield this response	a C-note	2003-11-28	-
 2	1200	no	LETTER-THING	-	These addresses always include an "at" symbol	e-mail addresses	2003-11-28	-
 2	2000	no	LETTER-THING	-	In treating Parkinson's, this drug is used to help replace missing dopamine in the brain	L-DOPA	2003-11-28	-
 3	0	no	TONY-WINNING MUSICALS	-	2 of the 3 Tony winners for Best Musical with titles just 4 letters long	(2 of) Cats, Rent & Nine	2003-11-28	-
@@ -3695,7 +3664,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	no	MAMMALS	-	I hate to name-drop but this mammal often has "mundi" dropped from its name	coatimundi	2003-12-04	-
 2	400	no	THE OLYMPIC GAMES	-	The only men to win 2 gold medals in this multi-event sport were Bob Mathias ('48 & '52) & Daley Thompson ('80 & '84)	the decathlon	2003-12-04	-
 2	800	no	THE OLYMPIC GAMES	-	The only women to repeat as gold medalists in solo figure skating are Sonja Henie & this East German in 1984 & 1988	Katarina Witt	2003-12-04	-
-2	1200	no	THE OLYMPIC GAMES	-	[Video of Sarah in Squaw Valley, California] Twenty years before the miracle of Lake Placid, the U.S. won its first hockey gold medal in this year, here at Squaw Valley	1960	2003-12-04	-
 2	1600	no	THE OLYMPIC GAMES	-	Since 1896 the record in this event has more than doubled from 36 feet, 9.75 inches to 73 feet, 8.75 inches	shot put	2003-12-04	-
 2	400	no	DOG & CAT TALES	-	In the exciting sequel, this Dr. Seuss title character "Comes Back\"	The Cat in the Hat	2003-12-04	-
 2	800	no	DOG & CAT TALES	-	Beverly Cleary wrote "Socks" & this First Lady wrote "Millie's Book\"	Barbara Bush	2003-12-04	-
@@ -4150,7 +4118,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	800	no	CORPORATE SYMBOLS	(Alex: Classic corporate symbols.)	In this company's caricatures, the guy on the right is actually named Izzy, but is still identified as Jack	the Pep Boys	2003-12-16	-
 1	1000	no	CORPORATE SYMBOLS	(Alex: Classic corporate symbols.)	The Anheuser-Busch logo is one of these with an eagle in it; Mr. Busch must have felt very left out	the letter A	2003-12-16	-
 1	200	no	THE 1920s	-	Charlie Chaplin said, "Motion pictures need" this "as much as Beethoven symphonies need lyrics\"	sound	2003-12-16	-
-1	400	no	THE 1920s	-	[Video of Sofia at the Louisville Slugger Museum in Louisville, Kentucky] In the 1920s, this man carved notches into bats to count his home runs	Babe Ruth	2003-12-16	-
 1	1000	yes	THE 1920s	-	In 1928 24 couples trying to win $5,000 lasted 482 hours in one of these	a dance marathon	2003-12-16	-
 1	800	no	THE 1920s	-	New York City's last horse-drawn one of these was retired in 1922	fire engine	2003-12-16	-
 1	1000	no	THE 1920s	-	Poet Edna St. Vincent Millay joined a 1927 Boston picket line protesting this pair's execution	Sacco and Vanzetti	2003-12-16	-
@@ -4236,7 +4203,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	ENGLISHWOMEN	-	\"Don't know where, don't know when" -- yes I do: this Vera Lynn song was popular in Britain during WWII	\"We'll Meet Again\"	2003-12-17	-
 2	1600	no	ENGLISHWOMEN	-	The designs of this popularizer of the miniskirt were introduced to the U.S. through J.C. Penney	Mary Quant	2003-12-17	-
 2	2000	no	ENGLISHWOMEN	-	In 1987 she became the seventh woman to get the redundant-sounding title of Princess Royal	Princess Anne	2003-12-17	-
-2	400	no	SAINTS	-	He's the saint portrayed here by 15th century painter Ucello	St. George	2003-12-17	-
 2	800	no	SAINTS	-	This sister of Mary served Jesus his dinner, so she's the patron saint of waiters & waitresses	St. Martha	2003-12-17	-
 2	400	no	3-LETTER POETIC WORDS	-	\"I was angry with my friend; I told my wrath, my wrath did end. I was angry with" him; "I told it not, my wrath did grow\"	foe	2003-12-17	-
 2	800	no	3-LETTER POETIC WORDS	-	Sounding like a type of mineral, it fills in Byron's "Fragrant beads of amber ___ which her fairy fingers ran\"	o'er	2003-12-17	-
@@ -4346,7 +4312,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	yes	AROUND THE MULBERRY BUSH	-	This plant, Ficus Elastica, was once the most popular of house plants; in the jungle it can grow to a height of 100 feet	the rubber tree plant	2003-12-19	-
 2	400	no	DO THE MATH	-	On the keypad, the digits in the phone number AAA-AAAA add up to this	14	2003-12-19	-
 2	1600	no	DO THE MATH	-	You'll pay this much to stay in a $200-a-night hotel suite for all of February 2004	$5,800	2003-12-19	-
-2	2000	no	DO THE MATH	-	(Video of Jimmy at Churchill Downs in Louisville, KY.) The Kentucky Derby is a mile and a quarter race run on a mile oval, so the start and finish line are this many feet apart	1,320	2003-12-19	-
 2	400	no	QUOTES ABOUT 3 THINGS	-	You wander upstairs, downstairs & in your lady's chamber if you're this nursery rhyme character	Goosey Goosey Gander	2003-12-19	-
 2	800	no	QUOTES ABOUT 3 THINGS	-	It's what Elizabeth Barrett Browning did "to the depth and breadth and height" her soul could reach	love	2003-12-19	-
 2	1200	no	QUOTES ABOUT 3 THINGS	-	They're the 3 things poet Edward Fitzgerald put with "a book of verses underneath the bough\"	a jug of wine, a loaf of bread and thou	2003-12-19	-
@@ -4380,7 +4345,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	TEST YOUR SNOW HOW	-	One of these Inuit dwellings can be made out of sod or wood, as well as snow	an igloo	2003-12-22	-
 1	400	no	TEST YOUR SNOW HOW	-	For a snowstorm to be called one of these, it must have winds higher than 32 mph for 3 hours or longer	a blizzard	2003-12-22	-
 1	600	no	TEST YOUR SNOW HOW	-	Around 1800 Barry, a dog of this breed, saved more than 40 people trapped in the snow in the Swiss Alps	St. Bernard	2003-12-22	-
-1	800	no	TEST YOUR SNOW HOW	-	(Video of Sofia in Squaw Valley, CA) Most snowflakes are basically symmetrical, and have this many sides	6	2003-12-22	-
 1	1000	no	TEST YOUR SNOW HOW	-	This hare with a white winter coat is named for its large feet that help it get around in winter snow	the snowshoe hare	2003-12-22	-
 1	200	no	WORD HISTORY	-	Logically enough, it combines a word meaning "child" & old criminal slang for "to steal\"	kidnap	2003-12-22	-
 1	400	no	WORD HISTORY	-	The Pentagon drafted this word meaning "fix firmly" for a program of linking reporters with combat units	embed	2003-12-22	-
@@ -4396,11 +4360,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	ROBIN WILLIAMS ROLES	-	Prep school English teacher John Keating	Dead Poets Society	2003-12-22	-
 2	1600	no	ROBIN WILLIAMS ROLES	-	Therapist Sean McGuire	Good Will Hunting	2003-12-22	-
 2	2000	no	ROBIN WILLIAMS ROLES	-	Sax player Vladimir Ivanoff	Moscow on the Hudson	2003-12-22	-
-2	400	no	MEN ON SKIS	-	(Video of Sofia in Squaw Valley, California.) In 1960, at Squaw Valley, Jean Vuarnet became the first man to win Olympic gold on skis made of this, not wood	metal	2003-12-22	-
 2	1200	yes	MEN ON SKIS	-	At the Battle of Suomussalmi in December 1939, this country's ski troops dealt the Russians a shocking defeat	Finland	2003-12-22	-
-2	1200	no	MEN ON SKIS	-	(Video of Sarah in the Sierra Nevadas.) For 20 years in the mid-1800s, John Thompson skied over the Sierra Nevadas, a 3-day journey, to do this for the government	deliver mail	2003-12-22	-
 2	1600	no	MEN ON SKIS	-	This 3-time Olympic gold medalist from Bologna says his weaknesses are wine, women & tortellini	Alberto Tomba	2003-12-22	-
-2	2000	no	MEN ON SKIS	-	(Video of Sofia in Squaw Valley, California.) This maker of skiing films taught skiing here at Squaw Valley, back when it had just one chair lift	Warren Miller	2003-12-22	-
 2	400	no	___ & ___	-	Food term also meaning one's basic means of support	bread & butter	2003-12-22	-
 2	800	no	___ & ___	-	The Amish dress in a plain style, using these 2-piece fasteners, not buttons	hook & eye	2003-12-22	-
 2	1200	yes	___ & ___	-	In early English law, it was pursuit of an offender with loud shouts of alarm	hue & cry	2003-12-22	-
@@ -4504,11 +4465,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	yes	___ OF ___	-	Term for a domestic animal used to pull or carry loads; it's also the title of a 1978 hit song	beast of burden	2003-12-24	-
 1	800	no	___ OF ___	-	When Maxwell Smart wanted a conference in the Chief's office to be secret, he demanded this device be lowered	the cone of silence	2003-12-24	-
 1	1000	no	___ OF ___	-	A lawyer may ask for this, a legal term meaning the movement of a trial to another location	change of venue	2003-12-24	-
-2	400	no	TRAVEL SPAIN	-	(Video of Sarah in Toledo, Spain.) Windmills, like this one, inspired perhaps the most famous scene in all this writer's work	Cervantes	2003-12-24	-
 2	800	no	TRAVEL SPAIN	-	In the Autumn you can take in the festival of the harvest of these in Jerez	grapes	2003-12-24	-
-2	1200	no	TRAVEL SPAIN	-	(Video of Sarah in Barcelona, Spain.) Dinner in Spain isn't until 11, so I'm tiding myself over with these, whose name means cover or lid	tapas	2003-12-24	-
 2	1600	no	TRAVEL SPAIN	-	In the venerable city of Cordoba, you can still buy this material, perhaps including cordovan	leather	2003-12-24	-
-2	2000	no	TRAVEL SPAIN	-	(Video of Sarah in Barcelona, Spain.) This architect of the Temple de la Sagrada Familia truly gave his life to the project; he was still polishing its structures when he died	Gaudi	2003-12-24	-
 2	400	no	FURNITURE	-	At Ikea, Gulliver is a crib & Gok is this kind of table where a crying baby might go from the crib	a changing table	2003-12-24	-
 2	1600	no	FURNITURE	-	It can resemble an elongated chair & its name indicates that it's perfect for an afternoon nap	a daybed	2003-12-24	-
 2	6000	yes	FURNITURE	-	This 5-letter term for a long sofa comes from the Persian for "place of assembly\"	divan	2003-12-24	-
@@ -4702,7 +4660,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	WOMEN AUTHORS	-	The author of "Ramona" had this name, like a current actress, before marrying William Jackson	Helen Hunt	2003-12-29	-
 2	2000	no	WOMEN AUTHORS	-	Her stories, in collections like "Friend of My Youth", often concern women of small-town Canada	Alice Munro	2003-12-29	-
 2	400	no	ALLITERATION	-	These edibles are the best part of some parties -- mmm, here comes the stuffed mushroom lady	finger food	2003-12-29	-
-2	800	no	ALLITERATION	-	(Video of Sarah in Squaw Valley, California.) Seasonal term for what I'm doing. Good thing there's still snow on the mountain.	spring skiing	2003-12-29	-
 2	1200	no	ALLITERATION	-	As opposed to the trade type, it's a roughly 4x7 paperback sold in drugstores & airports	mass market	2003-12-29	-
 2	2000	no	ALLITERATION	-	Another name for the game of skipping stones, from the stones' resemblance to skipping waterfowl	ducks and drakes	2003-12-29	-
 3	0	no	FOODSTUFFS	-	A plant called this accompanies sushi & also the Passover seder	horseradish	2003-12-29	-
@@ -4803,11 +4760,8 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1200	no	CHRISTMAS CHARACTERS	-	In the New York City Ballet's 1954 "Nutcracker", Alberta Grant was Clara & Maria Tallchief, her	the Sugar Plum Fairy	2003-12-31	-
 2	1600	no	CHRISTMAS CHARACTERS	-	Character name of Edmund Gwenn & Richard Attenborough in versions of "Miracle on 34th Street\"	Kris Kringle	2003-12-31	-
 2	2000	yes	CHRISTMAS CHARACTERS	-	In a Victor Herbert operetta, children Alan & Jane see a spectacular pageant in this place	Toyland	2003-12-31	-
-2	400	no	TRAVEL GERMANY	-	(Video of Cheryl in Berlin, Germany.) At one time, you could enter Berlin through 14 different city gates. This is the only one left.	the Brandenburg Gate	2003-12-31	-
 2	800	no	TRAVEL GERMANY	-	You can still hear live music at this city's Club Grosse Freiheit, where the Beatles performed when they were mere larvae	Hamburg	2003-12-31	-
-2	1200	no	TRAVEL GERMANY	-	(Video of Sofia at the Reichstag in Berlin, Germany.) Architect Norman Foster says his Reichstag interior lets the public see the process of this type of government at work	democracy	2003-12-31	-
 2	1600	no	TRAVEL GERMANY	-	At Hohenschwangau Castle, you'll find a body of water that shares its name with this 1877 ballet	Swan Lake	2003-12-31	-
-2	2000	no	TRAVEL GERMANY	-	(Video of Sofia in Munich, Germany.) I'm at the place called the most famous beer haus in the world. It dates back to a hall founded in Munich in 1589.	Hofbrauhaus	2003-12-31	-
 2	400	no	MEDICINE	-	The Hippocratic Oath begins, "I swear by" this son of Zeus "the physician and Aesculapius...\"	Apollo	2003-12-31	-
 2	800	no	MEDICINE	-	From the Greek for "itch", it's a "heartbreaking" skin disease characterized by reddish patches	psoriasis	2003-12-31	-
 2	1200	no	MEDICINE	-	The 1905 Nobel Prize for Medicine was awarded to Robert Koch for his discoveries in relation to this lung disease	tuberculosis	2003-12-31	-
@@ -4928,7 +4882,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	1600	no	17th CENTURY NAMES	-	Because it dealt with religious hypocrisy, his French comedy "Le Tartuffe" was banned until 1669	Moliere	2004-01-02	-
 2	2000	no	17th CENTURY NAMES	-	In 1653 Izaak Walton reeled readers in with this treatise on fishes & fishing	The Compleat Angler	2004-01-02	-
 2	400	no	CRAFTS	-	Tesserae are the small, colored pieces, usually tiles, that are used to make this type of picture	a mosaic	2004-01-02	-
-2	800	no	CRAFTS	-	(Video of Vanna White)  In several books, I share tips and some of my favorite designs for crocheting this cozy type of blanket	an afghan	2004-01-02	-
 2	1200	no	CRAFTS	-	Depending on what you weave, you might use the rigid heddle or 4-harness type of this	a loom	2004-01-02	-
 2	2000	no	CRAFTS	-	Many Hopi people earn part of their income from the crafting of jewelry, baskets & these sacred dolls	kachina dolls	2004-01-02	-
 2	400	no	ANIMALS AMONG US	-	The U.S. military used these animals to aid the clearing of underwater mines during the 2003 invasion of Iraq	dolphins	2004-01-02	-
@@ -5099,7 +5052,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	2000	yes	ROCK MUSIC	-	The soundtrack CD of this 2002 movie blockbuster included "Learn to Crawl" by Black Lab & "Bug Bytes" by Alien Ant Farm	Spider-Man	2004-01-07	-
 2	400	no	THE HISTORY CHANNEL	(Alex: All of these clues have to do with their Barbarians series.)	The name of these people was later applied to German soldiers	the Huns	2004-01-07	-
 2	800	no	THE HISTORY CHANNEL	(Alex: All of these clues have to do with their Barbarians series.)	In the "Goths" episode, our heroes hand this group its worst defeat in 600 years on Aug. 9, 378	the Romans	2004-01-07	-
-2	1200	no	THE HISTORY CHANNEL	(Alex: All of these clues have to do with their Barbarians series.)	Father & son discussed in the following	Erik the Red & Leif Ericson	2004-01-07	-
 2	1600	no	THE HISTORY CHANNEL	(Alex: All of these clues have to do with their Barbarians series.)	We're told that the Mongols sowed the lands they conquered with this, to make them unfertile	salt	2004-01-07	-
 2	400	no	BIG JOHNS	-	His 1992 novel "The Pelican Brief" was a national bestseller	John Grisham	2004-01-07	-
 2	800	no	BIG JOHNS	-	The first pope to visit a president in the White House was this man who met Jimmy Carter in 1979	Pope John Paul II	2004-01-07	-
@@ -6379,7 +6331,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	yes	LEGS & THE WOMAN	(Alex: And a better category...)	In an off-ice incident, she suffered an injury to her landing knee Jan. 6, 1994	Nancy Kerrigan	2004-02-06	-
 2	800	no	ART HISTORY	-	In the 1600s this country produced some of the greatest masters; in the 1700s its best painter was Cornelis Troost	the Netherlands	2004-02-06	-
 2	1200	no	ART HISTORY	-	Andrea Mantegna developed sotto in su, the technique of making paintings here look like they're floating	on the ceiling	2004-02-06	-
-2	1600	no	ART HISTORY	-	Because Koranic knowledge was all-important, this became the supreme Muslim art form, as illustrated here	calligraphy	2004-02-06	-
 2	2000	no	ART HISTORY	-	Tintoretto's goal was to match the colors of this earlier Venetian master	Titian	2004-02-06	-
 2	400	no	THE OLD NEGRO LEAGUES	-	By 5 games to 4, the Kansas City Monarchs won the first "Negro" version of this in 1924	the World Series	2004-02-06	-
 2	800	no	THE OLD NEGRO LEAGUES	-	In 1972 this organization's Negro League committee selected Josh Gibson	(the Baseball) Hall of Fame	2004-02-06	-
@@ -6949,7 +6900,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	CONSTELLATION REPRESENTATION	-	This mythic strongman gets the fifth-largest constellation	Hercules	2004-02-20	2004 Teen Tournament final game 2.
 1	400	no	CONSTELLATION REPRESENTATION	-	Pictor is this, a painter's stand	an easel	2004-02-20	2004 Teen Tournament final game 2.
 1	600	no	CONSTELLATION REPRESENTATION	-	Sagittarius is the archer; Sagitta is this	the arrow	2004-02-20	2004 Teen Tournament final game 2.
-1	800	no	CONSTELLATION REPRESENTATION	-	Zodiac constellation illustrated here	Gemini	2004-02-20	2004 Teen Tournament final game 2.
 1	1000	yes	CONSTELLATION REPRESENTATION	-	Virgo is a maiden; Monoceros is this mythical beast that represents maidenhood	a unicorn	2004-02-20	2004 Teen Tournament final game 2.
 1	200	no	HELOISE'S HINTS FOR TEENS	-	Gum stuck to your shirt? Stick the shirt in this to harden the gum, then use a credit card to scrape it off	the freezer	2004-02-20	2004 Teen Tournament final game 2.
 1	400	no	HELOISE'S HINTS FOR TEENS	-	Get decorative by gluing stray buttons on these items that hold things to your bulletin board	pushpins (or tacks)	2004-02-20	2004 Teen Tournament final game 2.
@@ -7369,7 +7319,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	no	\"HEAD"S UP!	-	Malietola Tanumafili II, Samoa's leader, holds this 3-word post for life	head of state	2004-03-02	-
 2	400	no	NATIVE AMERICAN ART	-	2-word term for the type of artwork being created here	sand painting	2004-03-02	-
 2	800	no	NATIVE AMERICAN ART	-	In the 1850s, Atsidi Sani, "The Old Smith", fashioned the first Navajo artworks in this metal	silver	2004-03-02	-
-2	1200	no	NATIVE AMERICAN ART	-	(Sarah of the Clue Crew at the Sitka Cultural Center in Alaska)  The white man is depicted here on a totem pole commissioned for this 1976 event	the Bicentennial	2004-03-02	-
 2	400	no	TECHIES	-	RHD, Robert H. Dennard, came up with RAM, this, used in computers since the '70s	random-access memory	2004-03-02	-
 2	800	no	TECHIES	-	Eugene Houdry, who invented catalytic cracking of petroleum, made the catalytic converter for this car part	the muffler system	2004-03-02	-
 2	1200	no	TECHIES	-	John Tukey coined the word "software" & this term for which AT&T was considering "binit" or "bigit\"	the bit	2004-03-02	-
@@ -7798,7 +7747,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	800	no	POP "I\"	-	The Farriss Brothers was an earlier name for this group that also featured Michael Hutchence	INXS	2004-03-11	-
 2	1200	no	POP "I\"	-	We have a feeling you'll know that it was the first single from Jewel's "0304" CD	\"Intuition\"	2004-03-11	-
 2	1600	no	POP "I\"	-	In 1994 this Beastie Boys album that included "Sabotage" & "Sure Shot" debuted at No. 1	Ill Communication	2004-03-11	-
-2	2000	no	POP "I\"	-	\"Beware" this one hit wonder group who hit it big in 1970 with the following	the Ides of March	2004-03-11	-
 2	400	no	THE SAILOR MAN	-	During the Korean War, this future president was an officer in the Navy's nuclear submarine program	Carter	2004-03-11	-
 2	800	no	THE SAILOR MAN	-	On June 14, 1789, after a 2-month, 3,600-mile voyage, he & 18 crewmen reached Timor in the Bounty's longboat	Captain Bligh	2004-03-11	-
 2	1200	yes	THE SAILOR MAN	-	In 1521, shortly after becoming the first to cross the Pacific from east to west, he was killed in the Philippines	Ferdinand Magellan	2004-03-11	-
@@ -7999,7 +7947,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	1000	no	-OLOGIES	-	One of the fields in which a Nobel Prize is given is medicine or this	physiology	2004-03-17	-
 1	200	no	STUPID ANSWERS	(Alex: And one of my favorites...)	A doctor scrubs in for surgery wearing these	scrubs	2004-03-17	-
 1	400	no	STUPID ANSWERS	(Alex: And one of my favorites...)	The name of this fruit comes from the fact that it grows in grapelike clusters	grapefruit	2004-03-17	-
-1	600	no	STUPID ANSWERS	(Alex: And one of my favorites...)	(Alex narrates the video clue.)  Frisbee playing started on New Haven Green when students tossed around pie plates from this bakery	the Frisbie Bakery	2004-03-17	-
 1	800	no	STUPID ANSWERS	(Alex: And one of my favorites...)	Glen Bell founded this taco chain in 1962	Taco Bell	2004-03-17	-
 1	1000	no	STUPID ANSWERS	(Alex: And one of my favorites...)	This city in Iowa is at the confluence of the Big Sioux & Missouri Rivers	Sioux City	2004-03-17	-
 2	400	no	HISTORICAL NOVELS	-	Mary Renault's historical novel "Fire from Heaven" chronicles the childhood of this Macedonian king	Alexander the Great	2004-03-17	-
@@ -9837,7 +9784,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 3	0	no	MYTHOLOGICAL NAMES	-	His name means "The Glory of" a certain goddess, & he built shrines to that goddess	Hercules	2004-04-29	-
 1	200	no	EUROPEAN HISTORY	-	When it became independent in 1829, it was half its current size, but added Thessaly in 1881, Epirus in 1913...	Greece	2004-04-30	-
 1	400	no	EUROPEAN HISTORY	-	A protest at a church in Timisoara began the rebellion that ended Ceausescu's rule in this country	Romania	2004-04-30	-
-1	600	no	EUROPEAN HISTORY	-	The demise of this monarch is depicted here	Louis XVI	2004-04-30	-
 1	800	no	EUROPEAN HISTORY	-	Britons of the year 1000 called Vikings by this national name, & levied a "geld" to buy them off	Danes	2004-04-30	-
 1	1000	no	EUROPEAN HISTORY	-	(Jimmy of the Clue Crew in Toledo, Spain)  Cristo de la Luz is a church today because in 1085 this hero helped King Alfonso retake Toledo for Christendom	El Cid	2004-04-30	-
 1	200	no	I DO KNOW JACK	-	Marilyn Monroe made her major TV debut in 1953 on this "stingy" comedian's TV show	Jack Benny	2004-04-30	-
@@ -10318,7 +10264,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 1	200	no	PRIMARY COLORS	-	It was the nickname of comedian Richard Skelton	\"Red\"	2004-05-13	2004 Power Players Week game 4.
 1	400	no	PRIMARY COLORS	-	Paul Bunyan's Babe was a giant ox of this color	blue	2004-05-13	2004 Power Players Week game 4.
 1	600	no	PRIMARY COLORS	-	Tom Clancy's first 2 novels had this color in their titles	red	2004-05-13	2004 Power Players Week game 4.
-1	800	no	PRIMARY COLORS	-	It's the color mentioned in the title of the following	yellow	2004-05-13	2004 Power Players Week game 4.
 1	200	no	SNL PRESIDENTIAL PLAYERS	-	Chris Elliot, Tim Meadows, Phil Hartman & Darrell Hammond have all played this 42nd president	Bill Clinton	2004-05-13	2004 Power Players Week game 4.
 1	400	no	SNL PRESIDENTIAL PLAYERS	-	Chevy Chase was known for taking a tumble or two when playing this 38th president	Gerald Ford	2004-05-13	2004 Power Players Week game 4.
 1	600	no	SNL PRESIDENTIAL PLAYERS	-	In 1976 Dan Aykroyd did his first televised impression of this presidential candidate	Jimmy Carter	2004-05-13	2004 Power Players Week game 4.
@@ -11026,7 +10971,6 @@ round	value	daily_double	category	comments	answer	question	air_date	notes
 2	400	no	FAMOUS NAMES	-	William of Orange, like his father William II, wed an English girl named this	Mary	2004-05-31	-
 2	800	no	FAMOUS NAMES	-	Doing this 48 times in 1963 put Valentina Tereshkova in the headlines	circling the Earth	2004-05-31	-
 2	1200	no	FAMOUS NAMES	-	In 1628 the British took this founder of Quebec prisoner, holding him in England until 1633	Champlain	2004-05-31	-
-2	1600	no	FAMOUS NAMES	-	Depicted here during a demonstration in 1854, he's the inventor safe & sound up on the platform	(Elisha) Otis	2004-05-31	-
 2	2000	no	FAMOUS NAMES	-	By 1946, he'd catalogued over 29,000 galaxies, almost 4,000 asteroids & 1 new planet--Pluto	Clyde Tombaugh	2004-05-31	-
 2	400	no	PRESIDENTIAL FACTS	-	He left the White House in 1809, went home & never left Virginia for the remaining 17 years of his life	Jefferson	2004-05-31	-
 2	1200	no	PRESIDENTIAL FACTS	-	During the Vietnam War, LBJ dreamed he was this WWI president after the stroke	Wilson	2004-05-31	-
