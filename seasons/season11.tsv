@@ -311,7 +311,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	THE 20th CENTURY		On Aug. 17, 1988 this prescription drug became the first approved for hair growth	Rogaine	1994-09-12	
 1	100	0	CLASSIC TELEVISION		The idea for this series' Pebbles and Bamm Bamm came from Sheila Barbera, wife of co-creator Joe Barbera	The Flintstones	1994-09-12	
 1	200	0	CLASSIC TELEVISION		This series was No. 3 for the 1961-62 season, while reruns titled "Marshal Dillon" ranked in the top 20	Gunsmoke	1994-09-12	
-1	300	0	CLASSIC TELEVISION		TV character who said, "One of these days, Alice, one of these days...  Pow!  Right in the kisser!\"	Ralph Kramden	1994-09-12	
+1	300	0	CLASSIC TELEVISION		TV character who said, "One of these days, Alice, one of these days... Pow! Right in the kisser!\"	Ralph Kramden	1994-09-12	
 1	400	0	CLASSIC TELEVISION		Fort Courage was the setting for this series that starred Ken Berry as Capt. Wilton Parmenter	F Troop	1994-09-12	
 1	500	0	CLASSIC TELEVISION		Rob Petrie, Buddy Sorrell & Sally Rogers were comedy writers for this fictional TV show	The Alan Brady Show	1994-09-12	
 1	100	0	U.S. GOVERNMENT		More than half of the U.S. government's receipts come from these taxes	income taxes	1994-09-12	
@@ -426,6 +426,248 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	ENGLISH LITERATURE		His novel "The Mayor of Casterbridge" is subtitled "A Story of a Man with Character\"	Thomas Hardy	1994-09-13	
 2	1000	0	ENGLISH LITERATURE		Elshie of the Mucklestanes is the title character of this Scotsman's 1816 novel "The Black Dwarf\"	Sir Walter Scott	1994-09-13	
 3	0	0	TECHNOLOGY		The first commercial product to use the transistor; the radio came 2 years later in 1954	a hearing aid	1994-09-13	
+1	100	0	MAMMALS		These marsupials can hop as fast as 30 mph & leap over 6-foot-high objects	a kangaroo	1994-09-14	
+1	200	0	MAMMALS		It's the only seal with tusks	the walrus	1994-09-14	
+1	300	0	MAMMALS		This cat's scientific name is Panthera pardus	panther (leopard)	1994-09-14	
+1	400	0	MAMMALS		This brown bear gets its name from the white tips on its fur that make it appear streaked with gray	the grizzly	1994-09-14	
+1	500	0	MAMMALS		This arboreal, slow-moving mammal is camouflaged by algae that grow on its coarse fur	a sloth	1994-09-14	
+1	100	0	POP MUSIC		Their "Close to You" LP gave them the 1970 Grammy for "Best New Artist\"	The Carpenters	1994-09-14	
+1	200	0	POP MUSIC		To promote her third album, "Music Box", she began a world tour in Miami Nov. 3, 1993	Mariah Carey	1994-09-14	
+1	300	0	POP MUSIC		Country singer Ronnie Milsap sang harmony with this artist on the 1969 hit "Don't Cry, Daddy\"	Elvis Presley	1994-09-14	
+1	400	0	POP MUSIC		Bruce Springsteen's "Dancing in the Dark" & "My Hometown" were released on this 1984 album	Born in the U.S.A	1994-09-14	
+1	500	0	POP MUSIC		This group's first 2 albums, released in 1965 & '66, were "Mr. Tambourine Man" & "Turn! Turn! Turn!\"	The Byrds	1994-09-14	
+1	100	0	HOBBIES		As its full name states, the S.I.B.A.A. promotes the art of building these in bottles	Ships	1994-09-14	
+1	200	0	HOBBIES		Introduced by Europeans to America, it's the only hobby that purposely gives you hives	beekeeping	1994-09-14	
+1	300	0	HOBBIES		For fans of these, the ACF may not be 1 up on the competition but they are 1 Down or 1 Across	crossword puzzles	1994-09-14	
+1	400	0	HOBBIES		Crochet patterns use 3 basic stitches: crochet, double crochet & this "linking" stitch	chain stitch	1994-09-14	
+1	500	0	HOBBIES		Many collectors display types of this, including Carnival, Heisey & Steuben	glass	1994-09-14	
+1	100	0	LAKES & RIVERS		Of the world's 6 largest lakes in area, 3 are part of this quintet	the Great Lakes	1994-09-14	
+1	200	0	LAKES & RIVERS		This river connects the Sea of Galilee to the Dead Sea	the Jordan	1994-09-14	
+1	300	0	LAKES & RIVERS		Lake Rudolf is found in Africa & Reindeer Lake is located on this continent	North America	1994-09-14	
+1	400	0	LAKES & RIVERS		This river's route to the Shatt al-Arab is about 50% longer than the Tigris\'	The Euphrates	1994-09-14	
+1	500	1000	LAKES & RIVERS		One of the deserts through which the Orange River flows	Kalahari (or Namib)	1994-09-14	
+1	100	0	MAGAZINES		In March 1983 this "Magnum, P.I." star became the first centerfold in McCall's' 107-year history	Tom Selleck	1994-09-14	
+1	200	0	MAGAZINES		Columns in this weekly magazine include "The Couch Critic", "Grapevine" & "What I Watch\"	TV Guide	1994-09-14	
+1	300	0	MAGAZINES		Of the USA's major newsmagazines, this one has the largest circulation by far	Time	1994-09-14	
+1	400	0	MAGAZINES		In 1922 former Secretary of Agriculture Edwin T. Meredith founded it as "Fruit, Garden and Home\"	Better Homes and Gardens	1994-09-14	
+1	500	0	MAGAZINES		It's the USA's most popular magazine for the hunting & fishing enthusiast	Field & Stream	1994-09-14	
+1	100	0	FOREIGN WORDS & PHRASES		The French call this faraway country La Nouvelle-Zelande	New Zealand	1994-09-14	
+1	200	0	FOREIGN WORDS & PHRASES		In German these 3 colors are rot, weiss und blau	red, white and blue	1994-09-14	
+1	300	0	FOREIGN WORDS & PHRASES		To an Esperanto speaker, this beverage is lakto	Milk	1994-09-14	
+1	400	0	FOREIGN WORDS & PHRASES		In Swedish it's a kackerlacka; in Spanish, it's a cucaracha	a cockroach	1994-09-14	
+1	500	0	FOREIGN WORDS & PHRASES		The Dutch version of this holiday greeting is Vrolijk Kerstfeest	Merry Christmas	1994-09-14	
+2	200	0	WORLD HISTORY		In early 1984 this country launched missiles at tankers near Iran's Kharg Island	Iraq	1994-09-14	
+2	400	0	WORLD HISTORY		On May 2, 1982 the HMS Conqueror torpedoed & sank Argentina's General Belgrano in this war	the Falklands	1994-09-14	
+2	600	0	WORLD HISTORY		When this nationalist Chinese leader died, his son Chiang Ching-Kuo continued as premier	Chiang Kai-shek	1994-09-14	
+2	800	0	WORLD HISTORY		In 1987 this country's president, Oscar Arias Sanchez, won the Nobel Peace Prize	Costa Rica	1994-09-14	
+2	1000	0	WORLD HISTORY		As a result of this 1904-05 war, Russia lost Port Arthur & half of Sakhalin Island	the Russo-Japanese war	1994-09-14	
+2	200	0	CHEMISTRY		This substance "of Paris" is hemihydrated calcium sulfate	plaster	1994-09-14	
+2	400	0	CHEMISTRY		Chicle, a resin obtained from the Achras zapota tree, is used to manufacture this	(chewing) gum (Chiclets accepted)	1994-09-14	
+2	600	0	CHEMISTRY		Traces of chromium oxide give this precious corundum gem its red color	ruby	1994-09-14	
+2	800	0	CHEMISTRY		The chemical formula of this metal's ore cinnabar is HgS	mercury	1994-09-14	
+2	1000	0	CHEMISTRY		Kaolin, used in paper & pottery manufacture, is also called "China" this	clay	1994-09-14	
+2	200	0	FASHION		Types of these worn by men include bow, clip-on & four-in-hand	a tie	1994-09-14	
+2	400	0	FASHION		This elastic band can be worn with a girdle to hold up hose, or around a sleeve to shorten it	a garter	1994-09-14	
+2	600	0	FASHION		In 1986 this company launched its line of pants called "Dockers\"	Levi Strauss	1994-09-14	
+2	800	0	FASHION		It's the 2-piece, usually green cotton outfit worn by surgeons in an operating room	scrubs	1994-09-14	
+2	1000	1200	FASHION		Clothing with Victorian floral motifs was popularized by this designer who died in 1985	Laura Ashley	1994-09-14	
+2	200	0	IDAHO		When Idaho became a state the government stayed in this city, its territorial capital	Boise	1994-09-14	
+2	400	0	IDAHO		In 1955 Arco, Idaho became the first U.S. town lighted with electricity supplied by one of these	a nuclear power plant	1994-09-14	
+2	600	0	IDAHO		A memorial to Ernest Hemingway stands on Trail Creek in this winter sports resort area	Sun Valley	1994-09-14	
+2	800	0	IDAHO		This 83-square-mile national monument is made up of "lunar" basaltic volcanic features	Craters of the Moon National Park	1994-09-14	
+2	1000	0	IDAHO		This city named for a Bannock Indian is home to Idaho State University	Pocatello	1994-09-14	
+2	200	0	AUTHORS		Virginia Woolf often set her novels in this English capital city, her birthplace	London	1994-09-14	
+2	400	0	AUTHORS		Nora Ephron called this "Valley of the Dolls" author "an extraordinary publishing phenomenon\"	Jacqueline Susann	1994-09-14	
+2	600	0	AUTHORS		This Southerner detailed the decline of the Compson family in his 1929 novel "The Sound and the Fury\"	Faulkner	1994-09-14	
+2	800	0	AUTHORS		\"Star Quality" is a collection of stories by this "Private Lives" playwright who definitely had star quality	Noel Coward	1994-09-14	
+2	200	0	SUPREME COURT APPOINTMENTS	(Alex: And for this category, I will name a justice or justices, and you have to name the president who appointed that individual.)	Sandra Day O'Connor, Antonin Scalia, Anthony M. Kennedy	Ronald Reagan	1994-09-14	
+2	400	0	SUPREME COURT APPOINTMENTS	(Alex: And for this category, I will name a justice or justices, and you have to name the president who appointed that individual.)	David H. Souter, Clarence Thomas	George Bush	1994-09-14	
+2	600	0	SUPREME COURT APPOINTMENTS	(Alex: And for this category, I will name a justice or justices, and you have to name the president who appointed that individual.)	Byron White, Arthur J. Goldberg	Kennedy	1994-09-14	
+2	800	0	SUPREME COURT APPOINTMENTS	(Alex: And for this category, I will name a justice or justices, and you have to name the president who appointed that individual.)	Thurgood Marshall	(Lyndon) Johnson	1994-09-14	
+2	1000	0	SUPREME COURT APPOINTMENTS	(Alex: And for this category, I will name a justice or justices, and you have to name the president who appointed that individual.)	David Davis, Stephen J. Field, Salmon P. Chase	Abraham Lincoln	1994-09-14	
+3	0	0	NOTABLE WOMEN		On Good Housekeeping's 1994 list of the most admired people, this 1979 Nobel laureate led the women	Mother Teresa	1994-09-14	
+1	100	0	U.S. PRESIDENTS		In a 1977 TV interview, he denied having committed any impeachable offense	Nixon	1994-09-15	
+1	200	0	U.S. PRESIDENTS		He may have suffered from Marfan's syndrome, a rare disorder featuring long, lanky arms & legs	Abraham Lincoln	1994-09-15	
+1	300	0	U.S. PRESIDENTS		Between terms as an administrative judge, he worked briefly for the Kansas City Automobile Club	Truman	1994-09-15	
+1	400	0	U.S. PRESIDENTS		In 1884 he wrote an article for Century Magazine on the Battle of Shiloh	Grant	1994-09-15	
+1	500	0	U.S. PRESIDENTS		Assassinated in 1881, he had the second-shortest term of any president	Garfield	1994-09-15	
+1	100	0	TV PAIRS		More properly, this 1980s CBS sitcom would have been titled "Katherine & Allison\"	Kate & Allie	1994-09-15	
+1	200	0	TV PAIRS		This pair consisted of an alien Earth observer & a Boulder, Colorado woman	Mork & Mindy	1994-09-15	
+1	300	0	TV PAIRS		Name on the salvage yard located at 9114 South Central in Los Angeles	Sanford & Son	1994-09-15	
+1	400	0	TV PAIRS		This title pair was a trucker & his simian companion, whom he named for coach Paul Bryant	B.J. & the Bear	1994-09-15	
+1	500	0	TV PAIRS		Scarecrow had Mrs. King; this Mountie had Yukon King	Sergeant Preston	1994-09-15	
+1	100	0	AWARDS		Prof. J. Frank McGill & Herman Talmadge are in this legume's Hall of Fame in Georgia & Jimmy Carter isn't	peanut	1994-09-15	
+1	200	0	AWARDS		Women directors of these are eligible for the Silver Baton Award	symphony orchestras (or bands)	1994-09-15	
+1	300	0	AWARDS		In 1926 Samuel Ryder donated a competitive cup for pros in this sport	golf	1994-09-15	
+1	400	0	AWARDS		The Illinois Society for Microbiology named its award for this French microbiologist	Pasteur	1994-09-15	
+1	500	0	AWARDS		The Washington Theatre Awards are named for this first lady of the American theatre	Helen Hayes	1994-09-15	
+1	100	0	JAPAN		The predecessor of this traditional Japanese garment was the kosode of the Nara period	the kimono	1994-09-15	
+1	200	0	JAPAN		One of the most famous of these shrunken trees was first owned by a 17th century shogun	bonsai	1994-09-15	
+1	300	0	JAPAN		This elite warrior class was dissolved between 1873 & 1876, after the Meiji Restoration	samurai	1994-09-15	
+1	400	0	JAPAN		The Cherry, the first of these commercially produced in Japan, was made by a forerunner of Konica	cameras	1994-09-15	
+1	500	0	JAPAN		The name of this Japanese form of fencing means "the way of the sword\"	kendo	1994-09-15	
+1	100	0	FAKES & FALSEHOODS		Human body part you pull when you put something over on someone	the leg	1994-09-15	
+1	200	0	FAKES & FALSEHOODS		N.Y. governor Al Smith popularized the line "No matter how thin you slice it, it's still" this	baloney	1994-09-15	
+1	300	0	FAKES & FALSEHOODS		They're shed with hypocritical sorrow	crocodile tears	1994-09-15	
+1	400	0	FAKES & FALSEHOODS		A tale of these 2 farm animals is a false "story\"	a cock & bull story	1994-09-15	
+1	500	900	FAKES & FALSEHOODS		This term for a fraud or quack goes back to a name for a person from Cerreto, Italy	a charlatan	1994-09-15	
+1	100	0	\"O" BOY	(Alex: And notice that O is in quotation marks, which means that each correct response will begin with that letter of the alphabet.)	This Pledge or Promise is taken by officials before taking public office	an oath	1994-09-15	
+1	200	0	\"O" BOY	(Alex: And notice that O is in quotation marks, which means that each correct response will begin with that letter of the alphabet.)	It's from a Greek word meaning "without parents\"	orphan	1994-09-15	
+1	300	0	\"O" BOY	(Alex: And notice that O is in quotation marks, which means that each correct response will begin with that letter of the alphabet.)	An object impervious to the passage of light is said to be this	opaque	1994-09-15	
+1	400	0	\"O" BOY	(Alex: And notice that O is in quotation marks, which means that each correct response will begin with that letter of the alphabet.)	Petroleum accounts for over 90% of this Arabian sultanate's exports	Oman	1994-09-15	
+1	500	0	\"O" BOY	(Alex: And notice that O is in quotation marks, which means that each correct response will begin with that letter of the alphabet.)	This plant used to thicken & flavor soups is also known as gumbo	okra	1994-09-15	
+2	200	0	BATTLES		In 1798 Napoleon defeated Murad Bey in this country at the Battle of the Pyramids	Egypt	1994-09-15	
+2	400	0	BATTLES		This attack in which Custer & all of his men died lasted less than half an hour	Battle of the Little Bighorn	1994-09-15	
+2	600	0	BATTLES		Famous battles of this war include Heartbreak Ridge & Pork Chop Hill	the Korean War	1994-09-15	
+2	800	0	BATTLES		In a bittersweet victory, England won this 1805 battle but lost Lord Nelson	Trafalgar	1994-09-15	
+2	1000	1000	BATTLES		In this battle of 490 B.C., an Athenian army overran a Persian force nearly twice its size	The Battle of Marathon	1994-09-15	
+2	200	0	ISLANDS		Large bays cutting into this island's coast include Galway, Donegal & Clew	Ireland	1994-09-15	
+2	400	0	ISLANDS		Islands in this Spanish group include Fuerteventura, Lanzarote & Tenerife	the Canary Islands	1994-09-15	
+2	600	1000	ISLANDS		This country's Pacific Ocean territories include the Society Islands & the Tuamotu Archipelago	France	1994-09-15	
+2	800	0	ISLANDS		This Michigan island once served as the headquarters of John Jacob Astor's fur company	Mackinac Island	1994-09-15	
+2	1000	0	ISLANDS		About 10% of this island forming northeastern Nova Scotia consists of the saltwater Bras d'Or Lake	Cape Breton Island	1994-09-15	
+2	200	0	FAMOUS WOMEN		In '60 she decreed that certain of her descendants would use the surname Mountbatten-Windsor	Elizabeth II	1994-09-15	
+2	400	0	FAMOUS WOMEN		Saxophonist Lester Young nicknamed this jazz singer "Lady Day\"	Billie Holiday	1994-09-15	
+2	600	0	FAMOUS WOMEN		In January 1994 this hotel queen was freed after serving 21 months	Leona Helmsley	1994-09-15	
+2	800	0	FAMOUS WOMEN		On completion of her Christian Science "Mother Church" in Boston, she took the title Pastor Emeritus	Mary Baker Eddy	1994-09-15	
+2	1000	0	FAMOUS WOMEN		She was 21 & a student at Yale when she designed the Vietnam Veterans Memorial in Washington, D.C.	Maya Lin	1994-09-15	
+2	200	0	MATH FORMULAS		For a pyramid this, V, is equal to 1/3 (the area of the base times the height)	the volume	1994-09-15	
+2	400	0	MATH FORMULAS		C=pi d or 2 pi r, r being this	the radius	1994-09-15	
+2	600	0	MATH FORMULAS		Newton calculated that m, mass, times a, acceleration, gives you F, this	force	1994-09-15	
+2	800	0	MATH FORMULAS		This famous theorem in trigonometry is a2 plus b2 = c2	Pythagorean theorem	1994-09-15	
+2	1000	0	MATH FORMULAS		The formula to calculate the area of this figure is A=1/2bh	a triangle	1994-09-15	
+2	200	0	NEWSPAPERS		First published in 1900, the Nome Nugget is this state's oldest newspaper	Alaska	1994-09-15	
+2	400	0	NEWSPAPERS		Founded in 1847, this capital's Republican newspaper was the first English paper in New Mexico	Santa Fe	1994-09-15	
+2	600	0	NEWSPAPERS		The Manchester Union Leader is the only newspaper in this state with statewide circulation	New Hampshire	1994-09-15	
+2	800	0	NEWSPAPERS		This largest newspaper in Louisiana is New Orleans' only daily	The Times-Picayune	1994-09-15	
+2	1000	0	NEWSPAPERS		Newspapers in this state include the Grand Forks Herald & the Minot Daily News	North Dakota	1994-09-15	
+2	200	0	LITERATURE		The famous Tea Party chapter of this Lewis Carroll work didn't appear in the first version	Alice in Wonderland (Alice's Adventures in Wonderland)	1994-09-15	
+2	400	0	LITERATURE		His short story collection "The Four Million" includes "The Gift of the Magi\"	O. Henry	1994-09-15	
+2	600	0	LITERATURE		Joseph Heller novel that features such characters as Captain Yossarian & Major Major Major Major	Catch-22	1994-09-15	
+2	800	0	LITERATURE		Her 1927 novel "Death Comes for the Archbishop" is set in the Southwest, not in Nebraska	(Willa) Cather	1994-09-15	
+2	1000	0	LITERATURE		\"The Dead" is the longest piece in this James Joyce short story collection	The Dubliners	1994-09-15	
+3	0	0	1994		James Gregory, a former Robben Island warden, was an invited guest at this May 10, 1994 event	the inauguraiton of Nelson Mandela	1994-09-15	
+1	100	0	FAMOUS SOUTHPAWS		He's the left-handed bass player of The Beatles	Paul McCartney	1994-09-16	
+1	200	0	FAMOUS SOUTHPAWS		Left-handed New York Yankees have included the Iron Horse, Lou Gehrig, & the Bambino, this man	Babe Ruth	1994-09-16	
+1	300	0	FAMOUS SOUTHPAWS		On film she left her mark as a "Harvey Girl", a "Ziegfeld Girl" & a farm girl from Kansas	Judy Garland	1994-09-16	
+1	400	0	FAMOUS SOUTHPAWS		He must have worked "Night and Day" to "Begin The Beguine" with his left hand	Cole Porter	1994-09-16	
+1	500	0	FAMOUS SOUTHPAWS		Hannibal lecturer	Mark Twain	1994-09-16	
+1	100	0	EXPLORERS		This Scot's "Missionary Travels and Researches in South Africa" was a bestseller	Livingstone	1994-09-16	
+1	200	0	EXPLORERS		In 1725 this Dane was asked to determine if there was a land connection between Russia & North America	Vitus Bering	1994-09-16	
+1	300	0	EXPLORERS		In the mid-1470s he joined his brother Bartholomew as a map dealer in Portugal	Christopher Columbus	1994-09-16	
+1	400	0	EXPLORERS		Before exploring the South Pacific, this British captain charted the St. Lawrence River in 1759	(Captain) Cook	1994-09-16	
+1	500	0	EXPLORERS		In November 1806 this U.S. Army officer & his men first sighted the front range of the Rockies	Zebulon Pike	1994-09-16	
+1	100	0	FOOD		A Biblical dish was locust & this sweetener	honey	1994-09-16	
+1	200	0	FOOD		The Greek dish soupa avgolemono features eggs & this citrus fruit	lemon	1994-09-16	
+1	300	0	FOOD		Kate & Sydney is this kind of pie that a cockney might have for Lilley & Skinner, dinner	steak & kidney pie	1994-09-16	
+1	400	0	FOOD		Careful! If you drink alcohol after eating ink caps, a type of these, you'll become very sick	mushrooms	1994-09-16	
+1	500	0	FOOD		These fish are caught by hand & deep fried after they run onto West Coast beaches to spawn	grunion	1994-09-16	
+1	100	0	SOUTH AMERICAN GEOGRAPHY		On the average only the Himalayas are taller than this range that stretches down South America	the Andes	1994-09-16	
+1	200	0	SOUTH AMERICAN GEOGRAPHY		The Atacama & Patagonia are the 2 largest examples of this type of region in South America	deserts	1994-09-16	
+1	300	0	SOUTH AMERICAN GEOGRAPHY		The continent's lowest point, Valdes Peninsula, lies in this country that also contains the highest point	Argentina	1994-09-16	
+1	400	800	SOUTH AMERICAN GEOGRAPHY		This is the only South American country that touches Central America	Colombia	1994-09-16	
+1	500	0	SOUTH AMERICAN GEOGRAPHY		This, the waterfall with the world's longest drop, drains into the Churun River	Angel Falls	1994-09-16	
+1	100	0	SHADES OF BLUE		It should be a sailor's favorite shade of blue as well as his favorite branch of the Service	Navy	1994-09-16	
+1	200	0	SHADES OF BLUE		The body parts most often described as baby blues	eyes	1994-09-16	
+1	300	0	SHADES OF BLUE		It would be most appropriate to wear this shade of blue one minute after 11:59 p.m.	midnight blue	1994-09-16	
+1	400	0	SHADES OF BLUE		This dazzling shade of greenish blue resembles the tail feathers of a "proud" bird	peacock blue	1994-09-16	
+1	500	0	SHADES OF BLUE		Cerulean is the color of this, & its name may come from caelum, the Latin word for it	the sky	1994-09-16	
+1	100	0	\"GOOD" STUFF		Proverbially speaking, one of these "deserves another\"	a good turn	1994-09-16	
+1	200	0	\"GOOD" STUFF		Charlie says in 1994 these pink & white licorice-flavored candies celebrated their 100th birthday	Good and Plenty	1994-09-16	
+1	300	0	\"GOOD" STUFF		Originating in the Bible, it's a compassionate person who unselfishly helps others	a Good Samaritan	1994-09-16	
+1	400	0	\"GOOD" STUFF		You'll find this rocky promontory about 100 miles northwest of Africa's southern tip	the Cape of Good Hope	1994-09-16	
+1	500	0	\"GOOD" STUFF		It was the name given to FDR's plan to improve relations with Latin America	the Good Neighbor Policy	1994-09-16	
+2	200	0	ART		Ku K'ai-Chih of this country was the first portrait artist said to capture the spirit of his subjects	China	1994-09-16	
+2	400	0	ART		This period sometimes divided into early, high & late ended around 1600	the Renaissance	1994-09-16	
+2	600	0	ART		Leonardo da Vinci & Albrecht Durer were among many artists who painted "The Adoration of" this trio	the Magi	1994-09-16	
+2	800	0	ART		His most ambitious mural covering Mexico's history was left unfinished at his death	Diego Rivera	1994-09-16	
+2	1000	1000	ART		His painting "The Scream", stolen just before the '94 Winter Olympics, was recovered 3 months later	Edvard Munch	1994-09-16	
+2	200	0	EUROPEAN ROYALTY		5-year-old David II succeeded his father, Robert the Bruce, as king of this country in 1329	Scotland	1994-09-16	
+2	400	0	EUROPEAN ROYALTY		In 1386 Jagiello, Grand Duke of Lithuania, married Queen Jadwiga & became King Wladyslaw II of this country	Poland	1994-09-16	
+2	600	0	EUROPEAN ROYALTY		This country's ruler, Prince Hans Adam, lives in a castle on a cliff that overlooks the city of Vaduz	Liechtenstein	1994-09-16	
+2	800	0	EUROPEAN ROYALTY		She was only 10 when she became queen of the Netherlands in 1890, so her mother, Emma, served as regent	Queen Wilhelmina	1994-09-16	
+2	1000	0	EUROPEAN ROYALTY		First name shared by Prince Andrew's older daughter & Queen Victoria's youngest daughter	Beatrice	1994-09-16	
+2	200	0	COLLEGES & UNIVERSITIES		In 1910 this state's first junior college was founded in Fresno	California	1994-09-16	
+2	400	0	COLLEGES & UNIVERSITIES		Benjamin Franklin helped found this Ivy League school in 1740	Penn (the University of Pennsylvania)	1994-09-16	
+2	600	0	COLLEGES & UNIVERSITIES		Founded in Atlanta in 1885, this university has one of the finest engineering schools in the country	Georgia Tech	1994-09-16	
+2	800	0	COLLEGES & UNIVERSITIES		The Catholics & the Ramblers were early names for this university's football team	Notre Dame	1994-09-16	
+2	1000	0	COLLEGES & UNIVERSITIES		Founded as a seminary in South Hadley, Massachusetts, it was the 1st U.S. college for women	Mount Holyoke	1994-09-16	
+2	200	0	PLANTS & TREES		Kangaroo vine, which can be grown indoors or out, is native to this country	Australia	1994-09-16	
+2	400	0	PLANTS & TREES		Varying leaf shapes make it hard to identify this poisonous plant sometimes classed as Toxicodendron	poison oak (poison ivy)	1994-09-16	
+2	600	0	PLANTS & TREES		The essential ones of these give aromatic plants their taste or odor	oils	1994-09-16	
+2	800	0	PLANTS & TREES		Used in polishes, carnauba wax is derived from the leaves of this type of tropical tree	a palm	1994-09-16	
+2	1000	1000	PLANTS & TREES		Named for a biblical person & found in the desert, this tree is the largest species of yucca	the Joshua tree	1994-09-16	
+2	200	0	ABOLITIONISM		Between 1830 & 1860, this system transported many runaway slaves to southern Ontario	the Underground Railroad	1994-09-16	
+2	400	0	ABOLITIONISM		Before the Harpers Ferry attack, he & his men killed 5 proslavers in Pottawatomie, Kansas	John Brown	1994-09-16	
+2	600	0	ABOLITIONISM		This 1787 ordinance included a fugitive slave clause	the Northwest Ordinance	1994-09-16	
+2	800	0	ABOLITIONISM		The first issue of this William Lloyd Garrison abolitionist paper was published January 1, 1831	The Liberator	1994-09-16	
+2	1000	0	ABOLITIONISM		By means of the Missouri Compromise, this New England state was admitted as a free state	Maine	1994-09-16	
+2	200	0	WORLD LITERATURE		Michael Shaara's Pulitzer Prize-winning novel "The Killer Angels" is an account of this July 1863 battle	the Battle of Gettysburg	1994-09-16	
+2	400	0	WORLD LITERATURE		In an epic work by Sir Thomas Malory, he & Mordred slay each other	King Arthur	1994-09-16	
+2	600	0	WORLD LITERATURE		Oldest son Dmitri stands trial for his father's murder in this novel by Dostoyevsky	The Brothers Karamazov	1994-09-16	
+2	800	0	WORLD LITERATURE		A governess finds her 2 young charges under the influence of ghosts in this Henry James tale	Turn of the Screw	1994-09-16	
+2	1000	0	WORLD LITERATURE		Some critics consider this 1912 Zane Grey novel the best Western ever written	The Riders of the Purple Sage	1994-09-16	
+3	0	0	BODIES OF WATER		In the time of the Roman Republic, this river separated Cisalpine Gaul from Italy	the Rubicon	1994-09-16	
+1	100	0	CUBA		When he discovered Cuba in October 1492, the island was inhabited by Taino & Ciboney Indians	(Christopher) Columbus	1994-09-19	
+1	200	0	CUBA		Fewer than 500,000 of the over 10 million Cubans belong to this, the only legal political party	the Communist Party	1994-09-19	
+1	300	0	CUBA		In 1984 Cuba reached an agreement with this country for the repatriation of some Mariel refugees	The United States	1994-09-19	
+1	400	0	CUBA		1 of 2 team sports in which Cuba won Olympic gold medals at the 1992 Summer Olympics	baseball (or women's volleyball)	1994-09-19	
+1	500	0	CUBA		This man, overthrown in 1959, died in Spain in 1973	Batista	1994-09-19	
+1	100	0	SCI-FI TV		The first episode of "The Time Tunnel" was set in part aboard this ill-fated ship	the Titanic	1994-09-19	
+1	300	0	SCI-FI TV		Matt Frewer played reporter Edison Carter & this character, his computer-generated alter ego	Max Headroom	1994-09-19	
+1	400	0	SCI-FI TV		There was a new Number Two for almost every one of the 17 episodes of this 1960s Patrick McGoohan classic	The Prisoner	1994-09-19	
+1	500	0	SCI-FI TV		1 of the 2 series that featured Oscar Goldman, head of the Office of Strategic Intelligence	The Six Million Dollar Man (or The Bionic Woman)	1994-09-19	
+1	100	0	FOOD		There are many varieties of this soup, including conch, corn & New England clam	chowder	1994-09-19	
+1	200	0	FOOD		Sprinkled over osso buco, Gremolata is a tasty mixture of garlic, grated lemon rind & this green garnish	parsley	1994-09-19	
+1	300	0	FOOD		Herkimer, a sharp variety of this cheese is made in Herkimer County, New York	cheddar	1994-09-19	
+1	400	0	FOOD		Made in India, jaggery is a coarse, unrefined, brown type of this	sugar	1994-09-19	
+1	500	0	FOOD		Algarroba is another name for this chocolate substitute used to feed livestock	carob	1994-09-19	
+1	100	0	BIBLICAL PEOPLE		Though John's gospel does not tell of this man betraying Jesus with a kiss, the other gospels do	Judas	1994-09-19	
+1	200	0	BIBLICAL PEOPLE		This blameless man had the misfortune to become the object of a wager between God & Satan	Job	1994-09-19	
+1	300	0	BIBLICAL PEOPLE		When given the choice by Pilate, the crowd chose to release this convict rather than Jesus	Barabbas	1994-09-19	
+1	400	0	BIBLICAL PEOPLE		For his painting of this mother of Solomon, Rembrandt used his wife Hendrickje as the model	Bathsheba	1994-09-19	
+1	500	0	BIBLICAL PEOPLE		Mishael was the original name of this man cast into the fiery furnace with Shadrach & Abednego	Meshach	1994-09-19	
+1	100	0	THE 1994 FORTUNE 500		First on the list of sales is this Detroit company; it's also first in number of employees	General Motors	1994-09-19	
+1	200	0	THE 1994 FORTUNE 500		The top apparel company on the list in sales, it came in at No. 90, which is much better than No. 501	Levi's (Levi Strauss)	1994-09-19	
+1	300	0	THE 1994 FORTUNE 500		Number 4 in overall sales, it might not compute that it was also the biggest money loser	IBM	1994-09-19	
+1	400	0	THE 1994 FORTUNE 500		Fisher-Price was missing from the 1994 list because it's now part of this toy company	Mattel	1994-09-19	
+1	500	0	THE 1994 FORTUNE 500		Of the 4 companies under "Q" in the index, these 2 have Quaker in their names	Quaker Oats & Quaker State oil	1994-09-19	
+1	100	0	ANIMAL PHRASES		When your nerves are rattled, you may feel like you have "butterflies" here	in your stomach	1994-09-19	
+1	200	0	ANIMAL PHRASES		It's when "the mice will play\"	when the cat is away	1994-09-19	
+1	300	0	ANIMAL PHRASES		To bring on a complicated problem is to open a can of these	worms	1994-09-19	
+1	400	0	ANIMAL PHRASES		Someone who is quite angry is as "mad as a wet" one of these	a hen	1994-09-19	
+1	500	0	ANIMAL PHRASES		Something that can be accomplished quickly can be done in "Two Shakes of" this	a lamb's tail	1994-09-19	
+2	200	0	HISTORIC AFFAIRS		The Trent Affair of 1861 was a naval incident that almost brought England into this war	the United States Civil War	1994-09-19	
+2	400	0	HISTORIC AFFAIRS		It led to the resignation of a U.S. president	the Watergate affair	1994-09-19	
+2	600	0	HISTORIC AFFAIRS		Exposed in 1986, this affair involved, among other nations, the U.S., Nicaragua & Israel	the Iran-Contra affair	1994-09-19	
+2	800	1200	HISTORIC AFFAIRS		This affair began in 1894 when a Jewish officer was accused of giving information to the Germans	the Dreyfus affair	1994-09-19	
+2	1000	0	HISTORIC AFFAIRS		Elbridge Gerry of gerrymander fame was embroiled in this 1797-98 American-French affair	the XYZ Affair	1994-09-19	
+2	200	0	LEGENDS OF THE WORLD		This world-famous lake monster has often been "seen" near Urquhart Castle	the Loch Ness Monster	1994-09-19	
+2	400	0	LEGENDS OF THE WORLD		French-Canadian lumberjacks may have been the first to spread the tall tales about this giant	Paul Bunyan	1994-09-19	
+2	600	0	LEGENDS OF THE WORLD		In Norse myth Niflheim is a land of ice & muspellsheim is a land of this	fire	1994-09-19	
+2	800	0	LEGENDS OF THE WORLD		In a famous 14th century poem, this nephew of King Arthur beheads the Green Knight	Sir Gawain	1994-09-19	
+2	1000	0	LEGENDS OF THE WORLD		This paladin of Charlemagne went mad when the fair Angelica ran off with a moor named Medoro	Orlando (Roland)	1994-09-19	
+2	200	0	U.S. STATES		Its state bird is the Baltimore Oriole	Maryland	1994-09-19	
+2	400	0	U.S. STATES		Tomatoes rank as Florida's second most valuable crop; this fruit is number one	oranges	1994-09-19	
+2	600	0	U.S. STATES		Kentucky's state song is this Stephen Foster classic	\"My Old Kentucky home\"	1994-09-19	
+2	800	0	U.S. STATES		Though this tree is now rare due to a "Dutch" disease, it's still Massachusetts' state tree	the elm	1994-09-19	
+2	1000	1500	U.S. STATES		When it joined the Union in 1803, it became the first state west of the Alleghenies	Ohio	1994-09-19	
+2	200	0	BALLET		Maria Tallchief played this fairy in her ex-husband George Balanchine's 1954 version of "The Nutcracker\"	the Sugarplum Fairy	1994-09-19	
+2	400	0	BALLET		This Moscow ballet company premiered "The Red Poppy", the first important Soviet ballet, in 1927	the Bolshoi	1994-09-19	
+2	600	0	BALLET		Mikhail Baryshnikov called her "the most American of all choreographers\"	Agnes de Mille	1994-09-19	
+2	800	0	BALLET		A 1971 ballet about this great dancer features characters he played, such as The Rose & the Faun	Nijinsky	1994-09-19	
+2	1000	0	BALLET		Born in 1881, this Russian ballerina was famous for her dragonfly solo as well as for "The Dying Swan\"	Pavlova	1994-09-19	
+2	200	0	FURNITURE		It's what a convertible sofa converts into	a bed	1994-09-19	
+2	400	0	FURNITURE		Equipped with a mirror & several small drawers that hold makeup, one for men was called the Beau Brummel	vanity (dressing table)	1994-09-19	
+2	600	0	FURNITURE		For furniture with French names, it precedes Volante, Percee & Longue	chaise	1994-09-19	
+2	800	0	FURNITURE		British rococo furniture is also called this "style", after a famous furniture maker of the time	Chippendale	1994-09-19	
+2	1000	0	FURNITURE		Mies van der Rohe said it's almost harder to design a good one of these than a good building	a chair	1994-09-19	
+2	200	0	WRITERS NAMED JAMES		A fact in one of his daughter's school books sparked his interest in writing about a "Shogun\"	James Clavell	1994-09-19	
+2	400	0	WRITERS NAMED JAMES		Before tackling Samuel Johnson's entire life, he published a journal of their tour "To the Hebrides\"	(James) Boswell	1994-09-19	
+2	600	0	WRITERS NAMED JAMES		\"Only One Woof" & "Christmas Day Kitten" are among the books this veterinarian has written for kids	James Herriot	1994-09-19	
+2	800	0	WRITERS NAMED JAMES		While a student in Dublin, he wrote an essay titled "My Favourite Hero"; his hero was Ulysses	James Joyce	1994-09-19	
+2	1000	0	WRITERS NAMED JAMES		Books like "The Postman Always Rings Twice" earned him a reputation as a "tough-guy" writer	(James M.) Cain	1994-09-19	
+3	0	0	19th CENTURY AMERICA		In 1864 the Comm. of Agriculture advocated that the government issue daily ones of these via telegraphs	a weather report	1994-09-19	
 1	100	0	FIRST LADIES		Sarah Phillips designed the stunning violet gown this first lady wore to the 1993 inaugural balls	Hillary Clinton	1994-09-20	
 1	200	0	FIRST LADIES		She said, "There'll be great presidents again...but there'll never be another Camelot again\"	Jacqueline Kennedy	1994-09-20	
 1	300	0	FIRST LADIES		She said 1944 "was the year I fell in love with Jimmy's picture"; she was a close friend of his sister Ruth	Rosalynn Carter	1994-09-20	
@@ -487,8 +729,432 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	AUTHORS		\"Ragged Dick", his 1st successful rags-to-riches story, was 1st serialized in 1867	Horatio Alger	1994-09-20	
 2	1000	0	AUTHORS		In "The Tin Drum", this German author wrote, "Even bad books are books and therefore sacred\"	Günter Grass	1994-09-20	
 3	0	0	WOMEN IN SPORTS		With 5, she's won more Olympic gold medals than any other U.S. female athlete	Bonnie Blair	1994-09-20	
+1	100	0	NATURE		Because of their lack of movement, sponges were once thought to be these instead of animals	plants	1994-09-21	
+1	200	0	NATURE		This strikes the Earth about 100 times each second & often in the same place twice	lightning	1994-09-21	
+1	300	0	NATURE		Tahoe National Forest in California is the northernmost natural locale for these "giant" trees	sequoias	1994-09-21	
+1	400	0	NATURE		This tall, hollow grass is used to make everything from window shades to water pipes	bamboo	1994-09-21	
+1	500	0	NATURE		What's often called "fool's gold" is really this mineral	pyrite	1994-09-21	
+1	100	0	SMELL		An extremely unpleasant smell is said to "stink to" this	to high heaven	1994-09-21	
+1	200	0	SMELL		It's a mix of dried flowers & spices, sort of a hodgepodge or odds & ends	potpourri	1994-09-21	
+1	300	0	SMELL		Mystery fans know hydrogen cyanide emits a faint odor of bitter ones of these	almonds	1994-09-21	
+1	400	0	SMELL		Shakespeare wrote it's excessive to paint the lily or throw this on a violet	perfume	1994-09-21	
+1	500	500	SMELL		From Old French for "apple of amber", it's a ball of aromatic substances	pomander	1994-09-21	
+1	100	0	WORLD CUP '94		This team defeated Italy on penalty kicks to win the tournament	Brazil	1994-09-21	
+1	200	0	WORLD CUP '94		The 2 teams automatically in the tournament were the defending Champs, Germany, & this one	The United States	1994-09-21	
+1	300	0	WORLD CUP '94		At the end of the second round, officials had issued a record 179 of these	yellow cards	1994-09-21	
+1	400	0	WORLD CUP '94		Word most associated with Univision announcer Andres Cantor	\"Gol!\"	1994-09-21	
+1	500	0	WORLD CUP '94		This team's Oleg Salenko set a record by scoring 5 times in 1 game against Cameroon	Russia	1994-09-21	
+1	100	0	CAPITAL CITIES		The Danish royal family lives in the Amalienborg Palace in this city	Copenhagen	1994-09-21	
+1	200	0	CAPITAL CITIES		The apartment where Sigmund Freud lived & worked for nearly 50 years is now a museum in this capital	Vienna	1994-09-21	
+1	300	0	CAPITAL CITIES		Spanish conquistador Pedro de Valdivia founded this Chilean capital in 1541	Santiago	1994-09-21	
+1	400	0	CAPITAL CITIES		You can see coins being minted at the Royal Australian Mint in this city	Canberra	1994-09-21	
+1	500	0	CAPITAL CITIES		This capital of the Bahamas was once a haven for pirates & buccaneers	Nassau	1994-09-21	
+1	100	0	THE OLD TESTAMENT		In Exodus the first plague brought upon Egypt was the turning of the waters to this	Blood	1994-09-21	
+1	200	0	THE OLD TESTAMENT		After Abel was slain, & Cain went to the land of Nod, Eve gave birth to this son	Seth	1994-09-21	
+1	300	0	THE OLD TESTAMENT		Leviticus 16 is devoted to this holiday, the holiest in the Jewish calendar	Yom Kippur	1994-09-21	
+1	400	0	THE OLD TESTAMENT		In 2 Samuel 1 David laments the deaths of this king & his son Jonathan	Saul	1994-09-21	
+1	500	0	THE OLD TESTAMENT		It's the book in which you'd find the story of Samson & Delilah	Judges	1994-09-21	
+1	100	0	FIRSTS		On April 3, 1860 the first mail carried by this service left St. Joseph, Mo. & Sacramento, Calif. simultaneously	the Pony Express	1994-09-21	
+1	200	0	FIRSTS		Made by the Bureau of Engraving & Printing, these were available in rolls for the first time in 1908	stamps	1994-09-21	
+1	300	0	FIRSTS		In 1889, at its plant in Elizabethport, New Jersey, this company produced the first electric sewing machine	Singer	1994-09-21	
+1	400	0	FIRSTS		Named for its home port in Georgia, it was the first steamship to cross the Atlantic	the Savannah	1994-09-21	
+1	500	0	FIRSTS		In the 1700s America's first school devoted entirely to law opened in Litchfield in this state	Connecticut	1994-09-21	
+2	200	0	THE CIVIL WAR		Some folks thought his initials stood for "Union Safeguard\"	Grant	1994-09-21	
+2	400	0	THE CIVIL WAR		Unamused by his famous wit, this president's foes nicknamed him "The Jester\"	Lincoln	1994-09-21	
+2	600	0	THE CIVIL WAR		This town, site of the Battle of Antietam, was named for Horatio Sharpe, a colonial gov. of Maryland	Sharpsburg	1994-09-21	
+2	800	0	THE CIVIL WAR		Camp Sumter was the official name of this infamous prison camp	Andersonville	1994-09-21	
+2	1000	0	THE CIVIL WAR		The 19th century play "Belle Lamar" was based on the exploits of this Confederate spy	Belle Boyd	1994-09-21	
+2	200	0	MAESTROS		In 1958 he began a televised series of "Young People's Concerts" with the N.Y. Philharmonic	Bernstein	1994-09-21	
+2	400	0	MAESTROS		Like Pablo Casals, Mstislav Rostropovich is a conductor & a famous soloist on this instrument	the cello	1994-09-21	
+2	600	1300	MAESTROS		Esa-Pekka Salonen studied French horn at the Sibelius Academy in this capital city	Helsinki	1994-09-21	
+2	800	0	MAESTROS		This conductor appeared in the movie "One Hundred Men and a Girl" as well as in "Fantasia\"	(Leopold) Stokowski	1994-09-21	
+2	1000	0	MAESTROS		This Indian conductor led a rehearsal of the Bombay Symphony Orchestra when he was 16	Zubin Mehta	1994-09-21	
+2	200	0	NATIONAL MONUMENTS		This New York harbor monument lies closer to the New Jersey shore	the Statue of Liberty	1994-09-21	
+2	400	0	NATIONAL MONUMENTS		Castillo de San Marcos is a fort built in 1672 to defend this Florida city	St. Augustine	1994-09-21	
+2	600	0	NATIONAL MONUMENTS		Utah & this state share Dinosaur & Hovenweep National Monuments	Colorado	1994-09-21	
+2	800	0	NATIONAL MONUMENTS		The Hagerman Fossil Beds lie along the banks of this river in Idaho	the Snake	1994-09-21	
+2	1000	1500	NATIONAL MONUMENTS		This New Mexico monument consists of thousands of acres of gypsum dunes	White Sands National Monument	1994-09-21	
+2	200	0	BUSINESS TALK		It's the net worth of a business, or the money put up to start it	the capital	1994-09-21	
+2	400	0	BUSINESS TALK		It's the scam in which a customer is pressured to buy more expensive items than the ones advertised	bait and switch	1994-09-21	
+2	600	0	BUSINESS TALK		From Latin for "to roll together", it's a corp. of several co.s involved in a variety of businesses	a conglomerate	1994-09-21	
+2	800	0	BUSINESS TALK		General term for various economic measures taken against a nation for violating international law	sanctions	1994-09-21	
+2	1000	0	BUSINESS TALK		Abbreviated MFN, it's the clause in an Int'l Trade Agreement that grants signatory countries the same tariff rate	most favored nation	1994-09-21	
+2	200	0	BOOKS & AUTHORS		The concept for this Robert Louis Stevenson book grew from a map he devised while telling his stepson stories	Treasure Island	1994-09-21	
+2	400	0	BOOKS & AUTHORS		His novel "The Firm" ranked No. 7 on the list of bestselling hardcover fiction books for 1991	(John) Grisham	1994-09-21	
+2	600	0	BOOKS & AUTHORS		George F. Will had a 1990 bestseller with "Men at Work: The Craft of" this sport	baseball	1994-09-21	
+2	800	0	BOOKS & AUTHORS		Nathanael West's work as a scriptwriter led to this 1939 novel about Hollywood & the misfits who live there	The Day of the Locust	1994-09-21	
+2	1000	0	BOOKS & AUTHORS		She used the subtitle "A Tale of the Great Dismal Swamp" for her 1856 novel "Dred\"	Harriet Beecher Stowe	1994-09-21	
+2	200	0	\"LAST"s		In the English-speaking world, Smith is the most common one	a last name	1994-09-21	
+2	400	0	\"LAST"s		In a proverb it "makes the cup run over\"	the last drop	1994-09-21	
+2	600	0	\"LAST"s		In Roman Catholicism, extreme unction was also known as this	the last rites	1994-09-21	
+2	800	0	\"LAST"s		A famous scene from this silent film comedy shows Harold Lloyd dangling from a building clock	Safety Last	1994-09-21	
+2	1000	0	\"LAST"s		This Jerome Kern standard was inspired by the Nazi occupation of a French city in June 1940	\"The Last Time I Saw Paris\"	1994-09-21	
+3	0	0	QUEENS		She was Queen Consort of France 1137-1152 & Queen Consort of England 1154-1204	Eleanor of Aquitaine	1994-09-21	
+1	100	0	BIOLOGY		In botany something that is foliate has or is covered with these	leaves	1994-09-22	
+1	200	0	BIOLOGY		Edentate mammals, like sloths or armadillos, lack these or have only enamelless ones	teeth	1994-09-22	
+1	300	0	BIOLOGY		Viewing an eclipse of the sun may cause this light-sensitive membrane to "burn", damaging vision	the retina	1994-09-22	
+1	400	0	BIOLOGY		Spiders' blood is this color, not red, due to the oxygen-carrying pigment hemocyanin	blue	1994-09-22	
+1	500	0	BIOLOGY		Norman Gregg discovered that this disease, also called rubella, could cause birth defects	German measles	1994-09-22	
+1	100	0	STEPHEN KING FILMS		Kathy Bates is James Caan's No. 1 fan in this 1990 suspense tale	Misery	1994-09-22	
+1	200	0	STEPHEN KING FILMS		Among the actors playing teenagers in this 1976 King classic were Amy Irving & Sissy Spacek	Carrie	1994-09-22	
+1	300	0	STEPHEN KING FILMS		In 1983 a St. Bernard starred in "Cujo" & a Plymouth starred in this film	Christine	1994-09-22	
+1	400	0	STEPHEN KING FILMS		Drew Barrymore kept the home fires burning in this 1984 epic	Firestarter	1994-09-22	
+1	500	0	STEPHEN KING FILMS		Richard Dreyfuss narrated this 1986 film based on King's novella "The Body\"	Stand By Me	1994-09-22	
+1	100	0	SIGNERS		The contract this "Material Girl" signed April 20, 1992 could make her the top paid female entertainer ever	Madonna	1994-09-22	
+1	200	0	SIGNERS		In 1965 this quarterback signed a 3-year contract with the New York Jets for $427,000	Joe Namath	1994-09-22	
+1	300	0	SIGNERS		In 1587 she signed her cousin Mary's death warrant	Elizabeth I	1994-09-22	
+1	400	0	SIGNERS		On Nov. 21, 1620 John Alden put his John Hancock on this document	the Mayflower Compact	1994-09-22	
+1	500	0	SIGNERS		500 Maori chiefs signed the 1840 Treaty of Waitangi, which helped the British annex this country	New Zealand	1994-09-22	
+1	100	0	ARIZONA		The state's busiest airport is Sky Harbor International in this capital city	Phoenix	1994-09-22	
+1	200	0	ARIZONA		A hole in Coconino County 4,150 feet wide & 570 feet deep was created by one of these	a meteor	1994-09-22	
+1	300	0	ARIZONA		Arizona accounts for about 2/3 of the USA's production of this metal used in electrical wiring	copper	1994-09-22	
+1	400	0	ARIZONA		Arizona's land south of the Gila River was acquired from Mexico in this 1853 "purchase\"	the Gadsden Purchase	1994-09-22	
+1	500	500	ARIZONA		Now Secretary of the Interior, this Democrat was Arizona's governor from 1978 to 1987	Bruce Babbit	1994-09-22	
+1	100	0	POTPOURRI		The most common commercial species of this plant is Nicotiana tabacum	Tobacco	1994-09-22	
+1	200	0	POTPOURRI		Archie Armstrong held this post at court during the reign of King James I, no kidding	court jester	1994-09-22	
+1	300	0	POTPOURRI		The USA's largest private nonprofit membership organization, its members must be 50 & over	the AARP	1994-09-22	
+1	400	0	POTPOURRI		Although silk originated in China, this country became the largest producer in the late 1800s	Japan	1994-09-22	
+1	500	0	POTPOURRI		The dollar of this Central American nation is divided into 100 cents, not centavos	Belize	1994-09-22	
+1	100	0	GOOD AS "GOLD\"		Oil	black gold	1994-09-22	
+1	200	0	GOOD AS "GOLD\"		In "It Came Upon the Midnight Clear", the angels were "bending near the earth to touch" these	their harps of gold	1994-09-22	
+1	300	0	GOOD AS "GOLD\"		Because of his blond hair, golfer Jack Nicklaus sports this nickname	the Golden Bear	1994-09-22	
+1	400	0	GOOD AS "GOLD\"		In 1896 William Jennings Bryan said, "You shall not crucify mankind upon" this	a cross of gold	1994-09-22	
+1	500	0	GOOD AS "GOLD\"		As a British colony from 1874 to 1957, Ghana was known by this name	the Gold Coast	1994-09-22	
+2	200	0	GEOGRAPHY		This river whose mouth is in Egypt has its southernmost source in Burundi in central Africa	the Nile	1994-09-22	
+2	400	0	GEOGRAPHY		This country's most populous region is Lombardy in the north	Italy	1994-09-22	
+2	600	0	GEOGRAPHY		Sumatra is the westernmost of this country's main islands	Indonesia	1994-09-22	
+2	800	1900	GEOGRAPHY		Alaska's westernmost mainland point is Cape Prince of Wales on this peninsula named for a politician	the Seward Peninsula	1994-09-22	
+2	1000	0	GEOGRAPHY		This river rises in Spain's Albarracin Mountains & enters the Atlantic at Lisbon	the Tagus	1994-09-22	
+2	200	0	FOOD & DRINK		This brand of vodka is known as Stoli for short	Stolichnaya	1994-09-22	
+2	400	0	FOOD & DRINK		This preserved cabbage dish has a German name, but the Chinese invented it	sauerkraut	1994-09-22	
+2	600	0	FOOD & DRINK		Pepperidge Farm makes oatmeal raisin cookies named for this capital of New Mexico	Santa Fe	1994-09-22	
+2	800	0	FOOD & DRINK		The Swiss water process is one method of doing this to coffee	decaffeinating it	1994-09-22	
+2	1000	0	FOOD & DRINK		The Formosa or Taiwan type of this tea is more famous than the Amoy, Foochow & Canton varieties	oolong	1994-09-22	
+2	200	0	MUSICIANS		Cellist Julian Lloyd Webber is the brother of this composer	Andrew Lloyd Webber	1994-09-22	
+2	400	0	MUSICIANS		Niccolo Paganini was only 8 when he composed a sonata for this instrument on which he was a virtuoso	The violin	1994-09-22	
+2	600	0	MUSICIANS		He finished his first notable orchestra work, "Prelude to the Afternoon of a Faun", in 1894	Debussy	1994-09-22	
+2	800	0	MUSICIANS		Since his death, this jazz composer & bandleader's son Mercer has led his band	Duke Ellington	1994-09-22	
+2	1000	2300	MUSICIANS		After a Norwegian state funeral, this composer's remains were sealed in a cliff overlooking a fjord	(Edvard) Grieg	1994-09-22	
+2	200	0	AMERICAN HISTORY		8 Minutemen were killed in this April 19, 1775 battle; several others died at Concord	the Battle of Lexington	1994-09-22	
+2	400	0	AMERICAN HISTORY		On June 14, 1846 settlers proclaimed the Bear Flag Republic in what later became this state	California	1994-09-22	
+2	600	0	AMERICAN HISTORY		On July 14, 1853 he delivered a letter from Millard Fillmore to the Japanese	Commodore Perry	1994-09-22	
+2	800	0	AMERICAN HISTORY		In 1727 this Pennsylvanian formed the Junto Debating Club	Ben Franklin	1994-09-22	
+2	1000	0	AMERICAN HISTORY		In 1967 Winthrop Rockefeller became this state's first Republican governor since Reconstruction	Arkansas	1994-09-22	
+2	200	0	AVIATION		On Dec. 17, 1948, the 45th anniv. of their first flight, their "Flyer" went on display at the Smithsonian	the Wright Brothers	1994-09-22	
+2	400	0	AVIATION		This device that notes air speed, altitude & cockpit conversations is kept in the tail of the plane	the black box	1994-09-22	
+2	600	0	AVIATION		In 1931 Mrs. Herbert Hoover christened the USS Akron, a giant dirigible built for the Navy by this company	Goodyear	1994-09-22	
+2	800	0	AVIATION		Though established in 1936, this Irish national airline didn't serve the U.S. until 1958	Aer Lingus	1994-09-22	
+2	1000	0	AVIATION		During WWII the 2 B-29s used by the U.S. to drop atomic bombs were Bock's Car & this one	the Enola Gay	1994-09-22	
+2	200	0	LITERARY TRILOGIES		This trilogy made hobbit a household word	The Lord of the Rings	1994-09-22	
+2	400	0	LITERARY TRILOGIES		This 1941 Mary O'Hara book about a boy & his horse was the first of a trilogy	My Friend Flicka	1994-09-22	
+2	600	0	LITERARY TRILOGIES		Original language of "Molloy", "Malone Dies" & "The Unnamable", a trilogy by Samuel Beckett	French	1994-09-22	
+2	800	0	LITERARY TRILOGIES		This John Dos Passos trilogy is made up of "The 42nd Parallel", "1919" & "The Big Money\"	USA	1994-09-22	
+2	1000	0	LITERARY TRILOGIES		This Athenian's only extant trilogy is "Oresteia\"	Aeschylus	1994-09-22	
+3	0	0	WORD ORIGINS		This nickname for a non-Spanish speaker comes from the Spanish word for "Greek\"	gringo	1994-09-22	
+1	100	0	BRITISH HISTORY		He married a pregnant Anne Boleyn while still legally married to Catherine of Aragon	Henry VIII	1994-09-23	
+1	200	0	BRITISH HISTORY		King John set his royal seal to this document on June 15, 1215	the Magna Carta	1994-09-23	
+1	300	0	BRITISH HISTORY		This title reserved for the eldest son of the monarch was first conferred in 1301 on Edward I's son	the Prince of Wales	1994-09-23	
+1	400	0	BRITISH HISTORY		The Henley Regatta originated in 1829, when crews from these 2 universities competed on the Thames	Oxford & Cambridge	1994-09-23	
+1	500	0	BRITISH HISTORY		Under the 1564 Treaty of Troyes, England gave up her claims to this French seaport for 222,000 crowns	Calais	1994-09-23	
+1	100	0	TV ACTORS & ROLES		Pat Morita played Arnold on this Ron Howard sitcom before he coached "The Karate Kid" on film	Happy Days	1994-09-23	
+1	200	0	TV ACTORS & ROLES		She was one of Marcus Welby's nurses, but she's more famous for playing Chris Cagney on "Cagney & Lacey\"	Sharon Gless	1994-09-23	
+1	300	0	TV ACTORS & ROLES		He played a man named Tiny on "Cimarron City" before he played a man called Hoss on "Bonanza\"	Dan Blocker	1994-09-23	
+1	400	0	TV ACTORS & ROLES		Tim Matheson provided the voice of this cartoon adventurer, the son of Dr. Benton Quest	Jonny Quest	1994-09-23	
+1	500	0	TV ACTORS & ROLES		Roseanne's TV mom, she won an Oscar for playing Clyde's sister-in- law in "Bonnie and Clyde\"	Estelle Parsons	1994-09-23	
+1	100	0	ANNUAL EVENTS		In October this state's annual State Fair takes place in Shreveport	Louisiana	1994-09-23	
+1	200	0	ANNUAL EVENTS		During the summer, Grandview State Park in West Virginia presents a play about these 2 feuding families	the Hatfields & the McCoys	1994-09-23	
+1	300	0	ANNUAL EVENTS		Annual events in this state include the Maple Festival in St. Albans & the Marlboro Music Festival	Vermont	1994-09-23	
+1	400	0	ANNUAL EVENTS		The cereal city festival with "The World's Longest Breakfast Table" takes place each June in this city	Battle Creek, Michigan	1994-09-23	
+1	500	600	ANNUAL EVENTS		A harvest festival honoring this fruit is held each September in Harwich, Massachusetts	the cranberry	1994-09-23	
+1	100	0	MOUNTAINS		The heads carved on this South Dakota mountain would fit a person 450 feet tall	Mount Rushmore	1994-09-23	
+1	200	0	MOUNTAINS		Mount Carmel extends from the Esdraelon valley to the Bay of Haifa in this country	Israel	1994-09-23	
+1	300	0	MOUNTAINS		On May 1, 1963 James W. Whittaker became the first American to reach the top of this mountain	Mt. Everest	1994-09-23	
+1	400	0	MOUNTAINS		Among North American mountains, only this one is taller than Canada's Mount Logan	Mt. McKinley	1994-09-23	
+1	500	0	MOUNTAINS		About 20,000 people were killed when this Sicilian volcano erupted in 1669	Mount Etna	1994-09-23	
+1	100	0	MISSED IT BY THAT MUCH		Pioneer IV was supposed to fly by this in 1959, but missed it by so much that its instruments were useless	the moon	1994-09-23	
+1	200	0	MISSED IT BY THAT MUCH		In December 1992 the asteroid Toutatis missed this planet by a mere 2.2 million miles—whew!	Earth	1994-09-23	
+1	300	0	MISSED IT BY THAT MUCH		In 1991 at Super Bowl XXV, they lost to the Giants 20-19	the Buffalo Bills	1994-09-23	
+1	400	0	MISSED IT BY THAT MUCH		In 1974 he lost the French election with 49.19% to Giscard d'Estaing; in 1981 he beat him with 51.76%	Francois Mitterrand	1994-09-23	
+1	500	0	MISSED IT BY THAT MUCH		In 1906 this Russian periodic table founder missed winning a Nobel Prize by 1 vote	Mendeleev	1994-09-23	
+1	100	0	CROSSWORD CLUES "D\"		Bird of peace(4)	a dove	1994-09-23	
+1	200	0	CROSSWORD CLUES "D\"		Some are raised & glazed(9)	doughnuts	1994-09-23	
+1	300	0	CROSSWORD CLUES "D\"		Crack a code(8)	decipher	1994-09-23	
+1	400	0	CROSSWORD CLUES "D\"		Widowed queen or empress(7)	dowager	1994-09-23	
+1	500	0	CROSSWORD CLUES "D\"		Synonym for stalemate(8)	a deadlock	1994-09-23	
+2	200	0	THE AMERICAN REVOLUTION		The 1783 Treaty of Paris gave the U.S. all land east of this river except Spanish Florida	the Mississippi River	1994-09-23	
+2	400	0	THE AMERICAN REVOLUTION		The first of 5 Intolerable Acts passed by Parliament in early 1774 closed this city's port	Boston	1994-09-23	
+2	600	0	THE AMERICAN REVOLUTION		After this June 17, 1775 battle, the American troops retreated via the Charlestown Neck	Bunker Hill	1994-09-23	
+2	800	0	THE AMERICAN REVOLUTION		At the Battle of Monmouth, her husband, John Hays, was a gunner in a Pennsylvania regiment	Molly Pitcher	1994-09-23	
+2	1000	0	THE AMERICAN REVOLUTION		This Prussian wrote a manual for "The Order and Discipline of the Troops", used until the War of 1812	Baron von Steuben	1994-09-23	
+2	200	0	MIDDLE NAMES		This middle name of actor Michael Douglas should remind you of his father	Kirk	1994-09-23	
+2	400	0	MIDDLE NAMES		Since he stopped using the initial J. for James, Sen. Thurmond has gone by this middle name	Strom	1994-09-23	
+2	600	0	MIDDLE NAMES		It was the middle name of American sculptor Daniel French	Chester	1994-09-23	
+2	800	0	MIDDLE NAMES		Samuel Morse had 2 middle names, Finley & this	Breese	1994-09-23	
+2	1000	1200	MIDDLE NAMES		This playwright & novelist had the middle names Fingal O'Flahertie Wills	Oscar Wilde	1994-09-23	
+2	200	0	DOGS		In Mexico this dog is known as the Chihuahueno	the Chihuahua	1994-09-23	
+2	400	0	DOGS		A schnauzer is born with a long one, but a veterinarian often docks it a few days after birth	a tail	1994-09-23	
+2	600	0	DOGS		This Chinese dog, one of the world's most unusual-looking, is known for its loose, wrinkled skin	a Shar Pei	1994-09-23	
+2	800	0	DOGS		The Sealyham terrier is named for an estate in Pembrokeshire in this country, part of the U.K.	Wales	1994-09-23	
+2	1000	0	DOGS		The Brabancon is a smooth-coated type of this dog with a Belgian city in its name	the Brussels Griffon	1994-09-23	
+2	200	0	QUOTATIONS		He wrote, "How many roads must a man walk down before you call him a man?\"	Bob Dylan	1994-09-23	
+2	400	0	QUOTATIONS		Ben Franklin rhymed, "Nothing but" this "is sweeter than honey\"	money	1994-09-23	
+2	600	0	QUOTATIONS		Speaking of the NL Pennant Race, this former Yankee catcher said, "It ain't over till it's over\"	Yogi Berra	1994-09-23	
+2	800	0	QUOTATIONS		Bartlett's attributes the phrase "It'll play in" this Illinois city to John Ehrlichman	Peoria	1994-09-23	
+2	1000	0	QUOTATIONS		In "Gravity's Rainbow", he wrote, "Yet who can presume to say what the war wants, so vast and aloof is it\"	Thomas Pynchon	1994-09-23	
+2	200	0	COUNTRIES OF THE WORLD		On Feb. 11, 1979 followers of the Ayatollah Khomeini overthrew this country's Pahlavi Dynasty	Iran	1994-09-23	
+2	400	0	COUNTRIES OF THE WORLD		Giza is 1 of 3 cities in this country with a population exceeding 1 million	Egypt	1994-09-23	
+2	600	0	COUNTRIES OF THE WORLD		This island nation north of Indonesia was named for Philip II of Spain	The Philippines	1994-09-23	
+2	800	800	COUNTRIES OF THE WORLD		It's the largest republic in the Commonwealth of Independent States	Russia	1994-09-23	
+2	1000	0	COUNTRIES OF THE WORLD		In Feb. 1993 Michal Kovac was elected the first president of this new European republic	Slovakia	1994-09-23	
+2	200	0	CIRCUS HISTORY		Clyde Beatty preferred to be called a lion trainer because this other term implies lions can be domesticated	a lion tamer	1994-09-23	
+2	400	0	CIRCUS HISTORY		In 1985 a statue of this huge elephant was erected in St. Thomas, Ont., where he died 100 years earlier	Jumbo	1994-09-23	
+2	600	0	CIRCUS HISTORY		These performers are called "Joeys" in honor of Joseph Grimaldi, who was the father of their art	clowns	1994-09-23	
+2	800	0	CIRCUS HISTORY		This big ape was known as buddy before he was renamed for a giant in a 16th century satire	Gargantua	1994-09-23	
+2	1000	0	CIRCUS HISTORY		A former fire-eater named Guy Laliberte founded this highly unusual circus in Montreal in 1984	Cirque du Soleil	1994-09-23	
+3	0	0	NOVELISTS		In 1918 he proudly wrote to his family "I'm the first American wounded in Italy\"	Ernest Hemingway	1994-09-23	
+1	100	0	BLACK AMERICA		In 1891 jockey Isaac Murphy became the first man to win this horse race 3 times	the Kentucky Derby	1994-09-26	
+1	200	0	BLACK AMERICA		This sportscaster & brother of a morning TV personality covered the '94 Winter Olympics for CBS	Greg Gumbel	1994-09-26	
+1	300	0	BLACK AMERICA		Originally named Araminta, this Underground Railroad "conductor" later adopted her mother's name	Harriet Tubman	1994-09-26	
+1	400	0	BLACK AMERICA		2 of America's most prestigious black colleges were founded in 1867: Morehouse & this one in Washington, D.C.	Howard	1994-09-26	
+1	500	0	BLACK AMERICA		In 1994 Byron de la Beckwith received a life sentence for the 1963 murder of this Miss. civil rights leader	Medgar Evers	1994-09-26	
+1	100	0	ARCHAEOLOGY		The fallen walls of this town, discovered by Garstang, are too early to be associated with Joshua's attack	Jericho	1994-09-26	
+1	200	0	ARCHAEOLOGY		Little of the language of these ancient inhabitants of present-day Tuscany can be translated	the Etruscans	1994-09-26	
+1	300	0	ARCHAEOLOGY		25-ton blocks used to build this monument on Salisbury Plain came from about 20 miles away	Stonehenge	1994-09-26	
+1	400	500	ARCHAEOLOGY		This animal of the genus Ovis was one of the first animals domesticated for food	sheep	1994-09-26	
+1	500	0	ARCHAEOLOGY		The method of working this metal was not mastered until about 1500 B.C. under the Hittites	iron	1994-09-26	
+1	100	0	PEOPLE & PLACES		A "Lady of Spain" from this city would tell you that she's a Madrilena	Madrid	1994-09-26	
+1	200	0	PEOPLE & PLACES		Traditionally, the Turkomans of Turkmenistan drink the green type of this beverage before meals	tea	1994-09-26	
+1	300	0	PEOPLE & PLACES		It's the term for a person from Florence, Italy, whether or not he sleeps on a bed of spinach	Florentine	1994-09-26	
+1	400	0	PEOPLE & PLACES		A native of the largest city in the state of Hesse, or his hot dog	a Frankfurter	1994-09-26	
+1	500	0	PEOPLE & PLACES		People from this U.S. state are called Palmettoes	South Carolina	1994-09-26	
+1	100	0	BUSINESS & INDUSTRY		The name of this computer company recalls Steven Jobs' time on an Oregon farm	Apple	1994-09-26	
+1	200	0	BUSINESS & INDUSTRY		In the 1950s this Modesto, Ca. company became the first winery with its own bottle-making plant	Gallo	1994-09-26	
+1	300	0	BUSINESS & INDUSTRY		This razor company entered the dental products business in 1984 when it bought Oral-B	Gillette	1994-09-26	
+1	400	0	BUSINESS & INDUSTRY		This company exports cars from its Marysville, Ohio plant to Japan	Honda	1994-09-26	
+1	500	0	BUSINESS & INDUSTRY		Delta Air Lines is headquartered at this Atlanta airport	Hartsfield International	1994-09-26	
+1	100	0	FRANCIS THE TALKING MULE		In his 2nd film, this "Dirty Harry" star played Jonesy in "Francis in the Navy\"	Clint Eastwood	1994-09-26	
+1	200	0	FRANCIS THE TALKING MULE		When Francis went to West Point, one of the cadets was played by this future Vulcan	Leonard Nimoy	1994-09-26	
+1	300	0	FRANCIS THE TALKING MULE		The 1st 6 films were directed by Arthur Lubin, who produced this talking animal TV series in 1961	Mr. Ed	1994-09-26	
+1	400	0	FRANCIS THE TALKING MULE		His reason for quitting the series was "when you've made 6 films and the mule gets more fan mail...\"	Donald O'Connor	1994-09-26	
+1	500	0	FRANCIS THE TALKING MULE		This actor led "Francis in the Haunted House" & later led the training of "The Black Stallion\"	Mickey Rooney	1994-09-26	
+1	100	0	POTPOURRI		In a new version of an ever-popular party game, players "pin the ear on" this artist	Van Gogh	1994-09-26	
+1	200	0	POTPOURRI		Legend says that Thomas Edison was the 1st person to answer the phone using this now-familiar greeting	\"Hello!\"	1994-09-26	
+1	300	0	POTPOURRI		In 1994 dozens of these carrion eaters began roosting in Stafford County, Virginia & eating people's pets	vultures	1994-09-26	
+1	400	0	POTPOURRI		Many people have reported seeing this legendary apelike creature near Harrison Hot Springs in Western Canada	Bigfoot (Sasquatch)	1994-09-26	
+1	500	0	POTPOURRI		A dough called fufu can be made by boiling & mashing these banana relatives, a staple food in the tropics	plantains	1994-09-26	
+2	200	0	WORLD HISTORY		After his death in 323 B.C., wars divided his empire into 3 parts: Egypt, the Seleucid Empire & Macedon	Alexander the Great	1994-09-26	
+2	400	0	WORLD HISTORY		This Indian leader performed paramedic work for the British in the Boer War	Gandhi	1994-09-26	
+2	600	0	WORLD HISTORY		On March 18, 1890 this German chancellor was forced to resign by Wilhelm II	Bismarck	1994-09-26	
+2	800	0	WORLD HISTORY		The son of a Magyar prince, Stephen I, king of this country, was canonized in 1083	Hungary	1994-09-26	
+2	1000	0	WORLD HISTORY		After William III died in 1702, this sister of Mary II succeeded to the British throne	Anne	1994-09-26	
+2	200	0	CANADIAN PROVINCES		The Musee de la Civilisation is one of the most notable museums in this province	Quebec	1994-09-26	
+2	400	0	CANADIAN PROVINCES		Canada's oldest ballet company, the Royal Winnipeg Ballet, was founded in this province in 1939	Manitoba	1994-09-26	
+2	600	0	CANADIAN PROVINCES		You can "whale" away the hours at the Pacific Rim Whale Festival in Tofino in this province	British Columbia	1994-09-26	
+2	800	0	CANADIAN PROVINCES		The people of New Glasgow in this province celebrate their heritage in the annual festival of the Tartans	Nova Scotia	1994-09-26	
+2	1000	0	CANADIAN PROVINCES		This Atlantic province that borders Maine is so picturesque that it's Canada's "Picture Province\"	New Brunswick	1994-09-26	
+2	200	0	20th CENTURY WOMEN		This First Lady called her mother-in-law, the former Sara Delano, "Cousin Sally\"	Eleanor Roosevelt	1994-09-26	
+2	400	0	20th CENTURY WOMEN		Her father was the founder of psychoanalysis, & she was one of the founders of child psychoanalysis	Anna Freud	1994-09-26	
+2	600	0	20th CENTURY WOMEN		Her 1926 work "Black Iris" is one of her most famous floral paintings	(Georgia) O'Keeffe	1994-09-26	
+2	800	3000	20th CENTURY WOMEN		This late culture minister was the 1st woman to hold a senior cabinet post in Greece	Melina Mercouri	1994-09-26	
+2	1000	0	20th CENTURY WOMEN		She won 1 gold medal & 2 bronzes at the 1924 Olympics; 2 years later she swam the English Channel	Gertrude Ederle	1994-09-26	
+2	200	0	COMPOSERS		Nationality of the 19th century composer John William Glover, who wrote the cantata "St. Patrick at Tara\"	Irish	1994-09-26	
+2	400	0	COMPOSERS		He attended the 1st Bayreuth Fest. & wrote about it for a Russian paper in 1876, the year he wrote "Swan Lake\"	Tchaikovsky	1994-09-26	
+2	600	0	COMPOSERS		This lieder composer met his future wife, Clara, when she was 9; he was studying piano with her father	Robert Schumann	1994-09-26	
+2	800	0	COMPOSERS		This composer invented the "Petrouchka Chord", in which 2 different keys are played simultaneously	Stravinsky	1994-09-26	
+2	1000	0	COMPOSERS		This Italian's opera "Rigoletto" is set in 16th century mantua	Verdi	1994-09-26	
+2	200	0	GOVERNMENT & POLITICS		In 1990 this "Centennial State" became the first to limit the number of consecutive terms for Congressmen	Colorado	1994-09-26	
+2	400	0	GOVERNMENT & POLITICS		In 1904 the Bureau of Entomology was established in this Cabinet department	the Department of Agriculture	1994-09-26	
+2	600	0	GOVERNMENT & POLITICS		A meeting of House Republicans is called a conference; a Democratic meeting is called this	a caucus	1994-09-26	
+2	800	0	GOVERNMENT & POLITICS		In 1979 this N.J. Democrat & former NBA player became the youngest member of the U.S. Senate at age 35	(Bill) Bradley	1994-09-26	
+2	1000	1000	GOVERNMENT & POLITICS		1 of Nebraska's 2 senators, both of whom once served as the state's governor	(Bob) Kerry (or James Exon)	1994-09-26	
+2	200	0	BESTSELLERS		In 1993 Martin Handford had American kids searching for this character "in Hollywood\"	Waldo	1994-09-26	
+2	400	0	BESTSELLERS		Herman Wouk's "The Hope" is the saga of this country	Israel	1994-09-26	
+2	600	0	BESTSELLERS		More murder in the horse racing profession is covered in his "Driving Force\"	Dick Francis	1994-09-26	
+2	800	0	BESTSELLERS		John Gray's book is titled "Men Are from Mars, Women Are From" here	Venus	1994-09-26	
+2	1000	0	BESTSELLERS		A review of this Laura Esquivel book calls it "A Cookbook!, no, it's a memoir! No, it's a novel!\"	Like Water for Chocolate	1994-09-26	
+3	0	0	EUROPEAN GEOGRAPHY		It has the shortest coastline of any independent country, 3.49 miles	Monaco	1994-09-26	
+1	100	0	ZOOLOGY		The banded anteater, a marsupial, is native only to this continent	Australia	1994-09-27	
+1	200	0	ZOOLOGY		Of leopard moths, leopard frogs or leopard sharks, the ones formerly used in pregnancy tests	leopard frogs	1994-09-27	
+1	300	0	ZOOLOGY		Newts belong to the Salamander family of this class of vertebrates	amphibians	1994-09-27	
+1	400	0	ZOOLOGY		Canis rufus is the scientific name of this "color" wolf	red wolf	1994-09-27	
+1	500	0	ZOOLOGY		The European type of this wildcat known for its tufted ears is now quite scarce	a lynx	1994-09-27	
+1	100	0	\'40s FILM FACTS		In 1943 Greer Garson gave a radium...er, radiant performance as this scientist	Marie Curie	1994-09-27	
+1	200	0	\'40s FILM FACTS		She replaced an ill Judy Garland in "The Barkleys of Broadway" & it became her 10th & last film with Fred Astaire	Ginger Rogers	1994-09-27	
+1	300	0	\'40s FILM FACTS		This child star, born Angela O'Brien, renamed herself after a character she played in a 1942 film	Margaret O'Brien	1994-09-27	
+1	400	0	\'40s FILM FACTS		This blonde sex symbol made her debut in 1948's "Scudda Hoo! Scudda Hay!"; you can glimpse her in a canoe	Marilyn Monroe	1994-09-27	
+1	500	0	\'40s FILM FACTS		Cornel Wilde was wild for Merle Oberon in "A Song to Remember"; he played Chopin & she played this novelist	George Sand	1994-09-27	
+1	100	0	HOLIDAYS & OBSERVANCES		The French celebrate this July 14 holiday with parades, fireworks & balls	Bastille Day	1994-09-27	
+1	200	0	HOLIDAYS & OBSERVANCES		It's St. Stephen's Day as well as the traditional date of Boxing Day	December 26	1994-09-27	
+1	300	0	HOLIDAYS & OBSERVANCES		Childermas or Holy Innocents' Day honors the children who were slain in Bethlehem by this king	King Herod	1994-09-27	
+1	400	0	HOLIDAYS & OBSERVANCES		Since a new moon signals the end of this Muslim holy month, a cloudy sky can prolong the fast	Ramadan	1994-09-27	
+1	500	0	HOLIDAYS & OBSERVANCES		On Oct. 3 this country observes Leiden Day to commemorate Leiden's 1574 liberation from the Spanish	the Netherlands	1994-09-27	
+1	100	0	STADIUMS & ARENAS		When this city's Alamodome opened on May 15, 1993, it was practically debt- free due to an earlier sales tax	San Antonio	1994-09-27	
+1	200	0	STADIUMS & ARENAS		With a seating capacity of over 100,000, this city's Azteca Stadium is the world's largest covered stadium	Mexico City	1994-09-27	
+1	300	0	STADIUMS & ARENAS		Though this college football team is nicknamed the Nittany Lions, its home field is Beaver Stadium	Penn State	1994-09-27	
+1	400	0	STADIUMS & ARENAS		This NHL team's arena in Anaheim has been dubbed "The Pond\"	the Mighty Ducks	1994-09-27	
+1	500	0	STADIUMS & ARENAS		Box suites rent for $22,600 to $57,000 plus the price of admission in this 13-acre indoor arena in Louisiana	the Superdome	1994-09-27	
+1	100	0	HALL OF FAMERS		TV's "Uncle Miltie", he was inducted into the Broadcasting Hall of Fame in 1988	Milton Berle	1994-09-27	
+1	200	0	HALL OF FAMERS		In 1985 Americans Kathryn Sullivan & this woman were inducted into the Int'l Space Hall of Fame	Sally Ride	1994-09-27	
+1	400	0	HALL OF FAMERS		Included in the International Photography Hall of Fame are Ansel Adams & this founder of Kodak	George Eastman	1994-09-27	
+1	500	0	HALL OF FAMERS		1 of 2 early presidents in the first group of inductees into the Agricultural Hall of Fame	Thomas Jefferson (or George Washington)	1994-09-27	
+1	100	0	ANTONYMS		Found on American coins, it's a 6-letter antonym for "divided\"	united	1994-09-27	
+1	200	0	ANTONYMS		An eave overhangs & a hairline does this	recede	1994-09-27	
+1	300	0	ANTONYMS		The opposite of deposit, or the pains you'll have taking money out of the bank	withdrawal	1994-09-27	
+1	400	0	ANTONYMS		Term for a hospital employee that's also an antonym for "in disarray\"	orderly	1994-09-27	
+1	500	0	ANTONYMS		Using antonyms, this Mussorgsky musical title becomes "A Day In Hairy Valley\"	A Night on Bald Mountain	1994-09-27	
+2	200	0	RULERS		Louis I was only about 3 years old when this King of the Franks, his father, made him king of Aquitaine	Charlemagne	1994-09-27	
+2	400	0	RULERS		In 1761 this king bought Buckingham House—now Buckingham Palace—for £28,000	George III	1994-09-27	
+2	600	0	RULERS		Maximilian II, a member of this royal dynasty, became king of Bohemia in 1562	the Hapsburgs	1994-09-27	
+2	800	0	RULERS		King Hassan II introduced a new constitution to this country in the 1960s	Morocco	1994-09-27	
+2	1000	0	RULERS		In his youth this Taj Mahal builder was known as Prince Khurram	Shah Jahan	1994-09-27	
+2	200	0	ARTISTS		As John Constable is famous for landscapes, John Singer Sargent is famous for these	portraits	1994-09-27	
+2	400	0	ARTISTS		The father of this "Arrangement in Gray and Black, No. 1" artist built the Moscow-St. Petersburg Railroad	Whistler	1994-09-27	
+2	600	0	ARTISTS		This Spanish artist signed most of his paintings using Greek letters	El Greco	1994-09-27	
+2	800	0	ARTISTS		His "Adoration of the Magi" altarpiece in Florence was never finished	Leonardo da Vinci	1994-09-27	
+2	1000	3000	ARTISTS		In 1967 this Russian- French painter became the 1st living artist this century to have a Louvre exhibit	Marc Chagall	1994-09-27	
+2	200	0	20th CENTURY AMERICA		On May 1, 1992 the president ordered Marine & Army troops to this U.S. city in the aftermath of riots	Los Angeles	1994-09-27	
+2	400	0	20th CENTURY AMERICA		The Fair Labor Standards Act of 1938 eventually made this the standard number of hours for a work week	40	1994-09-27	
+2	600	0	20th CENTURY AMERICA		In Walter Reed Hospital April 5, 1964, he faded away at age 84	Douglas MacArthur	1994-09-27	
+2	800	0	20th CENTURY AMERICA		He & Frederic Pryor were prisoners exchanged for Soviet spy Rudolf Abel February 10, 1962	Francis Gary Powers	1994-09-27	
+2	1000	0	20th CENTURY AMERICA		In 1974 he was the chairman of the Senate Watergate Committee	Sam Ervin	1994-09-27	
+2	200	0	EUROPEAN GEOGRAPHY		The mouth of the river Liffey forms this Irish bay that shares its name with the nation's largest city	Dublin (Bay)	1994-09-27	
+2	400	0	EUROPEAN GEOGRAPHY		The Gulf of Taranto separates the Calabria & Salentina peninsulas of this country	Italy	1994-09-27	
+2	600	0	EUROPEAN GEOGRAPHY		The Skaw is the northernmost point on this mainland peninsula of Denmark	Jutland	1994-09-27	
+2	800	0	EUROPEAN GEOGRAPHY		This 500-mile-long river rises in a Swiss glacier & empties into the Gulf of Lions	the Rhone	1994-09-27	
+2	1000	1000	EUROPEAN GEOGRAPHY		The northern shore of this large saltwater lake is Europe's lowest point at 92 feet below sea level	the Caspian Sea	1994-09-27	
+2	200	0	THEATRE		He's the six-foot-tall imaginary companion of Elwood P. Dowd	Harvey	1994-09-27	
+2	400	0	THEATRE		Adapted from a book by Isabel Allende, "House of the Spirits" is set in this country	Chile	1994-09-27	
+2	600	0	THEATRE		In the title of a Kaufman & Hart comedy, Sheridan Whiteside is "The Man Who Came" here	to Dinner	1994-09-27	
+2	800	0	THEATRE		The Costa Verde Hotel in Mexico provides the setting for this Tennessee Williams play	Night of the Iguana	1994-09-27	
+2	1000	0	THEATRE		In 1993 Anne Jackson & this actor, her husband, were featured in the retrospective "In Persons\"	Eli Wallach	1994-09-27	
+2	400	0	\"X", "Y", "Z\"		If you talk about schlepping somewhere for a little nosh, you're using words from this language	Yiddish	1994-09-27	
+2	600	0	\"X", "Y", "Z\"		In the Samuel Taylor Coleridge poem, it's the site of Kubla Khan's stately pleasure dome	Xanadu	1994-09-27	
+2	800	0	\"X", "Y", "Z\"		It can refer to a point directly overhead in the sky, or to any high point	the zenith	1994-09-27	
+2	1000	0	\"X", "Y", "Z\"		It's defined as an irrational fear of strangers or foreigners	xenophobia	1994-09-27	
+3	0	0	BOTANY		In 1872 he introduced seedless grape cuttings to California	William Thompson	1994-09-27	
+1	100	0	1966		Pope Paul VI issued an encyclical appealing to world leaders to end this conflict- didn't work	the Vietnam War	1994-09-28	
+1	200	0	1966		In February Australia switched its currency from pounds to these	dollars	1994-09-28	
+1	300	0	1966		Her February 9 death meant that there were no more Red Hot Mamas	Sophie Tucker	1994-09-28	
+1	400	0	1966		On January 11 Indian PM Shastri died; on January 19 this person was elected by Parliament as the new PM	Indira Gandhi	1994-09-28	
+1	500	0	1966		When it became independent in 1966, it dropped the "British" from its name & changed an "I" to a "Y\"	Guyana	1994-09-28	
+1	100	0	SPORTS		In the Olympics men compete in the sabre, foil & epee events in this sport; women compete only in foil	Fencing	1994-09-28	
+1	200	0	SPORTS		Pete Sampras was this sport's leading money winner in 1993 with earnings of $3,648,075	tennis	1994-09-28	
+1	300	0	SPORTS		In bowling the widest possible split involves these 2 pins	the 7 & the 10	1994-09-28	
+1	400	0	SPORTS		In 1987-88 this school's Jayhawks basketball team lost 11 games, the most by any NCAA champion	Kansas University	1994-09-28	
+1	500	0	SPORTS		In 1989 the Dallas Cowboys chose this UCLA quarterback as the No. 1 draft pick	(Troy) Aikman	1994-09-28	
+1	100	0	PREGNANCY & CHILD CARE		Lanugo is a fine type of this sometimes seen on the forehead, shoulders & back of a newborn	hair	1994-09-28	
+1	200	0	PREGNANCY & CHILD CARE		Often caused by a virus, croup is an inflammation of this body part commonly called the voice box	the larynx	1994-09-28	
+1	300	0	PREGNANCY & CHILD CARE		In this diagnostic technique, fluid is withdrawn from the sac in which the fetus is developing	amniocentesis	1994-09-28	
+1	400	0	PREGNANCY & CHILD CARE		A type of red birthmark on the eyelid, forehead or neck is named for this bird associated with childbirth	the stork	1994-09-28	
+1	500	0	PREGNANCY & CHILD CARE		Don't give baby this analgesic, since its use is associated with Reye's syndrome	aspirin	1994-09-28	
+1	100	0	BODIES OF WATER		Southampton Island is the largest island in this Canadian bay	Hudson Bay	1994-09-28	
+1	200	0	BODIES OF WATER		Most of Maryland's rivers empty into this bay	the Chesapeake	1994-09-28	
+1	300	0	BODIES OF WATER		This river flows through the center of Minneapolis-St. Paul	the Mississippi	1994-09-28	
+1	400	0	BODIES OF WATER		Rivers in this state include the Catawba, Roanoke & Cape Fear	North Carolina	1994-09-28	
+1	500	0	BODIES OF WATER		State in which you'd find Lobster Lake & the Penobscot River	Maine	1994-09-28	
+1	100	0	PRESIDENTIAL ELECTIONS		Though he received 19,742,267 votes in 1992, he won no electoral votes	Ross Perot	1994-09-28	
+1	200	0	PRESIDENTIAL ELECTIONS		According to the World Almanac, he's the last president to win with "no opposition\"	Washington	1994-09-28	
+1	300	0	PRESIDENTIAL ELECTIONS		In 1992 2,537 Nevadans cast their votes for this choice, an option available only in Nevada	none of the above	1994-09-28	
+1	400	0	PRESIDENTIAL ELECTIONS		He was the last presidential candidate to carry 49 states	Ronald Reagan	1994-09-28	
+1	500	500	PRESIDENTIAL ELECTIONS		After Spiro Agnew he was the next vice-presidential nominee on a Republican presidential ticket	Robert Dole	1994-09-28	
+1	100	0	\"BLACK" & "WHITE\"		Pirate Edward Teach	Blackbeard	1994-09-28	
+1	200	0	\"BLACK" & "WHITE\"		This lowest grade of sugarcane molasses is what's left over after 3 boilings	blackstrap	1994-09-28	
+1	300	0	\"BLACK" & "WHITE\"		In 1950 this future Supreme Court justice became resident counsel for the Mayo Clinic	Harry Blackmun	1994-09-28	
+1	400	0	\"BLACK" & "WHITE\"		James Cagney's dying words in this 1949 film were "Made it, Ma! Top of the World!\"	White Heat	1994-09-28	
+1	500	0	\"BLACK" & "WHITE\"		This war named for a Sauk leader was the last U.S.-Indian conflict in the Northwest Territory	the Black Hawk War	1994-09-28	
+2	200	0	THE WILD WEST		One rumor says this outlaw escaped Pat Garrett, changed his name to Ollie & lived until 1950	Billy the Kid	1994-09-28	
+2	400	0	THE WILD WEST		This judge opened a saloon in Vinegaroon, then renamed the town Langtry	Judge Roy Bean	1994-09-28	
+2	600	0	THE WILD WEST		She could hit a dime tossed into the air 90 feet away from her	Annie Oakley	1994-09-28	
+2	800	0	THE WILD WEST		This gunslinger was sometimes known as "Duck Bill" because he had a long nose & a protruding lip	Wild Bill Hickok	1994-09-28	
+2	1000	0	THE WILD WEST		This Wild West horse thief with a glamorous name was dubbed the "female Robin Hood" by the press	Belle Starr	1994-09-28	
+2	200	0	PHILOSOPHY		This Greek wrote his dialogues to help men understand the good life & to goad them into living it	Plato	1994-09-28	
+2	400	0	PHILOSOPHY		The axiom "Cogito, Ergo Sum", "I think, therefore I am", is his most famous formulation	Descartes	1994-09-28	
+2	600	0	PHILOSOPHY		In 1918 this future British earl & co-author of "Principia Mathematica" was jailed for his radical pacifism	Bertrand Russell	1994-09-28	
+2	800	0	PHILOSOPHY		This term for the philosophical movement of Emerson, Ripley, Thoreau & others was first used derisively	Transcendentalism	1994-09-28	
+2	1000	1000	PHILOSOPHY		The name of this philosophy that began in 19th century Russia comes from the Latin for "nothing\"	nihilism	1994-09-28	
+2	200	0	DANCERS		This dancer-choreographer is the most famous Twyla we know	(Twyla) Tharp	1994-09-28	
+2	400	0	DANCERS		This late Dame Commander of the British Empire narrated the BBC TV series "The Magic Of Dance\"	Margot Fonteyn	1994-09-28	
+2	600	0	DANCERS		La Argentina & Argentinita were 2 of the most famous performers of this Andalusian gypsy dance	the flamenco	1994-09-28	
+2	800	0	DANCERS		This late Black dancer & choreographer founded his American dance theater in 1958	(Alvin) Ailey	1994-09-28	
+2	1000	0	DANCERS		In 1914 these married ballroom dancers published a book of instruction called "Modern Dancing\"	the Castles	1994-09-28	
+2	200	0	LANGUAGES		Some 300,000 people of this country speak an Indian language called Mixtec	Mexico	1994-09-28	
+2	400	0	LANGUAGES		Still spoken by many Amish, Pennsylvania Dutch is a dialect of this language	German	1994-09-28	
+2	600	1200	LANGUAGES		It's the only Semitic language that's an official language of the U.N.	Arabic	1994-09-28	
+2	800	0	LANGUAGES		Resembling Malay & Indonesian, Malagasy is spoken throughout this island country	Madagascar	1994-09-28	
+2	1000	0	LANGUAGES		In 1991 Turkey lifted its ban on this minority language	Kurdish	1994-09-28	
+2	200	0	FAMOUS 19th CENTURY NAMES		Poet John Keats' brother lost all his money in a scheme by this "Birds of America" painter	Audubon	1994-09-28	
+2	400	0	FAMOUS 19th CENTURY NAMES		This poetic pair eloped in 1846, moved to Italy & had a son called Pen in 1849	the Brownings	1994-09-28	
+2	600	0	FAMOUS 19th CENTURY NAMES		In 1864 this family opened a factory they named Nitroglycerin, Inc.	Nobel	1994-09-28	
+2	800	0	FAMOUS 19th CENTURY NAMES		Abraham Lincoln offered this Italian patriot a command in the U.S. Army	Garibaldi	1994-09-28	
+2	1000	0	FAMOUS 19th CENTURY NAMES		The May 8, 1898 Globe-Democrat touted his "Victory... Americans control Manila Bay\"	Dewey	1994-09-28	
+2	200	0	IN THEIR 80s	(Alex: A category that has to do with people...)	This patriot & silversmith wore Revolutionary War-era outfits until his death at age 83 in 1818	Paul Revere	1994-09-28	
+2	400	0	IN THEIR 80s	(Alex: A category that has to do with people...)	In 1840 at age 82, he supervised the publication of his dictionary's second edition	(Noah) Webster	1994-09-28	
+2	600	0	IN THEIR 80s	(Alex: A category that has to do with people...)	This 86-year-old delivered his "The Gift Outright" at JFK's inauguration	Robert Frost	1994-09-28	
+2	800	0	IN THEIR 80s	(Alex: A category that has to do with people...)	At 82 in 1969 he staged a Broadway revival of "Three Men on a Horse", which he 1st staged in 1935	George Abbott	1994-09-28	
+2	1000	0	IN THEIR 80s	(Alex: A category that has to do with people...)	In 1826 at age 80 he resigned as court painter in Spain	Goya	1994-09-28	
+3	0	0	AMERICAN LITERATURE		Famous story that contains the line "I wish I may never hear of the United States again!\"	The Man Without a Country	1994-09-28	
+1	100	0	U.S. STATE NAMES		Before it was a state, its name included "Alta" before its name to differentiate it from Baja	California	1994-09-29	
+1	200	0	U.S. STATE NAMES		It's Sioux for "friendly"; so a person might hail from north Friendly or South Friendly	Dakota	1994-09-29	
+1	300	500	U.S. STATE NAMES		The only "New" state not named for a British person or place	New Mexico	1994-09-29	
+1	400	0	U.S. STATE NAMES		Its name, an Indian word for "flat" or "spreading water", refers to its Platte River	Nebraska	1994-09-29	
+1	500	0	U.S. STATE NAMES		Originally, this state's name began with "Ou"; its legislature changed that to "W\"	Wisconsin	1994-09-29	
+1	100	0	MONEY		Argent, a French term for money, comes from a Latin word for this metal	silver	1994-09-29	
+1	200	0	MONEY		The Great Seal of the U.S. is featured on the back of this bill	the $1 bill	1994-09-29	
+1	300	0	MONEY		In the 1980s Maldives changed its currency name from this, the same as India's, to the Rufiyaa	the rupee	1994-09-29	
+1	400	0	MONEY		Susan B. Anthony replaced this man on the U.S. dollar coin	Eisenhower	1994-09-29	
+1	500	0	MONEY		William Tyndale translated "Aiskhron Kerdos" in the Bible as this, meaning dirty money	filthy lucre	1994-09-29	
+1	100	0	RANKS & TITLES		Another name for this leader of a Jewish congregation is Reb	a rabbi	1994-09-29	
+1	200	0	RANKS & TITLES		Title shared by a college professor, a Spanish gentleman & a corleone	Don	1994-09-29	
+1	300	0	RANKS & TITLES		The "Mar" in Marshal goes back to Old English for this animal	a horse	1994-09-29	
+1	400	0	RANKS & TITLES		The Queen of England appoints this person as her representative in Canada	the Governor-General	1994-09-29	
+1	500	0	RANKS & TITLES		Grand guy who was the "Lord High Everything Else" in "The Mikado\"	Poo-Bah	1994-09-29	
+1	100	0	MARINE DISASTERS		Ammunition set off by heat from a coal bin fire probably caused the 1898 sinking of this U.S. ship	the Maine	1994-09-29	
+1	200	0	MARINE DISASTERS		Like the Titanic, the Lady of the Lake struck one of these & sank, in 1833	an iceberg	1994-09-29	
+1	300	0	MARINE DISASTERS		The worst U.S. marine disaster occurred in 1865, when the Sultana exploded on this river near Memphis	the Mississippi	1994-09-29	
+1	400	0	MARINE DISASTERS		This ship ran aground on Bligh Reef in the Gulf of Alaska March 24, 1989	the Exxon Valdez	1994-09-29	
+1	500	0	MARINE DISASTERS		In 1979 a very large crude carrier blew up in this strategic Persian Gulf strait	The Strait of Hormuz	1994-09-29	
+1	100	0	TRADEMARKS		Though it's become a synonym for a photocopy, it should only apply to one brand of machine	Xerox	1994-09-29	
+1	200	0	TRADEMARKS		This name can only be stuck on a Johnson & Johnson adhesive cut-coverer	Band-Aid	1994-09-29	
+1	300	0	TRADEMARKS		From Good Humor, it's a colored, flavored ice molded onto a flat stick that acts as a handle	a Popsicle (or Creamsicle, Fudgesicle)	1994-09-29	
+1	400	0	TRADEMARKS		Since 1924 it's been synonymous with facial tissue, but it can only be applied to Kimberly-Clark's	Kleenex	1994-09-29	
+1	500	0	TRADEMARKS		This trademarked name for vinyl-coated fabrics belongs to Uniroyal	Naugahyde	1994-09-29	
+1	100	0	HOMOPHONES		It's another word for feeble, or a period of seven days	weak/week	1994-09-29	
+1	200	0	HOMOPHONES		A labyrinth, or Indian corn	maze/maize	1994-09-29	
+1	300	0	HOMOPHONES		It can be a corridor, or it can mean to lug	hall/haul	1994-09-29	
+1	400	0	HOMOPHONES		A gem, or a knitting stitch	pearl/purl	1994-09-29	
+1	500	0	HOMOPHONES		A piece of dinnerware, or a braid of hair	plate/plait	1994-09-29	
+2	200	0	HISTORY		In '81 Pres. Reagan & this religious leader survived assassination attempts less than 2 months apart	Pope John Paul II	1994-09-29	
+2	400	0	HISTORY		Edward Bruce was king of Ireland & his brother Robert the Bruce was king of this country	Scotland	1994-09-29	
+2	600	0	HISTORY		She was known as Rebecca Rolfe when she died in England of a sudden illness in 1617	Pocahontas	1994-09-29	
+2	800	0	HISTORY		Cyrus the Great added Babylonia to this empire in 539 B.C.	the Persian Empire	1994-09-29	
+2	1000	0	HISTORY		Austria acquired the southern area called Galicia when this country was partitioned in 1772	Poland	1994-09-29	
+2	200	0	PHOTOGRAPHERS		In 1964 Harry Benson arrived in the U.S. with this musical group to cover their tour & never left	The Beatles	1994-09-29	
+2	400	0	PHOTOGRAPHERS		Herb Ritts is known for his photos of this model, whom his mother introduced to Richard Gere	(Cindy) Crawford	1994-09-29	
+2	600	0	PHOTOGRAPHERS		Bob McNeely's job is official photographer to the man in this post	the President of the United States	1994-09-29	
+2	800	0	PHOTOGRAPHERS		In 1993 Vanity Fair sent this photographer, known for her Rolling Stone celebs, to war-torn Sarajevo	Annie Leibovitz	1994-09-29	
+2	1000	0	PHOTOGRAPHERS		In September 1993 Newsweek ran a 30-page excerpt of this photographer's "An Autobiography\"	Richard Avedon	1994-09-29	
+2	200	0	RELIGION		The "begats" in this first book of the Old Testament have been called the dullest section of the Bible	Genesis	1994-09-29	
+2	400	0	RELIGION		On loans, Islam forbids this, which it calls riba	interest	1994-09-29	
+2	600	0	RELIGION		The female shamans of this Japanese religion are called Miko	Shinto	1994-09-29	
+2	800	0	RELIGION		The Unification Church was founded in this country in 1954	South Korea	1994-09-29	
+2	1000	0	RELIGION		For American Indians, doing this with a calumet reaffirms the cosmic network of relationships	smoking it	1994-09-29	
+2	200	0	THE PLANETS		The first U.S. astronaut program, or the first planet from the Sun	Mercury	1994-09-29	
+2	400	0	THE PLANETS		A 150-mile-wide crater on Venus was named for this "Coming of Age" anthropologist	Margaret Mead	1994-09-29	
+2	600	0	THE PLANETS		The USSR sent Phobos 1 & 2 to this planet's moon Phobos but both probes were lost	Mars	1994-09-29	
+2	1000	0	THE PLANETS		It takes Charon 6.4 days to orbit this planet	Pluto	1994-09-29	
+2	200	0	WORLD MAIL		This Swiss capital is headquarters to the Universal Postal Union	Bern	1994-09-29	
+2	400	0	WORLD MAIL		Stamps bearing the word Sverige are issued in this country	Sweden	1994-09-29	
+2	600	0	WORLD MAIL		The northernmost permanent P.O. is on the island of Spitsbergen, a possession of this country	Norway	1994-09-29	
+2	800	1500	WORLD MAIL		A 1965 2-krone stamp from this country depicted the newly-formed island of Surtsey	Iceland	1994-09-29	
+2	1000	0	WORLD MAIL		Issued in 1961, the Marianne stamp of France was designed by this author of "Les Enfants Terribles\"	Jean Cocteau	1994-09-29	
+2	200	0	POETRY		\"When I heard the learned astronomer" & "One's-Self I Sing" are from this 19th C. collection	Leaves of Grass	1994-09-29	
+2	400	0	POETRY		She wrote, "I never saw a moor—I never saw the sea\"	Emily Dickinson	1994-09-29	
+2	600	0	POETRY		\"O better that her shattered hulk should sink beneath the wave" refers to this old frigate	the Constitution (Old Ironsides)	1994-09-29	
+2	800	0	POETRY		Robert Burns wrote a poem about this "sweet" river in his native Ayrshire	the Afton	1994-09-29	
+2	1000	0	POETRY		In 1615 this writer of "Death Be Not Proud" became an Anglican priest	John Donne	1994-09-29	
+3	0	0	ART & AUTHORS		The Honolulu Academy of Arts has this U.S. author's collection of Japanese ukiyo-e woodblock prints	James Michener	1994-09-29	
 1	100	0	ANIMALS		This "masked" North American mammal is related to the giant & lesser pandas of Asia	raccoon	1994-10-07	
-1	200	0	ANIMALS		This African river mammal's tusks were once used for false teeth because they didn't yellow	hippopotami  (hippo)	1994-10-07	
+1	200	0	ANIMALS		This African river mammal's tusks were once used for false teeth because they didn't yellow	hippopotami (hippo)	1994-10-07	
 1	300	0	ANIMALS		Fallow, marsh & white-tailed are species of this mammal	deer	1994-10-07	
 1	400	0	ANIMALS		This Australian dog rarely barks, but howls like a coyote	dingo	1994-10-07	
 1	500	0	ANIMALS		The Adelie species of this bird was named for the wife of French explorer Dumont d'Urville	penguin	1994-10-07	
@@ -671,8 +1337,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	POTPOURRI		From 1946-1951 this New York City suburb was home to the U.N.	Lake Success	1994-10-11	
 3	0	0	BIOGRAPHIES		Isaac Deutscher's final biographical volume on this Russian was "The Prophet Outcast", covering 1929-1940	(Leon) Trotsky	1994-10-11	
 1	100	0	HISTORIC HEADLINES		February 17, 1923: This king's "tomb opened; not disturbed\"	King Tut	1994-10-12	
-1	200	0	HISTORIC HEADLINES		May 10, 1994:"Power shifts in S. Africa—parliament votes" him "first Black president\"	Nelson Mandela	1994-10-12	
-1	300	0	HISTORIC HEADLINES		January 23, 1901:"Britain mourns the death of" this "sovereign\"	Victoria	1994-10-12	
+1	200	0	HISTORIC HEADLINES		May 10, 1994: "Power shifts in S. Africa—parliament votes" him "first Black president\"	Nelson Mandela	1994-10-12	
+1	300	0	HISTORIC HEADLINES		January 23, 1901: "Britain mourns the death of" this "sovereign\"	Victoria	1994-10-12	
 1	400	0	HISTORIC HEADLINES		May 19, 1980: This volcano "erupts; 6 killed\"	Mount St. Helens	1994-10-12	
 1	500	0	HISTORIC HEADLINES		May 16, 1972: This governor "shot, paralyzed in both legs" at Maryland rally	George Wallace	1994-10-12	
 1	100	0	TV TRIVIA		Luciano Pavarotti sings the praises of this Angela Lansbury series but he told TV guide, "I always know who did it\"	Murder, She Wrote	1994-10-12	
@@ -853,6 +1519,36 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	AUTHORS AT WAR		This "Ethan Frome" author was made a Chevalier of the Legion of Honor for her work with WWI refugees	Edith Wharton	1994-10-17	
 2	1000	0	AUTHORS AT WAR		This author of "Deliverance" served in both WWII & the Korean War	James Dickey	1994-10-17	
 3	0	0	BUSINESS & INDUSTRY		It was created in 1931 by a merger of, among others, Boeing Air Transport & National Air Transport	United Airlines	1994-10-17	
+1	100	0	ENDANGERED SPECIES		This continent's bridled nailtail wallaby is on the endangered list	Australia	1994-10-18	
+1	200	0	ENDANGERED SPECIES		The Chapultepec Park Zoo in Mexico City has one of the pairs of these outside China	pandas	1994-10-18	
+1	300	0	ENDANGERED SPECIES		These "in the mist" stars will be missed if they aren't protected	(mountain) gorillas	1994-10-18	
+1	400	0	ENDANGERED SPECIES		California's Morro Bay species of this rodent named for a leaping marsupial is endangered	the kangaroo rat	1994-10-18	
+1	500	0	ENDANGERED SPECIES		In some areas the common species of this large cat is threatened; the snow species is endangered	a leopard	1994-10-18	
+1	100	0	PRO FOOTBALL		This city's Saints team has never won an NFL playoff game	New Orleans	1994-10-18	
+1	200	0	PRO FOOTBALL		Before a move to Minneapolis in 1982, this teams home games were played in Bloomington	the Minnesota Vikings	1994-10-18	
+1	300	0	PRO FOOTBALL		This Denver Broncos quarterback holds the team record for career TD passes	(John) Elway	1994-10-18	
+1	400	0	PRO FOOTBALL		This Cleveland running back was named UPI's player of the year in 1958, 1963 & 1965	(Jim) Brown	1994-10-18	
+1	500	0	PRO FOOTBALL		As a coach this Fox TV broadcaster is second only to Vince Lombardi in all-time winning percentage	John Madden	1994-10-18	
+1	100	0	RELIGION		In March 632 Muhammad led his last pilgrimage to this city	Mecca	1994-10-18	
+1	200	0	RELIGION		The symbol of Zoroastrianism, there's one at JFK's grave	an eternal flame	1994-10-18	
+1	300	0	RELIGION		He sought to overcome suffering for 6 years before attaining enlightenment in the 520s B.C.	Buddha	1994-10-18	
+1	400	0	RELIGION		He was the first president & prophet of the Mormon church	(Joseph) Smith	1994-10-18	
+1	500	500	RELIGION		In 1982 over 15,000 Moonies were married in big ceremonies, one in New York, one in this city	Seoul (Korea)	1994-10-18	
+1	100	0	LIGHTHOUSES		The lighthouse keeper of the Lanterna of Genoa in 1449 was the uncle of this explorer	Christopher Columbus	1994-10-18	
+1	200	0	LIGHTHOUSES		This oil powered America's 1st lighthouse at Little Brewster Island in Boston Harbor in 1716	whale	1994-10-18	
+1	300	0	LIGHTHOUSES		This branch of the armed services has jurisdiction over U.S. lighthouses	the Coast Guard	1994-10-18	
+1	400	0	LIGHTHOUSES		This lighthouse built circa 280 B.C. is said to have been more than 400 feet high	the Pharos at Alexandria	1994-10-18	
+1	500	0	LIGHTHOUSES		In 1781 the first revolving beam went into operation at Carlsten just NW of Goteborg in this country	Sweden	1994-10-18	
+1	100	0	OCTOBER		For much of the U.S., this ends on the last Sunday in October	daylight savings time (daylight saving time)	1994-10-18	
+1	200	0	OCTOBER		1 of 2 signs of the zodiac found in October	(1 of) Scorpio (or Libra)	1994-10-18	
+1	300	0	OCTOBER		This "Carmen" composer was born in Paris Oct. 25. 1838	Bizet	1994-10-18	
+1	400	0	OCTOBER		On Oct. 20, 1910 he resigned as president of Princeton to run for governor of New Jersey	Woodrow Wilson	1994-10-18	
+1	500	0	OCTOBER		This battle of Oct. 14, 1066 has also been called the Battle of Senlac	(the Battle of) Hastings	1994-10-18	
+1	100	0	POTPOURRI		Each cluster, or hand, of this tropical fruit consists of 10 to 20 fingers	bananas	1994-10-18	
+1	200	0	POTPOURRI		The mazurka is a folk dance of this country	Poland	1994-10-18	
+1	300	0	POTPOURRI		At the start of a chess game, only a pawn or this piece may move	the knight	1994-10-18	
+1	400	0	POTPOURRI		Its the type of meat that's wrapped around a water chestnut & chicken liver in rumaki	bacon	1994-10-18	
+1	500	0	POTPOURRI		In 1983 Bettino Craxi became this country's first Socialist premier	Italy	1994-10-18	
 1	100	0	ANCIENT TIMES		Known in ancient times as Berytus, this Middle Eastern seaport is now a world capital	Beirut	1994-10-27	
 1	200	0	ANCIENT TIMES		A great temple was built at Ur to honor Nannar, the Sumerian god of this heavenly body	moon	1994-10-27	
 1	300	0	ANCIENT TIMES		Euripides' satyr play "The Cyclops" satirizes an episode from book 9 of this Homeric work	The Odyssey	1994-10-27	
@@ -1176,7 +1872,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	TELEVISION DRAMA		In the opening of this series' first episode, Chaney of McKenzie, Brackman, Chaney & Kuzak was found dead	L.A. Law	1994-11-09	1994 Celebrity Jeopardy! game 3.
 2	800	0	TELEVISION DRAMA		On this series Dr. Steven Kiley, played by James Brolin, made house calls on his motorcycle	Marcus Welby	1994-11-09	1994 Celebrity Jeopardy! game 3.
 2	1000	0	TELEVISION DRAMA		From 1984 to 1988, Tom Bosley played Sheriff Amos Tupper on this series set in Cabot Cove, Maine	Murder, She Wrote	1994-11-09	1994 Celebrity Jeopardy! game 3.
-2	200	0	U.S. GEOGRAPHY		Deserts in this state include  Sevier, Escalante & the Great Salt Lake Desert	Utah	1994-11-09	1994 Celebrity Jeopardy! game 3.
+2	200	0	U.S. GEOGRAPHY		Deserts in this state include Sevier, Escalante & the Great Salt Lake Desert	Utah	1994-11-09	1994 Celebrity Jeopardy! game 3.
 2	800	0	U.S. GEOGRAPHY		The source of this river that forms part of the Washington-Oregon border is a lake in British Columbia	Columbia	1994-11-09	1994 Celebrity Jeopardy! game 3.
 2	200	0	AMERICAN LITERATURE		Among the scary stories he published in 1843 were "The Tell-Tale Heart" & "The Black Cat\"	Edgar Allan Poe	1994-11-09	1994 Celebrity Jeopardy! game 3.
 2	400	0	AMERICAN LITERATURE		\"Israel Potter" is an 1855 novel of the American Revolution by this author of "Moby-Dick\"	Herman Melville	1994-11-09	1994 Celebrity Jeopardy! game 3.
@@ -1492,7 +2188,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	NATURE		Often found clinging to rocks, limpets are a type of this mollusk	snails	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
 1	500	0	NATURE		In the South, buildings have been engulfed & trees have been smothered by this Oriental vine gone wild	kudzu	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
 1	100	0	MUSICAL THEATRE		When Marie Osmond toured in this play in 1994, her eldest son, Steven, played Kurt Von Trapp	The Sound of Music	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
-1	200	1000	MUSICAL THEATRE		This 1946 musical that featured the following was Irving Berlin's biggest Broadway hit:"I'm quick on the trigger /With targets not much bigger /Than a pinpoint, a number 1...\"	Annie Get Your Gun	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
+1	200	1000	MUSICAL THEATRE		This 1946 musical that featured the following was Irving Berlin's biggest Broadway hit: "I'm quick on the trigger /With targets not much bigger /Than a pinpoint, a number 1...\"	Annie Get Your Gun	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
 1	300	0	MUSICAL THEATRE		Scott Bakula played Joe DiMaggio in a 1983 musical about this sex symbol	Marilyn Monroe	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
 1	400	0	MUSICAL THEATRE		Elaine Stritch plays Capt. Andy's wife Parthy in the current revival of this Jerome Kern musical	Show Boat	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
 1	500	0	MUSICAL THEATRE		\"Kismet"'s music is adapted from the works of this "Prince Igor" composer	Alexander Borodin	1994-11-17	1994 Tournament of Champions quarterfinal game 4.
@@ -1560,7 +2256,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	FASHION		As its name implies, this lightweight nylon jacket is perfect in a breeze	Windbreaker	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	200	0	FASHION		From the French, it's a sheer, often lacy dressing gown similar to a pegnoir	Negligee	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	300	0	FASHION		This waist sash often worn with a mens' formal suit was adopted from a cloth band worn in Eastern countries	a cummerbund	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
-1	400	0	FASHION		In the 1930s & '40s, this boned & rigid garment  for women gave way to the girdle	Corset	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
+1	400	0	FASHION		In the 1930s & '40s, this boned & rigid garment for women gave way to the girdle	Corset	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	500	0	FASHION		He designed the beige pillbox hat that Jackie Kennedy wore to JFK's inauguration	Halston	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	100	0	MAMMALS		Evidence suggests that these humped mammals no longer found here originated in North America	Camels	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	200	0	MAMMALS		Mammals that are currently endangered include the wild yak & this fastest cat of Africa	Cheetah	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
@@ -1603,7 +2299,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	THE "M"EDITERRANEAN		It's the westernmost African country on the Mediterranean	Morocco	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 2	600	0	THE "M"EDITERRANEAN		The language of this island country whose capital is Valletta is a west Arabic dialect with some Italian	Malta	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 2	800	0	THE "M"EDITERRANEAN		This barren isle made famous in an Alexandre Dumas novel was known in ancient times as Oglassa	Monte Cristo	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
-2	1000	0	THE "M"EDITERRANEAN		The scirocco is the hot, dry wind that blows from Africa;  this is the opposite cold, dry northern wind	Mistral	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
+2	1000	0	THE "M"EDITERRANEAN		The scirocco is the hot, dry wind that blows from Africa; this is the opposite cold, dry northern wind	Mistral	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 3	0	0	OPERA		One-word title of the Verdi opera set in Windsor, England in the 15th century	\"Falstaff\"	1994-11-18	1994 Tournament of Champions quarterfinal game 5.
 1	100	0	VICE PRESIDENTS		Elbridge Gerry signed the Declaration of Independence but refused to sign this 1787 document	Constitution	1994-11-21	1994 Tournament of Champions semifinal game 1.
 1	200	0	VICE PRESIDENTS		He was a protege of Hubert Humphrey & replaced Humphrey in the U.S. Senate	Walter Mondale	1994-11-21	1994 Tournament of Champions semifinal game 1.
@@ -1778,10 +2474,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	BALLET		This ballet about a puppet takes place at the Shrove Tide Fair in old St. Petersburg	\"Petrushka\"	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	1000	1000	BALLET		\"Barabao" was the 1st of 10 ballets this Russian choreographed for the Ballets Russes before he moved to the United States	Georges Balanchine	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	200	0	SCIENCE		This heavenly body's prominences include dark filaments & clouds of gas	The Sun	1994-11-23	1994 Tournament of Champions semifinal game 3.
-2	400	0	SCIENCE		In botany there are 4 flower parts:  sepals, petals, stamens & these	Pistils	1994-11-23	1994 Tournament of Champions semifinal game 3.
+2	400	0	SCIENCE		In botany there are 4 flower parts: sepals, petals, stamens & these	Pistils	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	600	0	SCIENCE		You have many sweatglands, but only this number of lacrimal glands	2	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	800	0	SCIENCE		The highest jet streams occur in this layer of the atmosphere that begins 10 miles above the earth	Stratosphere	1994-11-23	1994 Tournament of Champions semifinal game 3.
-2	1000	0	SCIENCE		There are 3 types of RNA:  transfer, ribosomal & this	Messenger	1994-11-23	1994 Tournament of Champions semifinal game 3.
+2	1000	0	SCIENCE		There are 3 types of RNA: transfer, ribosomal & this	Messenger	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	200	0	ENGLISH LITERATURE		From 1595-1609, Samuel Daniel published several volumes of epic verse about the history of these "floral" wars	The Wars of the Roses	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	400	0	ENGLISH LITERATURE		This Daniel Defoe character was born in the year 1632 in the city of York, of a good family	Robinson Crusoe	1994-11-23	1994 Tournament of Champions semifinal game 3.
 2	600	0	ENGLISH LITERATURE		His 1954 play "Under Milkwood", was originally written for radio	Dylan Thomas	1994-11-23	1994 Tournament of Champions semifinal game 3.
@@ -1899,10 +2595,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	5000	THE BRAIN		The occipital lobe is devoted to this sense	Sight	1994-11-25	1994 Tournament of Champions final game 2.
 2	200	0	INITIALED AUTHORS		This author of "The Lord of the Rings" was born in South Africa & brought to England at age 4	J.R.R. Tolkien	1994-11-25	1994 Tournament of Champions final game 2.
 2	400	0	INITIALED AUTHORS		In "Vespers" he wrote, "Hush, hush, whisper who dares, Christopher Robin is saying his prayers\"	A.A. Milne	1994-11-25	1994 Tournament of Champions final game 2.
-2	600	0	INITIALED AUTHORS		His "i:six nonlectures", a book of autobiographical essays, was published in 1953	E.E. Cummings	1994-11-25	1994 Tournament of Champions final game 2.
+2	600	0	INITIALED AUTHORS		His "i: six nonlectures", a book of autobiographical essays, was published in 1953	E.E. Cummings	1994-11-25	1994 Tournament of Champions final game 2.
 2	800	0	INITIALED AUTHORS		The 16th edition of Bartlett's devotes more than 5 pages to this "Four Quartets" poet	T.S. Eliot	1994-11-25	1994 Tournament of Champions final game 2.
 2	1000	0	INITIALED AUTHORS		\"The Shadow Over Innsmouth" was the only book by this American horror writer published during his life	H.P. Lovecraft	1994-11-25	1994 Tournament of Champions final game 2.
-2	200	0	MOUNTAINS		Bolivia's highest peak,  Sajama, lies in this range	Andes	1994-11-25	1994 Tournament of Champions final game 2.
+2	200	0	MOUNTAINS		Bolivia's highest peak, Sajama, lies in this range	Andes	1994-11-25	1994 Tournament of Champions final game 2.
 2	400	0	MOUNTAINS		They separate the Iberian Peninsula from the rest of Europe	Pyrenees	1994-11-25	1994 Tournament of Champions final game 2.
 2	600	0	MOUNTAINS		It's been said that more climbers have died on this peak than any other in the Swiss Alps	The Matterhorn	1994-11-25	1994 Tournament of Champions final game 2.
 2	800	0	MOUNTAINS		Mount Vesuvius lies in this mountain range that stretches from the Gulf of Genoa to the toe of Italy's boot	Apennines	1994-11-25	1994 Tournament of Champions final game 2.
@@ -2091,12 +2787,12 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	20th CENTURY OPERAS		This Swede's 1907 play "The Ghost Sonata" inspired a 1984 chamber opera by Aribert Reimann	Strindberg	1994-11-30	
 2	1000	0	20th CENTURY OPERAS		\"The Burning Fiery Furnace" is a Biblical opera by this composer of "Billy Budd\"	Benjamin Britten	1994-11-30	
 3	0	0	BUSINESS & INDUSTRY		1 of the top 10 companies that operated food services in 1964, in 1994 its lunch counters ranked No. 264	Woolworth's	1994-11-30	
-1	100	0	SCIENCE  & NATURE		This member of the cat family is the fastest 4-legged animal	the cheetah	1994-12-01	
-1	200	0	SCIENCE  & NATURE		Hail forms within clouds; this form of precipitation is raindrops that freeze as they fall	sleet	1994-12-01	
-1	300	0	SCIENCE  & NATURE		Of igneous, sedimentary or metamorphic, the type of rock that covers most of the U.S.	sedimentary	1994-12-01	
-1	400	0	SCIENCE  & NATURE		With a diameter over 35 feet, a Montezuma cypress in this country is the world's thickest tree	Mexico	1994-12-01	
-1	500	0	SCIENCE  & NATURE		At one time this desert tree was used to make fence posts, but now it's used for aromatic firewood	mesquite	1994-12-01	
-1	100	0	ACTORS ONSTAGE		This actor's last   Broadway play, "The Immoralist", led to his  starring role in the film "East of Eden\"	James Dean	1994-12-01	
+1	100	0	SCIENCE & NATURE		This member of the cat family is the fastest 4-legged animal	the cheetah	1994-12-01	
+1	200	0	SCIENCE & NATURE		Hail forms within clouds; this form of precipitation is raindrops that freeze as they fall	sleet	1994-12-01	
+1	300	0	SCIENCE & NATURE		Of igneous, sedimentary or metamorphic, the type of rock that covers most of the U.S.	sedimentary	1994-12-01	
+1	400	0	SCIENCE & NATURE		With a diameter over 35 feet, a Montezuma cypress in this country is the world's thickest tree	Mexico	1994-12-01	
+1	500	0	SCIENCE & NATURE		At one time this desert tree was used to make fence posts, but now it's used for aromatic firewood	mesquite	1994-12-01	
+1	100	0	ACTORS ONSTAGE		This actor's last Broadway play, "The Immoralist", led to his starring role in the film "East of Eden\"	James Dean	1994-12-01	
 1	200	0	ACTORS ONSTAGE		Author played onstage by Yvonne Mitchell in "Bloomsbury" & Maggie Smith in "Virginia\"	Virginia Woolf	1994-12-01	
 1	300	0	ACTORS ONSTAGE		In 1965 teenage Meryl Streep played Marian the Librarian in her high school's production of this musical	The Music Man	1994-12-01	
 1	400	0	ACTORS ONSTAGE		Surprisingly, Marlon Brando wasn't nominated for a Tony for playing this role in "A Streetcar Named Desire\"	Stanley Kowalski	1994-12-01	
@@ -2126,8 +2822,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	HISTORY		He conquered millions of people of the Inca Empire with about 180 men	Pizarro	1994-12-01	
 2	800	0	HISTORY		The War of Spanish Succession was ended in 1713 with the "Peace of" this Dutch city	Utrecht	1994-12-01	
 2	1000	0	HISTORY		In 1925 this dynasty replaced the Qajar Dynasty in Iran	the Pahlavi dynasty	1994-12-01	
-2	200	0	OXFORD UNIVERSITY		The university sits on the upper reaches of this river  that Oxonians call the Isis	the Thames	1994-12-01	
-2	400	0	OXFORD UNIVERSITY		In 1602 Sir Thomas Bodley gave the university a number of these which he had  bought in Europe	books	1994-12-01	
+2	200	0	OXFORD UNIVERSITY		The university sits on the upper reaches of this river that Oxonians call the Isis	the Thames	1994-12-01	
+2	400	0	OXFORD UNIVERSITY		In 1602 Sir Thomas Bodley gave the university a number of these which he had bought in Europe	books	1994-12-01	
 2	600	0	OXFORD UNIVERSITY		While studying medicine at Oxford, he took up track & in 1954 ran a 3:59.4 mile at a meet there	Roger Bannister	1994-12-01	
 2	800	0	OXFORD UNIVERSITY		Pronunciation of the name of the Oxford college that's spelled M-A-G-D-A-L-E-N	\"MAWD-lin\"	1994-12-01	
 2	200	0	NOTORIOUS		Henry Methvin betrayed this criminal couple & led them into the 1934 ambush in which they died	Bonnie & Clyde	1994-12-01	
@@ -2135,7 +2831,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	NOTORIOUS		This Cuban dictator reportedly got a $1 million kickback from Meyer Lansky	(Fulgencio) Batista	1994-12-01	
 2	800	0	NOTORIOUS		No member of this team, accused of throwing the 1919 World Series, was ever convicted	the (Chicago) Black Sox (Chicago White Sox)	1994-12-01	
 2	1000	0	NOTORIOUS		In 1992 Gov. Cuomo commuted the sentence of this killer of diet Dr. Herman Tarnower	Jean Harris	1994-12-01	
-2	200	0	COUNTRIES OF THE WORLD		This world's oldest Black   republic occupies the western third of the Caribbean island of Hispaniola	Haiti	1994-12-01	
+2	200	0	COUNTRIES OF THE WORLD		This world's oldest Black republic occupies the western third of the Caribbean island of Hispaniola	Haiti	1994-12-01	
 2	400	0	COUNTRIES OF THE WORLD		The parliament of this Asian island nation is in Sri Jayewardenepura-Kotte, a suburb of Colombo	Sri Lanka	1994-12-01	
 2	600	0	COUNTRIES OF THE WORLD		Shortly after this country lost the Falkland Islands War in 1982, President Galtieri resigned	Argentina	1994-12-01	
 2	800	2000	COUNTRIES OF THE WORLD		Eduard Shevardnadze heads this country	Georgia	1994-12-01	
@@ -2147,7 +2843,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	WOMEN POETS		This Black American is the poet laureate of Illinois	Gwendolyn Brooks	1994-12-01	
 2	200	0	ODDS & ENDS		This symbol of forest fire prevention retired in 1975 & died at the National Zoo the following year	Smokey Bear	1994-12-01	
 2	400	0	ODDS & ENDS		To speak this language, transpose the 1st consonant of each word to the end & add "ay\"	Pig Latin	1994-12-01	
-2	600	0	ODDS & ENDS		Mark Twain once said these facial features   "should merely indicate where smiles have been\"	wrinkles	1994-12-01	
+2	600	0	ODDS & ENDS		Mark Twain once said these facial features "should merely indicate where smiles have been\"	wrinkles	1994-12-01	
 2	800	0	ODDS & ENDS		The insignia for the U.S. Army Medical Corps features this symbol, a staff with 2 coiled serpents	a caduceus	1994-12-01	
 2	1000	0	ODDS & ENDS		When he retired as Supreme Court justice in 1932, he'd served to an older age than any, 90	Oliver Wendell Holmes	1994-12-01	
 3	0	0	BESTSELLING AUTHORS		He was 50 yards from victory in Britain's Grand National Steeplechase of 1956 when his horse collapsed	Dick Francis	1994-12-01	
@@ -2199,7 +2895,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	HEALTH & MEDICINE		Anemia is a possible complication of this disease transmitted by Anopheles mosquitos	malaria	1994-12-02	
 2	400	2000	HEALTH & MEDICINE		Of heat exhaustion, heat prostration & heatstroke, the 2 that are synonymous	heat exhaustion & heat prostration	1994-12-02	
 2	600	0	HEALTH & MEDICINE		Koplik's spots on the inside of the cheeks are a symptom of this disease that's also called rubeola	measles	1994-12-02	
-2	800	0	HEALTH & MEDICINE		The action of a hormone called cholecystokinin   makes this bile-storing organ contract	the gallbladder	1994-12-02	
+2	800	0	HEALTH & MEDICINE		The action of a hormone called cholecystokinin makes this bile-storing organ contract	the gallbladder	1994-12-02	
 2	1000	0	HEALTH & MEDICINE		Overactivity of this gland is the most common cause of exophthalmos, or abnormal bulging of the eyes	the thyroid	1994-12-02	
 2	200	0	ENGLISH LITERATURE		While living in Samoa, he wrote "Catriona", a sequel to "Kidnapped\"	Stevenson	1994-12-02	
 2	400	0	ENGLISH LITERATURE		The Martian invasion in this 1898 work takes place in Woking, England, not New Jersey	The War of the Worlds	1994-12-02	
@@ -2217,7 +2913,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	HAIL TO THE CHIEF		This 22nd & 24th president wrote several books, including "Fishing and Shooting Sketches\"	(Grover) Cleveland	1994-12-06	
 1	400	0	HAIL TO THE CHIEF		He was so elegant & polished that he was nicknamed "Prince Arthur\"	Chester Arthur	1994-12-06	
 1	500	0	HAIL TO THE CHIEF		His last words were "I know that I'm going where Lucy is\"	Rutherford (B.) Hayes	1994-12-06	
-1	100	0	MUSIC POTPOURRI		This mama & daughter   country duo won a 1984 Grammy for "Mama He's Crazy\"	The Judds	1994-12-06	
+1	100	0	MUSIC POTPOURRI		This mama & daughter country duo won a 1984 Grammy for "Mama He's Crazy\"	The Judds	1994-12-06	
 1	200	0	MUSIC POTPOURRI		This George M. Cohan song contains the line "a real live nephew of my Uncle Sam's\"	\"(I'm A) Yankee Doodle Dandy\"	1994-12-06	
 1	300	0	MUSIC POTPOURRI		Her 1990 music video "Justify My Love" was banned from MTV but still sold widely in stores	Madonna	1994-12-06	
 1	400	0	MUSIC POTPOURRI		At age 6 Wynton Marsalis received his first trumpet, from this "Java" trumpeter	Al Hirt	1994-12-06	
@@ -2232,11 +2928,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	EUROPE		The Danish national one is the dannebrog, brog being Old Danish for cloth	the flag	1994-12-06	
 1	400	0	EUROPE		To the French this country is Allemagne	Germany	1994-12-06	
 1	500	600	EUROPE		Albert II has been king of this country since August 9, 1993	Belgium	1994-12-06	
-1	100	0	FRUITS  & VEGETABLES		The robe de Sargent & imperial types of this fruit are dried to make prunes	plums	1994-12-06	
-1	200	0	FRUITS  & VEGETABLES		The leaf types of this salad ingredient are good to grow at home because they don't run to seed	lettuce	1994-12-06	
-1	300	0	FRUITS  & VEGETABLES		A simple way to cook this is to tie a bundle of spears together & stand them in boiling water	asparagus	1994-12-06	
-1	400	0	FRUITS  & VEGETABLES		One explanation for the name of this bog fruit is that its flower looks like the head of a crane	cranberry	1994-12-06	
-1	500	0	FRUITS  & VEGETABLES		This turnip relative has been called a turnip-rooted cabbage	a rutabaga	1994-12-06	
+1	100	0	FRUITS & VEGETABLES		The robe de Sargent & imperial types of this fruit are dried to make prunes	plums	1994-12-06	
+1	200	0	FRUITS & VEGETABLES		The leaf types of this salad ingredient are good to grow at home because they don't run to seed	lettuce	1994-12-06	
+1	300	0	FRUITS & VEGETABLES		A simple way to cook this is to tie a bundle of spears together & stand them in boiling water	asparagus	1994-12-06	
+1	400	0	FRUITS & VEGETABLES		One explanation for the name of this bog fruit is that its flower looks like the head of a crane	cranberry	1994-12-06	
+1	500	0	FRUITS & VEGETABLES		This turnip relative has been called a turnip-rooted cabbage	a rutabaga	1994-12-06	
 1	100	0	2-LETTER WORDS		To call attention to your product or service, you might want to place one of these in the newspaper	an ad	1994-12-06	
 1	200	0	2-LETTER WORDS		This pronoun is the objective case of "I\"	me	1994-12-06	
 1	300	0	2-LETTER WORDS		This conjunction is used to indicate an alternative	or	1994-12-06	
@@ -2390,7 +3086,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	500	WOMEN AUTHORS		Her 1946 work "Brewsie and Willie" was about the young U.S. soldiers who visited her in Paris	Gertrude Stein	1994-12-14	
 2	200	0	\"G" WHIZ!		It often precedes paint, pencil & monkey	grease	1994-12-14	
 2	400	0	\"G" WHIZ!		This American form of religious music combines elements of spirituals & jazz, & that's the "truth\"	gospel	1994-12-14	
-2	600	0	\"G" WHIZ!		This yellow state flower of Nebraska & Kentucky generally   doesn't cause hay fever as many believe	goldenrod	1994-12-14	
+2	600	0	\"G" WHIZ!		This yellow state flower of Nebraska & Kentucky generally doesn't cause hay fever as many believe	goldenrod	1994-12-14	
 2	800	0	\"G" WHIZ!		Its a lamp with a curved, flexible shaft that resembles part of a certain bird's anatomy	a gooseneck lamp	1994-12-14	
 2	1000	0	\"G" WHIZ!		These lizards that can walk upside-down on ceilings are non-venomous	geckos	1994-12-14	
 3	0	0	AMERICANA		This New York town that was the home of Elizabeth Cady Stanton has a Women's Hall of Fame	Seneca Falls	1994-12-14	
@@ -2419,7 +3115,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	INVENTORS		This founder of a Michigan-based chemical co. received over 100 patents before his death in 1930	(Herbert Henry) Dow	1994-12-16	
 1	400	0	INVENTORS		\"This is" the movie process launched by inventor Fred Waller in 1952	Cinerama	1994-12-16	
 1	500	700	INVENTORS		Reportedly first isolated in 1957 in Stockholm, Sweden, chemical element 102 is named for this inventor	Alfred Nobel	1994-12-16	
-1	100	0	QUOTABLE WOMEN		In a 1975 book this "French Chef" advised,  "Learn how to cook! That's the way to save money\"	(Julia) Child	1994-12-16	
+1	100	0	QUOTABLE WOMEN		In a 1975 book this "French Chef" advised, "Learn how to cook! That's the way to save money\"	(Julia) Child	1994-12-16	
 1	200	0	QUOTABLE WOMEN		\"Flying may not be all plain sailing... but the fun of it is worth the price", she said before she disappeared	(Amelia) Earhart	1994-12-16	
 1	300	0	QUOTABLE WOMEN		This late actress was fond of saying, "I used to be Snow White... but I drifted\"	Mae West	1994-12-16	
 1	400	0	QUOTABLE WOMEN		This naturalist said, "The more you learn about the dignity of the gorilla, the more you want to avoid people\"	Dian Fossey	1994-12-16	
@@ -2578,7 +3274,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	PRESIDENTIAL NICKNAMES		The "Kansas Cyclone\"	Dwight David Eisenhower	1994-12-21	
 1	500	0	PRESIDENTIAL NICKNAMES		The "First Dark Horse\"	James K. Polk	1994-12-21	
 1	100	0	CHRISTMAS CAROLS		Joseph Mohr, a priest of Oberndorf, Austria, wrote the German words of this "quiet" carol	\"Silent Night\"	1994-12-21	
-1	200	0	CHRISTMAS CAROLS		Hark!  This carol was adapted from a chorus written by Felix Mendelssohn	\"Hark the Herald Angels Sing\"	1994-12-21	
+1	200	0	CHRISTMAS CAROLS		Hark! This carol was adapted from a chorus written by Felix Mendelssohn	\"Hark the Herald Angels Sing\"	1994-12-21	
 1	300	0	CHRISTMAS CAROLS		This collaborator of W.S. Gilbert arranged the music of "It Came Upon the Midnight Clear\"	Arthur Sullivan	1994-12-21	
 1	400	0	CHRISTMAS CAROLS		\"God rest you merry, gentlemen, let nothing you" this	dismay	1994-12-21	
 1	500	0	CHRISTMAS CAROLS		\"What Child Is This?" is sung to the tune of this other song	\"Greensleeves\"	1994-12-21	
@@ -2611,7 +3307,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	PULITZER COMMENTATORS		His columns were collected as "Poor Russell's Almanac\"	Russell Baker	1994-12-21	
 2	600	0	PULITZER COMMENTATORS		This Washington-based political humorist won in 1982	Art Buchwald	1994-12-21	
 2	800	0	PULITZER COMMENTATORS		In addition to his newswriting, this 1986 winner wrote novels like "The Gang That Couldn't Shoot Straight\"	Jimmy Breslin	1994-12-21	
-2	1000	0	PULITZER COMMENTATORS		Known for his way with  words, this conservative New York Times columnist won in 1978	William Safire	1994-12-21	
+2	1000	0	PULITZER COMMENTATORS		Known for his way with words, this conservative New York Times columnist won in 1978	William Safire	1994-12-21	
 2	200	0	ASTRONOMY & SPACE		As one of these moves away from the sun, it loses its tail	comet	1994-12-21	
 2	400	0	ASTRONOMY & SPACE		It's believed that the majority of meteorites are fragments of these minor planets	asteroids	1994-12-21	
 2	600	0	ASTRONOMY & SPACE		It's the Aurora Borealis' counterpart in the Southern Hemisphere	Aurora Australis	1994-12-21	
@@ -2792,7 +3488,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	1920		Helen Keller was one of the people who founded this constitutional rights organization in 1920	the American Civil Liberties Union	1994-12-26	
 2	200	0	COLLEGES & UNIVERSITIES		Stanford University maintains the Hopkins Marine Station in Pacific Grove in this state	California	1994-12-26	
 2	400	0	COLLEGES & UNIVERSITIES		Don't remain silent if you know that Amherst College was this president's alma mater	Coolidge	1994-12-26	
-2	600	0	COLLEGES & UNIVERSITIES		In 1993 a court upheld   Boston University's claim to 83.000 of this civil rights leader's papers	Martin Luther King	1994-12-26	
+2	600	0	COLLEGES & UNIVERSITIES		In 1993 a court upheld Boston University's claim to 83.000 of this civil rights leader's papers	Martin Luther King	1994-12-26	
 2	800	0	COLLEGES & UNIVERSITIES		HHS Secretary Donna Shalala was formerly chancellor of this Midwest university based in Madison	Wisconsin	1994-12-26	
 2	1000	0	COLLEGES & UNIVERSITIES		Duquesne University occupies about 40 acres in the downtown area of this Pennsylvania city	Pittsburgh	1994-12-26	
 2	200	0	PLAYS		A bright, cockney womanizer is "what" this Bill Naughton play is "all about\"	Alfie	1994-12-26	
@@ -2802,7 +3498,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	PLAYS		This modern playwright's "American Buffalo" revolves around the sale of a rare buffalo nickel	David Mamet	1994-12-26	
 2	200	0	WORLD GEOGRAPHY		At 9,888 feet, Pico da Neblina is the tallest peak in this largest South American country	Brazil	1994-12-26	
 2	400	0	WORLD GEOGRAPHY		Named for a queen, it's Australia's smallest mainland state	Victoria	1994-12-26	
-2	600	0	WORLD GEOGRAPHY		France’s Somme River rises near the Belgian border & flows northwest to this waterway	the English Channel	1994-12-26	
+2	600	0	WORLD GEOGRAPHY		France's Somme River rises near the Belgian border & flows northwest to this waterway	the English Channel	1994-12-26	
 2	800	0	WORLD GEOGRAPHY		The Limpopo & Molopo Rivers provide part of this country's northern border with Botswana	South Africa	1994-12-26	
 2	1000	0	WORLD GEOGRAPHY		This volcanic peak 40 miles east of Portland, Oregon last erupted in 1865	Mt. Hood	1994-12-26	
 2	200	0	BUSINESS & INDUSTRY		In 1988 this Pennsylvania company passed Mars. Inc. as the biggest U.S. candy maker	Hershey	1994-12-26	
@@ -3031,10 +3727,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	FISH		The dwarf species of this fish with a prehensile tail measures only about 1 1/2 inches	the seahorse	1995-01-04	
 2	600	0	FISH		Pink & coho are species of this	salmon	1995-01-04	
 2	800	0	FISH		This family of fish includes the chub, bream & bitterling as well as the goldfish	carp	1995-01-04	
-2	1000	0	FISH		This fish that can inflate its body to 3 times its normal size is also called   a blowfish or swellfish	a pufferfish	1995-01-04	
+2	1000	0	FISH		This fish that can inflate its body to 3 times its normal size is also called a blowfish or swellfish	a pufferfish	1995-01-04	
 2	200	0	MUSIC APPRECIATION		This composer designed 2 French horn-like tubas to be used in his opera cycle "The Ring\"	Wagner	1995-01-04	
 2	400	0	MUSIC APPRECIATION		From the croaking noises in its finale, Haydn's String Quartet in D major is nicknamed for this animal	the frog	1995-01-04	
-2	600	0	MUSIC APPRECIATION		The Rudolf Friml operetta   that features the "Song Of The Vagabonds\"	The Vagabond King	1995-01-04	
+2	600	0	MUSIC APPRECIATION		The Rudolf Friml operetta that features the "Song Of The Vagabonds\"	The Vagabond King	1995-01-04	
 2	800	0	MUSIC APPRECIATION		An eisteddfod is a type of competitive music festival that originated in this part of the British Isles	Wales	1995-01-04	
 2	1000	2000	MUSIC APPRECIATION		He wrote the "Symphonie Pathetique" about 95 years after Beethoven wrote the "Sonate Pathetique\"	Tchaikovsky	1995-01-04	
 2	200	0	MOUNTAINS		The Abominable Snowman is said to inhabit the Himalayas, especially this highest peak	Everest	1995-01-04	
@@ -3042,10 +3738,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	MOUNTAINS		The Basques inhabit the westernmost part of these mountains	the Pyrenees	1995-01-04	
 2	800	0	MOUNTAINS		Kibo, this volcanic mountain's highest peak, was first scaled in 1889	Kilimanjaro	1995-01-04	
 2	1000	0	MOUNTAINS		Many Andean peaks, including Ojos del Salado, rise to over 22,000 feet; this is the tallest	Aconcagua	1995-01-04	
-2	200	0	LITERATURE		Tolstoy spent years researching Napoleon &  Alexander I before writing this massive novel	War and Peace	1995-01-04	
+2	200	0	LITERATURE		Tolstoy spent years researching Napoleon & Alexander I before writing this massive novel	War and Peace	1995-01-04	
 2	400	0	LITERATURE		This Johann Wyss classic was inspired by "Robinson Crusoe\"	The Swiss Family Robinson	1995-01-04	
 2	600	0	LITERATURE		Gloriana in Edmund Spenser's poem "The Faerie Queene" represents this ruler	Elizabeth I	1995-01-04	
-2	800	0	LITERATURE		Some have described this   Machiavelli novel as a manual for tyrants	The Prince	1995-01-04	
+2	800	0	LITERATURE		Some have described this Machiavelli novel as a manual for tyrants	The Prince	1995-01-04	
 2	1000	0	LITERATURE		A portion of this Kafka novel was published separately under the title "Before the Law\"	The Trial	1995-01-04	
 2	200	0	GOULASH		Boat races are a feature of this state's Aloha Week each fall	Hawaii	1995-01-04	
 2	400	0	GOULASH		This unique building was originally built to house the offices of the War Department	the Pentagon	1995-01-04	
@@ -3118,7 +3814,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	REVOLUTIONARY WAR FIGURES		Charles Carroll was the only Roman Catholic to sign this 1776 document	the Declaration of Independence	1995-01-13	
 1	300	0	REVOLUTIONARY WAR FIGURES		Enoch Crosby, American spy, may be the model for the hero of this "Leatherstocking" author's novel "The Spy\"	(James Fenimore) Cooper	1995-01-13	
 1	400	0	REVOLUTIONARY WAR FIGURES		This author of "The Crisis" served as an aide to General Nathanael Greene	Tom Paine	1995-01-13	
-1	500	0	REVOLUTIONARY WAR FIGURES		Nicknamed "Lighthorse Harry", this man is considered the best cavalry officer of the Revolution	(Henr)y Lee	1995-01-13	
+1	500	0	REVOLUTIONARY WAR FIGURES		Nicknamed "Lighthorse Harry", this man is considered the best cavalry officer of the Revolution	(Henry) Lee	1995-01-13	
 1	100	0	FILMS OF THE '90s		When Hurricane Iniki hit the island of Kauai in 1992, this Steven Spielberg dinodrama was on location there	Jurassic Park	1995-01-13	
 1	200	0	FILMS OF THE '90s		This actor's wife Marsha co-produced his hit film "Mrs. Doubtfire\"	Robin Williams	1995-01-13	
 1	300	0	FILMS OF THE '90s		This actor, the son of Jerry Stiller & Anne Meara, co-starred in "Reality Bites" & directed it	Ben Stiller	1995-01-13	
@@ -3146,7 +3842,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	HODGEPODGE		Cecil Rhodes graduated from this school in 1881	Oxford	1995-01-13	
 2	200	0	WORLD HISTORY		In 1988 a ceasefire ended the 8-year war between Iran & this country	Iraq	1995-01-13	
 2	400	0	WORLD HISTORY		During the Fourth Crusade, this Byzantine capital was sacked & a new Latin Empire was established there	Constantinople	1995-01-13	
-2	600	0	WORLD HISTORY		In 1951, to ensure mutual aid in the event of aggression, the U.S. & these 2 nations signed the Anzus Pact	New Zealand & Australia	1995-01-13	
+2	600	0	WORLD HISTORY		In 1951, to ensure mutual aid in the event of aggression, the U.S. & these 2 nations signed the ANZUS Pact	New Zealand & Australia	1995-01-13	
 2	800	1600	WORLD HISTORY		In 1926 Emiliano Chamorro briefly returned to power in this country but was then forced to resign	Nicaragua	1995-01-13	
 2	1000	0	WORLD HISTORY		During the Korean War, U.N. forces retook Seoul after launching a surprise landing at this port	Inchon	1995-01-13	
 2	200	0	NEWSPAPERS & MAGAZINES		His "The Fall of the House of Usher" appeared in Burton's Gentleman's Magazine, which he co-edited	(Edgar Allan) Poe	1995-01-13	
@@ -3176,7 +3872,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	U.S. CITIES		Statues of Abraham Lincoln & Stephen Douglas stand on the grounds of its capitol building	Springfield, Illinois	1995-01-20	
 1	400	0	U.S. CITIES		Cow Town, a tourist site in this largest Kansas City, is a reproduction of the early city	Wichita	1995-01-20	
 1	500	0	U.S. CITIES		Fort Louis, on the site of this Miss. port city, served as the capital of the Louisiana colony until 1722	Biloxi	1995-01-20	
-1	100	0	POP MUSIC		This group's debut LP, "Please Please Me",  topped the U.K. charts in 1963	The Beatles	1995-01-20	
+1	100	0	POP MUSIC		This group's debut LP, "Please Please Me", topped the U.K. charts in 1963	The Beatles	1995-01-20	
 1	200	0	POP MUSIC		Dr. Dre & Digable Planets won Grammys in 1994 for performances in this music genre	rap	1995-01-20	
 1	300	0	POP MUSIC		His Top 10 hits in the 1960s include "Little Sister" & "Return To Sender\"	Elvis Presley	1995-01-20	
 1	400	0	POP MUSIC		In 1968 his "(Sittin' On) The Dock Of The Bay" became the first No. 1 posthumous hit by a solo artist	Otis Redding	1995-01-20	
@@ -3199,7 +3895,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	POTPOURRI		It's the second-highest number you can throw with a pair of standard dice	11	1995-01-20	
 1	200	0	POTPOURRI		Woody Guthrie's song "Tom Joad" was inspired by this novel	The Grapes of Wrath	1995-01-20	
 1	300	0	POTPOURRI		Spook is this comic strip's perennial prisoner	The Wizard of Id	1995-01-20	
-1	400	0	POTPOURRI		Alphabetically it was the first sport  at the 1992 Summer Olympics	archery	1995-01-20	
+1	400	0	POTPOURRI		Alphabetically it was the first sport at the 1992 Summer Olympics	archery	1995-01-20	
 1	500	0	POTPOURRI		The word hepatic comes from hepar, an old Greek name for this organ	liver	1995-01-20	
 2	200	0	AMERICAN HISTORY		The 1776 New York campaign gave him his first experience as a commander in a major battle	George Washington	1995-01-20	
 2	400	0	AMERICAN HISTORY		When this war ended in December 1814, the federal government faced a debt of over $120 million	the War of 1812	1995-01-20	
@@ -3221,7 +3917,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	MUSEUMS		The rebuilding of the Castle Museum in this capital was financed by Poles from all over the world	Warsaw	1995-01-20	
 2	800	0	MUSEUMS		Electric railroad equipment is exhibited at the Seashore Trolley Museum near Kennebunkport in this state	Maine	1995-01-20	
 2	1000	0	MUSEUMS		Memorabilia devoted to this author are housed in a Walnut Grove, Minnesota museum	(Laura) Ingalls (Wilder)	1995-01-20	
-2	200	0	POETRY		Sections of this Longfellow poem include   "The Peace-Pipe" & "The White Man's Foot\"	(The Song of) Hiawatha	1995-01-20	
+2	200	0	POETRY		Sections of this Longfellow poem include "The Peace-Pipe" & "The White Man's Foot\"	(The Song of) Hiawatha	1995-01-20	
 2	400	0	POETRY		\"In Flanders Fields" these "blow between the crosses, row on row\"	poppies	1995-01-20	
 2	600	0	POETRY		His cantata "The Jolly Beggars" includes the chorus "Sing hey my braw John Highlandman!\"	Robbie Burns	1995-01-20	
 2	800	0	POETRY		Keats called this piece of pottery a "Sylvan Historian\"	a Grecian urn	1995-01-20	
@@ -3269,7 +3965,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	THE 20th CENTURY		Agha Muhammad Yahya Khan resigned as president of this country in 1971 after he lost Bangladesh	Pakistan	1995-01-27	
 2	200	0	AMERICAN MUSEUMS		A mock-up of artist Grant Wood's house can be seen in the Davenport Museum of Art in this state	Iowa	1995-01-27	
 2	400	0	AMERICAN MUSEUMS		In 1994 the L.A. County Museum of Art exhibited this Spaniard's "Weeping Women\"	Picasso	1995-01-27	
-2	600	0	AMERICAN MUSEUMS		The Hillwood Museum  in Washington, D.C. has 2 of his Easter eggs	Faberge	1995-01-27	
+2	600	0	AMERICAN MUSEUMS		The Hillwood Museum in Washington, D.C. has 2 of his Easter eggs	Faberge	1995-01-27	
 2	800	0	AMERICAN MUSEUMS		The Nelson-Atkins Museum of Art in Kansas City has a garden of 13 of this Brit's sculptures	Henry Moore	1995-01-27	
 2	1000	0	AMERICAN MUSEUMS		\"Where" this author's "Wild Things Are" is at the Rosenbach Museum & Library in Philadelphia	Maurice Sendak	1995-01-27	
 2	200	0	BUSINESS & INDUSTRY		In 1974 this French firm known for its pens introduced the disposable razor	Bic	1995-01-27	
@@ -3486,7 +4182,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	BEVERAGES		Jasmine flowers are sometimes used to scent these beverage leaves	tea leaves	1995-02-09	
 1	200	0	BEVERAGES		This nut that gives its name to a common soft drink has a bitter taste	a kola nut	1995-02-09	
 1	300	0	BEVERAGES		Mate, a beverage drunk extensively on this continent, is also called yerba mate	South America	1995-02-09	
-1	400	0	BEVERAGES		Wendy Kaufman is the woman behind the desk in  TV ads for this maker of Mango Madness cocktail, etc.	Snapple	1995-02-09	
+1	400	0	BEVERAGES		Wendy Kaufman is the woman behind the desk in TV ads for this maker of Mango Madness cocktail, etc.	Snapple	1995-02-09	
 1	500	0	BEVERAGES		To get one of these thick, sweet dairy drinks in New England, ask for a frappe or a cabinet	a milkshake	1995-02-09	
 1	100	0	THE 50 STATES		Jackson & Yellowstone are the largest natural lakes in this state	Wyoming	1995-02-09	
 1	200	0	THE 50 STATES		This "Garden State" is named for the Channel Island birthplace of Sir George Carteret	New Jersey	1995-02-09	
@@ -3575,11 +4271,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	NEWSPAPERS & MAGAZINES		In circulation, it's Illinois' largest newspaper	the Chicago Tribune	1995-02-10	
 2	1000	0	NEWSPAPERS & MAGAZINES		Name shared by newspapers in Houston, Denver & Jerusalem	the Post	1995-02-10	
 2	200	0	OPERA		The 1893 opera based on this fairy tale features a gingerbread house	Hansel and Gretel	1995-02-10	
-2	400	0	OPERA		This composer was just 13 when his comic opera   "La Finta Semplice" premiered in Salzburg in 1769	Mozart	1995-02-10	
+2	400	0	OPERA		This composer was just 13 when his comic opera "La Finta Semplice" premiered in Salzburg in 1769	Mozart	1995-02-10	
 2	600	0	OPERA		Douglas Moore wrote an acclaimed opera about "The Devil and" this New England orator	Daniel Webster	1995-02-10	
 2	800	0	OPERA		His plan to write a single opera about Siegfried evolved into "The Ring of the Nibelung", which is much longer	Wagner	1995-02-10	
 2	1000	0	OPERA		Act V of this "Peter and the Wolf" composer's opera "The Fiery Angel" includes an exorcism	Prokofiev	1995-02-10	
-2	200	0	BODIES OF WATER		It reaches !ts greatest width between Panama & the Malay Peninsula, a  distance 12,300 miles	the Pacific Ocean	1995-02-10	
+2	200	0	BODIES OF WATER		It reaches !ts greatest width between Panama & the Malay Peninsula, a distance 12,300 miles	the Pacific Ocean	1995-02-10	
 2	400	0	BODIES OF WATER		Egypt is bordered by these 2 seas	the Mediterranean and the Red Sea	1995-02-10	
 2	600	0	BODIES OF WATER		Basel, Switzerland's main port, lies on this river, Western Europe's, longest	the Rhine	1995-02-10	
 2	800	0	BODIES OF WATER		This strait connects the Gulf of Oman with the Persian Gulf	the Strait of Hormuz	1995-02-10	
@@ -3598,7 +4294,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	BOOKS & AUTHORS		This Michael Crichton novel concerns the cloning of dinosaur DNA	Jurassic Park	1995-02-13	
 1	200	0	BOOKS & AUTHORS		\"There was something vampiric about rock music" is a quote from her novel "The Vampire Lestat\"	Anne Rice	1995-02-13	
 1	300	0	BOOKS & AUTHORS		Part one of this Victor Hugo epic is called "Fantine\"	Les Miserables	1995-02-13	
-1	400	0	BOOKS & AUTHORS		His original title for "Of Human Bondage" was "Beauty from Ashes",  a misquotation from Isaiah	Somerset Maugham	1995-02-13	
+1	400	0	BOOKS & AUTHORS		His original title for "Of Human Bondage" was "Beauty from Ashes", a misquotation from Isaiah	Somerset Maugham	1995-02-13	
 1	500	0	BOOKS & AUTHORS		His novel "Ivanhoe" opens "In that pleasant district of merry England which is watered by the River Don\"	Sir Walter Scott	1995-02-13	
 1	100	0	HEARTTHROBS		He plays Blossom's brother Joey Russo — whoa!	Joey Lawrence	1995-02-13	
 1	200	0	HEARTTHROBS		She steams up the screen as the scheming Amanda on "Melrose Place\"	Heather Locklear	1995-02-13	
@@ -3631,7 +4327,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	500	AMERICAN HISTORY		In 1736 John & Charles Wesley visited this colony at the invitation of James Oglethorpe	Georgia	1995-02-13	
 2	1000	0	AMERICAN HISTORY		U.S. Army General Leslie Groves was chief administrator of this program to build the atom bomb	the Manhattan Project	1995-02-13	
 2	200	0	JOURNALISM		It was the only paper in the world to print the entire WWI peace treaty; it was all fit to print	the New York Times	1995-02-13	
-2	400	1100	JOURNALISM		It can be a regular feature  or a division of a page	a column	1995-02-13	
+2	400	1100	JOURNALISM		It can be a regular feature or a division of a page	a column	1995-02-13	
 2	600	0	JOURNALISM		The newspaper uses this page to declare its opinions	the editorial page	1995-02-13	
 2	800	0	JOURNALISM		A conventional news story has 2 parts: the body & this, which summarizes the story	the lede	1995-02-13	
 2	1000	0	JOURNALISM		Name for the group of reporters whose beat is 1600 Pennsylvania Avenue	the White House press corps	1995-02-13	
@@ -3749,7 +4445,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	20th CENTURY WOMEN		In 1992 this former British prime minister became a baroness	Margaret Thatcher	1995-02-15	
 2	400	0	20th CENTURY WOMEN		In 1976 this future Texas governor was elected a Travis County commissioner	Ann Richards	1995-02-15	
 2	600	0	20th CENTURY WOMEN		On March 12,1993 she was sworn in as the 78th U.S. Attorney General	Janet Reno	1995-02-15	
-2	800	2000	20th CENTURY WOMEN		Nadezhda Krupskaya   briefly opposed Stalin's takeover after the death of this man, her husband	Lenin	1995-02-15	
+2	800	2000	20th CENTURY WOMEN		Nadezhda Krupskaya briefly opposed Stalin's takeover after the death of this man, her husband	Lenin	1995-02-15	
 2	1000	0	20th CENTURY WOMEN		Working in Olduvai Gorge, she made many of the fossil discoveries credited to her husband Louis	(Mary) Leakey	1995-02-15	
 2	200	0	WORLD CITIES		This South African city may have been named for Surveyor-General Johannes Rissik	Johannesburg	1995-02-15	
 2	400	0	WORLD CITIES		On a list of Switzerland's major cities, this one is alphabetically last	Zurich	1995-02-15	
@@ -4007,18 +4703,18 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	1000	ART & ARTISTS		Camille Pissarro's work after 1884 was influenced by this pointillist's theory of optical mixture	(Georges) Seurat	1995-03-01	
 2	200	0	MILITARY MEN		In 1993 Gen. John Shalikashvili replaced this man as Chairman of the Joint Chiefs of Staff	Colin Powell	1995-03-01	
 2	400	0	MILITARY MEN		In 31 B.C. Marcus Agrippa, in command of Octavian's fleet, beat the forces of this Roman & this Egyptian	Antony & Cleopatra	1995-03-01	
-2	600	0	MILITARY MEN		He shot down his first plane April 29, 1918 & by the end of WWI was the top  ace	Rickenbacker	1995-03-01	
+2	600	0	MILITARY MEN		He shot down his first plane April 29, 1918 & by the end of WWI was the top ace	Rickenbacker	1995-03-01	
 2	800	0	MILITARY MEN		In 1953 this American general became the first soldier to receive the Nobel Peace Prize	Marshall	1995-03-01	
 2	1000	1400	MILITARY MEN		In March 1923 he joined the Royal Tank Corps under the name T.E. Shaw	Lawrence of Arabia	1995-03-01	
 2	200	0	FOOD		A favorite for Welsh rarebit, Lancashire is a type of this	cheese	1995-03-01	
 2	400	0	FOOD		Not surprisingly, the name of this pasta is from the Italian word for "strings\"	spaghetti	1995-03-01	
 2	600	0	FOOD		These 2 fruit flavors account for over half the jellies sold in the U.S.	strawberry & grape	1995-03-01	
-2	800	0	FOOD		It's a round tart with a sweet or savory filling, or a Spanish  baked custard coated with caramel	flan	1995-03-01	
+2	800	0	FOOD		It's a round tart with a sweet or savory filling, or a Spanish baked custard coated with caramel	flan	1995-03-01	
 2	1000	0	FOOD		It's the Hawaiian term for hot or cold appetizers, often served on a platter	pupus	1995-03-01	
 2	200	0	THEATRE		Lynn Redgrave appeared in a 1992 Broadway revival of "The Master Builder" by this Norwegian playwright	Ibsen	1995-03-01	
 2	400	0	THEATRE		This "Major Barbara" playwright's "Back to Methuselah" is really five plays in one	Shaw	1995-03-01	
 2	600	0	THEATRE		Aristotle said that this form of Greek drama evokes pity & fears which lead to catharsis	tragedy	1995-03-01	
-2	800	0	THEATRE		This "Endgame" author wrote "Catastrophe" in 1982 as a tribute-to Vaclav Havel who was then in prison	(Samuel) Becket	1995-03-01	
+2	800	0	THEATRE		This "Endgame" author wrote "Catastrophe" in 1982 as a tribute-to Vaclav Havel who was then in prison	(Samuel) Beckett	1995-03-01	
 2	1000	0	THEATRE		Great Russian acting teacher who explained his famous "system" in his 1936 book "an actor prepares\"	Stanislavski	1995-03-01	
 3	0	0	NONFICTION		In the 1870s he wrote "The Molly Maguires and the Detectives" & "Criminal Reminiscences and Det. Sketches\"	Pinkerton	1995-03-01	
 1	100	0	ZOOLOGY		It's the familiar term for a marsupial's marsupium	the pouch	1995-03-02	
@@ -4317,11 +5013,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	1992		In September this "Long Island Lolita" pleaded guilty to shooting Mary Jo Buttafuoco	Amy Fisher	1995-03-14	
 1	400	0	1992		She married Timothy Laurence after divorcing Captain Mark Phillips in April	Princess Anne	1995-03-14	
 1	500	0	1992		This former World Chess Champion was indicted for breaking U.S. sanctions against Yugoslavia	Bobby Fischer	1995-03-14	
-1	100	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks.  That will appear in each correct response.)	According to The Eagles, "You can't hide" these	\"Lyin' Eyes\"	1995-03-14	
-1	200	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks.  That will appear in each correct response.)	In a 1921 hit title, this exclamation followed "Ma!\"	\"He's Making Eyes At Me\"	1995-03-14	
-1	300	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks.  That will appear in each correct response.)	Van Morrison's first Top 10 hit was this colorful tune	\"Brown Eyed Girl\"	1995-03-14	
-1	400	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks.  That will appear in each correct response.)	This 1912 songs is perfect for St. Patrick's Day	\"When Irish Eyes Are Smiling\"	1995-03-14	
-1	500	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks.  That will appear in each correct response.)	It was the theme to "Rocky III\"	\"The Eye of the Tiger\"	1995-03-14	
+1	100	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks. That will appear in each correct response.)	According to The Eagles, "You can't hide" these	\"Lyin' Eyes\"	1995-03-14	
+1	200	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks. That will appear in each correct response.)	In a 1921 hit title, this exclamation followed "Ma!\"	\"He's Making Eyes At Me\"	1995-03-14	
+1	300	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks. That will appear in each correct response.)	Van Morrison's first Top 10 hit was this colorful tune	\"Brown Eyed Girl\"	1995-03-14	
+1	400	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks. That will appear in each correct response.)	This 1912 songs is perfect for St. Patrick's Day	\"When Irish Eyes Are Smiling\"	1995-03-14	
+1	500	0	MUSICAL "EYE"s	(Alex: Notice "eye", E-Y-E, in quotation marks. That will appear in each correct response.)	It was the theme to "Rocky III\"	\"The Eye of the Tiger\"	1995-03-14	
 2	200	0	AMERICAN HISTORY		In 1831 this state's first railroad, the Mohawk & Hudson, began operating between Albany & Schenectady	New York	1995-03-14	
 2	400	0	AMERICAN HISTORY		In 1824 the Army built 2 forts in this present state to prepare for immigration of the Five Civilized Tribes	Oklahoma	1995-03-14	
 2	600	0	AMERICAN HISTORY		From 1968 to 1970, this future running mate of George McGovern was Ambassador to France	Sargent Shriver	1995-03-14	
@@ -4404,7 +5100,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	DELAWARE		The American Party, also known by this "ignorant" name, elected a Delaware governor in 1854	the Know Nothings	1995-03-30	
 2	1000	0	DELAWARE		As a colony, Delaware passed from Sweden's control to this country's control in 1655	The Netherlands	1995-03-30	
 2	200	0	CLOTH & FABRIC		One of the most common uses for green baize is to cover these tables that have pockets in them	pool tables	1995-03-30	
-2	400	0	CLOTH & FABRIC		Shahtoosh is made from the  throat hairs of one type of this animal, mohair from another	goat	1995-03-30	
+2	400	0	CLOTH & FABRIC		Shahtoosh is made from the throat hairs of one type of this animal, mohair from another	goat	1995-03-30	
 2	600	0	CLOTH & FABRIC		Chino is a fabric made from this fiber	cotton	1995-03-30	
 2	800	0	CLOTH & FABRIC		The name of this coarse fabric of linen & wool tells you there's linen & wool in it	linsey-woolsey	1995-03-30	
 2	1000	0	CLOTH & FABRIC		It's a heavy silk cloth with a raised design, often in gold or silver	brocade	1995-03-30	
@@ -4503,7 +5199,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	PROVERBS		As well as "a virtue", it's also "The key of paradise\"	patience	1995-04-03	
 1	400	0	PROVERBS		It is said that "Man learns little from success, but much from" this	failure	1995-04-03	
 1	500	0	PROVERBS		It's worth "a pound of cure\"	an ounce of prevention	1995-04-03	
-2	200	0	MEDIEVAL HISTORY		Llewelyn Ap Gruffydd,  who died in 1282, was the first man recognized by England as Prince of this	Wales	1995-04-03	
+2	200	0	MEDIEVAL HISTORY		Llewelyn Ap Gruffydd, who died in 1282, was the first man recognized by England as Prince of this	Wales	1995-04-03	
 2	400	0	MEDIEVAL HISTORY		In the 6th century St. Columba founded the Monastery of Kells at Meath in this country	Ireland	1995-04-03	
 2	600	0	MEDIEVAL HISTORY		An early college in this city was founded by Robert of Sorbon around 1257	Paris	1995-04-03	
 2	800	0	MEDIEVAL HISTORY		In 1258 Hulagu, grandson of Genghis Khan, captured this city on the Tigris & executed the caliph	Baghdad	1995-04-03	
@@ -4634,7 +5330,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	SICKNESS & HEALTH		A diving injury & a slap over the ear are 2 common ways that this membrane becomes ruptured	the eardrum	1995-04-26	
 2	600	0	SICKNESS & HEALTH		Walter Reed's experiments confirmed Carlos Finlay's theory that mosquitoes spread this disease	yellow fever	1995-04-26	
 2	800	0	SICKNESS & HEALTH		Folic acid deficiency is a type of this disease defined as a decrease in hemoglobin or red blood cells	anemia	1995-04-26	
-2	1000	0	SICKNESS & HEALTH		Those intolerant of this  milk sugar may still be able to eat fermented milk products like yogurt	lactose	1995-04-26	
+2	1000	0	SICKNESS & HEALTH		Those intolerant of this milk sugar may still be able to eat fermented milk products like yogurt	lactose	1995-04-26	
 2	200	0	ARTISTS		This country's empress dowager Tz'u-hsi was known for the dramatic style of her painting & calligraphy	China	1995-04-26	
 2	400	0	ARTISTS		This "Blue Boy" artist's wife Margaret was believed to be an illegitimate daughter to the Duke of Beaufort	Thomas Gainsborough	1995-04-26	
 2	600	0	ARTISTS		In the early 1400s Donatello apprenticed at Ghiberti's workshop in this city	Florence	1995-04-26	
@@ -4716,7 +5412,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	1500	LITERATURE		This Ray Bradbury work begins, "It was a pleasure to burn\"	Fahrenheit 451	1995-04-27	
 2	800	0	LITERATURE		In 1989's "The Killing Man", this author's Mike Hammer finds a dead body at his desk	Mickey Spillane	1995-04-27	
 2	1000	0	LITERATURE		This 1959 Walter Tevis tale is set in the world of pool	The Hustler	1995-04-27	
-3	0	0	WORLD CAPITALS		Monuments & public buildings in this  city line the wide Avenida Bernardo O'Higgins	Santiago, Chile	1995-04-27	
+3	0	0	WORLD CAPITALS		Monuments & public buildings in this city line the wide Avenida Bernardo O'Higgins	Santiago, Chile	1995-04-27	
 1	100	0	LINCOLN		Abe once said, "I have never had a thought politically that did not spring from" this 1776 document	Declaration of Independence	1995-05-01	1995 College Championship quarterfinal game 1.
 1	200	0	LINCOLN		Abe married her November 4, 1842	Mary Todd	1995-05-01	1995 College Championship quarterfinal game 1.
 1	300	0	LINCOLN		In 1837 Lincoln left New Salem, Illinois for this capital	Springfield	1995-05-01	1995 College Championship quarterfinal game 1.
@@ -4839,7 +5535,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	THE ELEMENTS		Highest atomic numbered element whose symbol is a single letter	uranium	1995-05-02	
 1	100	0	GEOLOGY		A cascade is a series of these, closely spaced & descending over a steer rocky surface	waterfalls	1995-05-03	
 1	200	0	GEOLOGY		This earthquake measurement scale is open-ended though none has been recorded above 8.9	a Richter scale	1995-05-03	
-1	300	1000	GEOLOGY		The Mohorovicic & Gutenberg discontinuities mark the boundaries of  this layer found below the crust	the mantle	1995-05-03	
+1	300	1000	GEOLOGY		The Mohorovicic & Gutenberg discontinuities mark the boundaries of this layer found below the crust	the mantle	1995-05-03	
 1	400	0	GEOLOGY		The meltwater from these is often grayish-white because of the powdered rock they contain	glaciers	1995-05-03	
 1	500	0	GEOLOGY		Larger than a cobble, the largest rock fragment recognized by sedimentologists is called this	a boulder	1995-05-03	
 1	100	0	CELEBRITY ASTROLOGY		Like many other Leos, this "Material Girl" loves to be the center of attention	Madonna	1995-05-03	
@@ -4915,7 +5611,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	RONS & RONALDS		He was the founder of Scientology	L. Ron Hubbard	1995-05-04	
 1	100	0	ADVERTISING		Vanna White, Nastassja Kinski & Naomi Campbell are among celebs sporting white moustaches in ads for this	milk	1995-05-04	
 1	200	0	ADVERTISING		This charge card's slogan is "Don't leave home without it\"	American Express	1995-05-04	
-1	300	0	ADVERTISING		Whitney Houston is the voice behind this  company's "True Voice" commercials	AT&T	1995-05-04	
+1	300	0	ADVERTISING		Whitney Houston is the voice behind this company's "True Voice" commercials	AT&T	1995-05-04	
 1	400	0	ADVERTISING		This company's ads show replies to the question "What's on your PowerBook?\"	Apple	1995-05-04	
 1	500	0	ADVERTISING		Elizabeth Hurley has replaced Paulina Porizkova as the "face" for this cosmetics company	Estée Lauder	1995-05-04	
 1	100	0	THE SUPREME COURT		Edwards v. Aguillard rejected a law that required the teaching of creationism along with this	evolution	1995-05-04	
@@ -5299,7 +5995,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	1000	U.S. PRESIDENTS		In 1844 this "Dark Horse" candidate won the presidency over Henry Clay by only 40,000 votes	(James K.) Polk	1995-05-12	
 2	1000	0	U.S. PRESIDENTS		When named chief justice of the U.S. in 1921, this former president was a professor of law at Yale	Taft	1995-05-12	
 2	200	0	AWARDS		The Order of the Rising Sun is a decoration given by this country	Japan	1995-05-12	
-2	400	0	AWARDS		In 1991 the NAACP awarded this general the Spingarn Medal for highest achievement by   black American	(General Colin) Powell	1995-05-12	
+2	400	0	AWARDS		In 1991 the NAACP awarded this general the Spingarn Medal for highest achievement by black American	(General Colin) Powell	1995-05-12	
 2	600	0	AWARDS		In 1962 Congress gave this "Mending Wall" poet a gold medal in recognition of his poetry	Frost	1995-05-12	
 2	800	0	AWARDS		Both Aaron Copland & Charles Ives won Pulitzer Prizes in this category	Music	1995-05-12	
 2	1000	0	AWARDS		In 1945 this scientist received the Rumford Medal for new applications in polarized light	Edwin Land	1995-05-12	
@@ -5320,7 +6016,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	SCULPTURE		This quintessential mobile sculptor was the son & grandson of sculptors	(Alexander) Calder	1995-05-12	
 2	200	0	ENGLISH LITERATURE		She & her sisters attended a clergy daughters' school which became Lowood in her "Jane Eyre\"	Charlotte Bronte	1995-05-12	
 2	400	0	ENGLISH LITERATURE		This "Lord Jim" author collaborated with Ford Madox Ford on the novel "The Inheritors\"	(Joseph) Conrad	1995-05-12	
-2	600	0	ENGLISH LITERATURE		He based Squire Allworthy in "Tom Jones" in part on Ralph Allen,  a wealthy benefactor	(Henry) Fielding	1995-05-12	
+2	600	0	ENGLISH LITERATURE		He based Squire Allworthy in "Tom Jones" in part on Ralph Allen, a wealthy benefactor	(Henry) Fielding	1995-05-12	
 2	800	0	ENGLISH LITERATURE		As a teenager this "Ode on a Grecian Urn" poet was apprenticed to an apothecary-surgeon	Keats	1995-05-12	
 2	1000	0	ENGLISH LITERATURE		This author of "A Clockwork Orange" wrote a series of comic novels about a poet named Enderby	(Anthony) Burgess	1995-05-12	
 3	0	0	FAMOUS AMERICANS		In 1790 this cabinet officer wrote his "Report on the Public Credit\"	Alexander Hamilton	1995-05-12	
@@ -5330,9 +6026,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	THE BODY HUMAN		In the body, the total length of these smallest blood vessels is estimated at more than F 60,000 miles	capillaries	1995-05-24	
 1	500	0	THE BODY HUMAN		Insulin is produced by beta cells in the islets of Langerhans in this organ	the pancreas	1995-05-24	
 1	100	0	HASTY PUDDING AWARDS		In 1994 this "Top Gun" was honored as the Hasty Pudding's Man of the Year	Tom Cruise	1995-05-24	
-1	200	0	HASTY PUDDING AWARDS		No one can be "Accused" of overlooking this actress; she was Woman   of the Year in 1992	Jodie Foster	1995-05-24	
+1	200	0	HASTY PUDDING AWARDS		No one can be "Accused" of overlooking this actress; she was Woman of the Year in 1992	Jodie Foster	1995-05-24	
 1	300	0	HASTY PUDDING AWARDS		A real "Yankee Doodle Dandy", he was Man of the Year in 1982	James Cagney	1995-05-24	
-1	400	0	HASTY PUDDING AWARDS		Though the awards came  9 years apart, the first married couple honored were Paul Newman & this actress	Joanne Woodward	1995-05-24	
+1	400	0	HASTY PUDDING AWARDS		Though the awards came 9 years apart, the first married couple honored were Paul Newman & this actress	Joanne Woodward	1995-05-24	
 1	500	0	HASTY PUDDING AWARDS		This "bubbly" opera star was the Pudding's Woman of the Year in 1978	Beverly Sills	1995-05-24	
 1	100	0	TRANSPORTATION		This vehicle once popular in the Orient was modeled on the horse-drawn carriage, but it was man-drawn	a rickshaw	1995-05-24	
 1	200	0	TRANSPORTATION		In 1937 36 lives were lost when this airship burst into flames over Lakehurst, New Jersey	the Hindenburg	1995-05-24	
@@ -5402,7 +6098,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	AMERICAN HISTORY		Elihu Root, this president's Secretary of State 1905-09, was once one of Boss Tweed's lawyers	Teddy Roosevelt	1995-05-25	
 1	100	0	FOOD & DRINK		Named for the Czech city of Plzen, Pilsner is a pale, light type of this beverage	beer	1995-05-25	
 1	200	0	FOOD & DRINK		It's the main variety of grape used to make grape juice	Concord	1995-05-25	
-1	300	0	FOOD & DRINK		Traditional recipes for   Scotch shortbread call for only these 3 ingredients & a pinch of salt	butter, flour and sugar	1995-05-25	
+1	300	0	FOOD & DRINK		Traditional recipes for Scotch shortbread call for only these 3 ingredients & a pinch of salt	butter, flour and sugar	1995-05-25	
 1	400	0	FOOD & DRINK		Caldereta is a thick Spanish seafood stew similar to this common French one	bouillabaisse	1995-05-25	
 1	500	0	FOOD & DRINK		The name of this partly fermented tea is from Chinese for "black dragon\"	oolong	1995-05-25	
 1	100	0	U.S.A.		The memorial to this man in Menlo Park, N.J. features a 13-foot light bulb	Edison	1995-05-25	
@@ -5424,9 +6120,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	THE GOOD EARTH		The disintegration of volcanic rock produced beaches of this color in Tahiti	black	1995-05-25	
 2	600	0	THE GOOD EARTH		The Mer de Glace is the second longest of these in the Alps	glacier	1995-05-25	
 2	800	0	THE GOOD EARTH		This 1,142' monolith in central Australia appears to change color during the day	Ayers Rock	1995-05-25	
-2	1000	1000	THE GOOD EARTH		Home to one of the Earth's richest agricultural  areas, its name is from the Quechua for "plain\"	Pampas	1995-05-25	
+2	1000	1000	THE GOOD EARTH		Home to one of the Earth's richest agricultural areas, its name is from the Quechua for "plain\"	Pampas	1995-05-25	
 2	200	0	KIDNAPPED		In 1960 Adolph III, a grandson of this brewery founder, was kidnapped & murdered	Coors	1995-05-25	
-2	400	0	KIDNAPPED		A wooden ladder was one of the most damaging pieces of evidence linking this man to the Lindbergh   kidnapping	(Bruno) Hauptmann	1995-05-25	
+2	400	0	KIDNAPPED		A wooden ladder was one of the most damaging pieces of evidence linking this man to the Lindbergh kidnapping	(Bruno) Hauptmann	1995-05-25	
 2	600	0	KIDNAPPED		It was the alias adopted by Patty Hearst while with the S.L.A.	Tania	1995-05-25	
 2	800	1000	KIDNAPPED		This Anglican envoy who helped free British hostages in Iran in 1981 was himself kidnapped in 1987	Terry Waite	1995-05-25	
 2	1000	0	KIDNAPPED		In 1924 this pair received life sentences for the murder of Bobbie Franks, plus 99 years for kidnapping him	Leopold & Loeb	1995-05-25	
@@ -5474,7 +6170,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	12-LETTER WORDS		It's the customary break between acts of a play	the intermission	1995-05-26	
 1	200	0	12-LETTER WORDS		Over 80% of 5-year-olds in the U.S. attend this type of school or program	a kindergarten	1995-05-26	
 1	300	0	12-LETTER WORDS		It's the process that sours milk & turns grape juice into wine	fermentation	1995-05-26	
-1	400	0	12-LETTER WORDS		Often used for outdoor   concerts, it's a round building with a central arena & rising tiers of seats	an amphitheater	1995-05-26	
+1	400	0	12-LETTER WORDS		Often used for outdoor concerts, it's a round building with a central arena & rising tiers of seats	an amphitheater	1995-05-26	
 1	500	0	12-LETTER WORDS		It's the study of man, including his physical & cultural aspects	anthropology	1995-05-26	
 2	200	0	HISTORY		He & his wife Isabel were elected president & vice president of Argentina in 1973	Juan Perón	1995-05-26	
 2	400	0	HISTORY		The slow-witted Ivan V reigned as co-czar with this "Great" man 1682-1696	Peter (the Great)	1995-05-26	
@@ -5497,7 +6193,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	INDIANS		He may have personally welcomed William Penn to America & a New York "Hall" was named for him	Tammany	1995-05-26	
 2	1000	0	INDIANS		Carlos Castaneda covered the culture & wisdom of this tribe in "The Teachings of Don Juan\"	the Yaqui	1995-05-26	
 2	200	0	JUST DESSERTS		This U.S. city's "cream pie" is actually a custard-filled cake	Boston	1995-05-26	
-2	400	0	JUST DESSERTS		The name of this frozen dessert can be traced back to sharbah, Arabic   for "a drink\"	sherbet	1995-05-26	
+2	400	0	JUST DESSERTS		The name of this frozen dessert can be traced back to sharbah, Arabic for "a drink\"	sherbet	1995-05-26	
 2	600	0	JUST DESSERTS		A buche de noel is a French Christmas cake that is decorated to look like one of these	a log	1995-05-26	
 2	800	0	JUST DESSERTS		This dessert is ice cream set upon sponge cake, covered with meringue & browned in the oven	baked Alaska	1995-05-26	
 2	1000	0	JUST DESSERTS		A linzertorte contains this kind of jam	raspberry	1995-05-26	
@@ -5562,7 +6258,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	LANGUAGES		These 2 languages are often grouped together & called Hirdu	Hindi & Urdu	1995-05-30	
 2	800	0	LANGUAGES		The Indian language of Mosquito is native to the Mosquito Coast of Honduras & this country	Nicaragua	1995-05-30	
 2	1000	0	LANGUAGES		The novel "Enemies: A Love Story" was originally written in this Germanic language	Yiddish	1995-05-30	
-2	200	0	THEATRE		In 1928 she & her husband  Alfred Lunt appeared simultaneously in plays by Eugene O'Neill	Lynn Fontanne	1995-05-30	
+2	200	0	THEATRE		In 1928 she & her husband Alfred Lunt appeared simultaneously in plays by Eugene O'Neill	Lynn Fontanne	1995-05-30	
 2	400	0	THEATRE		The great 19th C. actress Eleanora Duse played this Shakespearean heroine at Verona when she was 14	Juliet	1995-05-30	
 2	600	0	THEATRE		Charley's aunt is from this country, "where the nuts come from\"	Brazil	1995-05-30	
 2	800	0	THEATRE		Noel Coward's 1925 play about an eccentric actress, or rhinitis caused by allergy to pollen	Hay Fever	1995-05-30	
@@ -5680,7 +6376,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	MUSIC		The "clavier-ubung" is an extensive 4-part collection of this composer's keyboard music	(Johann Sebastian) Bach	1995-06-19	
 2	1000	0	MUSIC		He's considered the inventor of the English Biblical oratorio; his first was "Esther", in 1732	Handel	1995-06-19	
 2	200	0	WEIGHTS & MEASURES		At the equator 1 degree of this is equivalent to 69.17 miles; at the pole, 0 miles	longitude	1995-06-19	
-2	400	0	WEIGHTS & MEASURES		Number of teaspoons in a  tablespoon	3	1995-06-19	
+2	400	0	WEIGHTS & MEASURES		Number of teaspoons in a tablespoon	3	1995-06-19	
 2	600	0	WEIGHTS & MEASURES		This linear unit of 16 1/2 feet can also be called a pole	rod	1995-06-19	
 2	800	1000	WEIGHTS & MEASURES		The name of this weight system comes from a French term meaning "goods of weight\"	avoirdupois	1995-06-19	
 2	1000	0	WEIGHTS & MEASURES		In ancient Greece this measurement was equal to 2 spans or 6 palms	cubit	1995-06-19	
@@ -5745,7 +6441,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	CLASSICAL COMPOSERS		In 1723 this Baroque composer was appointed choir leader at St. Thomas Church in Leipzig	(Johann Sebastian) Bach	1995-06-29	
 2	800	0	CLASSICAL COMPOSERS		This composer collaborated with Sergei Diaghilev in producing "The Firebird" in Paris	Igor Stravinsky	1995-06-29	
 2	1000	0	CLASSICAL COMPOSERS		In 1945 he founded the Brazilian Academy of Music	Villa-Lobos	1995-06-29	
-2	200	0	DECEMBER 3		He was P.M.  of India when the Union Carbide pesticide plant leaked December 3, 1984	Rajiv Gandhi	1995-06-29	
+2	200	0	DECEMBER 3		He was P.M. of India when the Union Carbide pesticide plant leaked December 3, 1984	Rajiv Gandhi	1995-06-29	
 2	400	0	DECEMBER 3		He gave his first presidential message to congress December 3, 1901	Teddy Roosevelt	1995-06-29	
 2	600	0	DECEMBER 3		Oberlin College, the first truly coed college in the U.S. opened December 3, 1833 in this state	Ohio	1995-06-29	
 2	800	0	DECEMBER 3		Known as the Prairie State, it entered the Union December 3, 1818	Illinois	1995-06-29	
@@ -5980,12 +6676,12 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	1938		On December 10 he announced he'd leave his Hyde Park estate & its papers & books to the U.S. government	FDR	1995-07-07	
 2	400	0	1938		By accepting his membership dues, the League of Nations recognized him as emperor of Ethiopia	Haile Selassie	1995-07-07	
 2	600	0	1938		17 acres surrounding her cottage were transferred to the Shakespeare Birthplace Trust	Anne Hathaway	1995-07-07	
-2	800	0	1938		Returning from Ireland to NYC in August, this aviator was given a parade down…er, up Broadway	\"Wrong Way" Corrigan	1995-07-07	
+2	800	0	1938		Returning from Ireland to NYC in August, this aviator was given a parade down...er, up Broadway	\"Wrong Way" Corrigan	1995-07-07	
 2	1000	0	1938		On April 27, 1938 Countess Geraldine Apponyi of Hungary married King Zog of this country	Albania	1995-07-07	
 2	200	0	MUSICAL THEATRE		Barbra Streisand introduced the song "People" in this musical	Funny Girl	1995-07-07	
 2	400	0	MUSICAL THEATRE		In 1994 Brooke Shields made her Broadway debut as Betty Rizzo in this musical	Grease	1995-07-07	
 2	600	0	MUSICAL THEATRE		1992's "Hello Muddah, Hello Fadduh!" was inspired by the comic songs of this man	Allan Sherman	1995-07-07	
-2	800	3000	MUSICAL THEATRE		1966 Jerry Herman musical that features the following:"For we need a little Christmas /Right this very minute /Candles in the window /Carols at the spinet /Yes, we need a little Christmas /Right this very minute /It hasn't snowed a single flurry /But Santa, dear, we're in a hurry /So climb down the chimney /Put up the brightest string of lights I've ever seen...\"	Mame	1995-07-07	
+2	800	3000	MUSICAL THEATRE		1966 Jerry Herman musical that features the following: "For we need a little Christmas /Right this very minute /Candles in the window /Carols at the spinet /Yes, we need a little Christmas /Right this very minute /It hasn't snowed a single flurry /But Santa, dear, we're in a hurry /So climb down the chimney /Put up the brightest string of lights I've ever seen...\"	Mame	1995-07-07	
 2	1000	0	MUSICAL THEATRE		\"Cabaret" was based partly on this 1951 play by John Van Druten	I Am a Camera	1995-07-07	
 2	600	0	MIDDLE INITIAL C.		This father of Andrew Wyeth illustrated more than 20 juvenile classics, including "Treasure Island\"	N.C. Wyeth	1995-07-07	
 2	800	0	MIDDLE INITIAL C.		Born in South Carolina in 1782, he was known as a "war hawk" because he supported the War of 1812	John C. Calhoun	1995-07-07	
@@ -5998,7 +6694,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	HEALTH & FITNESS		This test gives you your diastolic reading	blood pressure test	1995-07-10	
 1	100	0	TELEVISION		Bruce Willis got his first big break playing David Addison on this series	Moonlighting	1995-07-10	
 1	200	0	TELEVISION		In a 1994 TV movie, "Bionic Woman" Jaime Sommers married this character	Six Million Dollar Man	1995-07-10	
-1	300	0	TELEVISION		George Clooney, formerly of "Sisters" plays  Dr. Doug Ross on this series	ER	1995-07-10	
+1	300	0	TELEVISION		George Clooney, formerly of "Sisters" plays Dr. Doug Ross on this series	ER	1995-07-10	
 1	400	0	TELEVISION		Vicki Lawrence played Thelma Harper & Ken Berry played her son Vint on this sitcom	Mama's Family	1995-07-10	
 1	500	0	TELEVISION		The Ropers, the landlord couple on this series, later got their own series	Three's Company	1995-07-10	
 1	100	0	HISTORY		It was the military code name for the Persian Gulf War	Desert Storm	1995-07-10	
@@ -6030,7 +6726,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	IN THE OCEAN		Young pilchards that are canned are called these	sardines	1995-07-10	
 2	600	0	IN THE OCEAN		Some species of this animal eject a cloud of luminous ink to escape under cover of light	squid	1995-07-10	
 2	800	0	IN THE OCEAN		It's the largest plankton eater on earth	(blue) whale	1995-07-10	
-2	1000	2000	IN THE OCEAN		These commonly have 5 arms, but some may have  up to 40	starfish	1995-07-10	
+2	1000	2000	IN THE OCEAN		These commonly have 5 arms, but some may have up to 40	starfish	1995-07-10	
 2	200	0	CROONERS		He'd been recording for 12 years when he cut his theme, 1962's "I Left My Heart in San Francisco\"	Tony Bennett	1995-07-10	
 2	400	0	CROONERS		This crooner's brother Bob also recorded "Where the Blue of the Night Meets the Gold of the Day\"	Bing Crosby	1995-07-10	
 2	600	0	CROONERS		In 1955, when he crooned "Darling, Je Vous Aime Beaucoup", he was "Unforgettable\"	Nat Cole	1995-07-10	
@@ -6076,7 +6772,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	COOKING		The juices that collect in the bottom of a roasting pan are given this term from how they got there	pan drippings	1995-07-11	
 1	300	0	COOKING		It's put on a fruit tart to give it a sheen & to keep the fruit from drying out	glaze	1995-07-11	
 1	400	0	COOKING		In Greek cooking these leaves are blanched, then stuffed with rice, currants, raisins, mint, dill, pine nuts & spices	grape leaves	1995-07-11	
-1	500	0	COOKING		To make this beverage, a Turk gets the contents of  his ibrik boiling	coffee	1995-07-11	
+1	500	0	COOKING		To make this beverage, a Turk gets the contents of his ibrik boiling	coffee	1995-07-11	
 1	100	0	ODD WORDS		To recite an orison is to say one of these, amen	a prayer	1995-07-11	
 1	200	0	ODD WORDS		Hebetic describes something happening during this period of adolescence	puberty	1995-07-11	
 1	300	0	ODD WORDS		It's the part of a candle also called a snaste	a wick	1995-07-11	
@@ -6230,7 +6926,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	LITERARY ALLUSIONS		A dashing suitor is a Lochinvar, after a hero who steals another's bride in this Scotsman's poem "Marmion\"	(Sir Walter) Scott	1995-07-13	
 2	1000	0	LITERARY ALLUSIONS		The name of this kingdom in "The Prisoner of Zenda" became a synonym for a fanciful, romantic place	Ruritania	1995-07-13	
 2	200	0	ART		Giovanni Battista Tiepolo's frescoes of Antony & this queen are in the Palazzo Labia in Venice	Cleopatra	1995-07-13	
-2	400	0	ART		\"The Actor", painted c. 1904, shows he was moving from his  Blue Period to his Rose Period	Picasso	1995-07-13	
+2	400	0	ART		\"The Actor", painted c. 1904, shows he was moving from his Blue Period to his Rose Period	Picasso	1995-07-13	
 2	600	0	ART		In 1892 he painted Jane Avril entering & leaving the Moulin Rouge	Toulouse-Lautrec	1995-07-13	
 2	800	0	ART		The largest collection of this magazine illustrator's original art is in a Stockbridge, Mass. museum	Norman Rockwell	1995-07-13	
 2	1000	0	ART		In 1892 this Impressionist began his series of paintings of Rouen Cathedral	Claude Monet	1995-07-13	
@@ -6318,7 +7014,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	THE 1960s		On Jan. 7, 1969 he resigned as governor of Maryland; he was sworn in as vice president January 20	Spiro Agnew	1995-07-17	
 1	200	0	THE 1960s		In 1966 the Roman Catholic Church in the U.S. rescinded the rule against eating this on Fridays	meat	1995-07-17	
 1	300	0	THE 1960s		After orbiting the earth in 1962, he said, "Friendship 7 is just a beginning, a successful experiment\"	John Glenn	1995-07-17	
-1	400	500	THE 1960s		This cabinet department  formerly headed by Jack Kemp was established in 1965	HUD (Housing and Urban Development)	1995-07-17	
+1	400	500	THE 1960s		This cabinet department formerly headed by Jack Kemp was established in 1965	HUD (Housing and Urban Development)	1995-07-17	
 1	500	0	THE 1960s		In 1961 Hassan II succeeded his father, Muhammad V, as king of this North African country	Morocco	1995-07-17	
 1	100	0	THE "BREAKER"s		This may be played if the final score is even	a tiebreaker	1995-07-17	
 1	200	0	THE "BREAKER"s		A ship that opens channels in the Arctic, or a remark that opens conversation	an icebreaker	1995-07-17	
@@ -6447,7 +7143,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	FILE UNDER "D\"		A blend of 2 vowel sounds in 1 syllable, such as the "oi" in "coil\"	a diphthong	1995-07-19	
 1	500	0	FILE UNDER "D\"		He told "The Story of Philosophy" before his wife Ariel joined him on "The Story of Civilization\"	(Will) Durant	1995-07-19	
 2	200	0	1000		There was widespread fear that this would happen; people worried about the millennium back then, too	the world would end	1995-07-19	
-2	400	0	1000		This sport can be traced back to c. 1000 when a monk named Eilmer jumped & sailed from  Malmesbury Abbey	hang gliding	1995-07-19	
+2	400	0	1000		This sport can be traced back to c. 1000 when a monk named Eilmer jumped & sailed from Malmesbury Abbey	hang gliding	1995-07-19	
 2	600	0	1000		Piasts ruled this country in 1000; in 1919, a pianist ruled it: Ignace Paderewski	Poland	1995-07-19	
 2	800	500	1000		This country's Stephen I was crowned in 1000 in his hometown of Esztergom & the crown is a national treasure	Hungary	1995-07-19	
 2	1000	0	1000		Sweyn Forkbeard, King Olaf of Sweden & 2 others defeated & killed King Olaf I of this country at Svold	Norway	1995-07-19	
