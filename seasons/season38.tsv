@@ -714,11 +714,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	& IN A SUPPORTING ROLE		Unafraid to be in a superhero movie or 2, he lent his voice—but not his trademark swearing—to "The Incredibles" as Frozone	Jackson	2021-09-28	
 2	2000	0	& IN A SUPPORTING ROLE		You can bet that NBA legend Kevin Garnett played himself in this 2019 film about a jewelry store owner	Uncut Gems	2021-09-28	
 3	0	0	THE CONTINENTS		It's the only continent with its mainland lying in all 4 hemispheres as defined by the equator & the prime meridian	Africa	2021-09-28	
-1	200	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	"Here's a little song I wrote, you might want to sing it note for note"	\"Don't Worry, Be Happy\"	2021-09-29	
-1	400	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	"It's the thrill of the fight, rising up to the challenge of our rival"	\"Eye Of The Tiger\"	2021-09-29	
-1	600	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	"You know I feel so dirty when they start talking cute, I wanna tell her that I love her but the point is probably moot"	\"Jessie's Girl\"	2021-09-29	
-1	800	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	"There's a choice we're making, we're saving our own lives, it's true we'll make a better day, just you and me"	\"We Are The World\"	2021-09-29	
-1	1000	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	"Did you ever know that you're my hero? & everything I would like to be, I can fly higher than an eagle, for you are the... "	\"Wind Beneath My Wings\"	2021-09-29	
+1	200	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	\"Here's a little song I wrote, you might want to sing it note for note\"	\"Don't Worry, Be Happy\"	2021-09-29	
+1	400	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	\"It's the thrill of the fight, rising up to the challenge of our rival\"	\"Eye Of The Tiger\"	2021-09-29	
+1	600	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	\"You know I feel so dirty when they start talking cute, I wanna tell her that I love her but the point is probably moot\"	\"Jessie's Girl\"	2021-09-29	
+1	800	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	\"There's a choice we're making, we're saving our own lives, it's true we'll make a better day, just you and me\"	\"We Are The World\"	2021-09-29	
+1	1000	0	I CAN NAME THAT NO. 1 '80s HIT	(Mayim: As recited by our own Johnny Gilbert.)	\"Did you ever know that you're my hero? & everything I would like to be, I can fly higher than an eagle, for you are the... \"	\"Wind Beneath My Wings\"	2021-09-29	
 1	200	0	THE NON-COASTAL U.S.		Things to do in this city include seeing its mint that opened in 1906 & taking in a game at Coors Field	Denver	2021-09-29	
 1	400	0	THE NON-COASTAL U.S.		This state is the nation's least populous at just under 600,000	Wyoming	2021-09-29	
 1	600	3800	THE NON-COASTAL U.S.		Oh, for an ocean breeze! In August 2020 the average high in this southwestern capital city was 111 degrees Fahrenheit	Phoenix	2021-09-29	
@@ -897,7 +897,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	BASEBALL HALL OF FAMERS BY INITIALS		Made the last of 21 straight all-star teams in 1975: H.A.	Hank Aaron	2021-10-04	
 1	400	0	BASEBALL HALL OF FAMERS BY INITIALS		Look at numbers like 7,356 innings pitched & you'll: C.Y.	(Cy) Young	2021-10-04	
 1	600	0	BASEBALL HALL OF FAMERS BY INITIALS		Class of 2020: D.J.	Derek Jeter	2021-10-04	
-1	800	0	BASEBALL HALL OF FAMERS BY INITIALS		Spectacular southpaw: S.K.	(Sandy) Koufax	2021-10-04	
 1	1000	0	BASEBALL HALL OF FAMERS BY INITIALS		He took a big lead & slid into the H.O.F. in 2009: R.H.	Henderson	2021-10-04	
 1	200	0	INCONCEIVABLE!		Crossword, jigsaw, Sudoku... all are a real this	a puzzle	2021-10-04	
 1	400	0	INCONCEIVABLE!		Add a "Y" to this 4-letter word for gloom or a dark mist & you get a word for hard to understand	murk	2021-10-04	
@@ -1269,7 +1268,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	1400	& PLAYING TRIANGLE		The ancient Greeks compared the constellation Triangulum to this capital letter of theirs	delta	2021-10-12	
 1	800	0	& PLAYING TRIANGLE		This 6th century B.C. man's theorem about the lengths of the sides of a right triangle is actually far older than even he is	Pythagoras	2021-10-12	
 1	1000	0	& PLAYING TRIANGLE		In Pascal's triangle, any two numbers add up to the number below & between them; adding diagonally yields this man's sequence	Fibonacci	2021-10-12	
-2	400	0	WHO DIRECTED IT?		"Riding in Cars with Boys", "Awakenings"	(Penny) Marshall	2021-10-12	
+2	400	0	WHO DIRECTED IT?		\"Riding in Cars with Boys", "Awakenings\"	(Penny) Marshall	2021-10-12	
 2	800	0	WHO DIRECTED IT?		\"When They See Us", "A Wrinkle in Time", "Selma\"	Ava DuVernay	2021-10-12	
 2	1200	0	WHO DIRECTED IT?		1991's "Point Break", "Zero Dark Thirty\"	Kathryn Bigelow	2021-10-12	
 2	1600	0	WHO DIRECTED IT?		\"Wonder Woman", episodes of "Entourage" & "Arrested Development\"	Patty Jenkins	2021-10-12	
@@ -1779,10 +1778,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	HAVING A BALL		It can be any small device, or the ball placed in beer bottles to help release nitrogen	a widget	2021-10-25	
 1	1000	0	HAVING A BALL		From the French for "petticoat", it's a ball where debutantes are presented to society	a cotillion	2021-10-25	
 1	200	0	DOUBLE INITIAL GUYS		L.L. ____ ____, nicknames include "The Future of the Funk\"	LL Cool J	2021-10-25	
-1	400	0	DOUBLE INITIAL GUYS		J.J. ____,"Fringe" & "Lost" producer	Abrams	2021-10-25	
-1	600	0	DOUBLE INITIAL GUYS		A.A. ____,who wrote "Now We Are Six" & other light verse for his son	Milne	2021-10-25	
+1	400	0	DOUBLE INITIAL GUYS		J.J. ____, "Fringe" & "Lost" producer	Abrams	2021-10-25	
+1	600	0	DOUBLE INITIAL GUYS		A.A. ____, who wrote "Now We Are Six" & other light verse for his son	Milne	2021-10-25	
 1	800	0	DOUBLE INITIAL GUYS		B.B. ____, influenced by Django Reinhardt	King	2021-10-25	
-1	1000	0	DOUBLE INITIAL GUYS		C.C. ____,a Cy Young winner	Sabathia	2021-10-25	
+1	1000	0	DOUBLE INITIAL GUYS		C.C. ____, a Cy Young winner	Sabathia	2021-10-25	
 1	200	0	CARNIVAL TALK		Also a first name, it's a local visitor to a carnival ready to be separated from his money; it may have "easy" before it	mark	2021-10-25	
 1	400	0	CARNIVAL TALK		A butcher is a strolling peddler of refreshment like this sweet stuff, also called floss	cotton candy	2021-10-25	
 1	600	0	CARNIVAL TALK		By itself or followed by "hoo", it's the spiel that a barker uses to entice a crowd to enter a sideshow	bally	2021-10-25	
@@ -2034,11 +2033,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	LANDSCAPING		A low-maintenance option is roses that just keep flowering without needing to be cut back, called this feature, just like some ovens	self-cleaning	2021-10-29	
 1	800	0	LANDSCAPING		A guideline with a pond for these ornamental carp of the genus Cyprinus is 33 gallons of water per 1 inch of fish	koi	2021-10-29	
 1	1000	0	LANDSCAPING		This material, meaning "rocks that came straight from where they were found" makes a rustic-looking wall	fieldstone	2021-10-29	
-2	400	0	LANDSCAPE-ING		"The Oxbow" is by Thomas Cole, a leader of this school of American painters bearing the name of a New York River	the Hudson River movement	2021-10-29	
+2	400	0	LANDSCAPE-ING		\"The Oxbow" is by Thomas Cole, a leader of this school of American painters bearing the name of a New York River	the Hudson River movement	2021-10-29	
 2	800	0	LANDSCAPE-ING		Eugene Boudin's "Beach at Trouville" from 1893 depicts a landscape of this region that became a household word 51 years later	Normandy	2021-10-29	
 2	1200	0	LANDSCAPE-ING		\"Hieronymous" in Latin, this saint & translator sought refuge in the wilderness, so he's often depicted in landscapes	St. Jerome	2021-10-29	
 2	1600	0	LANDSCAPE-ING		In 2014, a landscape sold for $47 million, a record for this British artist who's actually best known for seascapes	Turner	2021-10-29	
-2	2000	0	LANDSCAPE-ING		"Landscape at Chaponval" is by this 19th century French painter whose name sounds like a conquistador's	Camille Pissarro	2021-10-29	
+2	2000	0	LANDSCAPE-ING		\"Landscape at Chaponval" is by this 19th century French painter whose name sounds like a conquistador's	Camille Pissarro	2021-10-29	
 2	400	0	THE VILLAIN OF THE PIECE		Tom is the first name of this talented Mr., the villain of a 1955 Patricia Highsmith novel	Mr. Ripley	2021-10-29	
 2	800	0	THE VILLAIN OF THE PIECE		Anton Chigurh is the implacable, coin-tossing hitman in this Cormac McCarthy novel	No Country for Old Men	2021-10-29	
 2	1200	0	THE VILLAIN OF THE PIECE		Nobody cries when this big bad Bill comes to a bad end in "Oliver Twist\"	Sikes	2021-10-29	
@@ -2118,7 +2117,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	MOVIES BY CHARACTERS		1970: Hot Lips, Trapper John, Painless Waldowski	M*A*S*H	2021-11-01	
 2	1200	0	MOVIES BY CHARACTERS		1964: General "Buck" Turgidson, Colonel "Bat" Guano, Major "King" Kong	Dr. Strangelove	2021-11-01	
 2	1600	0	MOVIES BY CHARACTERS		1992: Nice Guy Eddie, Mr. Orange, Mr. Brown	Reservoir Dogs	2021-11-01	
-2	2000	0	MOVIES BY CHARACTERS		1976: Coach Buttermaker, Ogilvie,Lupus	The Bad News Bears	2021-11-01	
+2	2000	0	MOVIES BY CHARACTERS		1976: Coach Buttermaker, Ogilvie, Lupus	The Bad News Bears	2021-11-01	
 2	400	0	2 WORDS, 2 SYLLABLES EACH		In a hopeful sense, a cloud is said to have one of these metallic features	a silver lining	2021-11-01	
 2	800	0	2 WORDS, 2 SYLLABLES EACH		Brits use this "familial" name for the guy who brings presents every December	Father Christmas	2021-11-01	
 2	1200	5000	2 WORDS, 2 SYLLABLES EACH		Meaning you're good at talking with others, this alliterative phrase begins with a plural word & ends with its singular form	a people person	2021-11-01	
@@ -2598,11 +2597,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	DIG THAT ARCHAEOLOGY		In the 1930s Émile Baraize uncovered this statue at Giza so the whole paws showed for the first time in centuries	the Sphinx	2021-11-11	
 2	1200	0	DIG THAT ARCHAEOLOGY		Here are some of these around the time of their discovery in the Judean desert	the Dead Sea Scrolls	2021-11-11	
 2	1600	2000	DIG THAT ARCHAEOLOGY		Excavating on this island around 1900, Sir Arthur Evans identified an ancient palace & a possible labyrinth	Crete	2021-11-11	
-2	400	0	JEOPORTMANTEAU!		Kawhi's pro sport +a pen with a bearing in the tip	basketballpoint pen	2021-11-11	
-2	800	0	JEOPORTMANTEAU!		\"Turkish" footstool +compulsory	ottomandatory	2021-11-11	
-2	1200	0	JEOPORTMANTEAU!		7 sisters constellation+ total annihilation	Pleiadestruction	2021-11-11	
-2	1600	0	JEOPORTMANTEAU!		Cetacean breathing orifice +quantity purchases as opposed to retail	blowholesale	2021-11-11	
-2	2000	0	JEOPORTMANTEAU!		Ulysses' beloved +eye-covering game played with infants	Penelopeek-a-boo	2021-11-11	
+2	400	0	JEOPORTMANTEAU!		Kawhi's pro sport + a pen with a bearing in the tip	basketballpoint pen	2021-11-11	
+2	800	0	JEOPORTMANTEAU!		\"Turkish" footstool + compulsory	ottomandatory	2021-11-11	
+2	1200	0	JEOPORTMANTEAU!		7 sisters constellation + total annihilation	Pleiadestruction	2021-11-11	
+2	1600	0	JEOPORTMANTEAU!		Cetacean breathing orifice + quantity purchases as opposed to retail	blowholesale	2021-11-11	
+2	2000	0	JEOPORTMANTEAU!		Ulysses' beloved + eye-covering game played with infants	Penelopeek-a-boo	2021-11-11	
 3	0	0	PRICELESS OBJECTS		It dates back to the "French Blue", which was set in gold & suspended from a neck ribbon when Louis XIV wore it on ceremonial occasions	the Hope Diamond	2021-11-11	
 1	200	0	GOOD DEEDS		48 hours after Smoky Mountain wildfires devastated Tennessee homes in 2016, she worked beyond 9 to 5 to create her My People Fund to help	Dolly Parton	2021-11-12	
 1	400	0	GOOD DEEDS		David Rubenstein gave the National Archives a print of this document struck from an 1823 copper engraving plate; hands off, Nic Cage!	the Declaration of Independence	2021-11-12	
@@ -2618,7 +2617,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	DISNEY+	(Ken: All the programs in the category streaming on Disney+.)	Take a fly-through of "Star Wars" vehicles like this iconic ship. "You're all clear, kid!"; now let's respond correctly and go home	the Millennium Falcon	2021-11-12	
 1	600	0	DISNEY+	(Ken: All the programs in the category streaming on Disney+.)	Pixar's "Dug Days" is set in the backyard of the pooch introduced in this 2009 film	Up	2021-11-12	
 1	800	0	DISNEY+	(Ken: All the programs in the category streaming on Disney+.)	It's Hanks for the memory, but Josh Peck is now the first half of the title in this show, a reboot of a 1989 detective film	Turner & Hooch	2021-11-12	
-1	1000	0	DISNEY+	(Ken: All the programs in the category streaming on Disney+.)	A hidden underground cave below Chichen Itza is a legend of this people; a "National Geographic" documentary digs up the "Buried Truth"	the Mayans	2021-11-12	
+1	1000	0	DISNEY+	(Ken: All the programs in the category streaming on Disney+.)	A hidden underground cave below Chichen Itza is a legend of this people; a "National Geographic" documentary digs up the "Buried Truth\"	the Mayans	2021-11-12	
 1	200	0	AROUND THE HOUSE		Beginning & ending with the same letter, this word for the floor in front of the fireplace can also refer to your home	hearth	2021-11-12	
 1	600	0	AROUND THE HOUSE		Not installed in new homes anymore, if one of these burns out in the "box" for them, grab an Edison base type	a fuse	2021-11-12	
 1	1000	0	AROUND THE HOUSE		One of the original rooms in Clue, it's a greenhouse that's usually attached to the main structure	the Conservatory	2021-11-12	
@@ -2784,7 +2783,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	ITALIAN ARTS & CULTURE		For many years Arturo Toscanini was the principal conductor & music director at this famed Milan opera house	La Scala	2021-11-17	
 1	600	0	ITALIAN ARTS & CULTURE		1950's "Luci del varieta", or "Variety Lights", was his first feature film as director	Fellini	2021-11-17	
 1	800	1400	ITALIAN ARTS & CULTURE		It's the Italian name for the lively folk dance also known as "the dance of the spider\"	the tarantella	2021-11-17	
-1	1000	0	ITALIAN ARTS & CULTURE		"Bridge of Sighs"s is by this artist, whose detailed paintings of Venice & London influenced generations of landscape painters	Canaletto	2021-11-17	
+1	1000	0	ITALIAN ARTS & CULTURE		\"Bridge of Sighs"s is by this artist, whose detailed paintings of Venice & London influenced generations of landscape painters	Canaletto	2021-11-17	
 1	200	0	BIBLICAL FIRST NAMES		\"Hey"! This name got a little push in popularity thanks to the Beatles song	Jude	2021-11-17	
 1	400	0	BIBLICAL FIRST NAMES		Country singers Combs & Bryan both go by this first name	Luke	2021-11-17	
 1	600	0	BIBLICAL FIRST NAMES		One meaning of this name is "seductive", which is perfect for the woman who seduced & deceived Samson	Delilah	2021-11-17	
@@ -2916,9 +2915,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	ALSO IN YOUR BATHROOM		Horny lizard covering	scale	2021-11-19	
 1	1000	0	ALSO IN YOUR BATHROOM		In a George Eliot novel title, a mill is on this river	the Floss	2021-11-19	
 1	200	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	He won an AMA in 2020 & performed "Holy", perhaps in tribute to wife Hailey	Justin Bieber (Biebs)	2021-11-19	
-1	400	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	In 2019 he & Camila Cabello gave a sizzling performance of their award-winning "Señorita"	Shawn Mendes	2021-11-19	
+1	400	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	In 2019 he & Camila Cabello gave a sizzling performance of their award-winning "Señorita\"	Shawn Mendes	2021-11-19	
 1	600	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	A triple winner in 2018, she performed "I Like It" with J Balvin & Bad Bunny	Cardi B	2021-11-19	
-1	800	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	She lit up the stage with a medley of hits including "Man! I Feel Like A Woman!"	Shania Twain	2021-11-19	
+1	800	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	She lit up the stage with a medley of hits including "Man! I Feel Like A Woman!\"	Shania Twain	2021-11-19	
 1	1000	0	THE AMERICAN MUSIC AWARDS	(Ken: Airing this Sunday.)	Last name Smyers + Mooney, this country duo won 3 AMAs in 2020	Dan + Shay	2021-11-19	
 1	200	0	INTO THE J*E*T STREAM	(Ken: The letters J, E, and T will all show up in that order in all the correct responses.)	To use a syringe to put a drug into a person's body	inject	2021-11-19	
 1	400	0	INTO THE J*E*T STREAM	(Ken: The letters J, E, and T will all show up in that order in all the correct responses.)	A member of the Society of Jesus	the Jesuits	2021-11-19	
@@ -3049,7 +3048,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	BOOK TITLE MATH		Harrer's Himalayan hiatus times Hawthorne's house parts	49	2021-11-23	
 2	400	0	BROADWAY IS BACK		As Broadway reopened in 2021, he returned to the role of Atticus Finch in "To Kill a Mockingbird\"	Jeff Daniels	2021-11-23	
 2	800	0	BROADWAY IS BACK		Kristin Chenoweth welcomed the audience at the reopening of "Wicked" with these 5 words, a line from "The Wizard of Oz\"	There's no place like home	2021-11-23	
-2	1200	0	BROADWAY IS BACK		The musical "Six" features a modern take on Henry VIII's 6 wives, including this first wife who was born in Spain"If you think for a moment / I'd grant you annulment /Just hold up there's n-n-n-n-n-n-no way...\"	Catherine of Aragon	2021-11-23	
+2	1200	0	BROADWAY IS BACK		The musical "Six" features a modern take on Henry VIII's 6 wives, including this first wife who was born in Spain "If you think for a moment / I'd grant you annulment / Just hold up there's n-n-n-n-n-n-no way...\"	Catherine of Aragon	2021-11-23	
 2	1600	0	BROADWAY IS BACK		\"American Utopia" features songs from this man's days in Talking Heads & from his solo career	(David) Byrne	2021-11-23	
 2	2000	0	BROADWAY IS BACK		This musical brought its razzle-dazzle back to Broadway in 2021, just in time for the 25th anniversary of its revival	Chicago	2021-11-23	
 2	800	0	BUSINESS HISTORY		This cookie company was founded in 1937 by a Connecticut woman & named for her family's country home	Pepperidge Farm	2021-11-23	
@@ -3309,21 +3308,21 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	A SWEET READ		A Richard Brautigan post-apocalyptic novel title mentions this fruit's "Sugar", just like Harry Styles did in a hit song	watermelon	2021-11-30	
 1	800	0	A SWEET READ		Agatha Christie's "Adventure of the Christmas Pudding" finds this Belgian embroiled in murder	Hercule Poirot	2021-11-30	
 1	1000	2600	A SWEET READ		Roald Dahl imagined the cherries in his Buckinghamshire orchard getting bigger & bigger, inspiring this 1961 novel	James and the Giant Peach	2021-11-30	
-1	200	0	FILL IN THE PHRASE		\"Life, liberty and the ____of happiness\"	pursuit	2021-11-30	
+1	200	0	FILL IN THE PHRASE		\"Life, liberty and the ____ of happiness\"	pursuit	2021-11-30	
 1	400	0	FILL IN THE PHRASE		\"Like a deer in ____\"	the headlights	2021-11-30	
-1	600	0	FILL IN THE PHRASE		\" ____Is nine points of the law\"	possession	2021-11-30	
-1	800	0	FILL IN THE PHRASE		Often called an African proverb: "It takes a ____to raise a child\"	a village	2021-11-30	
+1	600	0	FILL IN THE PHRASE		\" ____ Is nine points of the law\"	possession	2021-11-30	
+1	800	0	FILL IN THE PHRASE		Often called an African proverb: "It takes a ____ to raise a child\"	a village	2021-11-30	
 1	1000	0	FILL IN THE PHRASE		\"Make hay while the ____ ____ \"	sun shines	2021-11-30	
 1	200	0	SOUNDS SERIOUS		Alcohol & spicy foods can cause pyrosis, better known as this painful sensation	heartburn	2021-11-30	
 1	400	0	SOUNDS SERIOUS		Cutis anserina is nothing to worry about; it's just this "fowl" reaction to cold or fear	goose bumps	2021-11-30	
 1	600	0	SOUNDS SERIOUS		If you have pollinosis, you have this seasonal allergy & not necessarily to the crop in its name	hay fever	2021-11-30	
 1	800	0	SOUNDS SERIOUS		Diplopia is what doctors call this, also the title of a Foreigner hit	double vision	2021-11-30	
 1	1000	0	SOUNDS SERIOUS		Runners know medial tibial stress syndrome better by this 2-word name; ice may help	shin splints	2021-11-30	
-1	200	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	"I'm a friend of Sarah Connor. I was told that she's here. Could I see her please?... Where is she?... I'll be back"	the Terminator	2021-11-30	
-1	400	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	"Oh, I'm very sorry, Hans... I figured since I waxed Tony & Marco & his friend here I figured you & Karl & Franco might be a little lonely"	(John) McClane	2021-11-30	
-1	600	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	"No retreat. no surrender. That is Spartan law & by Spartan law we will stand & fight & die"	King Leonidas	2021-11-30	
-1	800	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	"You're thinking, 'did he fire 6 shots or only 5?'... You've gotta ask yourself a question. 'Do I feel lucky?' Well, do ya, punk?"	Dirty Harry	2021-11-30	
-1	1000	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	"Servant to the true emperor, Marcus Aurelius... husband to a murdered wife, & I will have my vengeance, in this life or the next"	Maximus	2021-11-30	
+1	200	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	\"I'm a friend of Sarah Connor. I was told that she's here. Could I see her please?... Where is she?... I'll be back\"	the Terminator	2021-11-30	
+1	400	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	\"Oh, I'm very sorry, Hans... I figured since I waxed Tony & Marco & his friend here I figured you & Karl & Franco might be a little lonely\"	(John) McClane	2021-11-30	
+1	600	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	\"No retreat. no surrender. That is Spartan law & by Spartan law we will stand & fight & die\"	King Leonidas	2021-11-30	
+1	800	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	\"You're thinking, 'did he fire 6 shots or only 5?'... You've gotta ask yourself a question. 'Do I feel lucky?' Well, do ya, punk?\"	Dirty Harry	2021-11-30	
+1	1000	0	JOHNNY GILBERT IS THE ACTION MOVIE CHARACTER	(Ken: You'll have to name the character Johnny is quoting in each clue.)	\"Servant to the true emperor, Marcus Aurelius... husband to a murdered wife, & I will have my vengeance, in this life or the next\"	Maximus	2021-11-30	
 1	400	0	SPLITTING HAIRS		Let the difference be known—a top knot is on top of the head but a "man" this is near the crown or back	a bun	2021-11-30	
 1	600	0	SPLITTING HAIRS		A weave is sewn in, but an extra 2 feet of sunset blonde locks in the form of clip-in hair these can be yours for $150	extensions	2021-11-30	
 1	800	0	SPLITTING HAIRS		A bouffant goes back to the 1950s, but this hairstyle that emphasized height in a rounded peak & a "home" to stingers built up in the '60s	a beehive	2021-11-30	
@@ -3790,7 +3789,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	WINTER HOLIDAYS		On December 13 Scandinavians celebrate this female saint; young girls wear white & wear lighted wreaths on their heads	Lucia	2021-12-10	2021 Professors Tournament quarterfinal game 5.
 1	200	0	TEXTING SHORTHAND		Too funny! LMSO, I'm "laughing" these garments "off\"	socks	2021-12-10	2021 Professors Tournament quarterfinal game 5.
 1	400	0	TEXTING SHORTHAND		DHYB, "don't" do this, meaning something is not likely to happen anytime soon	hold your breath	2021-12-10	2021 Professors Tournament quarterfinal game 5.
-1	600	0	TEXTING SHORTHAND		.02,this amount of opinion I'm sharing	two cents	2021-12-10	2021 Professors Tournament quarterfinal game 5.
+1	600	0	TEXTING SHORTHAND		.02, this amount of opinion I'm sharing	two cents	2021-12-10	2021 Professors Tournament quarterfinal game 5.
 1	800	0	TEXTING SHORTHAND		Put down your phone & go outside! All this texting is CWOT, a "complete" this	waste of time	2021-12-10	2021 Professors Tournament quarterfinal game 5.
 1	1000	0	TEXTING SHORTHAND		That was WTMI, meaning this, a lot more facts than I needed	way too much information	2021-12-10	2021 Professors Tournament quarterfinal game 5.
 1	200	0	HEY SHAKESPEARE, WHO SAID THAT?		\"Come I to speak in Caesar's funeral. He was my friend, faithful and just to me: but Brutus says he was ambitious\"	Mark Antony	2021-12-10	2021 Professors Tournament quarterfinal game 5.
@@ -4260,7 +4259,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	THE HOST OF CHRISTMAS PAST		A very 1999 special had Rosie O'Donnell enjoying Savage Garden & this Bass/Fatone/Kirkpatrick/ Chasez/some other guy boy band	*NSYNC	2021-12-22	
 1	800	0	THE HOST OF CHRISTMAS PAST		Dan Levy narrated this singer's 2019 "Christmas Show" that coincidentally had songs from her album "A Very Kacey Christmas\"	Musgraves	2021-12-22	
 1	1000	0	THE HOST OF CHRISTMAS PAST		In "A Very Murray Christmas", Bill re-teamed with David Johansen, a co-star as the Ghost of Christmas Past in this 1988 comedy	Scrooged	2021-12-22	
-1	400	0	MAMMALS		Baby echidna facts:1. Super cute2. Called "puggles"3. One of only 2 types of baby mammal to emerge from these	eggs	2021-12-22	
+1	400	0	MAMMALS		Baby echidna facts: 1. Super cute 2. Called "puggles" 3. One of only 2 types of baby mammal to emerge from these	eggs	2021-12-22	
 1	600	4000	MAMMALS		Its milk, a popular Saharan beverage, has 3 times the vitamin C of a cow's	a camel	2021-12-22	
 1	800	0	MAMMALS		The heaviest arboreal animals, these Asian apes can reach 285 pounds	an orangutan	2021-12-22	
 1	1000	0	MAMMALS		This seal gets its name from liking sheltered coastal sites, such as at California's Point Reyes & in the Shetland Islands	a harbor seal	2021-12-22	
@@ -4289,10 +4288,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	3600	\'TIS THE SEASON, ERA OR EPOCH		Living up to its name, this era is smack in the middle between the Paleozoic & the Cenozoic	the Mesozoic	2021-12-22	
 2	2000	0	\'TIS THE SEASON, ERA OR EPOCH		The Ionian Stage began 780,000 years ago, a division of this time period that moved at a glacial pace—totally epoch!	the Pleistocene Epoch	2021-12-22	
 2	400	0	SHORT POEMS		Ogden Nash wrote a 3-word poem: This food "is gharsley\"	parsley	2021-12-22	
-2	800	0	SHORT POEMS		A famous one of these by Basho is "The summer grasses /Of brave soldiers' dreams /The aftermath\"	a haiku	2021-12-22	
+2	800	0	SHORT POEMS		A famous one of these by Basho is "The summer grasses / Of brave soldiers' dreams / The aftermath\"	a haiku	2021-12-22	
 2	1200	0	SHORT POEMS		Gwendolyn Brooks wrote a heartbreaking 32 words called "We Real Cool" about young men in this kind of "hall\"	pool	2021-12-22	
 2	1600	0	SHORT POEMS		William Carlos Williams began a poem, "So much depends upon a red" this, & there are only 8 words after that	wheelbarrow	2021-12-22	
-2	2000	0	SHORT POEMS		We'll quote half a poem by Frost: "The way a crow /Shook down on me /"This title"From a hemlock tree\"	the "Dust of Snow\"	2021-12-22	
+2	2000	0	SHORT POEMS		We'll quote half a poem by Frost: "The way a crow / Shook down on me /" This title "From a hemlock tree\"	the "Dust of Snow\"	2021-12-22	
 2	400	0	I KNOW THAT NAME		This genial, longtime NBC personality	(Carson) Daly	2021-12-22	
 2	800	0	I KNOW THAT NAME		Brunette Tony winner as Elphaba in "Wicked\"	Menzel	2021-12-22	
 2	1200	0	I KNOW THAT NAME		This actress took up with John Mulaney in 2021	(Olivia) Munn	2021-12-22	
@@ -4411,7 +4410,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	20th CENTURY SONG, 21st CENTURY AD		Allstate: this hit by ska band Madness	\"Our House\"	2021-12-24	
 2	1200	0	20th CENTURY SONG, 21st CENTURY AD		Sargento cheese: this biggest hit by Modern English	\"I Melt With You\"	2021-12-24	
 2	1600	0	20th CENTURY SONG, 21st CENTURY AD		Kia: "Holding Out For A Hero" by this '80s singer	Bonnie Tyler	2021-12-24	
-2	2000	0	20th CENTURY SONG, 21st CENTURY AD		Oh, oh, oh,it's this '70s song by Pilot that diabetes drug Ozempic adapted	\"Magic\"	2021-12-24	
+2	2000	0	20th CENTURY SONG, 21st CENTURY AD		Oh, oh, oh, it's this '70s song by Pilot that diabetes drug Ozempic adapted	\"Magic\"	2021-12-24	
 2	400	0	NOTORIOUS		Con man George Parker was notorious for "selling" NYC landmarks like the Brooklyn Bridge & this man's tomb on West 122nd St.	Grant	2021-12-24	
 2	800	0	NOTORIOUS		In 1820s Edinburgh, Burke & Hare were killers who sold their victims' bodies to the head of a school of this medical subject	anatomy	2021-12-24	
 2	1200	0	NOTORIOUS		This doctor was convicted as part of Lincoln's murder after a boot belonging to John Wilkes Booth was found at his home	(Samuel) Mudd	2021-12-24	
@@ -4481,11 +4480,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	WINGS, BUT NO FLY		After a bet on the 2021 AFC Championship Game this city's mayor had to send wings to Kansas City	Buffalo	2021-12-27	
 2	1600	0	WINGS, BUT NO FLY		\"Arch" sometimes comes after this front part of a stage: it has wings behind it on either side	proscenium	2021-12-27	
 2	2000	0	WINGS, BUT NO FLY		In 1789 the French were divided over how much power to give this king, & the 2 sides came to be known as the left & right wings	Louis XVI	2021-12-27	
-2	400	0	MUSICAL 3‑INITIALers		ELO for short, they lit up music charts in the '70s & '80s	Electric Light Orchestra	2021-12-27	
-2	800	0	MUSICAL 3‑INITIALers		The stage name of this rapper & actor gets shortened to MGK	Machine Gun Kelly	2021-12-27	
-2	1200	0	MUSICAL 3‑INITIALers		She founded the ONJ Centre in Australia to help others who have had cancer	Olivia Newton-John	2021-12-27	
-2	1600	0	MUSICAL 3‑INITIALers		BTO was this group; the "O" was originally a trucking magazine	Bachman-Turner Overdrive	2021-12-27	
-2	2000	0	MUSICAL 3‑INITIALers		GBV can only be this indie band led by former Ohio schoolteacher Robert Pollard	Guided by Voices	2021-12-27	
+2	400	0	MUSICAL 3-INITIALers		ELO for short, they lit up music charts in the '70s & '80s	Electric Light Orchestra	2021-12-27	
+2	800	0	MUSICAL 3-INITIALers		The stage name of this rapper & actor gets shortened to MGK	Machine Gun Kelly	2021-12-27	
+2	1200	0	MUSICAL 3-INITIALers		She founded the ONJ Centre in Australia to help others who have had cancer	Olivia Newton-John	2021-12-27	
+2	1600	0	MUSICAL 3-INITIALers		BTO was this group; the "O" was originally a trucking magazine	Bachman-Turner Overdrive	2021-12-27	
+2	2000	0	MUSICAL 3-INITIALers		GBV can only be this indie band led by former Ohio schoolteacher Robert Pollard	Guided by Voices	2021-12-27	
 2	400	0	BEFORE & AFTER		A proverbial phrase regarding a bit of sewing done now to save work later merges with a numerical brand of cat food	a stitch in time saves Nine Lives	2021-12-27	
 2	800	0	BEFORE & AFTER		An "international" phrase used after swearing tunes in as a valved, circular brass instrument	pardon my French horn	2021-12-27	
 2	1200	0	BEFORE & AFTER		An ominous 5-word warning to Caesar looms over an alliterative description of the NCAA basketball tournament	beware the Ides of March Madness	2021-12-27	
@@ -4612,11 +4611,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	SPEAK LIKE A FRENCH CANADIAN		Someone who quickly gets what's happening is "vite sur ses patins" or "quick on" this athletic footwear	skates	2021-12-29	
 2	2000	0	SPEAK LIKE A FRENCH CANADIAN		\"Je suis tired" is an example of this, a portmanteau of the French words for Canada's 2 official languages	Franglais	2021-12-29	
 3	0	0	THE 20th CENTURY		In the morning of April 15, 1912 officer Charles Lightoller became the last of about 700 people to board this ship	the Carpathia	2021-12-29	
-1	200	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	This beloved TV personality hosted New Year's Rockin' Eve across 5 decades, beginning in the 1970s"Let me wish you Happy New Year, fellas. And you think it's wild out there, it's beginning to pour here in Times Square.\"	Dick Clark	2021-12-30	
-1	400	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	He has been hosting the live show from Times Square for more than 15 years"The clock is ticking off the minutes to the new year. New York is getting ready!\"	Ryan Seacrest	2021-12-30	
-1	600	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	For 2002 she helped "Get The Party Started" with her hit of the same name"I'm comin' up so you better get this party started /I'm comin' up, I'm comin'...\"	P!nk	2021-12-30	
-1	800	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	A highlight of New Year's Rockin' Eve 2010 was her "Let's Get Loud" "Let's get loud /Let's get loud /Ain't nobody gotta tell ya /What you gotta do...\"	Jennifer Lopez	2021-12-30	
-1	1000	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	The Backstreet Boys & this boy band joined forces to usher in 2011"Yeah, you /Got the right stuff /Ha, baby, yeah /You're the reason why I sing this song /Come on, y'all! /Here we go!\"	New Kids on the Block	2021-12-30	
+1	200	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	This beloved TV personality hosted New Year's Rockin' Eve across 5 decades, beginning in the 1970s "Let me wish you Happy New Year, fellas. And you think it's wild out there, it's beginning to pour here in Times Square.\"	Dick Clark	2021-12-30	
+1	400	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	He has been hosting the live show from Times Square for more than 15 years "The clock is ticking off the minutes to the new year. New York is getting ready!\"	Ryan Seacrest	2021-12-30	
+1	600	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	For 2002 she helped "Get The Party Started" with her hit of the same name "I'm comin' up so you better get this party started / I'm comin' up, I'm comin'...\"	P!nk	2021-12-30	
+1	800	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	A highlight of New Year's Rockin' Eve 2010 was her "Let's Get Loud" "Let's get loud / Let's get loud / Ain't nobody gotta tell ya / What you gotta do...\"	Jennifer Lopez	2021-12-30	
+1	1000	0	NEW YEAR'S ROCKIN' EVE	(Ken: First, celebrating its 50th year on the air...)	The Backstreet Boys & this boy band joined forces to usher in 2011 "Yeah, you / Got the right stuff / Ha, baby, yeah / You're the reason why I sing this song / Come on, y'all! / Here we go!\"	New Kids on the Block	2021-12-30	
 1	200	0	FACTS & FIGURES		The original 1789 version of this document on display at the National Archives proposes 12 amendments, not 10	the Bill of Rights	2021-12-30	
 1	400	0	FACTS & FIGURES		In 2019 these 2 govt. programs made up more than 1/3 of national health expenditures, totaling $1.4 trillion	Medicaid & Medicare	2021-12-30	
 1	600	0	FACTS & FIGURES		With a market share of 13%, this light brew was the number one selling beer in the U.S. in 2019	Bud Light	2021-12-30	
@@ -4919,11 +4918,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	MOVIES BY QUOTE		1993: "It's like that movie... 'An Affair to Remember'... she's gonna meet him at the top of the Empire State Building\"	Sleepless in Seattle	2022-01-06	
 1	800	0	MOVIES BY QUOTE		1993: "If the Pirates of the Caribbean breaks down, the pirates don't eat the tourists\"	Jurassic Park	2022-01-06	
 1	1000	0	MOVIES BY QUOTE		2008: "I know who I am! I'm a dude, playing a dude, disguised as another dude!\"	Tropic Thunder	2022-01-06	
-1	200	0	JOB DESCRIPTION		Catwalking;being "elite" like Cindy, Christy & Naomi;not getting out of bed for less than $10,000 a day	supermodel	2022-01-06	
-1	400	0	JOB DESCRIPTION		Enjoyment growing by leaps & bounds;jeté battu pas marché, tricks of the trade;a specific terpsichorean	a ballerina	2022-01-06	
-1	600	0	JOB DESCRIPTION		Fluency in Latin & Italian, a must;you own nothing yet also have your own hospital & bank;only about 260 have had the gig	the pope	2022-01-06	
-1	800	0	JOB DESCRIPTION		By law, can't be a U.S. senator;only needed quadrennially;"faithless"? Can be fined or fired	an elector	2022-01-06	
-1	1000	0	JOB DESCRIPTION		Take in 4,500 years of history;12 basic meridians & qi are key;get to the multiple points & max around 0.4 inches deep	an acupuncturist	2022-01-06	
+1	200	0	JOB DESCRIPTION		Catwalking; being "elite" like Cindy, Christy & Naomi; not getting out of bed for less than $10,000 a day	supermodel	2022-01-06	
+1	400	0	JOB DESCRIPTION		Enjoyment growing by leaps & bounds; jeté battu pas marché, tricks of the trade; a specific terpsichorean	a ballerina	2022-01-06	
+1	600	0	JOB DESCRIPTION		Fluency in Latin & Italian, a must; you own nothing yet also have your own hospital & bank; only about 260 have had the gig	the pope	2022-01-06	
+1	800	0	JOB DESCRIPTION		By law, can't be a U.S. senator; only needed quadrennially; "faithless"? Can be fined or fired	an elector	2022-01-06	
+1	1000	0	JOB DESCRIPTION		Take in 4,500 years of history; 12 basic meridians & qi are key; get to the multiple points & max around 0.4 inches deep	an acupuncturist	2022-01-06	
 1	200	0	\"MAL" PRACTICE	(Ken: Each response will begin with those three letters, "M-A-L".)	A hammering tool, or an item used to play a vibraphone	a mallet	2022-01-06	
 1	400	0	\"MAL" PRACTICE	(Ken: Each response will begin with those three letters, "M-A-L".)	An "attack" using this disrupts normal functioning of a computer via Trojans & viruses	malware	2022-01-06	
 1	600	0	\"MAL" PRACTICE	(Ken: Each response will begin with those three letters, "M-A-L".)	I saw the hot-water bottle on the thermometer! You're not sick, you're doing this, pretending to be	malingering	2022-01-06	
@@ -5038,10 +5037,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	THE HUGO AWARDS		The Best Long Form Dramatic Presentation in 2020 was "Good Omens", written by this Brit who also gave us "Coraline\"	(Neil) Gaiman	2022-01-10	
 1	800	0	THE HUGO AWARDS		A failed actor is shanghaied to Mars in "Double Star", the 1956 best novel by this author of "Starship Troopers\"	Heinlein	2022-01-10	
 1	1000	0	THE HUGO AWARDS		This author, Hugo-nominated in his 20s for "Babel-17", has the middle initial "R" for Ray; he won a few years later	Samuel R. Delany	2022-01-10	
-1	200	0	NEXT IN LINE...		Getting smaller in area: Alaska,Texas...	California	2022-01-10	
-1	400	0	NEXT IN LINE...		U.S. Army ranks: first lieutenant,captain...	major	2022-01-10	
+1	200	0	NEXT IN LINE...		Getting smaller in area: Alaska, Texas...	California	2022-01-10	
+1	400	0	NEXT IN LINE...		U.S. Army ranks: first lieutenant, captain...	major	2022-01-10	
 1	600	0	NEXT IN LINE...		Gotta know your presidents if you hit our stage: Harrison, Tyler...	Polk	2022-01-10	
-1	800	1000	NEXT IN LINE...		In Ivy schools, alphabetically: Columbia,Cornell...	Dartmouth	2022-01-10	
+1	800	1000	NEXT IN LINE...		In Ivy schools, alphabetically: Columbia, Cornell...	Dartmouth	2022-01-10	
 1	1000	0	NEXT IN LINE...		In an alphabet: kappa, lambda...	mu	2022-01-10	
 1	200	0	NEW CHESS STRATAGEMS?		Not the Sicilian Defense but this legal one that may include the irresistible impulse test	an insanity defense	2022-01-10	
 1	400	0	NEW CHESS STRATAGEMS?		Not the Trompowsky but this 3-word attack that renders a computer no good to its legitimate user	denial-of-service	2022-01-10	
@@ -5096,7 +5095,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	JOHN F. KENNEDY		Citing back surgery, in 1954 JFK was one of 6 senators who did not vote to censure this senator	McCarthy	2022-01-11	
 1	200	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	General Mills, Land O'Lakes	Minnesota	2022-01-11	
 1	400	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	Home Depot, Waffle House	Georgia	2022-01-11	
-1	600	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	John Deere Co.,Jimmy John's	Illinois	2022-01-11	
+1	600	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	John Deere Co., Jimmy John's	Illinois	2022-01-11	
 1	800	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	Walmart, Tyson Foods	Arkansas	2022-01-11	
 1	1000	0	STATE YOUR BUSINESS	(Ken: You'll have to name the state where you'd find these corporate headquarters.)	Frontier Airlines, Dish Network	Colorado	2022-01-11	
 1	200	0	TV SHOWS WITH ONE-WORD TITLES		Successful actor Vincent Chase navigates the Hollywood life with the help of a close circle of pals	Entourage	2022-01-11	
@@ -5310,7 +5309,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	INTERNATIONAL ORGS.		UPU: "Universal" this "Union", setting the rules for international mail delivery	Postal	2022-01-14	
 2	800	0	INTERNATIONAL ORGS.		ICRC: "International Committee of" this	the Red Cross	2022-01-14	
 2	1200	6000	INTERNATIONAL ORGS.		IRENA, where they talk a lot of wind: "International" this type of "Energy Agency\"	Renewable	2022-01-14	
-2	1600	0	INTERNATIONAL ORGS.		NC,with members including Norway, Finland & Sweden: this "Council\"	the Nordic Council	2022-01-14	
+2	1600	0	INTERNATIONAL ORGS.		NC, with members including Norway, Finland & Sweden: this "Council\"	the Nordic Council	2022-01-14	
 2	2000	0	INTERNATIONAL ORGS.		NAM: this "Movement" established in 1961 for countries that didn't ally themselves with the East or the West	Non-Aligned	2022-01-14	
 2	400	0	CENTENARIANS		Col. Aaron Bank (1902-2004) was the father of these U.S. Army special forces named for an item of apparel	the Green Berets	2022-01-14	
 2	800	0	CENTENARIANS		Swiss chemist Albert Hofmann (1906-2008) was the first to create & learn of the effects of this synthetic psychedelic drug	LSD	2022-01-14	
@@ -5376,7 +5375,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	ILLUSTRATORS		On YouTube, children's author & illustrator Marc Brown teaches you how to draw this beloved aardvark	Arthur	2022-01-17	
 2	1200	0	ILLUSTRATORS		Like Langston Hughes, painter & illustrator Aaron Douglas was a leading figure of this arts movement centered in New York	the Harlem Renaissance	2022-01-17	
 2	1600	4000	ILLUSTRATORS		British surgeon & artist Henry Vandyke Carter was the man behind the illustrations for this classic 1850s textbook	Gray's Anatomy	2022-01-17	
-2	2000	0	ILLUSTRATORS		"Blue-winged Teal" was among the 435 illustrations he did for a book published in four volumes between 1827 & 1838	Audubon	2022-01-17	
+2	2000	0	ILLUSTRATORS		\"Blue-winged Teal" was among the 435 illustrations he did for a book published in four volumes between 1827 & 1838	Audubon	2022-01-17	
 2	400	0	DOCUMENTARIES		A 2021 documentary celebrates this legend who, after leaving Ike, reinvented herself to become the Queen of Rock & Roll	Tina Turner	2022-01-17	
 2	800	0	DOCUMENTARIES		His life & lessons were the subject of "Won't You Be My Neighbor?\"	Mr. Rogers	2022-01-17	
 2	1200	0	DOCUMENTARIES		\"The Mushroom Club", a 2005 documentary short, is a portrait of this city & its people, 60 years after the bombing	Hiroshima	2022-01-17	
@@ -5458,11 +5457,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	ALL EARS		These reptiles, such as the Nile type, have moveable external ear flaps that can be closed underwater	crocodiles	2022-01-19	
 1	800	0	ALL EARS		These desert "rabbits" (really hares) got their name because their long ears were thought to resemble those of donkeys	jackrabbits	2022-01-19	
 1	1000	0	ALL EARS		These singing cricket relatives with a female first name in their name have tiny ears on their legs	katydids	2022-01-19	
-1	200	0	HOW ARE WE EVEN RELATED?		Phil &Lily Collins	father & daughter	2022-01-19	
-1	400	0	HOW ARE WE EVEN RELATED?		Jonah Hill &Beanie Feldstein	brother & sister	2022-01-19	
-1	600	0	HOW ARE WE EVEN RELATED?		Jason Momoa &Zoë Kravitz	stepdad & stepdaughter	2022-01-19	
-1	800	0	HOW ARE WE EVEN RELATED?		Bridget &Jane Fonda	aunt & niece	2022-01-19	
-1	1000	0	HOW ARE WE EVEN RELATED?		Tippi Hedren &Dakota Johnson	grandmother & granddaughter	2022-01-19	
+1	200	0	HOW ARE WE EVEN RELATED?		Phil & Lily Collins	father & daughter	2022-01-19	
+1	400	0	HOW ARE WE EVEN RELATED?		Jonah Hill & Beanie Feldstein	brother & sister	2022-01-19	
+1	600	0	HOW ARE WE EVEN RELATED?		Jason Momoa & Zoë Kravitz	stepdad & stepdaughter	2022-01-19	
+1	800	0	HOW ARE WE EVEN RELATED?		Bridget & Jane Fonda	aunt & niece	2022-01-19	
+1	1000	0	HOW ARE WE EVEN RELATED?		Tippi Hedren & Dakota Johnson	grandmother & granddaughter	2022-01-19	
 1	200	0	POTENT POTABLES		On a cold wintry night, warm up with a traditional hot buttered this drink	rum	2022-01-19	
 1	400	0	POTENT POTABLES		Ilchester is a cheese created in 1962 by adding this potent potable to Cheddar	beer	2022-01-19	
 1	600	0	POTENT POTABLES		Gusano Rojo is a popular brand of this tequila relative known for sometimes having a worm in the bottle	mescal	2022-01-19	
@@ -5770,18 +5769,18 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(Bill Cowher presents the clue.) After winning a record 9 AFC titles, in 2021, this ageless marvel threw for three touchdowns to win his first NFC championship, leading Tampa Bay into the Super Bowl	Tom Brady	2022-01-26	
 1	400	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(Phil Simms presents the clue.) The Colts trailed the Patriots 21-3 in the 2006 AFC title game, before this quarterback took over, leading Indianapolis to four second-half touchdowns in a seesaw 38-34 victory	(Peyton) Manning	2022-01-26	
 1	600	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(Nate Burleson presents the clue.) In Snowy Soldier Field in January 1986, this team naturally allowed zero points to the Rams as they won the NFC crown with linebacker Wilber Marshall one of the defensive heroes	the Bears	2022-01-26	
-1	800	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(James Brown presents the clue.) With time running out in an AFC title game in 1987, the Denver Broncos were trailing the Browns & pinned on their own 2-yard line when this quarterback led them 98 yards for a touchdown on a series of plays known simply as "The Drive"	Elway	2022-01-26	
+1	800	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(James Brown presents the clue.) With time running out in an AFC title game in 1987, the Denver Broncos were trailing the Browns & pinned on their own 2-yard line when this quarterback led them 98 yards for a touchdown on a series of plays known simply as "The Drive\"	Elway	2022-01-26	
 1	1000	0	CONFERENCE CHAMPIONSHIP HEROES	(James Brown: From the NFL Today team, some clues about the conference championship heroes who got their teams to the Super Bowl.)	(Boomer Esiason presents the clue.) In the first ever conference championship in 1971, Baltimore downed Oakland, putting the game away with a 68-yard fourth quarter touchdown strike to Ray Perkins from this legendary quarterback	Johnny Unitas	2022-01-26	
 2	400	0	THAT 1770s SHOW		Led by Samuel Nicholas, the first landing by this U.S. military force was at Nassau to seize supplies in March 1776	the Marine Corps	2022-01-26	
 2	800	0	THAT 1770s SHOW		In a pre-Valentine's Day gift to the world on Feb. 13, 1777, this debauched Frenchman was sent to the dungeon of Vincennes	de Sade	2022-01-26	
 2	1200	0	THAT 1770s SHOW		The "One (lantern) if by land & 2 if by sea" in this building were not meant to signal Paul Revere, but allies in Charlestown	the Old North Church	2022-01-26	
 2	1600	0	THAT 1770s SHOW		Fed up with this country's Riksdag in 1772, Gustav III set up a new Constitution that—surprise!—put him firmly in charge	Sweden	2022-01-26	
 2	2000	4000	THAT 1770s SHOW		In 1776 he wrote,"Tyranny, like hell, is not easily conquered; yet... the harder the conflict, the more glorious the triumph\"	(Thomas) Paine	2022-01-26	
-2	400	0	BOOK BINDINGS		The Art of ____and Peace	War	2022-01-26	
-2	800	0	BOOK BINDINGS		Gulliver's ____with Charley	Travels	2022-01-26	
-2	1200	0	BOOK BINDINGS		Gone ____Interrupted	Girl	2022-01-26	
-2	1600	0	BOOK BINDINGS		The Name of the ____Madder	Rose	2022-01-26	
-2	2000	0	BOOK BINDINGS		The Return of the ____Rat	King	2022-01-26	
+2	400	0	BOOK BINDINGS		The Art of ____ and Peace	War	2022-01-26	
+2	800	0	BOOK BINDINGS		Gulliver's ____ with Charley	Travels	2022-01-26	
+2	1200	0	BOOK BINDINGS		Gone ____ Interrupted	Girl	2022-01-26	
+2	1600	0	BOOK BINDINGS		The Name of the ____ Madder	Rose	2022-01-26	
+2	2000	0	BOOK BINDINGS		The Return of the ____ Rat	King	2022-01-26	
 2	400	0	OMG!		Ranginui is the primordial sky god of this people of New Zealand	the Maori	2022-01-26	
 2	800	0	OMG!		Watatsumi, the Shinto god of the sea, is usually depicted as one of these aquatic monsters	a sea serpent	2022-01-26	
 2	1200	7800	OMG!		The Greek goddesses of vengeance are called the Eumenides, better known as these, a word from Latin	the Furies	2022-01-26	
@@ -6130,7 +6129,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	THE EXILE FILES		José Martí, national hero of this country, probably should have stayed longer in the U.S.; he returned in 1895 & died in battle	Cuba	2022-02-03	
 2	1600	0	THE EXILE FILES		Exiled to Switzerland in 1919, Charles I, also known as Charles IV, was the last ruler of this dual monarchy	Austria-Hungary	2022-02-03	
 2	2000	0	THE EXILE FILES		During his exile in England in the 1720s, this French writer & philosopher met, among others, Alexander Pope & Jonathan Swift	Voltaire	2022-02-03	
-2	400	0	IDIOMS & EXPRESSIONS		I'm going to get a taste of your profits—not a lot, just to do this, as in the photo here	wet my beak	2022-02-03	
 2	800	0	IDIOMS & EXPRESSIONS		Meaning "stick to your own area", it can apply to highway driving but was also influenced by football kickoff coverage	stay in your lane	2022-02-03	
 2	1200	3000	IDIOMS & EXPRESSIONS		Tangled wires led to the 19th c. phrase this type of "telegraph"; eventually, this became the way you hear a rumor	the grapevine	2022-02-03	
 2	1600	0	IDIOMS & EXPRESSIONS		Nowadays, people say "(whatever they're really good at) is my" this word; for Johnny Storm, it's actually pyrokinesis	a superpower	2022-02-03	
@@ -6185,11 +6183,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	THE STAGE MANAGER		A TV stage manager needs to be aware of the responsibilities of all crew members, like the head electrician, also called by this word	the gaffer	2022-02-04	
 1	800	0	THE STAGE MANAGER		Broadway actor Michael Barra plays a stage manager in this 2017 movie about P.T. Barnum	The Greatest Showman	2022-02-04	
 1	1000	0	THE STAGE MANAGER		One job of a Broadway stage manager is rehearsing understudies for their big break; this understudy got hers in 1954	Shirley MacLaine	2022-02-04	
-2	400	0	TITLE WORD PUZZLES		A Ken Kesey chronicleFLEWCUCKOO'S NEST	One Flew Over the Cuckoo's Nest	2022-02-04	
-2	800	0	TITLE WORD PUZZLES		This musical about Huck & Jim made safe passage to BroadwayRIVER	Big River	2022-02-04	
-2	1200	0	TITLE WORD PUZZLES		Vanish, or a 1970s movie comedySMUPOKE	Up in Smoke	2022-02-04	
-2	1600	0	TITLE WORD PUZZLES		A V.C. Andrews novel or a Schubert workSYM	an Unfinished Symphony	2022-02-04	
-2	2000	0	TITLE WORD PUZZLES		A disaster film that could have been called "The Big Chill"TOMORROWDAY	The Day After Tomorrow	2022-02-04	
+2	400	0	TITLE WORD PUZZLES		A Ken Kesey chronicle FLEW CUCKOO'S NEST	One Flew Over the Cuckoo's Nest	2022-02-04	
+2	800	0	TITLE WORD PUZZLES		This musical about Huck & Jim made safe passage to Broadway RIVER	Big River	2022-02-04	
+2	1200	0	TITLE WORD PUZZLES		Vanish, or a 1970s movie comedy SMUPOKE	Up in Smoke	2022-02-04	
+2	1600	0	TITLE WORD PUZZLES		A V.C. Andrews novel or a Schubert work SYM	an Unfinished Symphony	2022-02-04	
+2	2000	0	TITLE WORD PUZZLES		A disaster film that could have been called "The Big Chill" TOMORROWDAY	The Day After Tomorrow	2022-02-04	
 2	400	0	HISTORIC OFFSPRING		3 years before his own fatal duel, his son Philip died in another affair of honor a few miles away, using the same guns	Alexander Hamilton	2022-02-04	
 2	800	5000	HISTORIC OFFSPRING		His only legitimate heir, a son with Empress Marie-Louise, died in 1832 of tuberculosis	Napoleon	2022-02-04	
 2	1200	0	HISTORIC OFFSPRING		An actress & dancer, Winston Churchill's daughter Sarah played this man's love interest in the 1951 musical "Royal Wedding\"	Fred Astaire	2022-02-04	
@@ -6318,7 +6316,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	CONNECT FOUR		Inky, Blinky, Pinky, Clyde	the Pac-Man ghosts	2022-02-08	
 2	1200	0	CONNECT FOUR		For Notre Dame: Harry Stuhldreher, Jim Crowley, Don Miller, Elmer Layden	the Four Horsemen	2022-02-08	
 2	1600	0	CONNECT FOUR		In Catholicism: prudence, justice, fortitude, temperance	the cardinal virtues	2022-02-08	
-2	2000	0	CONNECT FOUR		Rig-, Sama-, Yajur-,Atharva-	the four Vedas	2022-02-08	
+2	2000	0	CONNECT FOUR		Rig-, Sama-, Yajur-, Atharva-	the four Vedas	2022-02-08	
 2	400	0	JUST "Z" MOVIE FOR YOU		Many movies have been made about this title swordsman, but in 1981, he was "The Gay Blade\"	Zorro	2022-02-08	
 2	800	0	JUST "Z" MOVIE FOR YOU		Some of the rules for surviving in this 2009 post-apocalyptic comedy include: No. 1: cardio & No. 3: beware of bathrooms	Zombieland	2022-02-08	
 2	1200	0	JUST "Z" MOVIE FOR YOU		Art imitates life as sloths work at the DMV in this animated movie	Zootopia	2022-02-08	
@@ -6559,11 +6557,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	HISTORY BOOKS		\"Blood & Iron", a history of Germany 1871-1918, gets its title from a quote by this chancellor who's big in the book	Bismarck	2022-02-14	
 2	1600	0	HISTORY BOOKS		Reversing a phrase from the book of Isaiah, Arno Mayer's history of the state of Israel is titled these "into Swords\"	Plowshares	2022-02-14	
 2	2000	3000	HISTORY BOOKS		\"The Rise & Spectacular Fall of God's Holy Warriors" is the subtitle of a recent history of this medieval order of knights	the Knights Templar	2022-02-14	
-2	400	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	"Never mind, I'll find someone like you, I wish nothing but the best for you too"	Adele	2022-02-14	
-2	800	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	"& You come to me on a summer breeze, keep me warm in your love then you softly leave, & it's me you need to show, how deep is your love"	the Bee Gees	2022-02-14	
-2	1200	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	"Life was a willow & it bent right to your wind (oh)... I'm begging for you to take my hand, wreck my plans, that's my man"	Taylor Swift	2022-02-14	
-2	1600	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	"I get the joy of rediscovering you, oh girl, you stand by me, I'm forever yours... faithfully", then some whoa oh ohs	Journey	2022-02-14	
-2	2000	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	"I care for you still & I will forever... honest, we got so familiar spending each day of the year, white Ferrari"	Frank Ocean	2022-02-14	
+2	400	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	\"Never mind, I'll find someone like you, I wish nothing but the best for you too\"	Adele	2022-02-14	
+2	800	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	\"& You come to me on a summer breeze, keep me warm in your love then you softly leave, & it's me you need to show, how deep is your love\"	the Bee Gees	2022-02-14	
+2	1200	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	\"Life was a willow & it bent right to your wind (oh)... I'm begging for you to take my hand, wreck my plans, that's my man\"	Taylor Swift	2022-02-14	
+2	1600	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	\"I get the joy of rediscovering you, oh girl, you stand by me, I'm forever yours... faithfully", then some whoa oh ohs	Journey	2022-02-14	
+2	2000	0	JOHNNY GILBERT READS LYRICS FROM THE HEART	(Ken: You'll have to name the artist or the band.)	\"I care for you still & I will forever... honest, we got so familiar spending each day of the year, white Ferrari\"	Frank Ocean	2022-02-14	
 3	0	0	THE MIDWEST		At about 90,000 it's the most populous U.S. city on North America's biggest lake	Duluth, Minnesota	2022-02-14	
 1	200	0	OH, THE THINGS I'VE DONE		The very first czar, in 1565 I formed the Oprichnina to deal with traitors as I wished (& my wishes were kinda super-harsh)	Ivan the Terrible	2022-02-15	
 1	400	0	OH, THE THINGS I'VE DONE		In 1931 I took an autogiro up to a record 18,415 feet; oh yeah, I wed George Putnam that year too, so y'know... busy	Amelia Earhart	2022-02-15	
@@ -7150,7 +7148,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	BACKING BANDS		Stevie Ray Vaughan had this rhyming rhythm section	Double Trouble	2022-02-28	
 2	400	0	HOMOPHONE TO THE LETTER		To exist, in the singular	be	2022-02-28	
 2	800	0	HOMOPHONE TO THE LETTER		To use your peepers	see	2022-02-28	
-2	1200	0	HOMOPHONE TO THE LETTER		The,en Español	el	2022-02-28	
+2	1200	0	HOMOPHONE TO THE LETTER		The, en Español	el	2022-02-28	
 2	1600	0	HOMOPHONE TO THE LETTER		4-legged palindromic female flock member	ewe	2022-02-28	
 2	2000	0	HOMOPHONE TO THE LETTER		Charles Kingsley wrote of "The Sands of" this English river	Dee	2022-02-28	
 3	0	0	MODERN WAR		Called the longest siege of a capital in modern history, the assault on this city lasted from 1992 to 1996	Sarajevo	2022-02-28	
@@ -7286,11 +7284,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	GETTING DOWN TO BUSINESS		In 2009 Ursula Burns became the first Black woman to head a Fortune 500 company, this one; copy that!	Xerox	2022-03-03	
 1	800	0	GETTING DOWN TO BUSINESS		In 2002 Elon Musk launched this company to produce more affordable rockets	SpaceX	2022-03-03	
 1	1000	0	GETTING DOWN TO BUSINESS		In 1837 a candlemaker & a soapmaker merged their businesses in Cincinnati to become this giant in consumer goods	Procter & Gamble	2022-03-03	
-1	200	0	WHAT'S MY NAME?		Basically a cheeseburger on rye bread: ____ melt	a patty melt	2022-03-03	
 1	400	0	WHAT'S MY NAME?		A policeman's nightstick: ____ club	a billy club	2022-03-03	
 1	600	0	WHAT'S MY NAME?		Popular in the 1920s, it weighed almost 10 pounds empty: ____ gun	a tommy gun	2022-03-03	
 1	800	0	WHAT'S MY NAME?		Often used for pot roast: ____ roast	a chuck roast	2022-03-03	
-1	1000	0	WHAT'S MY NAME?		In the Marine Corps, it's also called an E-3:____ corporal	a lance corporal	2022-03-03	
+1	1000	0	WHAT'S MY NAME?		In the Marine Corps, it's also called an E-3: ____ corporal	a lance corporal	2022-03-03	
 1	200	0	BEATLES "LOVE" SONGS	(Ken: You'll have to name the song from the lyrics given.)	\"You think you've lost your love, well, I saw her yesterday-yi-yay\"	\"She Loves You\"	2022-03-03	
 1	400	0	BEATLES "LOVE" SONGS	(Ken: You'll have to name the song from the lyrics given.)	\"Nowhere you can be that isn't where you're meant to be\"	\"All You Need Is Love\"	2022-03-03	
 1	600	0	BEATLES "LOVE" SONGS	(Ken: You'll have to name the song from the lyrics given.)	\"I'll always be true, so please...\"	\"Love Me Do\"	2022-03-03	
@@ -7480,7 +7477,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	14-LETTER WORDS		I found a thousand bucks in this word that often follows "self" to mean the act of making oneself seem important	aggrandizement	2022-03-08	
 2	400	0	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	Adams, Wilson	presidents	2022-03-08	
 2	800	0	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	Acadia, Zion	national parks	2022-03-08	
-2	1200	2000	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	Argon,xenon	the noble gases	2022-03-08	
+2	1200	2000	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	Argon, xenon	the noble gases	2022-03-08	
 2	1600	0	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	\"Das Rheingold", "Siegfried\"	the operas in Wagner's Ring Cycle	2022-03-08	
 2	2000	0	FIRST & LAST ALPHABETICALLY	(Ken: You'll have to name the group we're referencing.)	Anointing of the sick, reconciliation	the (Seven) Sacraments	2022-03-08	
 2	1200	0	PEOPLE IN SCIENCE		In 1705 he wrote, "I dare venture to foretell, that it will return again in the year 1758\"	Halley	2022-03-08	
@@ -7781,7 +7778,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	CROSSWORD CLUES "Q\"		The shaft of a feather (5 letters)	quill	2022-03-15	
 2	1200	0	CROSSWORD CLUES "Q\"		A fixed minimum needed for a meeting (6 letters)	a quorum	2022-03-15	
 2	1600	0	CROSSWORD CLUES "Q\"		To Incas, "the mother grain" (6 letters)	quinoa	2022-03-15	
-2	2000	0	CROSSWORD CLUES "Q\"		Fancy synonym for silent(9 letters)	quiescent	2022-03-15	
+2	2000	0	CROSSWORD CLUES "Q\"		Fancy synonym for silent (9 letters)	quiescent	2022-03-15	
 3	0	0	METEOROLOGY		It was feared this word caused panic, but in 1950 the U.S. Weather Bureau ended a ban on it in forecasts, saying prediction wasn't impossible	tornado	2022-03-15	
 1	200	0	CALL ME SOMETIME		The first line of this novel is the immortal "Call me Ishmael\"	Moby-Dick	2022-03-16	
 1	600	0	CALL ME SOMETIME		She plays the owner of a cat cafe on the sitcom "Call Me Kat\"	Mayim Bialik	2022-03-16	
@@ -8053,10 +8050,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	RECENT BIOS OF WRITERS		\"Red Comet" says the unsung hero of Sylvia Plath's life was her benefactor Olive Prouty, author of the novel "Now," this personage	Voyager	2022-03-22	
 2	2000	0	RECENT BIOS OF WRITERS		\"Competing with Idiots" is a dual biography of these screenwriting giants, brothers Herman & Joe, by a grandson of Herman's	Mankiewicz	2022-03-22	
 2	400	0	SCIENTIFIC INITIALS		Naturalist C.R.D., 1809-1882 (the "R" was for Robert)	Darwin	2022-03-22	
-2	800	0	SCIENTIFIC INITIALS		M.C. (born M.S.),a 2-time Nobel winner	Marie Curie	2022-03-22	
-2	1200	0	SCIENTIFIC INITIALS		N.T.,who made sparks fly	Nikola Tesla	2022-03-22	
-2	1600	0	SCIENTIFIC INITIALS		C.L. (also just L.),an 18th century classifier	Linnaeus	2022-03-22	
-2	2000	0	SCIENTIFIC INITIALS		N.B.,a great Dane	(Niels) Bohr	2022-03-22	
+2	800	0	SCIENTIFIC INITIALS		M.C. (born M.S.), a 2-time Nobel winner	Marie Curie	2022-03-22	
+2	1200	0	SCIENTIFIC INITIALS		N.T., who made sparks fly	Nikola Tesla	2022-03-22	
+2	1600	0	SCIENTIFIC INITIALS		C.L. (also just L.), an 18th century classifier	Linnaeus	2022-03-22	
+2	2000	0	SCIENTIFIC INITIALS		N.B., a great Dane	(Niels) Bohr	2022-03-22	
 2	400	0	THOSE DARN ETRUSCANS		The Etruscan 20-letter language went out of use owing to the spread of this language that used 23 letters	Latin	2022-03-22	
 2	800	0	THOSE DARN ETRUSCANS		A messenger & an intermediary between the gods & man, the Etruscan god, Turms, was equivalent to this Greek god	Hermes	2022-03-22	
 2	1200	0	THOSE DARN ETRUSCANS		The Etruscans' religious use of fowls for divination led to this clavicular way for determining fate	pulling a wishbone	2022-03-22	
@@ -8379,11 +8376,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	GOOD LINE, FAMOUS NAME!		In 1971 this female Asian prime minister observed, "You cannot shake hands with a clenched fist\"	Indira Gandhi	2022-03-30	
 1	800	0	GOOD LINE, FAMOUS NAME!		George Bernard Shaw defined this negative thinker as "a man who thinks everybody as nasty as himself, and hates them for it\"	a pessimist	2022-03-30	
 1	1000	0	GOOD LINE, FAMOUS NAME!		Karl Marx stated that history appears twice, "the 1st time as tragedy, the 2nd time as" this ludicrous form of comedy	farce	2022-03-30	
-1	200	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Hopping ____doe	John	2022-03-30	
-1	400	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Uncontested ____wonders never cease	will	2022-03-30	
-1	600	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Cup of ____blow	joe	2022-03-30	
-1	800	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Stand ____on the back	pat	2022-03-30	
-1	1000	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Off the ____my words	mark	2022-03-30	
+1	200	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Hopping ____ doe	John	2022-03-30	
+1	400	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Uncontested ____ wonders never cease	will	2022-03-30	
+1	600	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Cup of ____ blow	joe	2022-03-30	
+1	800	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Stand ____ on the back	pat	2022-03-30	
+1	1000	0	THE NAME IN THE MIDDLE	(Mayim: Find the correct first name that fills in the blank.)	Off the ____ my words	mark	2022-03-30	
 1	200	0	JOIN THE CROWD		When this team finally won the World Series again in 2016, 5 million people attended the parade & rally	the (Chicago) Cubs	2022-03-30	
 1	400	0	JOIN THE CROWD		This city saw its population rise temporarily by around 3 million in 2012, a record peak during its annual hajj	Mecca	2022-03-30	
 1	600	7000	JOIN THE CROWD		In 1951 7.5 million people came to a Manhattan ticker-tape parade for this general who had recently been fired	MacArthur	2022-03-30	
@@ -8570,7 +8567,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	THE HIT OF THE DECADE		\"Gonna Make You Sweat (Everybody Dance Now)", "lyrics to make you shake your pants\"	the 1990s	2022-04-04	
 1	1000	0	THE HIT OF THE DECADE		Let's browse in the chart-topping "Thrift Shop\"	the 2010s	2022-04-04	
 1	200	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) Ben's French wasn't great, so at diplomatic dinners he needed to watch Parisians' lips move & also be able to look down at the food; his problem-solving nature led to these, one of his best-known inventions	bifocals	2022-04-04	
-1	400	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) In Franklin's day almanacs outsold all books except Bibles, and this one of Ben's was especially popular; to weather & crop info, he added maxims like "God heals, and the Doctor takes the Fees"	Poor Richard's Almanack	2022-04-04	
+1	400	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) In Franklin's day almanacs outsold all books except Bibles, and this one of Ben's was especially popular; to weather & crop info, he added maxims like "God heals, and the Doctor takes the Fees\"	Poor Richard's Almanack	2022-04-04	
 1	600	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) Rich enough to retire from day-to-day business, in his 40s, Franklin began pioneering research into electricity; for a group of charged glass containers, he coined this word, from its meaning "of an array of cannons\"	battery	2022-04-04	
 1	800	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) Starting with his stove, which fit inside a hearth to warm a whole room, Franklin insisted that his inventions were for public good & refused this type of protection that was given by the colonies before the first U.S. Congress did so	a patent	2022-04-04	
 1	1000	0	BENJAMIN FRANKLIN	(Mandy: He was the Edison, Kissinger and Suze Orman of 18th century America, all in one; I'm Mandy Patinkin with clues about Benjamin Franklin whose words I read in the new Ken Burns documentary.)	(Mandy Patinkin presents the clue.) Many Europeans visited Franklin in France, asking for a chance to fight with the Americans; General Washington had to ask him not to send more losers, but Ben did also recommend great contributors, like this Frenchman who became like a son to George	Lafayette	2022-04-04	
@@ -9011,7 +9008,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	HISTORY		Intimately familiar with World War I, Churchill considered this war from some 150 years before the "first world war\"	the Seven Years' War	2022-04-13	
 1	200	0	ART, OF WAR		In "Exodus of Confederates from Atlanta", Kara Walker adds silhouettes to illustrations of this war	the Civil War	2022-04-14	
 1	400	0	ART, OF WAR		One of his greatest & largest paintings was inspired by a newspaper article on the bombing of Guernica	Picasso	2022-04-14	
-1	600	0	ART, OF WAR		The artwork here depicts this famous venture at the Battle of Balaclava	the Charge of the Light Brigade	2022-04-14	
 1	800	0	ART, OF WAR		Miyamoto Saburo's painting of generals Yamashita & Percival & the British WWII surrender of this island was used as Japanese propaganda	Singapore	2022-04-14	
 1	1000	0	ART, OF WAR		2 black granite walls & a sculpture called "The Three Servicemen" are part of this Washington, D.C. memorial	the Vietnam War Memorial	2022-04-14	
 1	200	0	ON ITS FAST FOOD MENU		The 390-calorie Burrito Supreme	Taco Bell	2022-04-14	
@@ -9127,8 +9123,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	FEMALE LITERARY CHARACTERS		This enchantress from the "Odyssey" is the sympathetic heroine of a 2018 novel by Madeline Miller	Circe	2022-04-15	
 2	400	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	Monastery: _ _ _ EY	abbey	2022-04-15	
 2	800	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	Trite: _ A _ A _	banal	2022-04-15	
-2	1600	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	A special privilege (the American spelling made some Brit players angry):_ _ V _ _	favor	2022-04-15	
-2	2000	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	To bind:_ _ _ SS	truss	2022-04-15	
+2	1600	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	A special privilege (the American spelling made some Brit players angry): _ _ V _ _	favor	2022-04-15	
+2	2000	0	5-LETTER WORDLES	(Ken: These are all actual answers from the popular online game Wordle.)	To bind: _ _ _ SS	truss	2022-04-15	
 3	0	0	ACADEMY AWARD WINNERS		In 2019 he won his first competitive Oscar, 36 years after a Student Academy Award for a film about a Brooklyn barbershop	Spike Lee	2022-04-15	
 1	200	0	WORLD LEADERS		The Truth & Reconciliation Commission set up by this man in 1995 investigated human rights violations under apartheid	Nelson Mandela	2022-04-18	
 1	400	0	WORLD LEADERS		The "Big 3"—FDR, Churchill & Stalin—had a working vacation at the Feb. 1945 conference at this Black Sea resort	Yalta	2022-04-18	
@@ -9262,8 +9258,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	ACTORS, INITIALLY		J.L.C., back for more in "Halloween Kills\"	Jamie Lee Curtis	2022-04-20	
 1	400	0	ACTORS, INITIALLY		N.P.H., suiting up for "How I Met Your Mother\"	Neil Patrick Harris	2022-04-20	
 1	600	0	ACTORS, INITIALLY		W.J.H., making some (after)life changes in "The Good Place\"	William Jackson Harper	2022-04-20	
-1	800	0	ACTORS, INITIALLY		V.A.F.,dealing with "The Wrong Mr. Right" & "The Wrong Fiance\"	Vivica A. Fox	2022-04-20	
-1	1000	0	ACTORS, INITIALLY		J.L.M.,a cop on "Law & Order" & "The Flash\"	Jesse L. Martin	2022-04-20	
+1	800	0	ACTORS, INITIALLY		V.A.F., dealing with "The Wrong Mr. Right" & "The Wrong Fiance\"	Vivica A. Fox	2022-04-20	
+1	1000	0	ACTORS, INITIALLY		J.L.M., a cop on "Law & Order" & "The Flash\"	Jesse L. Martin	2022-04-20	
 1	200	0	THEATRICAL HAPPENINGS		In 2021, Shakespeare in the Park was back in this park with "Merry Wives", changing the Bard's setting to South Harlem	Central Park	2022-04-20	
 1	400	0	THEATRICAL HAPPENINGS		\"Into the Woods" finds Rapunzel trampled & a giant plummeting to its death from one of these	a beanstalk	2022-04-20	
 1	600	0	THEATRICAL HAPPENINGS		Kenneth Lay & Jeffrey Skilling are characters in Lucy Prebble's drama about this disgraced company	Enron	2022-04-20	
@@ -9314,8 +9310,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	1200	CALIFORNIA		This city located northwest of San Jose has a name that means "tall tree\"	Palo Alto	2022-04-21	
 1	800	0	CALIFORNIA		Perched on Mount Hollywood, this facility offers astronomical exhibits & a great view of the city below	the Griffith Observatory	2022-04-21	
 1	1000	0	CALIFORNIA		This city about midway between L.A. & Sin City is mentioned in the first sentence of "Fear and Loathing in Las Vegas\"	Barstow	2022-04-21	
-1	200	0	BOOK TITLE GEOGRAPHY		The Marabar Caves are on the itinerary in "A Passage to____\"	India	2022-04-21	
-1	400	0	BOOK TITLE GEOGRAPHY		Betty Smith cultivated "A Tree Grows in____\"	Brooklyn	2022-04-21	
+1	200	0	BOOK TITLE GEOGRAPHY		The Marabar Caves are on the itinerary in "A Passage to ____\"	India	2022-04-21	
+1	400	0	BOOK TITLE GEOGRAPHY		Betty Smith cultivated "A Tree Grows in ____\"	Brooklyn	2022-04-21	
 1	600	0	BOOK TITLE GEOGRAPHY		Julia Child cooked up "My Life in ____\"	France	2022-04-21	
 1	800	0	BOOK TITLE GEOGRAPHY		The sequel to "Lonesome Dove": "Streets of ____\"	Laredo	2022-04-21	
 1	1000	0	BOOK TITLE GEOGRAPHY		John le Carre, man of international intrigue: "The ____ House\"	The Russia House	2022-04-21	
@@ -9773,7 +9769,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	COUNTRY MUSIC SONG TITLES		Women mentioned in this George Strait hit include sweet Eileen in Abilene & Allison in Galveston	\"All My Ex's Live In Texas\"	2022-05-02	
 2	1200	0	COUNTRY MUSIC SONG TITLES		In a Grammy-winning hit, Jeannie C. Riley sang about "the day my mama socked it to" this school organization	the "Harper Valley P.T.A.\"	2022-05-02	
 2	400	0	A VOW OF NO VOWELS		One in a national park has grown 275 feet tall: SQ	a sequoia	2022-05-02	
-2	800	0	A VOW OF NO VOWELS		Newly developed...that's riche! NV	nouveau	2022-05-02	
+2	800	0	A VOW OF NO VOWELS		Newly developed... that's riche! NV	nouveau	2022-05-02	
 2	1600	0	A VOW OF NO VOWELS		An impossibly perfect spot: TP	a utopia	2022-05-02	
 2	2000	0	A VOW OF NO VOWELS		Watery, & we hope you see the humor: QS	aqueous	2022-05-02	
 3	0	0	THEATER		In November 1864 John Wilkes Booth & his brothers were fittingly part of a performance of this Shakespeare play	Julius Caesar	2022-05-02	
@@ -9898,7 +9894,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	THESE WORDS MEAN NO OFFENSE		This word for a small elevator used to move food may cause ire if your food server hears it out of context	a dumbwaiter	2022-05-04	
 2	2000	0	THESE WORDS MEAN NO OFFENSE		The name of this sleeveless jacket, popular in 16th century fashion, starts off offensively, but worry not	a jerkin	2022-05-04	
 3	0	0	THE CIVIL WAR		A Union soldiers' song said General McClellan, who let a Confederate Army escape after this battle, "was too slow to beat 'em\"	Antietam	2022-05-04	
-1	200	0	ART		"Gray Weather, Grand Jatte" tried to show nature's vivid outdoor clarity in all its nuances, according to this painter	Georges Seurat	2022-05-05	
+1	200	0	ART		\"Gray Weather, Grand Jatte" tried to show nature's vivid outdoor clarity in all its nuances, according to this painter	Georges Seurat	2022-05-05	
 1	400	0	ART		Born in Crete, he worked in Spain but that country's king did not care for his 1580s "Martyrdom of St. Maurice\"	El Greco	2022-05-05	
 1	600	0	ART		Moving from Europe to New York in 1940, Piet Mondrian cut loose & painted 2 major works whose titles contain this rhyming music style	boogie-woogie	2022-05-05	
 1	800	0	ART		It was for the USA's centennial that Archibald Willard painted this work showing 3 marching musicians	Spirit of '76	2022-05-05	
@@ -10083,7 +10079,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	NUMERIC HOMOPHONES		Idiomatically, this verb links the cat to the canary & the dog to your homework	ate	2022-05-10	
 1	600	0	NUMERIC HOMOPHONES		A golfer's "look out!\"	fore	2022-05-10	
 1	800	0	NUMERIC HOMOPHONES		It can mean furthermore or very	too	2022-05-10	
-1	1000	0	NUMERIC HOMOPHONES		Merkel's"No\"	nein	2022-05-10	
+1	1000	0	NUMERIC HOMOPHONES		Merkel's "No\"	nein	2022-05-10	
 1	200	0	FROM SHE TO SHINING SHE		Warsaw is home to a statue of this scientist, holding what is supposed to be polonium, part of her life's work	(Marie) Curie	2022-05-10	
 1	400	0	FROM SHE TO SHINING SHE		On Dec. 5, 1955 a Montgomery, Alabama court fined her $10 plus $4 in court costs for violating segregation laws	(Rosa) Parks	2022-05-10	
 1	600	0	FROM SHE TO SHINING SHE		She ended 2019 one Grand Slam singles title short of Margaret Court's record of 24	Serena Williams	2022-05-10	
@@ -10191,11 +10187,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	1400	IN THE NATIONAL PARK		The McKinley Station Trail	Denali (National Park)	2022-05-12	
 1	600	0	IN THE NATIONAL PARK		Alligator Creek Campsite	Everglades	2022-05-12	
 1	800	0	IN THE NATIONAL PARK		In California, Twenty Mule Team Canyon	Death Valley	2022-05-12	
-1	200	0	THE BILLBOARD MUSIC AWARDS		Performing in 2020 just after their family suffered a miscarriage, this piano maestro dedicated "Never Break" to his wife"We will never break /We will never break / Built on a foundation /Strong enough to stay...\"	John Legend	2022-05-12	
-1	400	0	THE BILLBOARD MUSIC AWARDS		\"Straight Up" now name this woman who closed the 2019 show with a greatest hits medley"Straight up now tell me /Do you really want to love me forever (oh, oh, oh) / Or am I caught in a hit-and-run?\"	(Paula) Abdul	2022-05-12	
-1	600	0	THE BILLBOARD MUSIC AWARDS		We won't dance around it—this band! at the 2019 show made their ma proud & lived up to the chorus of a hit tune"Hey look ma, I made it / Hey look ma, I made it...\"	Panic! at the Disco	2022-05-12	
-1	800	0	THE BILLBOARD MUSIC AWARDS		This genre-defying band that broke in 2014 with "Gooey" performed at the BBMAs in 2021"Sometimes, all I think about is you / Late nights in the middle of June / Heat waves been fakin' me out /Heat waves been fakin' me out...\"	Glass Animals	2022-05-12	
-1	1000	0	THE BILLBOARD MUSIC AWARDS		At the 2021 show, this letter-perfect indie pop trio gave a smokin' performance of "Bang!" "So put your best face on everybody / Pretend you know this song / Everybody come hang / Let's go out with a bang /Bang! Bang! Bang!\"	AJR	2022-05-12	
+1	200	0	THE BILLBOARD MUSIC AWARDS		Performing in 2020 just after their family suffered a miscarriage, this piano maestro dedicated "Never Break" to his wife "We will never break / We will never break / Built on a foundation / Strong enough to stay...\"	John Legend	2022-05-12	
+1	400	0	THE BILLBOARD MUSIC AWARDS		\"Straight Up" now name this woman who closed the 2019 show with a greatest hits medley "Straight up now tell me / Do you really want to love me forever (oh, oh, oh) / Or am I caught in a hit-and-run?\"	(Paula) Abdul	2022-05-12	
+1	600	0	THE BILLBOARD MUSIC AWARDS		We won't dance around it—this band! at the 2019 show made their ma proud & lived up to the chorus of a hit tune "Hey look ma, I made it / Hey look ma, I made it...\"	Panic! at the Disco	2022-05-12	
+1	800	0	THE BILLBOARD MUSIC AWARDS		This genre-defying band that broke in 2014 with "Gooey" performed at the BBMAs in 2021 "Sometimes, all I think about is you / Late nights in the middle of June / Heat waves been fakin' me out / Heat waves been fakin' me out...\"	Glass Animals	2022-05-12	
+1	1000	0	THE BILLBOARD MUSIC AWARDS		At the 2021 show, this letter-perfect indie pop trio gave a smokin' performance of "Bang!" "So put your best face on everybody / Pretend you know this song / Everybody come hang / Let's go out with a bang / Bang! Bang! Bang!\"	AJR	2022-05-12	
 1	200	0	NATIVE AMERICAN WOMEN		Susan La Flesche, the first Native person to get this kind of degree, had a solo practice covering the vast Omaha reservation	an MD (a medical degree)	2022-05-12	
 1	400	0	NATIVE AMERICAN WOMEN		In 1613 the English kidnapped this daughter of Powhatan to use her as a hostage in negotiations	Pocahontas	2022-05-12	
 1	600	0	NATIVE AMERICAN WOMEN		Sarah Winnemucca was the first Native woman to secure this protection, with 1883's "Life Among the Piutes: Their Wrongs and Claims\"	a copyright	2022-05-12	
@@ -10570,7 +10566,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	ADELE		At the Grammys in 2017, Adele paid tribute to this late singer, performing his song "Fast Love\"	George Michael	2022-05-20	
 1	800	0	ADELE		Adele won an Oscar for her song from this 2012 James Bond movie	Skyfall	2022-05-20	
 1	1000	0	ADELE		In 2015 listeners were greeted with this song, the first single from Adele's album "25\"	\"Hello\"	2022-05-20	
-2	800	0	HISTORY PAINTINGS		This Spaniard depicted a struggle in Madrid during the Dos de Mayo uprising in "The Second of May 1808"	(Francisco) Goya	2022-05-20	
+2	800	0	HISTORY PAINTINGS		This Spaniard depicted a struggle in Madrid during the Dos de Mayo uprising in "The Second of May 1808\"	(Francisco) Goya	2022-05-20	
 2	1200	0	HISTORY PAINTINGS		Here's a depiction of the discovery of the Gunpowder Plot & the containment of this conspirator	(Guy) Fawkes	2022-05-20	
 2	1600	0	HISTORY PAINTINGS		Géricault's masterpiece called "The Raft of" this depicts the aftermath of a shipwreck, not a Gorgon	Medusa	2022-05-20	
 2	2000	0	HISTORY PAINTINGS		Britain's National Maritime Museum has a painting showing this captain's 1779 death at the hands of Hawaiians	(James) Cook	2022-05-20	
@@ -10699,7 +10695,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	2000	U.S. GEOGRAPHIC HISTORY		Reflecting the name of Istanbul's harbor, c. 1846 the strait connecting this U.S. bay to the ocean was dubbed "Chrysopylae\"	the San Francisco Bay	2022-05-24	
 2	2000	0	U.S. GEOGRAPHIC HISTORY		A 1787 land ordinance set policy & was named for this large region acquired in the Revolutionary War	the Northwest Territory	2022-05-24	
 2	400	0	MED. ABBREV.		I.V. means this, how some shots are given	intravenous	2022-05-24	
-2	800	0	MED. ABBREV.		CTcan stand for this, a cancer treatment	chemotherapy	2022-05-24	
+2	800	0	MED. ABBREV.		CT can stand for this, a cancer treatment	chemotherapy	2022-05-24	
 2	1200	0	MED. ABBREV.		CVA stands for this "accident", a medical term for a stroke	a cerebrovascular accident	2022-05-24	
 2	1600	0	MED. ABBREV.		A bone marrow transplant may lead to GVHD, this disease of incompatibility	graft-versus-host disease	2022-05-24	
 2	2000	0	MED. ABBREV.		An ENT might perform a T&A, these 2 surgeries at one time	a tonsillectomy & adenoidectomy	2022-05-24	
@@ -11117,7 +11113,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	A SHORT GOODBYE		In Hawaiian, A.: it has you both coming & going	aloha	2022-06-02	
 2	800	0	A SHORT GOODBYE		In German, A.W.: until we see each other again!	auf wiedersehen	2022-06-02	
 2	1200	0	A SHORT GOODBYE		In texting, TTFN	ta ta for now	2022-06-02	
-2	1600	0	A SHORT GOODBYE		In English (or British, really)T.: it also has 4 O's	toodle-oo	2022-06-02	
+2	1600	0	A SHORT GOODBYE		In English (or British, really) T.: it also has 4 O's	toodle-oo	2022-06-02	
 2	2000	0	A SHORT GOODBYE		In Russian, D.S.: you'd think it'd be D.V., but nyet	do svidaniya	2022-06-02	
 2	400	0	6 DRUGS		This stimulant found in coffee is the world's most commonly used drug	caffeine	2022-06-02	
 2	800	0	6 DRUGS		Used to treat everything from acne to the plague, tetracycline is this type of drug that fights bacterial infections	antibiotics	2022-06-02	
@@ -11733,7 +11729,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	WORDPLAY-POURRI		Crossword clues "P": Next to the last (11 letters)	penultimate	2022-06-17	
 1	600	0	WORDPLAY-POURRI		5-syllable words: A person aged 100 years or older	a centenarian	2022-06-17	
 1	800	0	WORDPLAY-POURRI		Change a letter: A convenient way to get your bills paid & an examination of a body after death	autopay & autopsy	2022-06-17	
-1	1000	0	WORDPLAY-POURRI		Overlaps: Home city of the NHL sabres+ a type of leather step-in shoe	a Buffaloafer	2022-06-17	
+1	1000	0	WORDPLAY-POURRI		Overlaps: Home city of the NHL sabres + a type of leather step-in shoe	a Buffaloafer	2022-06-17	
 1	200	0	HOME SWEET HOME RENOVATION		They say "No man is" one, but no kitchen of ours will be without one of these! Maybe with a wine rack, too!	an island	2022-06-17	
 1	400	0	HOME SWEET HOME RENOVATION		Time to change the look with a new this but which type? Mansard, gambrel or Dutch gabled?	a roof	2022-06-17	
 1	600	0	HOME SWEET HOME RENOVATION		This type of flooring named for two parts that fit together is a nice choice, easy to install & with tight seams	a tongue & groove (T&G)	2022-06-17	
@@ -12110,10 +12106,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	2000	FEELING SCIENCE-"E\"	(Mayim: Responses start with "E".)	These hormones relieve pain but probably don't give the runner's high as once thought	endorphins	2022-06-27	
 1	1000	0	FEELING SCIENCE-"E\"	(Mayim: Responses start with "E".)	It's hibernation, but in summer	estivation	2022-06-27	
 2	400	0	ART LOVERS		In a work by Corot this hero leads Eurydice from the Underworld	Orpheus	2022-06-27	
-2	800	0	ART LOVERS		"Undergrowth with Two Figures" from 1890 is one of the last works by this artist	van Gogh	2022-06-27	
+2	800	0	ART LOVERS		\"Undergrowth with Two Figures" from 1890 is one of the last works by this artist	van Gogh	2022-06-27	
 2	1200	3000	ART LOVERS		Jean-Antoine Watteau's "The Perfect Accord" has also been translated as "Perfect" this musical term	Harmony	2022-06-27	
 2	1600	0	ART LOVERS		Edmund Blair Leighton's painting evokes this doomed Celtic pair who were reunited by a love potion meant for another	Tristan & Isolde	2022-06-27	
-2	2000	0	ART LOVERS		"Love Among the Ruins" by Edward Coley Burne-Jones is an example of the works of this 19th century artistic brotherhood	the Pre-Raphaelite Brotherhood	2022-06-27	
+2	2000	0	ART LOVERS		\"Love Among the Ruins" by Edward Coley Burne-Jones is an example of the works of this 19th century artistic brotherhood	the Pre-Raphaelite Brotherhood	2022-06-27	
 2	400	0	SOUTHERN CAPITALS		For info on this state capital, check out The Redstick Blog	Baton Rouge	2022-06-27	
 2	800	0	SOUTHERN CAPITALS		This capital was named for the man called "Old Hickory\"	Jackson	2022-06-27	
 2	1200	0	SOUTHERN CAPITALS		Just 15 years after becoming a state capital, it became the first capital of the Confederacy	Montgomery	2022-06-27	
@@ -12218,7 +12214,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	DIET HARD WITH A VENGEANCE		Capsaicin in these has been shown to increase fat burning & reduce appetite, but maybe lay off the "Red Hot" Red Savina type	(chili) peppers	2022-06-29	
 1	600	0	DIET HARD WITH A VENGEANCE		To lower calories, choose types of this like albacore that's canned in water & not oil, which can add fat	tuna	2022-06-29	
 1	800	0	DIET HARD WITH A VENGEANCE		Seaweed has few calories, lots of fiber & provides iodine that supports this gland that controls the body's metabolism	the thyroid	2022-06-29	
-1	1000	0	DIET HARD WITH A VENGEANCE		The flowers of plants like broccoli form a cross, so you may read about the benefits of these vegetables meaning "cross-bearing"	cruciferous	2022-06-29	
+1	1000	0	DIET HARD WITH A VENGEANCE		The flowers of plants like broccoli form a cross, so you may read about the benefits of these vegetables meaning "cross-bearing\"	cruciferous	2022-06-29	
 1	200	0	LET'S GO BACK IN TIME MACHINE MOVIES		Yeah, baby! this groovy secret agent got back to the '70s in style in a customized Cadillac Eldorado	Austin Powers	2022-06-29	
 1	400	0	LET'S GO BACK IN TIME MACHINE MOVIES		John Cusack returns to 1986 via this title device described by allmovie.com as "a magical Jacuzzi\"	Hot Tub Time Machine	2022-06-29	
 1	600	0	LET'S GO BACK IN TIME MACHINE MOVIES		In the 1979 thriller "Time After Time", Malcolm McDowell plays H.G. Wells on the hunt for this Victorian killer in the future	Jack the Ripper	2022-06-29	
@@ -12267,7 +12263,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	\"STAN" COUNTRIES		Britannica says its "forbidding landscape of deserts & mountains has laid many imperial ambitions to rest\"	Afghanistan	2022-06-30	
 1	400	600	\"STAN" COUNTRIES		Iran is on the western border of this country; the Arabian Sea, on its southern	Pakistan	2022-06-30	
 1	600	0	\"STAN" COUNTRIES		Home to about 3 million, this country's capital of Tashkent is the largest city in Central Asia	Uzbekistan	2022-06-30	
-1	200	0	JOURNALISM		OTR,it's the way a statement is given to a reporter in confidence & not to be published	off the record	2022-06-30	
+1	200	0	JOURNALISM		OTR, it's the way a statement is given to a reporter in confidence & not to be published	off the record	2022-06-30	
 1	400	0	JOURNALISM		Because they both attracted readers, a 19th century character in newspaper comics lent his name to this sensational type of journalism	yellow (journalism)	2022-06-30	
 1	600	0	JOURNALISM		In 1971 he popularized gonzo journalism after Sports Illustrated assigned him to cover a motorcycle race	(Hunter S.) Thompson	2022-06-30	
 1	800	0	JOURNALISM		Known for his exposés, this journalist dedicated his book "War on Peace" to his mother Mia	Ronan Farrow	2022-06-30	
@@ -12580,9 +12576,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	FROM THE SPEEDWAY	(Jimmy: From the Speedway—the Las Vegas Motor Speedway, home of NASCAR and so much more.)	(Jimmy of the Clue Crew presents from the Las Vegas Motor Speedway.) In 2019, the Vegas Speedway was the site of aerodynamic testing, including a longer splitter, the front end equivalent to this rear piece; by increasing downforce, it reduces lift & maintains traction	a spoiler	2022-07-07	
 1	1000	0	FROM THE SPEEDWAY	(Jimmy: From the Speedway—the Las Vegas Motor Speedway, home of NASCAR and so much more.)	(Jimmy of the Clue Crew presents from the Las Vegas Motor Speedway.) The purpose of drafting, or following closely behind another car, is to create this between his tail & your nose; so he pulls you along as your draft is reduced substantially	a vacuum	2022-07-07	
 2	400	0	NEXT LEADER IN LINE		Scottish kings: Malcolm II, Duncan I, him	Macbeth	2022-07-07	
-2	800	0	NEXT LEADER IN LINE		Presidents of France: Sarkozy, Hollande,him since 2017	Macron	2022-07-07	
+2	800	0	NEXT LEADER IN LINE		Presidents of France: Sarkozy, Hollande, him since 2017	Macron	2022-07-07	
 2	1200	0	NEXT LEADER IN LINE		Soviet leaders: Andropov, Chernenko, him (the end)	Gorbachev	2022-07-07	
-2	1600	4500	NEXT LEADER IN LINE		Hapsburg Dynasty: Joseph ICharles VI,her	Maria Theresa	2022-07-07	
+2	1600	4500	NEXT LEADER IN LINE		Hapsburg Dynasty: Joseph I Charles VI, her	Maria Theresa	2022-07-07	
 2	2000	0	NEXT LEADER IN LINE		Roman emperors: Tiberius, Caligula, this man played on TV by Derek Jacobi	Claudius	2022-07-07	
 2	400	0	4-LETTER ACRONYMS		The U.S. military gave us this other way to say "at your very earliest convenience\"	ASAP	2022-07-07	
 2	800	0	4-LETTER ACRONYMS		The "E" in this acronym that precedes "package" originally stood for Europe, where the packages went	CARE	2022-07-07	
@@ -13063,7 +13059,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	INTERNATIONAL NATIONAL PARKS		A sanctuary for moose, elk & bison, a Saskatchewan national park bears the name of this 19th century royal husband	Prince Albert	2022-07-19	
 2	1600	0	INTERNATIONAL NATIONAL PARKS		Urho Kekkonen National Park in this nation is illuminated in summer by the midnight sun	Finland	2022-07-19	
 2	2000	0	INTERNATIONAL NATIONAL PARKS		This country's parks include Bontebok, a reserve for the rare bontebok antelope, as well as Kruger & Agulhas	South Africa	2022-07-19	
-2	400	0	THE MOVIE'S DIRECTOR		The 2019 horror thriller"Us\"	Jordan Peele	2022-07-19	
+2	400	0	THE MOVIE'S DIRECTOR		The 2019 horror thriller "Us\"	Jordan Peele	2022-07-19	
 2	800	0	THE MOVIE'S DIRECTOR		2003's "Lost in Translation\"	Sofia Coppola	2022-07-19	
 2	1200	0	THE MOVIE'S DIRECTOR		The all-American tale "Mr. Deeds Goes to Town"—with Gary Cooper, not Adam Sandler	Frank Capra	2022-07-19	
 2	1600	0	THE MOVIE'S DIRECTOR		The 2021 Marvel Cinematic Universe installment "Eternals\"	Chloé Zhao	2022-07-19	

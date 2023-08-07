@@ -30,9 +30,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	GREEK & LATIN PREFIXES		This near-the-end-of-the-alphabet prefix often paired with "phobia" is from the Greek for "alien\"	xeno-	2019-09-09	
 2	400	0	BROADWAY MUSICALS BY CHARACTER		Fraulein Schneider & the Master of Ceremonies	Cabaret	2019-09-09	
 2	800	0	BROADWAY MUSICALS BY CHARACTER		Velma Kelly & her lawyer Billy Flynn	Chicago	2019-09-09	
-2	1200	0	BROADWAY MUSICALS BY CHARACTER		Laurey,Curly,Jud Fry	Oklahoma!	2019-09-09	
-2	1600	0	BROADWAY MUSICALS BY CHARACTER		Danny,Sandy,Rizzo	Grease	2019-09-09	
-2	2000	0	BROADWAY MUSICALS BY CHARACTER		Max von Mayerling,Norma Desmond	Sunset Boulevard	2019-09-09	
+2	1200	0	BROADWAY MUSICALS BY CHARACTER		Laurey, Curly, Jud Fry	Oklahoma!	2019-09-09	
+2	1600	0	BROADWAY MUSICALS BY CHARACTER		Danny, Sandy, Rizzo	Grease	2019-09-09	
+2	2000	0	BROADWAY MUSICALS BY CHARACTER		Max von Mayerling, Norma Desmond	Sunset Boulevard	2019-09-09	
 2	400	0	THE 1820s		Better known to us as an inventor, Samuel F.B. Morse pursued art in the 1820s & painted portraits, like of this lexicographer	Webster	2019-09-09	
 2	800	0	THE 1820s		In 1824 this symphony premiered at the Theater am Kärntnertor in Vienna	Beethoven's Ninth Symphony	2019-09-09	
 2	1200	0	THE 1820s		\"Sacr" bleu! French king Charles X's law named for this sinful crime, like stealing communion wafers, could impose the death penalty	sacrilege	2019-09-09	
@@ -125,7 +125,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	HOBBIES & PASTIMES		Amateur astronomers know of the 5 planets that can be seen with the naked eye, this is the farthest from the Sun	Saturn	2019-09-11	
 1	600	0	HOBBIES & PASTIMES		Clay pigeons simulating birds in flight are mechanically lofted skyward in this pastime; pull!	skeet (or trap shooting)	2019-09-11	
 1	800	0	HOBBIES & PASTIMES		Forge your own knife in this hobby that takes its name from a worker of metals	blacksmithing	2019-09-11	
-1	1000	0	HOBBIES & PASTIMES		\"Jeopardy!" contestants have cool hobbies—here's one summarizing this activity she enjoys"...where you look for hidden treasures based on the GPS locations that you find on a website...\"	geocaching	2019-09-11	
+1	1000	0	HOBBIES & PASTIMES		\"Jeopardy!" contestants have cool hobbies—here's one summarizing this activity she enjoys "...where you look for hidden treasures based on the GPS locations that you find on a website...\"	geocaching	2019-09-11	
 1	200	0	NUMERIC LIT		This kid lit classic has a chapter called "The Puppies Arrive\"	One Hundred and One Dalmatians	2019-09-11	
 1	400	0	NUMERIC LIT		E.L. James self-published this first book in an erotic series that started as fan fiction loosely based on "Twilight\"	Fifty Shades of Grey	2019-09-11	
 1	600	5400	NUMERIC LIT		The cover of the first edition of this 1961 military novel included a dancing figure & a little airplane	Catch-22	2019-09-11	
@@ -137,10 +137,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	THANK YOU		In Luke 17 Jesus healed 10 men with this skin disease but only one thanked him	leprosy	2019-09-11	
 1	1000	0	THANK YOU		David Finkel's acclaimed follow-up to "The Good Soldiers", about those soldiers returning home, has this 5-word title	Thank You for Your Service	2019-09-11	
 1	200	0	NEXT		\"Tonight Show" hosts: Paar, Carson, him, Conan, him	Leno	2019-09-11	
-1	400	0	NEXT		Rolling Stones Top 40 hits: "Heart of Stone", "The Last Time",this signature song, the band's first No. 1	\"(I Can't Get No) Satisfaction" ("Satisfaction" accepted)	2019-09-11	
-1	600	0	NEXT		World Series winners since 2016: the Cubs,the Astros,this A.L. team	the Red Sox	2019-09-11	
-1	800	0	NEXT		Movie James Bonds: Roger Moore,Timothy Dalton,him	(Pierce) Brosnan	2019-09-11	
-1	1000	0	NEXT		Grisham novels: "The Client", "The Chamber", "The Rainmaker",this title 12	The Runaway Jury	2019-09-11	
+1	400	0	NEXT		Rolling Stones Top 40 hits: "Heart of Stone", "The Last Time", this signature song, the band's first No. 1	\"(I Can't Get No) Satisfaction" ("Satisfaction" accepted)	2019-09-11	
+1	600	0	NEXT		World Series winners since 2016: the Cubs, the Astros, this A.L. team	the Red Sox	2019-09-11	
+1	800	0	NEXT		Movie James Bonds: Roger Moore, Timothy Dalton, him	(Pierce) Brosnan	2019-09-11	
+1	1000	0	NEXT		Grisham novels: "The Client", "The Chamber", "The Rainmaker", this title 12	The Runaway Jury	2019-09-11	
 2	800	0	IT IS ROCKET SCIENCE		Beginning in 1989 the solid rocket boosters in this NASA program carried radio transponders so they could be recovered & reused	the Shuttle program	2019-09-11	
 2	1200	0	IT IS ROCKET SCIENCE		Hutchings was the middle name of this notorious RHG who pioneered rocket science	(Robert H.) Goddard	2019-09-11	
 2	1600	0	IT IS ROCKET SCIENCE		This force that propels a rocket is equal to the rate at which it expels mass times the velocity of its exhaust	thrust	2019-09-11	
@@ -182,8 +182,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	BLANK THAT GUY		Connived his way to control of the New York City Treasury in the 1870s: William "____" ____	\"Boss" Tweed	2019-09-12	
 1	400	0	BLANK THAT GUY		Alliterative SS chief: Heinrich ____	Himmler	2019-09-12	
 1	600	0	BLANK THAT GUY		Ran a brutal gang in Prohibition-era NYC: Dutch ___	Schultz	2019-09-12	
-1	800	0	BLANK THAT GUY		Shot near a Virginia farmhouse in April 1865:____ ____ ____	John Wilkes Booth	2019-09-12	
-1	1000	0	BLANK THAT GUY		Took over in Cambodia in 1975:____ ____	Pol Pot	2019-09-12	
+1	800	0	BLANK THAT GUY		Shot near a Virginia farmhouse in April 1865: ____ ____ ____	John Wilkes Booth	2019-09-12	
+1	1000	0	BLANK THAT GUY		Took over in Cambodia in 1975: ____ ____	Pol Pot	2019-09-12	
 1	200	0	CISTERN CITIES		Ancient cisterns were basically rainwater barrels; in 79 A.D., some Pompeiians tried to hide in them from this disaster	the eruption of Vesuvius	2019-09-12	
 1	400	0	CISTERN CITIES		Located near the Hagia Sophia, the Basilica Cistern is a huge one Justinian I built under this city	Istanbul	2019-09-12	
 1	600	0	CISTERN CITIES		This tippy-top area of Athens employed wells & cisterns	the Acropolis	2019-09-12	
@@ -193,10 +193,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	IT'S HYPHENATED		Like the platypus, dinosaurs known as hadrosaurs have this descriptive facial adjective applied to them	duck-bill	2019-09-12	
 1	800	0	IT'S HYPHENATED		It takes about a week to travel the 5,700-mile route from Moscow to Vladivostok on this railway	the Trans-Siberian	2019-09-12	
 1	1000	0	IT'S HYPHENATED		During the Revolutionary War, George Washington had many of these confidential assistants including Alexander Hamilton	aide-de-camp	2019-09-12	
-1	200	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) A star on Chicago's WLS Radio, "Oklahoma Cowboy" Gene Autry made the rendition of this song that was said to be a favorite of FDR"Oh, give me a home where the buffalo roam / Where the...\"	\"Home On The Range\"	2019-09-12	
-1	400	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) With the release of their first album which hit No. 1 in 1984 they became one of the most successful country duos of all time"You had to see if the world was round /It's time that you learned how good settlin' down could be /Why not me...\"	The Judds	2019-09-12	
+1	200	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) A star on Chicago's WLS Radio, "Oklahoma Cowboy" Gene Autry made the rendition of this song that was said to be a favorite of FDR "Oh, give me a home where the buffalo roam / Where the...\"	\"Home On The Range\"	2019-09-12	
+1	400	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) With the release of their first album which hit No. 1 in 1984 they became one of the most successful country duos of all time "You had to see if the world was round / It's time that you learned how good settlin' down could be / Why not me...\"	The Judds	2019-09-12	
 1	600	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) Giving a big boost to his career in 1968 this singer went behind bars to record an epic live album at Folsom Prison	(Johnny) Cash	2019-09-12	
-1	800	6000	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) Before her untimely death, she saw her career take off beginning with her first No. 1 hit that she had been reluctant to record"I fall to pieces / Each time...\"	Patsy Cline	2019-09-12	
+1	800	6000	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) Before her untimely death, she saw her career take off beginning with her first No. 1 hit that she had been reluctant to record "I fall to pieces / Each time...\"	Patsy Cline	2019-09-12	
 1	1000	0	COUNTRY MUSIC	(Alex: A whole category devoted to a new documentary by Ken Burns called Country Music and he will be delivering each clue in the category.)	(Ken Burns delivers the clue.) In the 1960s times were changing & new on the scene was this man, who became the most successful Black performer in country music	Charley Pride	2019-09-12	
 2	400	0	ANATOMICAL ETYMOLOGY		The name of this joint means "arm bend\"	the elbow	2019-09-12	
 2	800	0	ANATOMICAL ETYMOLOGY		From the Latin for "neck", it's the narrow, necklike lower end of the uterus	cervix	2019-09-12	
@@ -418,11 +418,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	RECENT BESTSELLERS		As if he weren't busy enough, this Broadway musical creator provided some self-help in "Gmorning, Gnight!\"	(Lin-Manuel) Miranda	2019-09-18	
 1	800	0	RECENT BESTSELLERS		Readers liked this Oscar-winning actress...you liked this Oscar-winning actress! & also her memoir "In Pieces\"	(Sally) Field	2019-09-18	
 1	1000	0	RECENT BESTSELLERS		In "Grateful American" he tells how playing a movie lieutenant led to a mission of supporting troops & veterans	Gary Sinise	2019-09-18	
-1	200	0	DESCRIBING THE CASINO GAME		It's a wheel that can bring you fortune;bet even or odd;I'm seeing red	roulette	2019-09-18	
-1	400	0	DESCRIBING THE CASINO GAME		There's no joy in a push;soft numbers, hard choices;a "split" personality	blackjack	2019-09-18	
-1	600	0	DESCRIBING THE CASINO GAME		The stickman cometh;easy "come", easy go;get the point? Good for you!	craps	2019-09-18	
-1	800	0	DESCRIBING THE CASINO GAME		Dressed & playing to the 9s;banker's hours;what brings you to Monaco, Mr. Bond?	baccarat	2019-09-18	
-1	1000	0	DESCRIBING THE CASINO GAME		The joker is semi-wild & dressed as an ace;one hand becomes 2;the Asian name of the game	pai gow poker	2019-09-18	
+1	200	0	DESCRIBING THE CASINO GAME		It's a wheel that can bring you fortune; bet even or odd; I'm seeing red	roulette	2019-09-18	
+1	400	0	DESCRIBING THE CASINO GAME		There's no joy in a push; soft numbers, hard choices; a "split" personality	blackjack	2019-09-18	
+1	600	0	DESCRIBING THE CASINO GAME		The stickman cometh; easy "come", easy go; get the point? Good for you!	craps	2019-09-18	
+1	800	0	DESCRIBING THE CASINO GAME		Dressed & playing to the 9s; banker's hours; what brings you to Monaco, Mr. Bond?	baccarat	2019-09-18	
+1	1000	0	DESCRIBING THE CASINO GAME		The joker is semi-wild & dressed as an ace; one hand becomes 2; the Asian name of the game	pai gow poker	2019-09-18	
 1	200	0	\"M" PORTS		This city's port on Biscayne Bay calls itself "Cruise Capital of the World\"	Miami	2019-09-18	
 1	400	0	\"M" PORTS		A peninsula in the Mississippi called Presidents Island is the center of this Tennessee city's port	Memphis	2019-09-18	
 1	600	0	\"M" PORTS		It's home to the Alabama State Docks	Mobile	2019-09-18	
@@ -430,14 +430,13 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	\"M" PORTS		(Jimmy of the Clue Crew shows a map of the Mediterranean on the monitor.) Carthaginians, Romans, Goths, Byzantines & Arabs have all occupied this ancient Sicilian port city that gives its name to an important Mediterranean strait	Messina	2019-09-18	
 2	400	0	REAL-LIFE METAPHORS		In "Casablanca", Bogie says "the problems of three little people don't amount to" this	a hill of beans	2019-09-18	
 2	800	0	REAL-LIFE METAPHORS		A 1979 book by conservative thinker Jack Kemp popularized this term for programs like welfare	safety net	2019-09-18	
-2	1200	0	REAL-LIFE METAPHORS		It's the brush-off you'd get from the person here	a cold shoulder	2019-09-18	
 2	1600	0	REAL-LIFE METAPHORS		It's the kind of political work done at the local & individual level, not through mass marketing	grassroots	2019-09-18	
 2	2000	0	REAL-LIFE METAPHORS		Really, really old expression meaning that an irreversible step has been taken	the die is cast	2019-09-18	
-2	400	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Calif., vice president, president;played by Anthony Hopkins in a biopic	Richard Nixon	2019-09-18	
-2	800	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Massachusetts, president;played by Cliff Robertson in a biopic	John F. Kennedy	2019-09-18	
-2	1200	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Virginia, vice president;president, 1841-45;never been played in a biopic	Tyler	2019-09-18	
-2	1600	0	CAREER HIGHLIGHTS		Financier;White House director of communications, July 21-31, 2017;"Celebrity Big Brother" contestant	Anthony Scaramucci ("The Mooch" accepted)	2019-09-18	
-2	2000	3000	CAREER HIGHLIGHTS		Governor, secretary of energy;"Dancing with the Stars" contestant	(Rick) Perry	2019-09-18	
+2	400	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Calif., vice president, president; played by Anthony Hopkins in a biopic	Richard Nixon	2019-09-18	
+2	800	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Massachusetts, president; played by Cliff Robertson in a biopic	John F. Kennedy	2019-09-18	
+2	1200	0	CAREER HIGHLIGHTS		U.S. congressman & senator from Virginia, vice president; president, 1841-45; never been played in a biopic	Tyler	2019-09-18	
+2	1600	0	CAREER HIGHLIGHTS		Financier; White House director of communications, July 21-31, 2017; "Celebrity Big Brother" contestant	Anthony Scaramucci ("The Mooch" accepted)	2019-09-18	
+2	2000	3000	CAREER HIGHLIGHTS		Governor, secretary of energy; "Dancing with the Stars" contestant	(Rick) Perry	2019-09-18	
 2	400	0	CLASSIC METAL BANDS		Megadeth founder Dave Mustaine partied so hard he got kicked out of this band whose very name says "metal\"	Metallica	2019-09-18	
 2	800	0	CLASSIC METAL BANDS		\"And I want! And I need! And I lust!" are primal lyrics from this band's "Animal\"	Def Leppard	2019-09-18	
 2	1200	7600	CLASSIC METAL BANDS		\"We're Not Gonna Take It" by this Dee Snider band has some musical roots in "O Come, All Ye Faithful\"	Twisted Sister	2019-09-18	
@@ -1965,7 +1964,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES		Smokey was named for Smokey Joe Martin, a member of this famed urban force for 46 years & a hero of the "Greenwich Volcano" blaze	the New York Fire Department	2019-10-25	
 1	600	0	SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES		Prior to Smokey Bear's debut in 1944, the U.S. Forest Service used this Disney deer in ads	Bambi	2019-10-25	
 1	800	0	SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES		In 1950 Smokey got a living symbol: a bear cub that survived a forest fire in this state; his burns were treated in Santa Fe	New Mexico	2019-10-25	
-1	1000	0	SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES		This deep-voiced actor who played Bradley Cooper's brother in "A Star is Born" has been the voice of Smokey for over a decade: "Only you can prevent forest fires."	(Sam) Elliott	2019-10-25	
+1	1000	0	SMOKEY BEAR: 75TH YEAR PREVENTING WILDFIRES		This deep-voiced actor who played Bradley Cooper's brother in "A Star is Born" has been the voice of Smokey for over a decade: "Only you can prevent forest fires.\"	(Sam) Elliott	2019-10-25	
 1	200	0	FOREIGN WORDS & PHRASES		In the original Italian, this coffee drink with steamed milk has "caffé" before it	latte	2019-10-25	
 1	400	0	FOREIGN WORDS & PHRASES		The name of this craft is Japanese for "folding paper\"	origami	2019-10-25	
 1	600	0	FOREIGN WORDS & PHRASES		Oy, you're so clumsy—in fact, you're this Yiddish word for a clumsy person, from a word meaning "wooden beam\"	a klutz	2019-10-25	
@@ -2015,7 +2014,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	5000	ANIMAL COMMUNITY		Konrad Lorenz found that newly hatched ducklings followed him due to this "I" process, as if he were their parent	imprinting	2019-10-25	
 2	2000	0	ANIMAL COMMUNITY		Mud baths remove bugs from the Cape buffalo, & if that doesn't get them all, the cattle type of this white wading bird helps	the egret	2019-10-25	
 2	400	0	THE WESTERN CONFERENCE		Attended by 46 delegations, the San Francisco Conference of 1945 gave birth to this international organization	the United Nations	2019-10-25	
-2	800	0	THE WESTERN CONFERENCE		At the 1822 Guayaquil Conference, José Francisco de San Martín met this other South American liberator in western Ecuador	‎(Simón) Bolivar	2019-10-25	
+2	800	0	THE WESTERN CONFERENCE		At the 1822 Guayaquil Conference, José Francisco de San Martín met this other South American liberator in western Ecuador	(Simón) Bolivar	2019-10-25	
 2	1200	0	THE WESTERN CONFERENCE		South by Southwest is an annual festival in this Texas city	Austin, Texas	2019-10-25	
 2	1600	0	THE WESTERN CONFERENCE		The 1920 Conference of San Remo along Italy's western Riviera decided the fate of this empire's former territories	the Ottoman Empire	2019-10-25	
 2	2000	0	THE WESTERN CONFERENCE		The 2018 emerging Cascadia Innovation Corridor Conference featured this Washington gov. who's trying to stop climate change	(Jay) Inslee	2019-10-25	
@@ -2451,11 +2450,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	TECH STUFF		chromium.org is a place for developers to learn about & contribute to this company's browser	Google	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
 1	800	0	TECH STUFF		A busy little bee told us this app isn't just for dating anymore, with Bizz & BFF options	Bumble	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
 1	1000	0	TECH STUFF		With regard to TVs, HDR doesn't stand for high definition, but rather "high" this "range\"	dynamic range	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
-1	200	0	THE NAME OF THE GAME		Free Parking,Just Visiting	Monopoly	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
-1	400	0	THE NAME OF THE GAME		Contract,discard,no trump	bridge	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
-1	600	0	THE NAME OF THE GAME		Don't come,easy way,proposition bet	craps	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
-1	800	0	THE NAME OF THE GAME		Bag o' nuts,breakfast,bull & cork	darts	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
-1	1000	0	THE NAME OF THE GAME		Armor class,wisdom,forgotten realms	Dungeons & Dragons	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
+1	200	0	THE NAME OF THE GAME		Free Parking, Just Visiting	Monopoly	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
+1	400	0	THE NAME OF THE GAME		Contract, discard, no trump	bridge	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
+1	600	0	THE NAME OF THE GAME		Don't come, easy way, proposition bet	craps	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
+1	800	0	THE NAME OF THE GAME		Bag o' nuts, breakfast, bull & cork	darts	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
+1	1000	0	THE NAME OF THE GAME		Armor class, wisdom, forgotten realms	Dungeons & Dragons	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
 1	200	0	\"ALL" IN		To use a delaying tactic in order to get additional time	to stall	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
 1	400	0	\"ALL" IN		Botanical term for someone at a social event who has no one to dance with or talk to	a wallflower	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
 1	600	0	\"ALL" IN		This type of transport used by the Conquistadors could be used for fighting or carrying goods	a galleon	2019-11-06	2019 Tournament of Champions quarterfinal game 3.
@@ -2729,11 +2728,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	HOW'S YOUR LATIN VOCABULARY?		Nimbus is this 5-letter object of nature	a cloud	2019-11-12	2019 Tournament of Champions semifinal game 2.
 2	1600	3200	HOW'S YOUR LATIN VOCABULARY?		Someone deeply respected due to their serious nature has a lot of this 8- letter Latin term	gravitas	2019-11-12	2019 Tournament of Champions semifinal game 2.
 2	2000	0	HOW'S YOUR LATIN VOCABULARY?		Meaning an emergency force, "posse" this	comitatus	2019-11-12	2019 Tournament of Champions semifinal game 2.
-2	400	0	NOVELS BY CHARACTERS		Heathcliff &Edgar Linton	Wuthering Heights	2019-11-12	2019 Tournament of Champions semifinal game 2.
-2	800	0	NOVELS BY CHARACTERS		Yuri,Uncle Kolya,Lara	Doctor Zhivago	2019-11-12	2019 Tournament of Champions semifinal game 2.
-2	1200	0	NOVELS BY CHARACTERS		By Zadie Smith: Samad Iqbal & family,Archie Jones & family,the Chalfen family	White Teeth	2019-11-12	2019 Tournament of Champions semifinal game 2.
-2	1600	0	NOVELS BY CHARACTERS		Nat;Joseph Travis, his master;Judge Cobb	The Confessions of Nat Turner	2019-11-12	2019 Tournament of Champions semifinal game 2.
-2	2000	0	NOVELS BY CHARACTERS		Mildred Rogers &the clubfooted Philip Carey	Of Human Bondage	2019-11-12	2019 Tournament of Champions semifinal game 2.
+2	400	0	NOVELS BY CHARACTERS		Heathcliff & Edgar Linton	Wuthering Heights	2019-11-12	2019 Tournament of Champions semifinal game 2.
+2	800	0	NOVELS BY CHARACTERS		Yuri, Uncle Kolya, Lara	Doctor Zhivago	2019-11-12	2019 Tournament of Champions semifinal game 2.
+2	1200	0	NOVELS BY CHARACTERS		By Zadie Smith: Samad Iqbal & family, Archie Jones & family, the Chalfen family	White Teeth	2019-11-12	2019 Tournament of Champions semifinal game 2.
+2	1600	0	NOVELS BY CHARACTERS		Nat; Joseph Travis, his master; Judge Cobb	The Confessions of Nat Turner	2019-11-12	2019 Tournament of Champions semifinal game 2.
+2	2000	0	NOVELS BY CHARACTERS		Mildred Rogers & the clubfooted Philip Carey	Of Human Bondage	2019-11-12	2019 Tournament of Champions semifinal game 2.
 2	400	0	DON'T FORGET THE LYRICS		Elvis: "We're caught in a trap, I can't walk out, because I love you too much, baby... we can't go on to-gether, with" these	suspicious minds	2019-11-12	2019 Tournament of Champions semifinal game 2.
 2	800	0	DON'T FORGET THE LYRICS		\"No no no no no, oo-eee-hoo, I'll tell you once more, before I get off the floor", this E.L.O. title	\"Don't Bring Me Down\"	2019-11-12	2019 Tournament of Champions semifinal game 2.
 2	1200	0	DON'T FORGET THE LYRICS		Walk the Moon: "Oh don't you dare look back, just keep your eyes on me, I said you're holding back, she said" do this	shut up and dance with me	2019-11-12	2019 Tournament of Champions semifinal game 2.
@@ -2954,7 +2953,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	COMEDIANS ON AUDIBLE		\"Yes Please", we want to hear this woman read from her book "Yes Please": Playing Leslie Knope is as fun as it looks. I get to be the lead on a show I would actually watch	Amy Poehler	2019-11-18	
 2	1200	0	COMEDIANS ON AUDIBLE		He says he was "Born Standing Up": I did stand-up comedy for 18 years. Ten of those years were spent learning, four years were spent refining and four were spent in wild success	Steve Martin	2019-11-18	
 2	1600	0	COMEDIANS ON AUDIBLE		He shares his life lessons with listeners: See, as the little guy, you got a choice to make if you wanna be popular: you can be the tough guy and overcompensate for your mini-me self or you can be the funny guy and accept your size	Kevin Hart	2019-11-18	
-2	2000	0	COMEDIANS ON AUDIBLE		This late, great comic shared some observations in "Napalm & Silly Putty" A cat can make any mistake appear intentional. You ever see a cat race across a room and crash into a glass door? Doesn't faze him at all. Whizz! Bam! "I meant that"	George Carlin	2019-11-18	
+2	2000	0	COMEDIANS ON AUDIBLE		This late, great comic shared some observations in "Napalm & Silly Putty" A cat can make any mistake appear intentional. You ever see a cat race across a room and crash into a glass door? Doesn't faze him at all. Whizz! Bam! "I meant that\"	George Carlin	2019-11-18	
 2	400	0	\"MIS"INFORMATION		It's a name mistakenly applied to someone or something	a misnomer	2019-11-18	
 2	800	0	\"MIS"INFORMATION		Calling 911 for purposes other than an emergency may be classified this type of crime	a misdemeanor	2019-11-18	
 2	1200	0	\"MIS"INFORMATION		It's another name for a written message or letter	a missive	2019-11-18	
@@ -3041,11 +3040,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	ISLANDS IN THE "C\"		Ile Sumba: this river in a "Democratic Republic\"	the Congo	2019-11-19	
 2	2000	0	ISLANDS IN THE "C\"		Bird Islet & Cato Island, near the Great Barrier Reef: this sea	the Coral Sea	2019-11-19	
 3	0	0	BUSINESS & INDUSTRY		Peaking at 9,000 locations in 2004, this chain of stores was down to one in 2019, located in Bend, Oregon	Blockbuster	2019-11-19	
-1	200	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	Disney's first-ever Broadway adaptation was this one based on a movie & a fairy tale"Be our guest, be our guest / Our command is your...\"	Beauty and the Beast	2019-11-20	
-1	400	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	This hit musical will give you chills"And let it go, let it go /You'll never see me cry / Here I am...\"	Frozen	2019-11-20	
-1	600	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	The Sherman brothers turned a mouthful into a catchy song, a delightful scene in this musical"Supercalifragilistic-expialidocious / Even though the sound of it is something quite atrocious / If you say it loud enough...\"	Mary Poppins	2019-11-20	
-1	800	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	The spectacular opening number of this show is just one reason it won a Best Musical Tony"It's the circle of life / And it moves us all...\"	The Lion King	2019-11-20	
-1	1000	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	Special footwear helps the characters glide across the stage in a show-stopping number from this musical"Under the sea (under the sea) / Under the sea (under the sea) / When the sardine begin the beguine / It's music to me...\"	The Little Mermaid	2019-11-20	
+1	200	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	Disney's first-ever Broadway adaptation was this one based on a movie & a fairy tale "Be our guest, be our guest / Our command is your...\"	Beauty and the Beast	2019-11-20	
+1	400	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	This hit musical will give you chills "And let it go, let it go / You'll never see me cry / Here I am...\"	Frozen	2019-11-20	
+1	600	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	The Sherman brothers turned a mouthful into a catchy song, a delightful scene in this musical "Supercalifragilistic-expialidocious / Even though the sound of it is something quite atrocious / If you say it loud enough...\"	Mary Poppins	2019-11-20	
+1	800	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	The spectacular opening number of this show is just one reason it won a Best Musical Tony "It's the circle of life / And it moves us all...\"	The Lion King	2019-11-20	
+1	1000	0	DISNEY ON BROADWAY	(Alex: First off, we're gonna celebrate [*]. They've been on Broadway for 25 years.)	Special footwear helps the characters glide across the stage in a show-stopping number from this musical "Under the sea (under the sea) / Under the sea (under the sea) / When the sardine begin the beguine / It's music to me...\"	The Little Mermaid	2019-11-20	
 1	200	0	THERE'S A NATIONAL DAY FOR THAT		The second Monday in February is Clean Out Your this Day, so shake the crumbs out of that keyboard & delete those unused .exes	a Computer	2019-11-20	
 1	400	0	THERE'S A NATIONAL DAY FOR THAT		Write (actually write, on paper) a letter on June 1, the National Day for these alliterative & friendly correspondents	Pen Pals	2019-11-20	
 1	800	0	THERE'S A NATIONAL DAY FOR THAT		On February 1, I scream, you scream, we all scream for this fancy dessert named for the 49th state	baked Alaska	2019-11-20	
@@ -3428,7 +3427,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	CIRCUMSTANCE		In people with the most common type of CP, short for this, increased muscle tone is bad, causing stiff movement	cerebral palsy	2019-11-28	
 1	1000	0	CIRCUMSTANCE		An alarming increase led to a count of about 60,000 people in this circumstance in L.A. County in 2019	homeless	2019-11-28	
 2	400	0	STATUESQUE AUTHORS		That's not such an ugly duckling beside the statue of this Dane in Central Park	Hans Christian Andersen	2019-11-28	
-2	800	0	STATUESQUE AUTHORS		Never mind the "Nevermore",he's been in Baltimore since 1921	(Edgar Allan) Poe	2019-11-28	
+2	800	0	STATUESQUE AUTHORS		Never mind the "Nevermore", he's been in Baltimore since 1921	(Edgar Allan) Poe	2019-11-28	
 2	1200	0	STATUESQUE AUTHORS		As you might expect, this author's statue is relaxing at the bar in the El Floridita in Havana	Hemingway	2019-11-28	
 2	1600	3000	STATUESQUE AUTHORS		Much of her 6th century B.C. poetry is lost, but her reputation as a female writing pioneer remains	Sappho	2019-11-28	
 2	2000	0	STATUESQUE AUTHORS		The statue of this Victorian author, born Mary Ann Evans, is in Warwickshire, where she set many of her novels	George Eliot	2019-11-28	
@@ -3577,7 +3576,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	WHAT'S FOR BREAKFAST?		A Spanish word for a little donkey gives us the name of this Mexican favorite; you can have one filled with eggs for breakfast	a burrito	2019-12-03	
 1	400	0	WHAT'S FOR BREAKFAST?		This breakfast favorite is also known as pain perdu ("lost bread")	French toast	2019-12-03	
 1	600	0	WHAT'S FOR BREAKFAST?		This brand named for a fictional relative offers pancake mix, pancake syrup & pancakes on the go	Aunt Jemima	2019-12-03	
-1	800	0	WHAT'S FOR BREAKFAST?		The original McDonald'sEgg McMuffin is made with this type of meat	Canadian bacon	2019-12-03	
+1	800	0	WHAT'S FOR BREAKFAST?		The original McDonald's Egg McMuffin is made with this type of meat	Canadian bacon	2019-12-03	
 1	1000	0	WHAT'S FOR BREAKFAST?		The cereal aisle has these 2 rhyming brands, a corn-puff cereal & one that's specifically not for rabbits	Trix & Kix	2019-12-03	
 1	200	0	CLASSIC NOVELS		Johann Wyss wrote of this Swiss family, shipwrecked at sea	The Swiss Family Robinson	2019-12-03	
 1	400	0	CLASSIC NOVELS		Shortly before imperfect clergyman Arthur Dimmesdale dies in this book, his little daughter Pearl gives him a kiss	The Scarlet Letter	2019-12-03	
@@ -4055,11 +4054,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	AROUND THE MEDITERRANEAN		A 2015 hit song was about what happened when "I took a pill in" this third-largest of Spain's Balearic Islands	\"Ibiza\"	2019-12-13	
 1	800	0	AROUND THE MEDITERRANEAN		Straddling 2 continents, this city famous for its mosques & palaces has been called the place where "East meets West\"	Istanbul	2019-12-13	
 1	1000	0	AROUND THE MEDITERRANEAN		(Jimmy of the Clue Crew presents by a display monitor.) While Greece is the southernmost country of the Balkan Peninsula, the southernmost part of mainland Greece is this other peninsula where ancient Sparta was located	the Peloponnesian	2019-12-13	
-1	200	0	YOU'RE A BUNCH OF CARDS		Chase Sapphire,Discover,Blue Cash	credit cards	2019-12-13	
-1	400	0	YOU'RE A BUNCH OF CARDS		Oyster,SmarTrip,Clipper	subway cards (transit cards)	2019-12-13	
-1	600	0	YOU'RE A BUNCH OF CARDS		SD,CompactFlash,SmartMedia	memory cards	2019-12-13	
-1	800	0	YOU'RE A BUNCH OF CARDS		The hermit,the hanged man,the 4 of pentacles	tarot cards	2019-12-13	
-1	1000	0	YOU'RE A BUNCH OF CARDS		Topps,Bowman,Panini America	baseball cards	2019-12-13	
+1	200	0	YOU'RE A BUNCH OF CARDS		Chase Sapphire, Discover, Blue Cash	credit cards	2019-12-13	
+1	400	0	YOU'RE A BUNCH OF CARDS		Oyster, SmarTrip, Clipper	subway cards (transit cards)	2019-12-13	
+1	600	0	YOU'RE A BUNCH OF CARDS		SD, CompactFlash, SmartMedia	memory cards	2019-12-13	
+1	800	0	YOU'RE A BUNCH OF CARDS		The hermit, the hanged man, the 4 of pentacles	tarot cards	2019-12-13	
+1	1000	0	YOU'RE A BUNCH OF CARDS		Topps, Bowman, Panini America	baseball cards	2019-12-13	
 1	200	0	3-LETTER WORDS		Partner of hither, it means farther away	yon	2019-12-13	
 1	600	0	3-LETTER WORDS		Water begins to form on plants & cars at this "point", the temperature at which the atmosphere is saturated with water vapor	dew	2019-12-13	
 1	800	0	3-LETTER WORDS		This 3-letter word can mean "except", especially preceding "none\"	bar	2019-12-13	
@@ -4321,11 +4320,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	THE WRECK OF THE F. SCOTT FITZGERALD		PBS Newshour titled a medical article "F. Scott Fitzgerald's Life was a Study in Destructive" this addiction	Alcoholism	2019-12-19	
 2	1600	0	THE WRECK OF THE F. SCOTT FITZGERALD		Fitzgerald's career as an inept Army officer was brightened when he met this future wife while stationed in Alabama	Zelda	2019-12-19	
 2	2000	0	THE WRECK OF THE F. SCOTT FITZGERALD		Fitzgerald was 44 when he died of a heart attack before he could finish this "Last" novel about a Hollywood producer	The Last Tycoon	2019-12-19	
-2	400	0	THE HALL OF FAME POSITION		Kareem, Moses,Wilt	center (in basketball)	2019-12-19	
-2	800	0	THE HALL OF FAME POSITION		Dizzy, Lefty, Pud,Cy	pitcher	2019-12-19	
-2	1200	0	THE HALL OF FAME POSITION		Magic,Isiah, John(okay, John Stockton)	point guard	2019-12-19	
-2	1600	0	THE HALL OF FAME POSITION		Tony Esposito,Vladislav Tretiak, Ken Dryden	goalie (in hockey)	2019-12-19	
-2	2000	0	THE HALL OF FAME POSITION		Lawrence "L.T." Taylor, Ted "The Mad Stork" Hendricks,Harry "no cool nickname" Carson	linebacker	2019-12-19	
+2	400	0	THE HALL OF FAME POSITION		Kareem, Moses, Wilt	center (in basketball)	2019-12-19	
+2	800	0	THE HALL OF FAME POSITION		Dizzy, Lefty, Pud, Cy	pitcher	2019-12-19	
+2	1200	0	THE HALL OF FAME POSITION		Magic, Isiah, John (okay, John Stockton)	point guard	2019-12-19	
+2	1600	0	THE HALL OF FAME POSITION		Tony Esposito, Vladislav Tretiak, Ken Dryden	goalie (in hockey)	2019-12-19	
+2	2000	0	THE HALL OF FAME POSITION		Lawrence "L.T." Taylor, Ted "The Mad Stork" Hendricks, Harry "no cool nickname" Carson	linebacker	2019-12-19	
 2	400	0	CULTURE CLUB		2-word term for the trauma experienced when suddenly moving from one society to another	culture shock	2019-12-19	
 2	800	0	CULTURE CLUB		During fermentation, live & active cultures convert pasteurized milk to this; look for the "live & active cultures" seal on it	yogurt	2019-12-19	
 2	1200	3000	CULTURE CLUB		This term for the struggles between liberals & conservatives, especially in media, comes from the German "kulturkampf\"	a culture war	2019-12-19	
@@ -4336,11 +4335,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	MAMMAL FACTS		The Sumatran species of this ape is much more endangered than the Bornean	an orangutan	2019-12-19	
 2	1600	3000	MAMMAL FACTS		The 350 or so species of these include the numbat	a marsupial	2019-12-19	
 2	2000	0	MAMMAL FACTS		Ballena asesina is a Spanish name for this swimmer	killer whale (orca)	2019-12-19	
-2	400	0	"NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) The Americans exhibit highlights Native Americans' role in American identity. One legend is Pocahontas' famous 1607 rescue of this man, a story some doubt, as he didn't tell it until 1624, though he had written about his time in Virginia before then	John Smith	2019-12-19	
-2	800	0	"NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Soon after this 1876 battle, the U.S. had almost all the region's Native Americans confined to reservations, yet that one setback looms large and made the Sioux and other plains people the iconic image of Native Americans	the Battle of Little Bighorn	2019-12-19	
-2	1200	0	"NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Jimmy of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Stick and ball games are common among many Native peoples, but the only nation with its own sports team on an international level is the Iroquois team, competing in this centuries-old sport	lacrosse	2019-12-19	
-2	1600	0	"NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Disputes over treaties between tribes and the U.S. may seem far in the past, but this mile marker says otherwise. It was part of the 2016 protest by the Standing Rock Tribe that claimed this pipeline violated an 1868 pact	the Dakota Access Pipeline	2019-12-19	
-2	2000	0	"NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Jimmy of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Despite the legal veneer of the Indian Removal Act, forcing 100,000 Native Americans from the fertile southeast to the more arid lands west of the Mississippi, caused thousands of deaths from starvation, exposure, and disease, leading to this term	the Trail of Tears	2019-12-19	
+2	400	0	NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) The Americans exhibit highlights Native Americans' role in American identity. One legend is Pocahontas' famous 1607 rescue of this man, a story some doubt, as he didn't tell it until 1624, though he had written about his time in Virginia before then	John Smith	2019-12-19	
+2	800	0	NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Soon after this 1876 battle, the U.S. had almost all the region's Native Americans confined to reservations, yet that one setback looms large and made the Sioux and other plains people the iconic image of Native Americans	the Battle of Little Bighorn	2019-12-19	
+2	1200	0	NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Jimmy of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Stick and ball games are common among many Native peoples, but the only nation with its own sports team on an international level is the Iroquois team, competing in this centuries-old sport	lacrosse	2019-12-19	
+2	1600	0	NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Sarah of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Disputes over treaties between tribes and the U.S. may seem far in the past, but this mile marker says otherwise. It was part of the 2016 protest by the Standing Rock Tribe that claimed this pipeline violated an 1868 pact	the Dakota Access Pipeline	2019-12-19	
+2	2000	0	NATIVE AMERICANS: THE REALITY	(Jimmy: We're back at the Smithsonian's National Museum of the American Indian. Last time, we had clues about Native American myth. This time, a category about reality.)	(Jimmy of the Clue Crew is at the Smithsonian National Museum of the American Indian in Washington, D.C.) Despite the legal veneer of the Indian Removal Act, forcing 100,000 Native Americans from the fertile southeast to the more arid lands west of the Mississippi, caused thousands of deaths from starvation, exposure, and disease, leading to this term	the Trail of Tears	2019-12-19	
 2	800	0	\"T" TIME		This sledding sport probably originated on the slopes of Montreal	tobogganing	2019-12-19	
 2	1200	0	\"T" TIME		In 2018 this choir dropped "Mormon" from its name	Tabernacle	2019-12-19	
 2	2000	0	\"T" TIME		This word for a prehistoric cave dweller can also mean a brutal, primitive person	a troglodyte	2019-12-19	
@@ -4408,9 +4407,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	CLASSIC FICTION		A 1902 work says of a riverboat journey, "We penetrated deeper and deeper into" this, the work's title	Heart of Darkness	2019-12-20	
 1	200	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Jimmy of the Clue Crew presents from the FBI headquarters in Washington, D.C.) This imposing desk was used by this imposing man who headed the Bureau for 48 years and for whom the headquarters' building is named	(J. Edgar) Hoover	2019-12-23	
 1	400	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Jimmy of the Clue Crew presents from the FBI headquarters in Washington, D.C.) This phone and wiretapping device help set off one of the most notorious episodes in American history in the early morning hours of June 17, 1972 when five burglars were arrested in this Washington, D.C. hotel and office complex	the Watergate	2019-12-23	
-1	600	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) These passports belonged to Cynthia and Richard Murphy, real names Lidiya and Vladimir Guryev, who were among 10 foreign agents arrested in a 2010 operation that inspired this Emmy-winning FX series about Russian spies masquerading as U.S. citizens	The Americans	2019-12-23	
-1	800	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) Nearly 95% of the over 500 who've appeared on the FBI's 10 Most Wanted fugitives list have been found, including this man who was listed twice—first following an April 1968 assassination and again briefly after a short 1977 prison escape	James Earl Ray	2019-12-23	
-1	1000	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) After much internal debate over the wisdom of giving in to terrorists, in 1995, the FBI allowed publication of this criminal's long rambling manifesto. The move paid off when the man's brother recognized his writing and alerted authorities	the Unabomber (Ted Kaczynski)	2019-12-23	
+1	600	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) These passports belonged to Cynthia and Richard Murphy, real names Lidiya and Vladimir Guryev, who were among 10 foreign agents arrested in a 2010 operation that inspired this Emmy-winning FX series about Russian spies masquerading as U.S. citizens	The Americans	2019-12-23	
+1	800	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) Nearly 95% of the over 500 who've appeared on the FBI's 10 Most Wanted fugitives list have been found, including this man who was listed twice—first following an April 1968 assassination and again briefly after a short 1977 prison escape	James Earl Ray	2019-12-23	
+1	1000	0	FBI HEADQUARTERS	(Alex: Our Clue Crew spent time there.)	(Sarah of the Clue Crew presents from the FBI headquarters in Washington, D.C.) After much internal debate over the wisdom of giving in to terrorists, in 1995, the FBI allowed publication of this criminal's long rambling manifesto. The move paid off when the man's brother recognized his writing and alerted authorities	the Unabomber (Ted Kaczynski)	2019-12-23	
 1	200	0	RIVERS		Tilbury & Southend-on-Sea lie on this river, along with many other British-sounding places	the Thames	2019-12-23	
 1	400	1000	RIVERS		Hydroelectric plants & pumping-generating stations on the U.S. & Canadian sides of this river have a 4.8-million kilowatt combined capacity	the Niagara River	2019-12-23	
 1	600	0	RIVERS		Here's this city's river of the same name decked out for St. Patty's Day. The dye powder is actually orange until it hits water	the Chicago	2019-12-23	
@@ -5327,11 +5326,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	I LEARNED IT ON YOUTUBE		How to identify the differences between antique copper & these 2 "B" alloys	bronze & brass	2020-01-13	
 2	1600	0	I LEARNED IT ON YOUTUBE		How kids get to build a volcano, a castle & survival houses to avoid creepers in this video game	Minecraft	2020-01-13	
 3	0	0	THE BIBLE		This book of the Bible ends with "fire was on it by night, in the sight of all the house of Israel, throughout all their journeys\"	Exodus	2020-01-13	
-1	200	0	ANAGRAMMED U.S. CITIES		HAD RUM,North Carolina	Durham	2020-01-14	
-1	400	0	ANAGRAMMED U.S. CITIES		NO CUTS,Arizona	Tucson	2020-01-14	
-1	600	0	ANAGRAMMED U.S. CITIES		TIGHT BURPS,Pennsylvania	Pittsburgh	2020-01-14	
-1	800	0	ANAGRAMMED U.S. CITIES		JAVELIN LOCKS,Florida	Jacksonville	2020-01-14	
-1	1000	0	ANAGRAMMED U.S. CITIES		CROUCH SPIRITS,Texas	Corpus Christi	2020-01-14	
+1	200	0	ANAGRAMMED U.S. CITIES		HAD RUM, North Carolina	Durham	2020-01-14	
+1	400	0	ANAGRAMMED U.S. CITIES		NO CUTS, Arizona	Tucson	2020-01-14	
+1	600	0	ANAGRAMMED U.S. CITIES		TIGHT BURPS, Pennsylvania	Pittsburgh	2020-01-14	
+1	800	0	ANAGRAMMED U.S. CITIES		JAVELIN LOCKS, Florida	Jacksonville	2020-01-14	
+1	1000	0	ANAGRAMMED U.S. CITIES		CROUCH SPIRITS, Texas	Corpus Christi	2020-01-14	
 1	200	0	DRAWING QUITE THE CROWD		Giving new meaning to the word "mass", he was the headliner of one held in Manila in 2015 that drew 6 million people	Pope Francis	2020-01-14	
 1	400	0	DRAWING QUITE THE CROWD		In 2007 the long-disbanded Rage Against the Machine got together & drew 100,000 at this California festival	Coachella	2020-01-14	
 1	600	0	DRAWING QUITE THE CROWD		In 2016 an estimated 1 million people protested in Caracas against this president of Venezuela	Maduro	2020-01-14	
@@ -5498,7 +5497,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	MYTH IN MODERN LITERATURE		Dionysus is a big factor in "The Secret History", this author's first novel	(Donna) Tartt	2020-01-16	
 2	800	0	BLUE BY YOU		\"Crouching Woman" & "Blind Man's Meal" are paintings from his blue period	Picasso	2020-01-16	
 2	1200	0	BLUE BY YOU		Thomas Gainsborough set the tone with the portrait seen	The Blue Boy	2020-01-16	
-2	1600	0	BLUE BY YOU		Ultramarine was the ultra-essential to this Dutchman's "Woman in Blue Reading a Letter"	Vermeer	2020-01-16	
+2	1600	0	BLUE BY YOU		Ultramarine was the ultra-essential to this Dutchman's "Woman in Blue Reading a Letter\"	Vermeer	2020-01-16	
 2	2000	0	BLUE BY YOU		The Japanese artist Hokusai was adept at using the dye of blue named for this onetime European kingdom	Prussian blue	2020-01-16	
 3	0	0	WESTERN HEMISPHERE GEOGRAPHY		It's the easternmost capital city in Central America	Panama City	2020-01-16	
 1	200	0	BANDS, CLANS & GANGS		The Turtle Creek this establishment in northern Michigan is owned by the Grand Traverse Band of Ottawa & Chippewa Indians	a casino	2020-01-17	
@@ -5828,7 +5827,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	GEOGRAPHIC NUMBERS		There aren't actually 8 rivers in this Jamaica port, but there are plenty of resorts, like Sandals Royal Plantation	Ocho Rios	2020-01-24	
 2	400	0	A BRUSH WITH DEATH		A cleaver in the head is part of Bellini's "Assassination of St. Peter" this, one who dies for his faith	a martyr	2020-01-24	
 2	800	0	A BRUSH WITH DEATH		A Tahitian girl named Teha'amana stares at the viewer in his painting "Manaò Tupapaú (Spirit of the Dead Watching)\"	Paul Gauguin	2020-01-24	
-2	1200	0	A BRUSH WITH DEATH		"The skeleton atop the canopy bed is a reminder of our mortality", said this woman who painted herself in "The Dream\"	(Frida) Kahlo	2020-01-24	
+2	1200	0	A BRUSH WITH DEATH		\"The skeleton atop the canopy bed is a reminder of our mortality", said this woman who painted herself in "The Dream\"	(Frida) Kahlo	2020-01-24	
 2	1600	4000	A BRUSH WITH DEATH		El Greco's painting of the Virgin Mary cradling her dead son is called this, like Michelangelo's famous sculpture of the same subject	(The) Pietà	2020-01-24	
 2	2000	0	A BRUSH WITH DEATH		Jacques-Louis David painted "The Death of..." this Frenchman in 1793, the year of his assassination	Marat	2020-01-24	
 2	400	0	13-LETTER WORDS		Bodybuilding includes a fair amount of this activity, using barbells & other resistance training devices	weightlifting	2020-01-24	
@@ -6302,7 +6301,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	PUTTING A "B" IN YOUR BONNET		The Encyclopedia Britannica notes that break-dancers often wear these "sideways or backward\"	baseball caps	2020-02-06	
 1	600	0	PUTTING A "B" IN YOUR BONNET		Oddjob in "Goldfinger" wore this type of hat	a bowler	2020-02-06	
 1	800	0	PUTTING A "B" IN YOUR BONNET		These guardians of the Tower of London AKA Yeoman Warders wear a Tudor-period uniform that includes a black hat	Beefeaters	2020-02-06	
-1	1000	0	PUTTING A "B" IN YOUR BONNET		This men's hat of the Napoleonic era has a name meaning "two-horned"	a bicorne	2020-02-06	
+1	1000	0	PUTTING A "B" IN YOUR BONNET		This men's hat of the Napoleonic era has a name meaning "two-horned\"	a bicorne	2020-02-06	
 1	200	0	THE WEIGHT OF THE WORLDS		On this least massive planet, you'd be .38 of your earth weight, & very hot	Mercury	2020-02-06	
 1	400	0	THE WEIGHT OF THE WORLDS		Your weight on this now-dwarf planet would be just .07 of your weight on Earth; that's quite a demotion	Pluto	2020-02-06	
 1	600	0	THE WEIGHT OF THE WORLDS		On this planet we have a friend we call Oppy, who weighed 384 pounds on Earth but is 146 up there	Mars	2020-02-06	
@@ -6649,7 +6648,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	QUOTABLE 21st CENTURY MOVIES		2012: "I volunteer as tribute!\"	The Hunger Games	2020-02-14	
 1	400	0	QUOTABLE 21st CENTURY MOVIES		2010: Spoken by Natalie Portman, "I was perfect\"	Black Swan	2020-02-14	
 1	600	0	QUOTABLE 21st CENTURY MOVIES		2008: "Why so serious?\"	Dark Knight	2020-02-14	
-1	800	0	QUOTABLE 21st CENTURY MOVIES		Sulley: "I can still hear her little voice"Boo: (from down the hall) "Mike Wazowski!\"	Monsters, Inc.	2020-02-14	
+1	800	0	QUOTABLE 21st CENTURY MOVIES		Sulley: "I can still hear her little voice" Boo: (from down the hall) "Mike Wazowski!\"	Monsters, Inc.	2020-02-14	
 1	1000	0	QUOTABLE 21st CENTURY MOVIES		2005: "Noooo, Kelly Clarkson!\"	The 40-Year-Old Virgin	2020-02-14	
 1	200	0	HISTORIC NAMES		(Sarah of the Clue Crew presents by a display monitor.) On his last voyage to search for the Northwest Passage, this captain discovered the Hawaiian Islands	Cook	2020-02-14	
 1	400	0	HISTORIC NAMES		In the early 900s Rollo the Viking founded this duchy in France from which England was conquered 150 years later	Normandy	2020-02-14	
@@ -8253,7 +8252,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	AMERICAN POETS		This New York woman died in 1887, the year after the subject of her most famous poem was unveiled	Emma Lazarus	2020-03-24	
 1	200	0	ALL-AMERICAN STAMPS		In the 1930s, this landmark was seen erupting on a 5-cent stamp	Old Faithful	2020-03-25	
 1	400	0	ALL-AMERICAN STAMPS		The "Great Lakes Lighthouses" stamps of 1995 included New York's Thirty Mile Point on this smallest Great Lake	Lake Ontario	2020-03-25	
-1	600	0	ALL-AMERICAN STAMPS		Issued in 2018, the stamp here celebrated this state's 200th anniversary	Illinois	2020-03-25	
 1	800	0	ALL-AMERICAN STAMPS		2019's "Wild and Scenic Rivers" series includes Oregon's Dechutes River, which flows north before emptying into this mighty waterway	the Columbia	2020-03-25	
 1	1000	0	ALL-AMERICAN STAMPS		In 1999, a set of stamps celebrated the nature of this large desert in Mexico and the Southwestern U.S.	the Sonoran Desert	2020-03-25	
 1	200	0	FEMALE SUPERHEROES		Zoe Saldana teams up with Rocket & Groot as Gamora, the green-skinned member of this superhero team	the Guardians of the Galaxy	2020-03-25	
@@ -8409,11 +8407,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	2000	STATE CAPITALS		Appropriately, the Cathedral of the Blessed Sacrament is in the capital of this western state	California	2020-03-27	
 2	1200	0	STATE CAPITALS		This northern state capital bears the first name of Monsieur Chouteau	Pierre	2020-03-27	
 2	1600	0	STATE CAPITALS		Ransom Eli Olds created 2 major car companies in this city	Lansing	2020-03-27	
-2	400	0	AUTHOR FILL-INS		LeBron______Kilmer	James Joyce	2020-03-27	
-2	800	0	AUTHOR FILL-INS		Upton______Carroll	Sinclair Lewis	2020-03-27	
-2	1200	0	AUTHOR FILL-INS		Kerry______Thalberg	Washington Irving	2020-03-27	
-2	1600	0	AUTHOR FILL-INS		Philip K.______Ford Coppola	Dick Francis	2020-03-27	
-2	2000	0	AUTHOR FILL-INS		Bryce______Iacocca	Harper Lee	2020-03-27	
+2	400	0	AUTHOR FILL-INS		LeBron ___ ___ Kilmer	James Joyce	2020-03-27	
+2	800	0	AUTHOR FILL-INS		Upton ___ ___ Carroll	Sinclair Lewis	2020-03-27	
+2	1200	0	AUTHOR FILL-INS		Kerry ___ ___ Thalberg	Washington Irving	2020-03-27	
+2	1600	0	AUTHOR FILL-INS		Philip K. ___ ___ Ford Coppola	Dick Francis	2020-03-27	
+2	2000	0	AUTHOR FILL-INS		Bryce ___ ___ Iacocca	Harper Lee	2020-03-27	
 3	0	0	PRESIDENTIAL HISTORY		He was the first president to deliver the State of the Union Address on television	Harry Truman	2020-03-27	
 1	200	0	GOLF		Bird word for 2 under par on a hole	an eagle	2020-03-30	
 1	400	0	GOLF		To capture the modern grand slam, a player must win the Masters, the PGA Championship & these 2 opens	the U.S. Open & the British Open	2020-03-30	
@@ -9574,11 +9572,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	MOVIE VILLAIN QUOTES		Annie Wilkes (Kathy Bates): "I'm your number one fan\"	Misery	2020-04-24	
 2	1600	0	MOVIE VILLAIN QUOTES		Terence Fletcher (J.K. Simmons): "Not quite my tempo ...you're rushing... why do you suppose I just hurled a chair at your head?\"	Whiplash	2020-04-24	
 2	2000	0	MOVIE VILLAIN QUOTES		Max Cady (Robert De Niro): "Counselor! Come out, come out, wherever you are\"	Cape Fear	2020-04-24	
-2	400	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	A place to grind grain+ the king of beasts = this amount	million	2020-04-24	
-2	800	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	An explosive+a large body of water = this old name for a city of India	Bombay	2020-04-24	
-2	1200	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	A ring around the sun+ a country =this royal ceremony	a coronation	2020-04-24	
-2	1600	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	To total up numbers+a chemise = this domicile	address	2020-04-24	
-2	2000	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	An antler+ a snare = this stinging creature	a hornet	2020-04-24	
+2	400	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	A place to grind grain + the king of beasts = this amount	million	2020-04-24	
+2	800	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	An explosive + a large body of water = this old name for a city of India	Bombay	2020-04-24	
+2	1200	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	A ring around the sun + a country = this royal ceremony	a coronation	2020-04-24	
+2	1600	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	To total up numbers + a chemise = this domicile	address	2020-04-24	
+2	2000	0	OVERLAPPING WORD COMBOS	(Alex: An example: "an urgent appeal plus the absence of difficulty equals this polite request", so "plea" and "ease" will give you "please".)	An antler + a snare = this stinging creature	a hornet	2020-04-24	
 3	0	0	MEN & MACHINES		John Moore-Brabazon, the first pilot licensed by England, had learned about engines working for this man, first half of a famous pair	(Charles) Rolls	2020-04-24	
 1	200	0	WHO MADE THAT?		We write of its 4-color original pen	Bic	2020-04-27	
 1	400	0	WHO MADE THAT?		Here's a switch... the game called "Mario & Sonic at the Olympic Games Tokyo 2020\"	Nintendo (*Sega)	2020-04-27	
@@ -9606,7 +9604,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	POTPOURRI		15% of a U.S. ton is this many pounds	300	2020-04-27	
 1	1000	0	POTPOURRI		Check out this two-word boat item as it goes soaring through the air; I like the cut of yours	a flying jib	2020-04-27	
 1	400	0	STARTS WITH "Z\"		In England this summer squash is popularly called a courgette	a zucchini	2020-04-27	
-1	600	0	STARTS WITH "Z\"		It's what the woman here is doing to her lemon	zesting	2020-04-27	
 1	800	0	STARTS WITH "Z\"		Literally meaning "golden", it's the basic monetary unit of Poland	a zloty	2020-04-27	
 2	400	0	THE ZULUS		Zulu is a subgroup of this 5-letter language group of South & Central Africa	Bantu	2020-04-27	
 2	800	0	THE ZULUS		Andries Pretorius, a leader of this Dutch settler group, defeated an army of some 10,000 Zulus at the Battle of Blood River in 1838	the Boers	2020-04-27	
@@ -9696,10 +9693,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	600	THE FRENCH PRINCE		The title Prince of Conti was borne by sons of this royal house that ruled France from 1589 to 1830, mostly	Bourbon	2020-04-28	
 2	2000	0	THE FRENCH PRINCE		The future Charles V was the first heir apparent to the French crown to bear this title	dauphin	2020-04-28	
 3	0	0	1950s FILMS		The last line of this epic film was "Go—proclaim liberty throughout all the lands unto all the inhabitants thereof\"	The Ten Commandments	2020-04-28	
-1	200	0	BILLBOARD MUSIC AWARDS		Hosting the Billboard Music Awards for the first time in 2018, she performed a medley of Top 100 hits"Sit down, be humble / Sit down, I said, be humble...\"	Kelly Clarkson	2020-04-29	
-1	400	0	BILLBOARD MUSIC AWARDS		With his 27th win in 2019, this rapper/actor surpassed Taylor Swift to become the artist with the most Billboard wins"To win my award here is incredible, but to win this award is just unbelievable. It's surreal.\"	Drake	2020-04-29	
+1	200	0	BILLBOARD MUSIC AWARDS		Hosting the Billboard Music Awards for the first time in 2018, she performed a medley of Top 100 hits "Sit down, be humble / Sit down, I said, be humble...\"	Kelly Clarkson	2020-04-29	
+1	400	0	BILLBOARD MUSIC AWARDS		With his 27th win in 2019, this rapper/actor surpassed Taylor Swift to become the artist with the most Billboard wins "To win my award here is incredible, but to win this award is just unbelievable. It's surreal.\"	Drake	2020-04-29	
 1	600	0	BILLBOARD MUSIC AWARDS		Named Top New Artist in 2017, Zayn was formerly a member of this group that won the award in 2013	One Direction	2020-04-29	
-1	800	0	BILLBOARD MUSIC AWARDS		As the recipient of the 2018 Icon Award, she took "Control" & took to the stage in her first live TV performance in nearly a decade"Nasty, nasty boys, lemme see your nasty body move / Oh, you nasty boys...\"	Janet Jackson	2020-04-29	
+1	800	0	BILLBOARD MUSIC AWARDS		As the recipient of the 2018 Icon Award, she took "Control" & took to the stage in her first live TV performance in nearly a decade "Nasty, nasty boys, lemme see your nasty body move / Oh, you nasty boys...\"	Janet Jackson	2020-04-29	
 1	1000	0	BILLBOARD MUSIC AWARDS		Among this band's many awards are Top Rock Artist 2014, 2018, 2019, & Top Rock Song for "Believer" "My life, my love, my drive, it came from... pain! / You made me a, you made me a believer, believer...\"	Imagine Dragons	2020-04-29	
 1	200	0	WE'D LIKE TO MAKE A CORRECTION		Jay Leno noted a newspaper's error when it "reported ...band mate Eric Lyday was on drugs"; he was actually on this instrument	drums	2020-04-29	
 1	400	0	WE'D LIKE TO MAKE A CORRECTION		Dear Abby stated, "Charlie's hiccups were cured... through the use of carbon monoxide. It should have read" this—so close!	carbon dioxide	2020-04-29	
@@ -10084,7 +10081,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	STORY OF MYTH		This god of love fell in love with the mortal Psyche, of whom his mom Venus was jealous	Cupid	2020-05-21	
 1	800	0	STORY OF MYTH		King Pelias used the Golden Fleece as an excuse to get this upstart nephew of his out of the city	Jason	2020-05-21	
 1	1000	0	STORY OF MYTH		An errant lioness interrupts the budding romance of Babylonian youths Thisbe & this guy	Pyramus	2020-05-21	
-2	400	0	SOLD! AT SOTHEBY'S		Auctioned off in 2019 for $110 million, a record for an impressionist work, this painter's "Haystacks"	Monet	2020-05-21	
+2	400	0	SOLD! AT SOTHEBY'S		Auctioned off in 2019 for $110 million, a record for an impressionist work, this painter's "Haystacks\"	Monet	2020-05-21	
 2	800	0	SOLD! AT SOTHEBY'S		A shout-out to this artist, who famous painting shattered records in 2012, bringing in over $119 million	(Edvard) Munch	2020-05-21	
 2	1200	0	SOLD! AT SOTHEBY'S		This artist's "The Blue Page", once thought to be a sketch for his "Blue Boy", sold for $3 1/4 million in 2016	Gainsborough	2020-05-21	
 2	1600	0	SOLD! AT SOTHEBY'S		Immediately after his "Girl with a Balloon sold in London in 2018, it self-destructed by passing through a hidden shredder	Banksy	2020-05-21	
@@ -10150,7 +10147,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	5000	BROADWAY MUSICALS' OPENING NUMBERS		\"Food, Glorious Food\"	Oliver!	2020-05-22	
 2	1600	0	BROADWAY MUSICALS' OPENING NUMBERS		\"Comedy Tonight\"	A Funny Thing Happened on the Way to the Forum	2020-05-22	
 2	2000	0	BROADWAY MUSICALS' OPENING NUMBERS		Based on a French play & set mostly at a drag club: "We Are What We Are\"	La Cage aux Folles	2020-05-22	
-2	400	0	GRAPHIC NOVELS		"Usagi Yojimbo" is an epic tale of a rabbit one of these feudal warriors	a samurai	2020-05-22	
+2	400	0	GRAPHIC NOVELS		\"Usagi Yojimbo" is an epic tale of a rabbit one of these feudal warriors	a samurai	2020-05-22	
 2	800	0	GRAPHIC NOVELS		In Brian K. Vaughan's graphic novel "Y: The Last Man", the "Y" stands for one of these, as most of the guys have dropped dead	a chromosome	2020-05-22	
 2	1200	0	GRAPHIC NOVELS		Nite Owl was one of these title crimefighters in an Alan Moore graphic novel, later a movie	Watchmen	2020-05-22	
 2	1600	0	GRAPHIC NOVELS		The March trilogy about his experiences during the civil rights era, was co-written by this current congressman	John Lewis	2020-05-22	
@@ -10628,10 +10625,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	\"DE" PLUS 3	(Alex: Each correct response will be a five-letter word beginning with "D-E".)	The typically triangular mouth of a river	a delta	2020-06-03	2020 Teachers Tournament semifinal game 3.
 1	800	0	\"DE" PLUS 3	(Alex: Each correct response will be a five-letter word beginning with "D-E".)	My god, your god, any god	a deity	2020-06-03	2020 Teachers Tournament semifinal game 3.
 1	1000	0	\"DE" PLUS 3	(Alex: Each correct response will be a five-letter word beginning with "D-E".)	Named for a city, it's a specific type of Dutch earthenware	Delft	2020-06-03	2020 Teachers Tournament semifinal game 3.
-2	400	0	LET'S LOOK AT SOME MATH		It's what the symbol here means	greater than or equal to	2020-06-03	2020 Teachers Tournament semifinal game 3.
 2	800	0	LET'S LOOK AT SOME MATH		Conjure up this name for a grid in which the numbers add up to the same total in each column, row and main diagonal	a magic square	2020-06-03	2020 Teachers Tournament semifinal game 3.
 2	1200	0	LET'S LOOK AT SOME MATH		In a Venn diagram, an upside down "U" is used to represent this set that contains all elements in common to both "A" and "B\"	the intersection	2020-06-03	2020 Teachers Tournament semifinal game 3.
-2	1600	0	LET'S LOOK AT SOME MATH		The symbol here is telling you to perform this calculus function	integration	2020-06-03	2020 Teachers Tournament semifinal game 3.
 2	2000	0	LET'S LOOK AT SOME MATH		(Jimmy of the Clue Crew presents by a display monitor.) The number in each cell is the sum of the two numbers directly above it in the triangle named for this 17th century French mathematician and philosopher	(Blaise) Pascal	2020-06-03	2020 Teachers Tournament semifinal game 3.
 2	400	0	ABBREVIATIONS		It's the "T" in the name of the international alliance abbreviated NATO	Treaty	2020-06-03	2020 Teachers Tournament semifinal game 3.
 2	800	0	ABBREVIATIONS		When going on a journey, your ETA is this	your estimated time of arrival	2020-06-03	2020 Teachers Tournament semifinal game 3.
@@ -10791,7 +10786,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	NAME, RANK, NO SERIAL NUMBER		William Bligh officially got this rank one year after his 1789 misadventure	captain	2020-06-08	
 1	400	0	NAME, RANK, NO SERIAL NUMBER		Alvin York is famed as this, but he was a rank below it at the time of his noted World War I actions	sergeant	2020-06-08	
 1	1000	0	NAME, RANK, NO SERIAL NUMBER		Robert Gould Shaw, who found "Glory" leading the 54th infantry of this state, was a colonel when he died in battle in 1863	Massachusetts	2020-06-08	
-1	200	0	3 TO GET READY		One of these poems is arranged in 3 lines of 5,7 &5 syllables	a haiku	2020-06-08	
+1	200	0	3 TO GET READY		One of these poems is arranged in 3 lines of 5, 7 & 5 syllables	a haiku	2020-06-08	
 1	400	0	3 TO GET READY		The hop & the step are the first parts of this track & field event	the triple jump	2020-06-08	
 1	600	0	3 TO GET READY		On Columbus' first voyage, this one of a trio didn't make it back to Spain, having run aground off Hispaniola	the Santa Maria	2020-06-08	
 1	800	0	3 TO GET READY		Of the 3 major varieties of rock, the type that limestone is	sedimentary	2020-06-08	
@@ -10865,7 +10860,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	WOMEN ARTISTS		Clara Peeters was a 17th century artist who specialized in this type of painting on inanimate objects	still life	2020-06-09	
 2	800	0	WOMEN ARTISTS		While working in Rome, American sculptor Harriet Hosmer befriended these married British poets and cast their clasped hands	the Brownings	2020-06-09	
 2	1200	0	WOMEN ARTISTS		In the '60s British painter Bridget Riley was a leader of this movement that played tricks on your eyes	Op art	2020-06-09	
-2	1600	0	WOMEN ARTISTS		In the 1890s, while at Antibes on the coast of France, she painted "The Boating Party"	(Mary) Cassatt	2020-06-09	
+2	1600	0	WOMEN ARTISTS		In the 1890s, while at Antibes on the coast of France, she painted "The Boating Party\"	(Mary) Cassatt	2020-06-09	
 2	2000	0	WOMEN ARTISTS		\"The End: A Meditation on Death and Extinction" is a recent series of works by this "Windy City" feminist artist	Judy Chicago	2020-06-09	
 2	400	0	THE PLAIN TRUTH		This plain in southeast Mexico is hot, like the pepper & sauce of the same name	Tabasco	2020-06-09	
 2	800	0	THE PLAIN TRUTH		The Kanto Plain, Japan's biggest, occupies more than 6,000 square miles of this island	Honshu	2020-06-09	

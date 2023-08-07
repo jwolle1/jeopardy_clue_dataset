@@ -230,7 +230,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	OFFICIAL STATE THINGS		Not surprisingly it's Nevada's state metal	Silver	2000-09-08	
 1	200	0	OFFICIAL STATE THINGS		While the peach is Georgia's state fruit, this is Georgia's state crop	Peanuts	2000-09-08	
 1	300	0	OFFICIAL STATE THINGS		This blue-green stone is the state gem of Arizona & New Mexico	Turquoise	2000-09-08	
-1	400	0	OFFICIAL STATE THINGS		Oh, deer!This is Alaska's state land mammal	Moose	2000-09-08	
+1	400	0	OFFICIAL STATE THINGS		Oh, deer! This is Alaska's state land mammal	Moose	2000-09-08	
 1	500	0	OFFICIAL STATE THINGS		Florida's official one of these insects is the zebra longwing	Butterfly	2000-09-08	
 1	100	0	MULTI-MILLION SELLING ALBUMS		With over 25 million sold, 1 in every 11 Americans has this 1982 Michael Jackson album	\"Thriller\"	2000-09-08	
 1	200	0	MULTI-MILLION SELLING ALBUMS		This group's "1962-1966" album has sold 13 million copies, its "1967-1970" album, 14 million	The Beatles	2000-09-08	
@@ -242,11 +242,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	LIONS		In an Aesop fable, he talks a lion out of eating him & later repays the favor	Mouse	2000-09-08	
 1	400	0	LIONS		A crowned lion is depicted on this "cross", the highest award for valor in the British Armed Forces	Victoria Cross	2000-09-08	
 1	500	0	LIONS		This mythic beast had the head & wings of an eagle & the body of a lion	Griffin	2000-09-08	
-1	100	0	BETWEEN		The butcher...the candlestick-maker	The baker	2000-09-08	
-1	200	0	BETWEEN		Huey...Louie	Dewey	2000-09-08	
-1	300	0	BETWEEN		Wynken...Nod	Blynken	2000-09-08	
-1	400	0	BETWEEN		Athos...Aramis	Porthos	2000-09-08	
-1	500	0	BETWEEN		Shadrach...Abednego	Meshach	2000-09-08	
+1	100	0	BETWEEN		The butcher... the candlestick-maker	The baker	2000-09-08	
+1	200	0	BETWEEN		Huey... Louie	Dewey	2000-09-08	
+1	300	0	BETWEEN		Wynken... Nod	Blynken	2000-09-08	
+1	400	0	BETWEEN		Athos... Aramis	Porthos	2000-09-08	
+1	500	0	BETWEEN		Shadrach... Abednego	Meshach	2000-09-08	
 1	100	0	WORKING ON THE RAILROAD		Hideo Shima, put in charge of planning the Tokyo-Osaka line in 1958, wanted it done by this 1964 event, & it was	The Summer Olympics	2000-09-08	
 1	200	0	WORKING ON THE RAILROAD		In the famous August 28, 1830 race between Peter Cooper's Tom Thumb & one of these, Tom lost	Horse	2000-09-08	
 1	300	0	WORKING ON THE RAILROAD		In 1880 he set up his own U.S. town to build his luxury dining & sleeping cars	George Pullman	2000-09-08	
@@ -254,7 +254,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	WORKING ON THE RAILROAD		In 1903 this long line opened using the gauge George Whistler chose earlier for Russia's first main route	Trans-Siberia/Siberian Railway	2000-09-08	
 1	100	0	I'VE GOTTA "HAND" IT TO YOU		To live this way is to have enough money or food for daily needs	Hand-to-mouth	2000-09-08	
 1	300	0	I'VE GOTTA "HAND" IT TO YOU		Fanciful facial feature fortuously featured for you here	Handlebar moustache	2000-09-08	
-1	400	0	I'VE GOTTA "HAND" IT TO YOU		Some are secret,some are golden	Handshakes	2000-09-08	
+1	400	0	I'VE GOTTA "HAND" IT TO YOU		Some are secret, some are golden	Handshakes	2000-09-08	
 1	500	0	I'VE GOTTA "HAND" IT TO YOU		It's the "mittened" way to say intimately associated	Hand in glove	2000-09-08	
 2	200	0	HISTORIC AMERICANS		As First Lady, she hosted several state functions in New York & Philadelphia, but not in D.C.	Martha Washington	2000-09-08	
 2	400	0	HISTORIC AMERICANS		This Utah Republican is chairman of the Senate Judiciary Committee	Orrin Hatch	2000-09-08	
@@ -603,11 +603,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	MERCURY		Mercury was named for the Roman god who had this job	Messenger	2000-09-18	
 1	400	800	MERCURY		An old Olds, or the number of days it takes Mercury to go around the sun	88	2000-09-18	
 1	500	0	MERCURY		In 2 revolutions around the sun Mercury does this only 3 times	Rotates on its axis	2000-09-18	
-2	200	0	NAME THE YEAR		Soviet tanks invade Prague,Tet Offensive launched,Bobby Kennedy shot	1968	2000-09-18	
-2	400	0	NAME THE YEAR		McKinley assassinated,First wireless message sent across Atlantic,Queen Victoria dies	1901	2000-09-18	
-2	600	0	NAME THE YEAR		Ben Johnson stripped of Olympic gold,Iran-Iraq war ends,Hurricane Gilbert hits Mexico	1988	2000-09-18	
-2	800	0	NAME THE YEAR		Stalin dies,Shah of Iran returns from exile,Queen Elizabeth II crowned	1953	2000-09-18	
-2	1000	0	NAME THE YEAR		Gary Gilmore executed,"Roots" airs on U.S. TV,Elvis dies	1977	2000-09-18	
+2	200	0	NAME THE YEAR		Soviet tanks invade Prague, Tet Offensive launched, Bobby Kennedy shot	1968	2000-09-18	
+2	400	0	NAME THE YEAR		McKinley assassinated, First wireless message sent across Atlantic, Queen Victoria dies	1901	2000-09-18	
+2	600	0	NAME THE YEAR		Ben Johnson stripped of Olympic gold, Iran-Iraq war ends, Hurricane Gilbert hits Mexico	1988	2000-09-18	
+2	800	0	NAME THE YEAR		Stalin dies, Shah of Iran returns from exile, Queen Elizabeth II crowned	1953	2000-09-18	
+2	1000	0	NAME THE YEAR		Gary Gilmore executed, "Roots" airs on U.S. TV, Elvis dies	1977	2000-09-18	
 2	200	0	AMERICANA		The lyrics of this presidential anthem were adapted from "The Lady of the Lake" by Sir Walter Scott	\"Hail To The Chief\"	2000-09-18	
 2	400	0	AMERICANA		This city's inhabitants are known as Beantowners (Hmm...does that make their kids Beanie Babies?)	Boston	2000-09-18	
 2	600	0	AMERICANA		A foot-operated breast enlarger pump is on display at the Museum of Questionable Medical Devices in this Twin City	Minneapolis	2000-09-18	
@@ -617,10 +617,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	GRAMPA & GRAMMYS		Grampa stopped watching the show when this group of "long-haired freaks" won for 1964 Pop Vocal Group	Beatles	2000-09-18	
 2	600	1500	GRAMPA & GRAMMYS		Grampa said that he left a kidney in Sheboygan, sort of like what happened to this (Pop) Vocal Male winner of 1962	Tony Bennett ("I Left My Heart In San Francisco")	2000-09-18	
 2	800	0	GRAMPA & GRAMMYS		Grampa just went to the 40th anniversary tour of these winners for 1962 with "If I Had A Hammer\"	Peter, Paul and Mary	2000-09-18	
-2	200	0	THE SMALLEST IN AREA		Andorra,Monaco,Vatican City	Vatican City	2000-09-18	
-2	400	0	THE SMALLEST IN AREA		Venezuela,Colombia,Ecuador	Ecuador	2000-09-18	
-2	600	0	THE SMALLEST IN AREA		Taiwan,Cuba,Madagascar	Taiwan	2000-09-18	
-2	800	0	THE SMALLEST IN AREA		Ethiopia,Sudan,Egypt	Egypt	2000-09-18	
+2	200	0	THE SMALLEST IN AREA		Andorra, Monaco, Vatican City	Vatican City	2000-09-18	
+2	400	0	THE SMALLEST IN AREA		Venezuela, Colombia, Ecuador	Ecuador	2000-09-18	
+2	600	0	THE SMALLEST IN AREA		Taiwan, Cuba, Madagascar	Taiwan	2000-09-18	
+2	800	0	THE SMALLEST IN AREA		Ethiopia, Sudan, Egypt	Egypt	2000-09-18	
 2	200	0	NOTABLE NAMES		Landing at Kauai in 1778, this captain named the area after the First Lord of the Admiralty, the Earl of Sandwich	Captain James Cook	2000-09-18	
 2	1000	0	NOTABLE NAMES		A national hero & saint, this Alexander was great when he helped unite Russia in the 13th century	Alexander Nevsky	2000-09-18	
 2	200	0	WORD ORIGINS		The name of this South American Indian group was originally the title of their emperor	Incas	2000-09-18	
@@ -740,11 +740,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	OFF-BROADWAY 2000		4-word title of an Arthur Laurents revival; it sounds like a sequel to "Land of the Free\"	\"Home of the Brave\"	2000-09-20	
 2	600	0	OFF-BROADWAY 2000		Todd Price produced the U.S. premiere of "Shadows in the Evening" by this witty Brit who died in 1973	Noel Coward	2000-09-20	
 2	800	0	OFF-BROADWAY 2000		Critics weren't all kind to a revival of "Arms and the Man" by this playwright & critic	George Bernard Shaw	2000-09-20	
-2	200	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Any dog(6)	Canine	2000-09-20	
-2	400	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Malaria remedy(7)	Quinine	2000-09-20	
-2	600	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Really silly(7)	Asinine	2000-09-20	
-2	800	1200	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Like the MGM logo(7)	Leonine	2000-09-20	
-2	1000	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Melancholy, like a planet(9)	Saturnine	2000-09-20	
+2	200	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Any dog (6)	Canine	2000-09-20	
+2	400	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Malaria remedy (7)	Quinine	2000-09-20	
+2	600	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Really silly (7)	Asinine	2000-09-20	
+2	800	1200	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Like the MGM logo (7)	Leonine	2000-09-20	
+2	1000	0	\"NINE" ACROSS	(Alex: This is a crossword-type category; I'll give you a clue & the number of letters in it, & each correct response will have "nine" in it)	Melancholy, like a planet (9)	Saturnine	2000-09-20	
 3	0	0	NEWSPAPERS		Sime Silverman founded it in 1905 after he was fired from another paper for panning a show	Variety	2000-09-20	
 1	100	0	VICE PRESIDENTS		In July 1959 he traveled to the Soviet Union to open an American exhibit in Moscow	Richard Nixon	2000-09-21	
 1	200	0	VICE PRESIDENTS		We'll bet this Minnesota senator was pleased as punch to accept the nomination as LBJ's running mate in 1964	Hubert Humphrey	2000-09-21	
@@ -761,11 +761,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE WHEEL THING		It's a child's vehicle with 2 wheels on a low footboard, or a motor-powered adult vehicle	Scooter	2000-09-21	
 1	400	0	THE WHEEL THING		A serving cart for desserts, if you're "off" it you're crazy	Trolley	2000-09-21	
 1	500	0	THE WHEEL THING		A tumbrel, a farm tipcart used to haul manure, was used to haul people to this during the French Revolution	Guillotine	2000-09-21	
-1	100	0	FIRST NAME'S THE SAME		Spacey,Bacon,Kline	Kevin	2000-09-21	
-1	200	0	FIRST NAME'S THE SAME		Carver,Chandler,Kroc	Ray	2000-09-21	
-1	300	0	FIRST NAME'S THE SAME		Banneker,Britten,Bratt	Benjamin	2000-09-21	
-1	400	0	FIRST NAME'S THE SAME		Braun,Peron,Gabor	Eva	2000-09-21	
-1	500	0	FIRST NAME'S THE SAME		Dunhill,Eisenstaedt,Tennyson	Alfred	2000-09-21	
+1	100	0	FIRST NAME'S THE SAME		Spacey, Bacon, Kline	Kevin	2000-09-21	
+1	200	0	FIRST NAME'S THE SAME		Carver, Chandler, Kroc	Ray	2000-09-21	
+1	300	0	FIRST NAME'S THE SAME		Banneker, Britten, Bratt	Benjamin	2000-09-21	
+1	400	0	FIRST NAME'S THE SAME		Braun, Peron, Gabor	Eva	2000-09-21	
+1	500	0	FIRST NAME'S THE SAME		Dunhill, Eisenstaedt, Tennyson	Alfred	2000-09-21	
 1	100	0	TIGER		Sadly for the tiger, these features on its face are thought in Chinese medicine to cure toothaches	Whiskers	2000-09-21	
 1	200	0	TIGER		Most tigers have yellow eyes, but the eyes of the rare white tiger are this color	Blue	2000-09-21	
 1	300	0	TIGER		One of the havens for tigers is Royal Chitwan National Park in this Himalayan country	Nepal	2000-09-21	
@@ -905,7 +905,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	CLASSICAL MUSIC SETTINGS		A hall in Pharaoh's Memphis palace is the backdrop for the opening scene of Act 1 of this Verdi opera	\"Aida\"	2000-09-25	
 2	400	0	CLASSICAL MUSIC SETTINGS		The Trevi is the third of Respighi's 4 "Fountains of" this city	Rome	2000-09-25	
 2	600	1500	CLASSICAL MUSIC SETTINGS		Gilbert & Sullivan's "Yeomen of the Guard" is set in this English landmark	Tower of London	2000-09-25	
-2	800	0	CLASSICAL MUSIC SETTINGS		It's the Spanish city where the following classical classic takes place["Toreador Song"]	Seville ("Carmen")	2000-09-25	
+2	800	0	CLASSICAL MUSIC SETTINGS		It's the Spanish city where the following classical classic takes place ["Toreador Song"]	Seville ("Carmen")	2000-09-25	
 2	1000	0	CLASSICAL MUSIC SETTINGS		After visiting there in 1829, Mendelssohn wrote his "overture" of these Scottish islands	Hebrides	2000-09-25	
 2	200	0	YE GODS!		Among his other jobs, Quetzalcoatl was the god of wind that made this cereal grain grow	Corn/maize	2000-09-25	
 2	400	0	YE GODS!		One of Vishnu's 10 avatars is this founder of a whole religion	Buddha	2000-09-25	
@@ -1061,11 +1061,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	FRENCH BRED		This powerful 12th century queen was born in Aquitaine in 1122 A.D.	Eleanor	2000-09-28	
 1	400	0	FRENCH BRED		On May 6, 1758 Arras, France hatched this politician who later hatched the Reign of Terror	Robespierre	2000-09-28	
 1	500	0	FRENCH BRED		After their births in 1740 & 1745 in Annonay, France, things were up, up & away for these brothers	Montgolfier Brothers	2000-09-28	
-1	100	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Fletcher Christian,Colonel Kurtz,Vito Corleone	Marlon Brando	2000-09-28	
-1	200	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Claudia Draper,Dolly Levi,Fanny Brice	Barbra Streisand	2000-09-28	
-1	300	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Donnie Brasco,Ed Wood,Ichabod Crane	Johnny Depp	2000-09-28	
-1	400	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Tom Horn,Thomas Crown,Junior Bonner	Steve McQueen	2000-09-28	
-1	500	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Angie Scacciapensieri,Dottie Hinson,Thelma Dickinson	Geena Davis	2000-09-28	
+1	100	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Fletcher Christian, Colonel Kurtz, Vito Corleone	Marlon Brando	2000-09-28	
+1	200	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Claudia Draper, Dolly Levi, Fanny Brice	Barbra Streisand	2000-09-28	
+1	300	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Donnie Brasco, Ed Wood, Ichabod Crane	Johnny Depp	2000-09-28	
+1	400	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Tom Horn, Thomas Crown, Junior Bonner	Steve McQueen	2000-09-28	
+1	500	0	ROLES	(Alex: We'll give you the roles, you have to name the actor.)	Angie Scacciapensieri, Dottie Hinson, Thelma Dickinson	Geena Davis	2000-09-28	
 2	200	0	PHYSICS		It was James Watt who determined an average one of these could pull 33,000 foot-pounds of coal	Horse (horsepower)	2000-09-28	
 2	400	0	PHYSICS		One of the simple machines of physics, one type is added to buildings for handicap access	Inclined plane	2000-09-28	
 2	600	0	PHYSICS		An example of the conservation of momentum in action is this felt by a person who fires a gun	Recoil	2000-09-28	
@@ -1130,11 +1130,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	HEIRS		The hemophiliac Alexis was this czar's only male heir	Nicholas II	2000-09-29	
 2	800	0	HEIRS		This country reverts to French control if the Grimaldi family fails to produce a male heir	Monaco	2000-09-29	
 2	1000	0	HEIRS		Later an emperor himself, Octavian was adpoted by this leader as his heir	Julius Caesar	2000-09-29	
-2	200	0	STATES BY CITIES		Warwick,Cranston,Pawtucket	Rhode Island	2000-09-29	
-2	400	0	STATES BY CITIES		Rock Springs,Casper,Gillette	Wyoming	2000-09-29	
-2	600	0	STATES BY CITIES		Duncan,Lawton,Muskogee	Oklahoma	2000-09-29	
-2	800	0	STATES BY CITIES		Burlington,St. Albans,Rutland	Vermont	2000-09-29	
-2	1000	0	STATES BY CITIES		Boulder City, Winnemucca,Henderson	Nevada	2000-09-29	
+2	200	0	STATES BY CITIES		Warwick, Cranston, Pawtucket	Rhode Island	2000-09-29	
+2	400	0	STATES BY CITIES		Rock Springs, Casper, Gillette	Wyoming	2000-09-29	
+2	600	0	STATES BY CITIES		Duncan, Lawton, Muskogee	Oklahoma	2000-09-29	
+2	800	0	STATES BY CITIES		Burlington, St. Albans, Rutland	Vermont	2000-09-29	
+2	1000	0	STATES BY CITIES		Boulder City, Winnemucca, Henderson	Nevada	2000-09-29	
 2	200	0	DEAD LINES	(Alex: Quotes from the London Times obituaries)	1997: "Not since Albert Schweitzer has any one person had such an inspirational effect\"	Mother Teresa	2000-09-29	
 2	400	0	DEAD LINES	(Alex: Quotes from the London Times obituaries)	1957: This movie star was "The masculine counterpart of the girl of easy virtue who has a heart of gold\"	Humphrey Bogart	2000-09-29	
 2	600	4000	DEAD LINES	(Alex: Quotes from the London Times obituaries)	1939: "He was a philosopher, using methods of science to achieve therapeutic ends\"	Sigmund Freud	2000-09-29	
@@ -1187,11 +1187,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	BACK TO SCHOOL	(Alex: How appropriate!)	In history class, you'll study this revolution that began replacing people with machines in the 1700s	the Industrial Revolution	2000-10-02	2000 Back to School Week game 1.
 2	800	200	BACK TO SCHOOL	(Alex: How appropriate!)	For geometry, you'll need to swallow this, the ratio of the circumference of a circle to its diameter	pi	2000-10-02	2000 Back to School Week game 1.
 2	1000	0	BACK TO SCHOOL	(Alex: How appropriate!)	Your geography teacher may use this kind of map with contour lines to show the elevation of land	topography map	2000-10-02	2000 Back to School Week game 1.
-2	200	0	COMMON BONDS		Tie,collar,scarf	things you wear around your neck	2000-10-02	2000 Back to School Week game 1.
-2	400	0	COMMON BONDS		Pipe,dry,vacuum	things that clean	2000-10-02	2000 Back to School Week game 1.
-2	600	0	COMMON BONDS		Period,caboose,Z	things at the end	2000-10-02	2000 Back to School Week game 1.
-2	800	0	COMMON BONDS		The letter T,the street,a bridge	something you cross	2000-10-02	2000 Back to School Week game 1.
-2	1000	0	COMMON BONDS		Fez,bowler,Stetson	hats	2000-10-02	2000 Back to School Week game 1.
+2	200	0	COMMON BONDS		Tie, collar, scarf	things you wear around your neck	2000-10-02	2000 Back to School Week game 1.
+2	400	0	COMMON BONDS		Pipe, dry, vacuum	things that clean	2000-10-02	2000 Back to School Week game 1.
+2	600	0	COMMON BONDS		Period, caboose, Z	things at the end	2000-10-02	2000 Back to School Week game 1.
+2	800	0	COMMON BONDS		The letter T, the street, a bridge	something you cross	2000-10-02	2000 Back to School Week game 1.
+2	1000	0	COMMON BONDS		Fez, bowler, Stetson	hats	2000-10-02	2000 Back to School Week game 1.
 2	200	0	FAMOUS WOMEN		Co-host of "The View", this newswoman has interviewed every U.S. president & first lady since the Nixons	Barbara Walters	2000-10-02	2000 Back to School Week game 1.
 2	400	0	FAMOUS WOMEN		Since 1984 this former first lady has led an annual week-long blitz of house building for Habitat for Humanity	Rosalynn Carter	2000-10-02	2000 Back to School Week game 1.
 2	600	0	FAMOUS WOMEN		She was the queen of England from 1558 to 1603	Elizabeth I	2000-10-02	2000 Back to School Week game 1.
@@ -1520,11 +1520,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE KENNEDY WOMEN		Her stepfather, Hugh Auchincloss, was also the stepfather of writer Gore Vidal	Jacqueline Kennedy Onassis	2000-10-10	
 1	400	1000	THE KENNEDY WOMEN		Maryland Lieut. Governor Kathleen Kennedy Townsend formerly worked in this cabinet dept. her father once headed	the Justice Department	2000-10-10	
 1	500	0	THE KENNEDY WOMEN		Jack & Bobby's sister Patricia was married to this British actor from 1954 to 1966	Peter Lawford	2000-10-10	
-1	100	0	BEASTLY COMMON BONDS		Shire,Arabian,Percheron	horses	2000-10-10	
-1	200	0	BEASTLY COMMON BONDS		Fire,harvester,army	ants	2000-10-10	
-1	300	0	BEASTLY COMMON BONDS		Snowy,screech,northern spotted	owls	2000-10-10	
-1	400	0	BEASTLY COMMON BONDS		Blue,sperm,right	whales	2000-10-10	
-1	500	0	BEASTLY COMMON BONDS		King,black-necked,Indian	cobras	2000-10-10	
+1	100	0	BEASTLY COMMON BONDS		Shire, Arabian, Percheron	horses	2000-10-10	
+1	200	0	BEASTLY COMMON BONDS		Fire, harvester, army	ants	2000-10-10	
+1	300	0	BEASTLY COMMON BONDS		Snowy, screech, northern spotted	owls	2000-10-10	
+1	400	0	BEASTLY COMMON BONDS		Blue, sperm, right	whales	2000-10-10	
+1	500	0	BEASTLY COMMON BONDS		King, black-necked, Indian	cobras	2000-10-10	
 2	200	0	THE INQUISITION		This notorious leader of the Spanish Inquisition died in 1498	Tomas de Torquemada	2000-10-10	
 2	400	0	THE INQUISITION		This practice by the Inquisition was sanctioned in 1252; today there's a U.N. convention against it	torture	2000-10-10	
 2	600	0	THE INQUISITION		French inquisitor Robert Le Bougre reportedly had 180 people executed this way in a day	Burned at the stake	2000-10-10	
@@ -1817,11 +1817,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	GILBERT & SULLIVAN		Phonograph recordings of this operetta with Captain Corcoran & Dick Deadeye were popular in 1907	H.M.S. Pinafore	2000-10-17	
 2	800	0	GILBERT & SULLIVAN		In 1954 this TV title trio of real & puppet players performed a version of "The Mikado\"	Kukla, Fran & Ollie	2000-10-17	
 2	1000	0	GILBERT & SULLIVAN		This theater D'Oyly Carte built to put on G&S shows was on the site of a palace of the same name	the Savoy (hence the Savoyards)	2000-10-17	
-2	200	0	THE SPORT PLAYED		Fred Couples &David Duval	golf	2000-10-17	
-2	400	0	THE SPORT PLAYED		Rodney Peete &Elvis Grbac	football	2000-10-17	
-2	600	0	THE SPORT PLAYED		Lisa Leslie &Sheryl Swoopes	basketball	2000-10-17	
-2	800	0	THE SPORT PLAYED		Todd Woodbridge &Mark Woodforde	tennis	2000-10-17	
-2	1000	0	THE SPORT PLAYED		Sergei Fedorov &Pavel Bure	hockey	2000-10-17	
+2	200	0	THE SPORT PLAYED		Fred Couples & David Duval	golf	2000-10-17	
+2	400	0	THE SPORT PLAYED		Rodney Peete & Elvis Grbac	football	2000-10-17	
+2	600	0	THE SPORT PLAYED		Lisa Leslie & Sheryl Swoopes	basketball	2000-10-17	
+2	800	0	THE SPORT PLAYED		Todd Woodbridge & Mark Woodforde	tennis	2000-10-17	
+2	1000	0	THE SPORT PLAYED		Sergei Fedorov & Pavel Bure	hockey	2000-10-17	
 2	200	0	HISTORIC HEROES		Jose Artigas was the first leader of the Uruguayan independence movement against this country	Spain	2000-10-17	
 2	400	0	HISTORIC HEROES		In 1240 this Russian prince routed the Swedes on the Neva River & won the name "Nevsky\"	Alexander Nevsky	2000-10-17	
 2	600	0	HISTORIC HEROES		As leaders of these Germanic people, you'd expect Alaric & Theodoric to wear black & listen to depressing music	the Goths	2000-10-17	
@@ -2002,11 +2002,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	HEY, MIKEY!		This world-traveler was an original member of Monty Python's Flying Circus	Michael Palin	2000-10-20	
 2	800	0	HEY, MIKEY!		He & his brother Leon both won Olympic boxing gold in 1976	Michael Spinks	2000-10-20	
 2	1000	0	HEY, MIKEY!		This Sri Lanka-born Canadian won Britain's Booker Prize for his novel "The English Patient\"	Michael Ondaatje	2000-10-20	
-2	200	0	THE LARGEST IN AREA		China,Russia,Canada	Russia	2000-10-20	
-2	400	0	THE LARGEST IN AREA		Wales,Scotland,Northern Ireland	Scotland	2000-10-20	
-2	600	0	THE LARGEST IN AREA		Jordan,Lebanon,Israel	Jordan	2000-10-20	
-2	800	0	THE LARGEST IN AREA		Sudan,Algeria,Libya	Sudan	2000-10-20	
-2	1000	0	THE LARGEST IN AREA		El Salvador,Nicaragua,Costa Rica	Nicaragua	2000-10-20	
+2	200	0	THE LARGEST IN AREA		China, Russia, Canada	Russia	2000-10-20	
+2	400	0	THE LARGEST IN AREA		Wales, Scotland, Northern Ireland	Scotland	2000-10-20	
+2	600	0	THE LARGEST IN AREA		Jordan, Lebanon, Israel	Jordan	2000-10-20	
+2	800	0	THE LARGEST IN AREA		Sudan, Algeria, Libya	Sudan	2000-10-20	
+2	1000	0	THE LARGEST IN AREA		El Salvador, Nicaragua, Costa Rica	Nicaragua	2000-10-20	
 2	200	0	ALMOST-RHYME TIME		The song "It Ain't Necessarily So" says this Biblical man "Made his home in / that fish's abdomen\"	Jonah	2000-10-20	
 2	400	0	ALMOST-RHYME TIME		Fleetwood Mac song, "Just when I thought it was over...you got me runnin', runnin', runnin' for" this	Cover	2000-10-20	
 2	600	0	ALMOST-RHYME TIME		In a Pete Seeger song, this title line precedes "Gone to young girls, every one\"	\"Where Have All the Flowers Gone?\"	2000-10-20	
@@ -2016,7 +2016,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	STATE CAPITALS		Capitals named for women include the capital of Maryland & this Maine capital	Augusta	2000-10-23	
 1	300	0	STATE CAPITALS		It's the capital of the state nicknamed "Heart of Dixie\"	Montgomery, Alabama	2000-10-23	
 1	400	600	STATE CAPITALS		In 1999 the team once known as the Houston Oilers made a slick move to this capital	Nashville (Tennessee Titans)	2000-10-23	
-1	500	0	STATE CAPITALS		A synonym for this New England state capital could be what's symbolized by the sign here[Deer Crossing]	Hartford, Connecticut	2000-10-23	
 1	100	0	CELEBRITY RELATIVES		\"Postcards from the Edge" is loosely based on her life & her relationship with mom, Debbie Reynolds	Carrie Fisher	2000-10-23	
 1	200	0	CELEBRITY RELATIVES		\"Peggy Sue Got Married" is one of the movies he directed that featured nephew Nicolas Cage	Francis Ford Coppola	2000-10-23	
 1	300	0	CELEBRITY RELATIVES		Between the 2 of them, Dionne Warwick & this cousin have had more than 50 Top 40 hits	Whitney Houston	2000-10-23	
@@ -2079,11 +2078,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	WHAT I LEARNED FROM WOMEN'S MAGAZINES		These are back, not just combed over the forehead, but swept to the side & layered	bangs	2000-10-24	
 1	400	0	WHAT I LEARNED FROM WOMEN'S MAGAZINES		Whether in tones of aubergine or plum, this, the color of royalty, is chic again	purple	2000-10-24	
 1	500	0	WHAT I LEARNED FROM WOMEN'S MAGAZINES		Turning on the waterworks to avoid a fight is a girlfriend gaffe, so don't play this, the title of a 1992 Stephen Rea film	The Crying Game	2000-10-24	
-1	100	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Freddy Eynsford Hill,Col. Pickering,Henry Higgins	Pygmalion (or My Fair Lady)	2000-10-24	
-1	200	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Natasha Rostova,Pierre Bezuhov,Napoleon	War and Peace	2000-10-24	
-1	300	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Rusty Trawler,Sally Tomato,Holly Golightly	Breakfast at Tiffany's	2000-10-24	
-1	400	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Bertha Mason,Grace Poole,Mr. Rochester	Jane Eyre	2000-10-24	
-1	500	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Amelia Sedley,George Osborne,Becky Sharp	Vanity Fair	2000-10-24	
+1	100	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Freddy Eynsford Hill, Col. Pickering, Henry Higgins	Pygmalion (or My Fair Lady)	2000-10-24	
+1	200	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Natasha Rostova, Pierre Bezuhov, Napoleon	War and Peace	2000-10-24	
+1	300	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Rusty Trawler, Sally Tomato, Holly Golightly	Breakfast at Tiffany's	2000-10-24	
+1	400	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Bertha Mason, Grace Poole, Mr. Rochester	Jane Eyre	2000-10-24	
+1	500	0	CHARACTER STUDY	(Alex: We'll name the character, you have to name the work.)	Amelia Sedley, George Osborne, Becky Sharp	Vanity Fair	2000-10-24	
 1	200	0	FLORA & FAUNA		Yes sir! This term for the seeds or grains of wheat sounds like a military rank	kernel	2000-10-24	
 1	400	0	FLORA & FAUNA		When destroying cotton seed pods, the snout beetle is more commonly known by this name	boll weevil	2000-10-24	
 1	100	0	ROLLING STONES SONGS	(Alex: You name the song; we'll give you some lyrics.)	\"'Cause I try and I try and I try and I try...\"	\"Satisfaction\"	2000-10-24	
@@ -2247,11 +2246,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	OSCAR, OSCAR		She lost with 2 Oscar nominations for 1993 films, "In the Name of the Father" & "The Remains of the Day\"	Emma Thompson	2000-10-27	
 1	400	1000	OSCAR, OSCAR		They're the 2 actresses named Hunt who've won acting Oscars	Helen & Linda Hunt	2000-10-27	
 1	500	0	OSCAR, OSCAR		James Gleason was nominated for "Here Comes Mr. Jordan" & Jack Warden was nominated for this 1978 remake	Heaven Can Wait	2000-10-27	
-1	100	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Alabaster,Eggshell	White	2000-10-27	
-1	200	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Jet,Raven	Black	2000-10-27	
-1	300	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Cobalt,Powder	Blue	2000-10-27	
-1	400	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Mustard,Honey	Yellow	2000-10-27	
-1	500	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Carnation,Salmon	Pink	2000-10-27	
+1	100	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Alabaster, Eggshell	White	2000-10-27	
+1	200	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Jet, Raven	Black	2000-10-27	
+1	300	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Cobalt, Powder	Blue	2000-10-27	
+1	400	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Mustard, Honey	Yellow	2000-10-27	
+1	500	0	A COLORFUL CATEGORY	(Alex: We'll give you some shades, you give us the color.)	Carnation, Salmon	Pink	2000-10-27	
 1	200	0	AUDIO LITERATURE		He's the singer reading here from "The Eye of the Prophet" by Kahlil Gibran	Johnny Cash	2000-10-27	
 1	400	0	AUDIO LITERATURE		Jack Kerouac's "The Dharma Bums" is read here by this literary giant who knew him	Allen Ginsberg	2000-10-27	
 1	100	0	TOYS FOR BOYS		Decorate your den with an NBA retired number banner, like this team's featuring Walt Frazier & Willis Reed	New York Knicks	2000-10-27	
@@ -2289,11 +2288,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	QUOTABLE WOMEN		Jacqueline Roque said of him, "If my husband ever met a woman... who looked like one of his paintings, he would faint\"	Pablo Picasso	2000-10-27	
 2	800	0	QUOTABLE WOMEN		This cartoonist calls "Mothers, food, love and career: the four major guilt groups\"	Cathy Guisewite	2000-10-27	
 2	1000	0	QUOTABLE WOMEN		She told Ernest Hemingway, "You are all a lost generation\"	Gertrude Stein	2000-10-27	
-2	200	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Carlsbad Caverns,White Sands	New Mexico	2000-10-27	
-2	400	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	The Roy Rogers-Dale Evans Museum,Edwards Air Force Base	California	2000-10-27	
-2	600	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	The Valentine Museum,The Museum & White House of the Confederacy	Virginia	2000-10-27	
-2	800	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Wounded Knee Village,Buechel Memorial Lakota Museum	South Dakota	2000-10-27	
-2	1000	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Cumberland Caverns,Lookout Mountain Incline Railway	Tennessee	2000-10-27	
+2	200	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Carlsbad Caverns, White Sands	New Mexico	2000-10-27	
+2	400	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	The Roy Rogers-Dale Evans Museum, Edwards Air Force Base	California	2000-10-27	
+2	600	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	The Valentine Museum, The Museum & White House of the Confederacy	Virginia	2000-10-27	
+2	800	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Wounded Knee Village, Buechel Memorial Lakota Museum	South Dakota	2000-10-27	
+2	1000	0	WHERE IT'S AT	(Alex: You have to identify the U.S. state where it's at.)	Cumberland Caverns, Lookout Mountain Incline Railway	Tennessee	2000-10-27	
 3	0	0	LANGUAGES		The eastern variety of this language is based on the dialect of the city of Yerevan & the Ararat Valley	Armenian	2000-10-27	
 1	100	0	WELCOME TO MY COUNTRY		Leonardo da Vinci International	Italy	2000-10-30	
 1	200	0	WELCOME TO MY COUNTRY		Ben-Gurion International	Israel	2000-10-30	
@@ -2721,11 +2720,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	NEARLY USELESS INFORMATION	(Alex: A whole category about...)	Currently, the only 2 countries in the world that begin with the letter Z	Zambia & Zimbabwe	2000-11-08	2000-B College Championship quarterfinal game 1.
 1	400	0	NEARLY USELESS INFORMATION	(Alex: A whole category about...)	They're the 2 of Snow White's 7 dwarves whose names don't end in "Y\"	Bashful & Doc	2000-11-08	2000-B College Championship quarterfinal game 1.
 1	500	0	NEARLY USELESS INFORMATION	(Alex: A whole category about...)	By last name, he's alphabetically last on a list of U.S. presidents	Woodrow Wilson	2000-11-08	2000-B College Championship quarterfinal game 1.
-1	100	0	CROSSWORD CLUES "R\"		He spun straw into gold(15)	Rumpelstiltskin	2000-11-08	2000-B College Championship quarterfinal game 1.
-1	200	0	CROSSWORD CLUES "R\"		Midnight rider(6)	(Paul) Revere	2000-11-08	2000-B College Championship quarterfinal game 1.
-1	300	0	CROSSWORD CLUES "R\"		Movie boxer Balboa(5)	Rocky	2000-11-08	2000-B College Championship quarterfinal game 1.
-1	400	0	CROSSWORD CLUES "R\"		Precedes nose & numerals(5)	Roman	2000-11-08	2000-B College Championship quarterfinal game 1.
-1	500	0	CROSSWORD CLUES "R\"		Enrollment record keeper at a university(9)	Registrar	2000-11-08	2000-B College Championship quarterfinal game 1.
+1	100	0	CROSSWORD CLUES "R\"		He spun straw into gold (15)	Rumpelstiltskin	2000-11-08	2000-B College Championship quarterfinal game 1.
+1	200	0	CROSSWORD CLUES "R\"		Midnight rider (6)	(Paul) Revere	2000-11-08	2000-B College Championship quarterfinal game 1.
+1	300	0	CROSSWORD CLUES "R\"		Movie boxer Balboa (5)	Rocky	2000-11-08	2000-B College Championship quarterfinal game 1.
+1	400	0	CROSSWORD CLUES "R\"		Precedes nose & numerals (5)	Roman	2000-11-08	2000-B College Championship quarterfinal game 1.
+1	500	0	CROSSWORD CLUES "R\"		Enrollment record keeper at a university (9)	Registrar	2000-11-08	2000-B College Championship quarterfinal game 1.
 1	100	0	HIS STORY		This man's story begins in Genesis 1:26	Adam	2000-11-08	2000-B College Championship quarterfinal game 1.
 1	200	0	HIS STORY		\"Come Together" is one of many biographies about this late rock legend	John Lennon	2000-11-08	2000-B College Championship quarterfinal game 1.
 1	300	0	HIS STORY		\"The Last Lion" is William Manchester's bestselling bio of this WWII British prime minister	Winston Churchill	2000-11-08	2000-B College Championship quarterfinal game 1.
@@ -2765,7 +2764,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	AD PEOPLE		Cartoon Network enlisted Bob Dole for this rabbit's campaign for the presidency	Bugs Bunny	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	300	0	AD PEOPLE		This "Spin City" & "Family Ties" star sold fishing reels in Japanese ads	Michael J. Fox	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	400	0	AD PEOPLE		In 1999 this character came out of retirement to peddle a new Charmin	Mr. Whipple	2000-11-09	2000-B College Championship quarterfinal game 2.
-1	500	0	AD PEOPLE		Barnes & Noble—Bam!—sent this chef out—Bam!—into people's houses—Bam!—to push his book	Emeril Lagasse	2000-11-09	2000-B College Championship quarterfinal game 2.
+1	500	0	AD PEOPLE		Barnes & Noble —Bam!— sent this chef out —Bam!— into people's houses—Bam!— to push his book	Emeril Lagasse	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	100	0	STATE CAPITALS		In 1977 this Florida city replaced its old capitol building with a new high-rise capitol	Tallahassee	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	200	0	STATE CAPITALS		The name of this Southwestern capital is Spanish for "holy faith\"	Santa Fe, New Mexico	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	300	0	STATE CAPITALS		Abraham Lincoln moved to this capital city in 1837	Springfield, Illinois	2000-11-09	2000-B College Championship quarterfinal game 2.
@@ -2781,7 +2780,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	DEBT		These popular student loans are named for a Vermont senator	Stafford loans	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	400	1000	DEBT		A time during which late payments aren't penalized, or the years 1956-1982 in Monaco	Grace period	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	500	0	DEBT		This partner of "forget" is what Bono wants Western nations to do with Third World debt	Forgive	2000-11-09	2000-B College Championship quarterfinal game 2.
-1	100	0	WHAT'S THE FREQUENCY?	(Alex: Literally, how often does something happen.)	Leap Day(usually)	Once every 4 years	2000-11-09	2000-B College Championship quarterfinal game 2.
+1	100	0	WHAT'S THE FREQUENCY?	(Alex: Literally, how often does something happen.)	Leap Day (usually)	Once every 4 years	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	200	0	WHAT'S THE FREQUENCY?	(Alex: Literally, how often does something happen.)	Twelfth night	Once a year	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	300	0	WHAT'S THE FREQUENCY?	(Alex: Literally, how often does something happen.)	The Venice Biennale Art Exhibit	Every 2 years	2000-11-09	2000-B College Championship quarterfinal game 2.
 1	400	0	WHAT'S THE FREQUENCY?	(Alex: Literally, how often does something happen.)	Mr. Spock of "Star Trek" feels the urge to mate	Once every 7 years	2000-11-09	2000-B College Championship quarterfinal game 2.
@@ -2945,11 +2944,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	AMERICAN HISTORY		The Dept. of Agriculture began a new version of this program in 1964; by 1975 it was helping over 17 million people	food stamps	2000-11-14	2000-B College Championship quarterfinal game 5.
 1	400	0	AMERICAN HISTORY		This commodore became a friend to Japan in 1854, showing them the telegraph & a daguerreotype camera	Matthew Perry	2000-11-14	2000-B College Championship quarterfinal game 5.
 1	500	0	AMERICAN HISTORY		Name that completed an 1856 Republican slogan, "Free soil, free speech, free men and ...\"	(John C.) Fremont	2000-11-14	2000-B College Championship quarterfinal game 5.
-1	100	0	CROSSWORD CLUES "M\"		Messenger-god planet(7)	Mercury	2000-11-14	2000-B College Championship quarterfinal game 5.
-1	200	0	CROSSWORD CLUES "M\"		Duchovny's "Fox"iest role(6)	Mulder	2000-11-14	2000-B College Championship quarterfinal game 5.
-1	300	0	CROSSWORD CLUES "M\"		Clemency(5)	Mercy	2000-11-14	2000-B College Championship quarterfinal game 5.
-1	400	0	CROSSWORD CLUES "M\"		Carnegie's partner, in a university name(6)	Mellon	2000-11-14	2000-B College Championship quarterfinal game 5.
-1	500	0	CROSSWORD CLUES "M\"		\"Peace"ful space station(3)	Mir	2000-11-14	2000-B College Championship quarterfinal game 5.
+1	100	0	CROSSWORD CLUES "M\"		Messenger-god planet (7)	Mercury	2000-11-14	2000-B College Championship quarterfinal game 5.
+1	200	0	CROSSWORD CLUES "M\"		Duchovny's "Fox"iest role (6)	Mulder	2000-11-14	2000-B College Championship quarterfinal game 5.
+1	300	0	CROSSWORD CLUES "M\"		Clemency (5)	Mercy	2000-11-14	2000-B College Championship quarterfinal game 5.
+1	400	0	CROSSWORD CLUES "M\"		Carnegie's partner, in a university name (6)	Mellon	2000-11-14	2000-B College Championship quarterfinal game 5.
+1	500	0	CROSSWORD CLUES "M\"		\"Peace"ful space station (3)	Mir	2000-11-14	2000-B College Championship quarterfinal game 5.
 1	100	0	LET'S BREAK UP		To the surprise of many, she & Bruce Willis called it quits in 1998	Demi Moore	2000-11-14	2000-B College Championship quarterfinal game 5.
 1	200	0	LET'S BREAK UP		In October 1999 he shocked radio listeners by announcing that he & wife Alison were splitting up	Howard Stern	2000-11-14	2000-B College Championship quarterfinal game 5.
 1	300	0	LET'S BREAK UP		After his breakup with Brooke Shields, he found a love match with Steffi Graf	Andre Agassi	2000-11-14	2000-B College Championship quarterfinal game 5.
@@ -2967,13 +2966,13 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	I'M NOT REALLY A SCIENTIST		In "Medicine Man" Sean Connery finds a cure for this but then loses it — don't you hate when that happens?	Cancer	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	400	0	I'M NOT REALLY A SCIENTIST		John Cusack is among the scientists building this in "Fat Man and Little Boy\"	Atomic bomb	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	600	0	I'M NOT REALLY A SCIENTIST		On "Friends", David Schwimmer plays this type of scientist	Paleontologist	2000-11-14	2000-B College Championship quarterfinal game 5.
-2	800	0	I'M NOT REALLY A SCIENTIST		Famous for playing a scientist's creation, he plays a scientist here("Before I Hang")	Boris Karloff	2000-11-14	2000-B College Championship quarterfinal game 5.
+2	800	0	I'M NOT REALLY A SCIENTIST		Famous for playing a scientist's creation, he plays a scientist here ("Before I Hang")	Boris Karloff	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	1000	0	I'M NOT REALLY A SCIENTIST		Elisabeth Shue masters cold fusion & Val Kilmer tries to steal the secret in this 1997 film	The Saint	2000-11-14	2000-B College Championship quarterfinal game 5.
-2	200	0	NEXT IN LINE		In poker: royal flush,straight flush...	Four of a kind	2000-11-14	2000-B College Championship quarterfinal game 5.
-2	400	0	NEXT IN LINE		In the Olympics:400-meter run,800-meter run...	1500-meter run	2000-11-14	2000-B College Championship quarterfinal game 5.
+2	200	0	NEXT IN LINE		In poker: royal flush, straight flush...	Four of a kind	2000-11-14	2000-B College Championship quarterfinal game 5.
+2	400	0	NEXT IN LINE		In the Olympics: 400-meter run, 800-meter run...	1500-meter run	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	600	0	NEXT IN LINE		At the movies: "Batman", "Batman Returns", "Batman Forever"...	Batman and Robin	2000-11-14	2000-B College Championship quarterfinal game 5.
-2	800	1200	NEXT IN LINE		Chief justices: Earl Warren,Warren Burger...	William Rehnquist	2000-11-14	2000-B College Championship quarterfinal game 5.
-2	1000	0	NEXT IN LINE		Presidential succession: Vice president,Speaker of the House...	President Pro-Tem of the Senate	2000-11-14	2000-B College Championship quarterfinal game 5.
+2	800	1200	NEXT IN LINE		Chief justices: Earl Warren, Warren Burger...	William Rehnquist	2000-11-14	2000-B College Championship quarterfinal game 5.
+2	1000	0	NEXT IN LINE		Presidential succession: Vice president, Speaker of the House...	President Pro-Tem of the Senate	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	200	0	CLASSICAL COMPOSERS		King George enjoyed this man's "Water Music" so much during a 1717 party that he ordered it played 3 times that day	Handel	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	400	0	CLASSICAL COMPOSERS		This "Rite of Spring" composer accepted such commissions as a dance for circus elephants	Igor Stravinsky	2000-11-14	2000-B College Championship quarterfinal game 5.
 2	600	0	CLASSICAL COMPOSERS		Both he & his father Leopold were concertmasters for the archbishop of Salzburg	Mozart	2000-11-14	2000-B College Championship quarterfinal game 5.
@@ -2995,11 +2994,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE OLD TESTAMENT		They're the only 2 books of the Hebrew bible named for specific women	Esther & Ruth	2000-11-15	2000-B College Championship semifinal game 1.
 1	400	0	THE OLD TESTAMENT		While in the court of Nebuchadnezzar, this visionary was given the name Belteshazzar	Daniel	2000-11-15	2000-B College Championship semifinal game 1.
 1	500	0	THE OLD TESTAMENT		Twice, with an evil spirit upon him, this king tried to slay David with his javelin	King Saul	2000-11-15	2000-B College Championship semifinal game 1.
-1	100	0	SPORTS HOME CITIES		The NBA'sBucks	Milwaukee	2000-11-15	2000-B College Championship semifinal game 1.
+1	100	0	SPORTS HOME CITIES		The NBA's Bucks	Milwaukee	2000-11-15	2000-B College Championship semifinal game 1.
 1	200	0	SPORTS HOME CITIES		MLB's Devil Rays	Tampa Bay	2000-11-15	2000-B College Championship semifinal game 1.
-1	300	0	SPORTS HOME CITIES		The NFL'sTitans	Nashville	2000-11-15	2000-B College Championship semifinal game 1.
-1	400	0	SPORTS HOME CITIES		The NHL'sCanucks	Vancouver	2000-11-15	2000-B College Championship semifinal game 1.
-1	500	0	SPORTS HOME CITIES		MLS'sEarthquakes	San Jose	2000-11-15	2000-B College Championship semifinal game 1.
+1	300	0	SPORTS HOME CITIES		The NFL's Titans	Nashville	2000-11-15	2000-B College Championship semifinal game 1.
+1	400	0	SPORTS HOME CITIES		The NHL's Canucks	Vancouver	2000-11-15	2000-B College Championship semifinal game 1.
+1	500	0	SPORTS HOME CITIES		MLS's Earthquakes	San Jose	2000-11-15	2000-B College Championship semifinal game 1.
 1	100	0	SEE-ATTLE		Uh-oh! This 14,410-foot mountain that looms over Seattle is actually an active volcano	Mount Rainier	2000-11-15	2000-B College Championship semifinal game 1.
 1	200	0	SEE-ATTLE		When dining at SkyCity, this famous tower's revolving restaurant, save room for the Lunar Orbiter dessert	The Space Needle	2000-11-15	2000-B College Championship semifinal game 1.
 1	300	0	SEE-ATTLE		A museum on Main Street is named for this Klondike event that turned 1890s Seattle into a boom town	Gold Rush	2000-11-15	2000-B College Championship semifinal game 1.
@@ -3159,7 +3158,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	BALLET		Nina Ananiashvili toured the U.S. in 2000 as prima ballerina of this Moscow-based ballet company	Bolshoi	2000-11-17	2000-B College Championship semifinal game 3.
 2	800	0	BALLET		Act 1, Scene 1 of this Balanchine ballet based on this novel is set in La Mancha	\"Don Quixote\"	2000-11-17	2000-B College Championship semifinal game 3.
 2	1000	0	BALLET		\"Lady From the Sea" is adapted from a 19th century play by this Norwegian	Henrik Ibsen	2000-11-17	2000-B College Championship semifinal game 3.
-2	600	0	SOUNDS GOOD TO ME	(Alex: Something that...)	The following sound is regularly heard on this TV show created by Merv Griffin(it's spinning)	Wheel of Fortune	2000-11-17	2000-B College Championship semifinal game 3.
+2	600	0	SOUNDS GOOD TO ME	(Alex: Something that...)	The following sound is regularly heard on this TV show created by Merv Griffin (it's spinning)	Wheel of Fortune	2000-11-17	2000-B College Championship semifinal game 3.
 2	800	0	SOUNDS GOOD TO ME	(Alex: Something that...)	It's the title of the following piece of music (played at military funerals)	\"Taps\"	2000-11-17	2000-B College Championship semifinal game 3.
 3	0	0	POLITICAL NAMES		As House Majority Whip, he works to get laws passed, though his name sounds like he puts them off	Tom DeLay	2000-11-17	2000-B College Championship semifinal game 3.
 1	200	0	ROCK ME		It's molten rock below ground	Magma	2000-11-20	2000-B College Championship final game 1.
@@ -3350,13 +3349,13 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	THE MOSTEST		Herbert Spencer summed up Darwin's theory as "Survival of" these	The fittest	2000-11-23	
 1	200	0	THE MOSTEST		In 1999 Guinness assigned this record to Vostok, Antarctica	Coldest place on Earth	2000-11-23	
 1	300	0	THE MOSTEST		People magazine began an annual tradition when it named Mel Gibson this for 1985	\"The Sexiest Man Alive\"	2000-11-23	
-1	400	0	THE MOSTEST		Song that includes the following[Whitney Houston]	\"The Greatest Love of All\"	2000-11-23	
+1	400	0	THE MOSTEST		Song that includes the following [Whitney Houston]	\"The Greatest Love of All\"	2000-11-23	
 1	500	0	THE MOSTEST		Mark Antony described Caesar's seeing Brutus among the assassins as this "of all\"	The most unkindest cut	2000-11-23	
-1	100	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	John Darling, Wendy Darling,Tinker Bell	\"Peter Pan\"	2000-11-23	
-1	200	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Harold Mitchell,Eunice Hubbell,Stella Kowalski	\"A Streetcar Named Desire\"	2000-11-23	
-1	300	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Chiffon,Mushnik,Audrey Two	\"Little Shop of Horrors\"	2000-11-23	
-1	400	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Count Orsini-Rosenberg,Joseph II,Antonio Salieri	\"Amadeus\"	2000-11-23	
-1	500	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Nicely-Nicely Johnson,Sky Masterson,Nathan Detroit	\"Guys and Dolls\"	2000-11-23	
+1	100	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	John Darling, Wendy Darling, Tinker Bell	\"Peter Pan\"	2000-11-23	
+1	200	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Harold Mitchell, Eunice Hubbell, Stella Kowalski	\"A Streetcar Named Desire\"	2000-11-23	
+1	300	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Chiffon, Mushnik, Audrey Two	\"Little Shop of Horrors\"	2000-11-23	
+1	400	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Count Orsini-Rosenberg, Joseph II, Antonio Salieri	\"Amadeus\"	2000-11-23	
+1	500	0	PLAYS BY CHARACTERS	(Alex: We'll give you the characters.)	Nicely-Nicely Johnson, Sky Masterson, Nathan Detroit	\"Guys and Dolls\"	2000-11-23	
 1	100	0	GIVING "THANK"S		From "The Big Broadcast of 1938", it's Bob Hope's theme song	\"Thanks for the Memories\"	2000-11-23	
 1	200	0	GIVING "THANK"S		Maurice Chevalier crooned this delightful ditty in the film "Gigi\"	\"Thank Heaven for Little Girls\"	2000-11-23	
 1	300	0	GIVING "THANK"S		On Martin Luther King, Jr.'s gravestone these 3 words follow "Free at Last, Free at Last...\"	\"Thank God Almighty\"	2000-11-23	
@@ -3387,10 +3386,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	1000	INTERNATIONAL STARS	(Alex: You give the country of birth.)	Salma Hayek	Mexico	2000-11-23	
 2	800	0	INTERNATIONAL STARS	(Alex: You give the country of birth.)	Jean-Claude Van Damme	Belgium	2000-11-23	
 2	1000	0	INTERNATIONAL STARS	(Alex: You give the country of birth.)	Natalie Portman	Israel	2000-11-23	
-2	200	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Famous alarmist depicted in the following"His mission, to warn Adams and Hancock, hiding out in a Lexington parsonage..."	Paul Revere	2000-11-23	
-2	400	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Man whose earlier life is the subject here"His business ventures made him wealthy, free to pursue his experiments and inventions and to devote his life..."	Benjamin Franklin	2000-11-23	
-2	800	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Revolutionary inspiration whose work is read here"These are times that try men's souls...\"	Thomas Paine ("The American Crisis")	2000-11-23	
-2	1000	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Patriot discussed in the following clip"He had been a failure in everything that he did, until the revolution; his father gave him a lot of money..."	Samuel Adams	2000-11-23	
+2	200	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Famous alarmist depicted in the following "His mission, to warn Adams and Hancock, hiding out in a Lexington parsonage...\"	Paul Revere	2000-11-23	
+2	400	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Man whose earlier life is the subject here "His business ventures made him wealthy, free to pursue his experiments and inventions and to devote his life...\"	Benjamin Franklin	2000-11-23	
+2	800	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Revolutionary inspiration whose work is read here "These are times that try men's souls...\"	Thomas Paine ("The American Crisis")	2000-11-23	
+2	1000	0	THE HISTORY CHANNEL	(Alex: In particular, we are going to deal with clues about their Founding Fathers series.)	Patriot discussed in the following clip "He had been a failure in everything that he did, until the revolution; his father gave him a lot of money...\"	Samuel Adams	2000-11-23	
 3	0	0	STATE CAPITALS		This Midwest city is the only state capital whose unabbreviated name starts with 3 consonants	Springfield, Illinois	2000-11-23	
 1	100	0	SOUTH OF THE EQUATOR		Boer voortrekkers who attempted to cross this desert in the late 19th century called it the "Thirstland\"	Kalahari	2000-11-24	
 1	200	0	SOUTH OF THE EQUATOR		The Gran Chaco is a low, flat plain covering western Paraguay, southern Bolivia & the northern part of this country	Argentina	2000-11-24	
@@ -3717,11 +3716,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	SOMETHING'S FISHY		Holy Mackerel! The northern bluefin, the largest species of this fish, may reach a length of 14 feet	Tuna	2000-12-01	
 2	800	0	SOMETHING'S FISHY		The air bladder of this Russian fish, also known as a beluga, provides a superior grade of isinglass used in making glue	Sturgeon	2000-12-01	
 2	1000	0	SOMETHING'S FISHY		Also called the pike perch, this prized freshwater game fish is the largest member of the perch family	Walleye	2000-12-01	
-2	200	0	CROSSWORD CLUES "E\"		Flightless bird(3)	Emu	2000-12-01	
-2	400	0	CROSSWORD CLUES "E\"		Arthurian sword(9)	Excalibur	2000-12-01	
-2	600	0	CROSSWORD CLUES "E\"		A temblor(10)	Earthquake	2000-12-01	
-2	800	0	CROSSWORD CLUES "E\"		Rapturous delight(7)	Ecstasy	2000-12-01	
-2	1000	0	CROSSWORD CLUES "E\"		Serious, like a Wilde character(7)	Earnest	2000-12-01	
+2	200	0	CROSSWORD CLUES "E\"		Flightless bird (3)	Emu	2000-12-01	
+2	400	0	CROSSWORD CLUES "E\"		Arthurian sword (9)	Excalibur	2000-12-01	
+2	600	0	CROSSWORD CLUES "E\"		A temblor (10)	Earthquake	2000-12-01	
+2	800	0	CROSSWORD CLUES "E\"		Rapturous delight (7)	Ecstasy	2000-12-01	
+2	1000	0	CROSSWORD CLUES "E\"		Serious, like a Wilde character (7)	Earnest	2000-12-01	
 3	0	0	SCIENCE		He invented carbonated water as a byproduct of his investigations into the chemistry of air	Joseph Priestley	2000-12-01	
 1	100	0	WARREN G. HARDING	(Alex: A whole category devoted to...)	Harding's veep, he succeeded Harding as president	Calvin Coolidge	2000-12-04	
 1	200	0	WARREN G. HARDING	(Alex: A whole category devoted to...)	In 1903 Warren was elected lieutenant governor of this state; later he was one of its U.S. senators	Ohio	2000-12-04	
@@ -3875,7 +3874,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	BOOKS & AUTHORS		This author of "A Cry in the Night" & "We'll Meet Again" is known as the queen of suspense	Mary Higgins Clark	2000-12-06	
 2	200	0	MUSICAL THEATRE		\"The Donkey Show" turns this "dream"y Shakespeare play into "The Ultimate '70s Disco Experience\"	\"A Midsummer Night's Dream\"	2000-12-06	
 2	600	1000	MUSICAL THEATRE		This musical that hit Broadway in 1991 is set partly in Bangkok & partly in Ho Chi Minh City	\"Miss Saigon\"	2000-12-06	
-2	800	0	MUSICAL THEATRE		(Hi, I'm Marvin Hamlisch, here at the Hollywood Bowl) I composed the music for this Broadway smash that includes the song...("One")	\"A Chorus Line\"	2000-12-06	
+2	800	0	MUSICAL THEATRE		(Hi, I'm Marvin Hamlisch, here at the Hollywood Bowl) I composed the music for this Broadway smash that includes the song... ("One")	\"A Chorus Line\"	2000-12-06	
 2	1000	0	MUSICAL THEATRE		The 2000 London musical based on this Updike novel stars Lucie Arnaz as the woman Cher played on film	\"The Witches of Eastwick\"	2000-12-06	
 2	200	0	LATIN AMERICAN HISTORY		In 1921 the United States paid this country $25 million for its loss of Panama 18 years earlier	Colombia	2000-12-06	
 2	400	0	LATIN AMERICAN HISTORY		Tikal & Piedras Negras were major cities of this civilization of northern Guatemala	Mayans	2000-12-06	
@@ -3903,12 +3902,12 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	NAME'S THE SAME		Tillis, Torme	Mel	2000-12-07	
 1	300	0	NAME'S THE SAME		Landon, Learned	Michael	2000-12-07	
 1	400	0	NAME'S THE SAME		Patric, Priestley	Jason	2000-12-07	
-1	500	0	NAME'S THE SAME		James,Springfield	Rick	2000-12-07	
+1	500	0	NAME'S THE SAME		James, Springfield	Rick	2000-12-07	
 1	100	0	ARCHAEOLOGY		Lennart von Post first counted grains of this from plants to reconstruct past vegetation	Pollen	2000-12-07	
 1	300	0	ARCHAEOLOGY		Meal sites of the Anasazi people have led to the controversial theory that they engaged in this horrific practice	cannibalism	2000-12-07	
 1	400	0	ARCHAEOLOGY		In 1998 the world's oldest church was found in Jordan & the oldest of these, 300 years older, near Jericho	Synagogue	2000-12-07	
 1	500	0	ARCHAEOLOGY		In 1999 this university in Chapel Hill returned excavated human remains to the Cherokee nation	North Carolina	2000-12-07	
-1	100	0	BEATLES LYRICS	(Alex: You have to identify the song.)	\"Na na nana-na-na-na,na-na-na-na...\"	\"Hey Jude\"	2000-12-07	
+1	100	0	BEATLES LYRICS	(Alex: You have to identify the song.)	\"Na na na na-na-na-na, na-na-na-na...\"	\"Hey Jude\"	2000-12-07	
 1	200	0	BEATLES LYRICS	(Alex: You have to identify the song.)	\"All the lonely people, where do they all belong?\"	\"Eleanor Rigby\"	2000-12-07	
 1	300	1000	BEATLES LYRICS	(Alex: You have to identify the song.)	\"Dear Sir or Madam, will you read my book\"	\"Paperback Writer\"	2000-12-07	
 1	400	0	BEATLES LYRICS	(Alex: You have to identify the song.)	\"Children at your feet, wonder how you manage to make ends meet\"	\"Lady Madonna\"	2000-12-07	
@@ -4096,9 +4095,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	SHORT SCIENCE BIOS		Born 1736 in Scotland, improved on Thomas Newcomen's engine, ran out of steam 1819	James Watt	2000-12-12	
 2	800	0	SHORT SCIENCE BIOS		Powered up in Lombardy 1745, shocked world with battery 1800, lost power 1827	Alessandro Volta	2000-12-12	
 2	1000	0	SHORT SCIENCE BIOS		Born in Copenhagen, remodeled the atom, died in Copenhagen, reborn in the play "Copenhagen\"	Niels Bohr	2000-12-12	
-2	200	0	CORPORATE HQ STATES		H.J. Heinz,Allegheny Technologies	Pennsylvania	2000-12-12	
-2	600	0	CORPORATE HQ STATES		Mattel,Wells Fargo & Co.	California	2000-12-12	
-2	1000	0	CORPORATE HQ STATES		Tootsie Roll Industries,McDonald's	Illinois	2000-12-12	
+2	200	0	CORPORATE HQ STATES		H.J. Heinz, Allegheny Technologies	Pennsylvania	2000-12-12	
+2	600	0	CORPORATE HQ STATES		Mattel, Wells Fargo & Co.	California	2000-12-12	
+2	1000	0	CORPORATE HQ STATES		Tootsie Roll Industries, McDonald's	Illinois	2000-12-12	
 2	200	0	CLASSIC ALBUMS		He left Mork behind to make the classic comedy album "A Night at the Met\"	Robin Williams	2000-12-12	
 2	400	0	CLASSIC ALBUMS		Madonna released her first, self-titled album in 1983 & "Chaste" it the next year with this one	\"Like A Virgin\"	2000-12-12	
 2	600	0	CLASSIC ALBUMS		(Hi, I'm Andy Summers) This Police album gave the world "Every Breath You Take" & "Wrapped Around Your Finger\"	\"Synchronicity\"	2000-12-12	
@@ -4128,11 +4127,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	3-NAMED CELEBRITIES		He starred as a dedicated teacher in "Stand and Deliver\"	Edward James Olmos	2000-12-13	
 1	400	0	3-NAMED CELEBRITIES		He played Starsky on "Starsky and Hutch\"	Paul Michael Glaser	2000-12-13	
 1	500	0	3-NAMED CELEBRITIES		In 1995 she made her feature film debut in "The Baby-Sitters Club"; in 1999 she proved "She's All That\"	Rachael Leigh Cook	2000-12-13	
-1	100	0	STATES BY COUNTIES		Jefferson,Deaf Smith,El Paso	Texas	2000-12-13	
-1	200	0	STATES BY COUNTIES		Jefferson,Cape Girardeau,Ozark	Missouri	2000-12-13	
-1	300	0	STATES BY COUNTIES		Jefferson,Cherokee,Muskogee	Oklahoma	2000-12-13	
-1	400	0	STATES BY COUNTIES		Jefferson,Scotts Bluff,Platte	Nebraska	2000-12-13	
-1	500	0	STATES BY COUNTIES		Jefferson,Hood River,Clackamas	Oregon	2000-12-13	
+1	100	0	STATES BY COUNTIES		Jefferson, Deaf Smith, El Paso	Texas	2000-12-13	
+1	200	0	STATES BY COUNTIES		Jefferson, Cape Girardeau, Ozark	Missouri	2000-12-13	
+1	300	0	STATES BY COUNTIES		Jefferson, Cherokee, Muskogee	Oklahoma	2000-12-13	
+1	400	0	STATES BY COUNTIES		Jefferson, Scotts Bluff, Platte	Nebraska	2000-12-13	
+1	500	0	STATES BY COUNTIES		Jefferson, Hood River, Clackamas	Oregon	2000-12-13	
 1	100	0	HOLD IT		According to an old expression, a kid's in trouble when he's caught with his hand in this container	Cookie jar	2000-12-13	
 1	200	0	HOLD IT		Container in the title of the following: ("Roll out the...")	Barrel ("Beer Barrel Polka")	2000-12-13	
 1	300	500	HOLD IT		Gunny comes from the Sanskrit for this container, so it's redundant when followed by it	Sack	2000-12-13	
@@ -4341,11 +4340,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	ANDY WARHOL		Andy's "15 minutes of fame" quote was once the motto of this magazine	Interview	2000-12-18	
 2	800	2000	ANDY WARHOL		Andy's loft on East 47th Street got this nickname from its former use & Andy's mass-production techniques	The Factory	2000-12-18	
 2	1000	0	ANDY WARHOL		Warhol became the manager of this Lou Reed rock group in 1965 & produced their first album	Velvet Underground	2000-12-18	
-2	200	0	THEATRE CROSSWORD CLUES "M\"		Lerner & Loewe's "Lusty Month"(3)	May	2000-12-18	
-2	400	0	THEATRE CROSSWORD CLUES "M\"		Patrick Dennis' "Auntie"(4)	Mame	2000-12-18	
-2	600	0	THEATRE CROSSWORD CLUES "M\"		It "Becomes Electra"(8)	Mourning	2000-12-18	
-2	800	0	THEATRE CROSSWORD CLUES "M\"		Colchian jilted by Jason(5)	Medea	2000-12-18	
-2	1000	0	THEATRE CROSSWORD CLUES "M\"		Faust's fiendish foe(14)	Mephistopheles	2000-12-18	
+2	200	0	THEATRE CROSSWORD CLUES "M\"		Lerner & Loewe's "Lusty Month" (3)	May	2000-12-18	
+2	400	0	THEATRE CROSSWORD CLUES "M\"		Patrick Dennis' "Auntie" (4)	Mame	2000-12-18	
+2	600	0	THEATRE CROSSWORD CLUES "M\"		It "Becomes Electra" (8)	Mourning	2000-12-18	
+2	800	0	THEATRE CROSSWORD CLUES "M\"		Colchian jilted by Jason (5)	Medea	2000-12-18	
+2	1000	0	THEATRE CROSSWORD CLUES "M\"		Faust's fiendish foe (14)	Mephistopheles	2000-12-18	
 3	0	0	SPORTS LEGENDS		If Joe DiMaggio's hitting streak had gone one more game in 1941, this company would have given him a $10,000 contract	H.J. Heinz (Heinz 57 Varieties)	2000-12-18	
 1	100	0	AMERICAN EXPLORERS		From trips there around 1910 to get animals to stuff, Carl Akeley felt this continent's wildlife was doomed	Africa	2000-12-19	
 1	200	0	AMERICAN EXPLORERS		Looking for this legendary in-between fossil in Mongolia, Roy Chapman Andrews discovered dinosaur eggs	The Missing Link	2000-12-19	
@@ -4487,11 +4486,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	AMERICAN SIGN LANGUAGE	(Alex: And finally, an all-video category...)	This bulb is related to the lily	an onion	2000-12-21	
 1	400	0	AMERICAN SIGN LANGUAGE	(Alex: And finally, an all-video category...)	About 4 million of these live in Canada, most are pets	cats	2000-12-21	
 1	500	0	AMERICAN SIGN LANGUAGE	(Alex: And finally, an all-video category...)	Kermit the Frog made a "Connection" with this phenomenon	a rainbow	2000-12-21	
-2	200	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	c. 1028Falaise, Normandy	William the Conqueror	2000-12-21	
-2	400	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	November 14, 1935Amman, Jordan	King Hussein	2000-12-21	
-2	600	2000	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	September 5, 1638Saint-Germain-en-Laye	Louis XIV	2000-12-21	
-2	800	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	June 4, 1738London	George III	2000-12-21	
-2	1000	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	February 11, 1920Cairo	King Farouk	2000-12-21	
+2	200	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	c. 1028 Falaise, Normandy	William the Conqueror	2000-12-21	
+2	400	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	November 14, 1935 Amman, Jordan	King Hussein	2000-12-21	
+2	600	2000	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	September 5, 1638 Saint-Germain-en-Laye	Louis XIV	2000-12-21	
+2	800	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	June 4, 1738 London	George III	2000-12-21	
+2	1000	0	GLORY TO THE NEWBORN KING	(Alex: We want you to name the king for us.)	February 11, 1920 Cairo	King Farouk	2000-12-21	
 2	200	0	QUICK AS A FLASH		This futuristic hero "In the Caverns of Mongo" was a 1937 novel based on the comic strip	Flash Gordon	2000-12-21	
 2	400	0	QUICK AS A FLASH		It's the lowest temperature at which the vapor of a combustible liquid will ignite in the air	the flash point	2000-12-21	
 2	600	0	QUICK AS A FLASH		This term refers to sheet metal that's used to reinforce the joints & angles of a roof	flashing	2000-12-21	
@@ -4912,11 +4911,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	BODIES IN WATER		Free-floating algae that form a foul film are called the pond type of this	Scum	2001-01-02	
 1	400	0	BODIES IN WATER		These organisms cemented to ships & rocks are also called cirripedes, for their food-gathering cirri	Barnacles	2001-01-02	
 1	500	0	BODIES IN WATER		A creature that expels water through a siphon is called a "sea" one of these, like a pipsqueak kid	Squirt	2001-01-02	
-1	100	0	LAST NAME'S THE SAME		Bonnie, Sir John,Aretha	Franklin	2001-01-02	
-1	200	0	LAST NAME'S THE SAME		Irene,Meg,Nolan	Ryan	2001-01-02	
-1	300	0	LAST NAME'S THE SAME		Janet,Vivien,Jennifer Jason	Leigh	2001-01-02	
-1	400	0	LAST NAME'S THE SAME		James,Jackie,Marsha	Mason	2001-01-02	
-1	500	0	LAST NAME'S THE SAME		Penelope Ann,Glenn,Arthur	Miller	2001-01-02	
+1	100	0	LAST NAME'S THE SAME		Bonnie, Sir John, Aretha	Franklin	2001-01-02	
+1	200	0	LAST NAME'S THE SAME		Irene, Meg, Nolan	Ryan	2001-01-02	
+1	300	0	LAST NAME'S THE SAME		Janet, Vivien, Jennifer Jason	Leigh	2001-01-02	
+1	400	0	LAST NAME'S THE SAME		James, Jackie, Marsha	Mason	2001-01-02	
+1	500	0	LAST NAME'S THE SAME		Penelope Ann, Glenn, Arthur	Miller	2001-01-02	
 1	100	0	THERE'S NO PLACE LIKE ROME		Found in northwest Rome, it's Europe's largest Christian church	St. Peter's Basilica	2001-01-02	
 1	200	0	THERE'S NO PLACE LIKE ROME		Examples of these in Rome include Il Messaggero, Il Tempo & La Repubblica	Newspapers	2001-01-02	
 1	300	0	THERE'S NO PLACE LIKE ROME		It's the river that flows through the city	Tiber	2001-01-02	
@@ -5074,11 +5073,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	THE BODY HUMAN		The longest muscle in a human, the sartorius is flat & narrow & lies within this part of the body	Thigh/leg	2001-01-05	
 1	500	0	THE BODY HUMAN		Ligaments in the elbow connect the radius & the ulna to this bone	Humerus	2001-01-05	
 1	400	0	GARMENT BAG		Similar to a djellaba & a dashiki, this tunic is worn from north Africa to the Middle East	Kaftan	2001-01-05	
-1	100	0	SPOUSE IN COMMON		Sonny Bono,Gregg Allman	Cher	2001-01-05	
-1	200	0	SPOUSE IN COMMON		Amy Irving,Kate Capshaw	Steven Spielberg	2001-01-05	
-1	300	0	SPOUSE IN COMMON		Judy Carne,Loni Anderson	Burt Reynolds	2001-01-05	
-1	400	0	SPOUSE IN COMMON		William Powell,Clark Gable	Carole Lombard	2001-01-05	
-1	500	0	SPOUSE IN COMMON		Jeff Goldblum,Renny Harlin	Geena Davis	2001-01-05	
+1	100	0	SPOUSE IN COMMON		Sonny Bono, Gregg Allman	Cher	2001-01-05	
+1	200	0	SPOUSE IN COMMON		Amy Irving, Kate Capshaw	Steven Spielberg	2001-01-05	
+1	300	0	SPOUSE IN COMMON		Judy Carne, Loni Anderson	Burt Reynolds	2001-01-05	
+1	400	0	SPOUSE IN COMMON		William Powell, Clark Gable	Carole Lombard	2001-01-05	
+1	500	0	SPOUSE IN COMMON		Jeff Goldblum, Renny Harlin	Geena Davis	2001-01-05	
 1	100	0	\"ART" CLASS		A member of the thistle family, its leaves are tasty when dipped in melted butter or hollandaise sauce	Artichoke	2001-01-05	
 1	200	0	\"ART" CLASS		The richest women, each worth $16 billion, are the widow & daughter of Sam Walton, founder of this chain	Wal-Mart	2001-01-05	
 1	300	0	\"ART" CLASS		This adjective can describe a poorly executed painting or Paul Simon's solo career	Artless	2001-01-05	
@@ -5217,11 +5216,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	AVIATION		The B-17 was the Flying this, the B-29 the Super this, & the B-52 the Strato this	Fortress	2001-01-09	
 2	800	0	AVIATION		(Former College Championship contestant Margaret Bickers delivers the clue.) It's the 7-letter word for materials carried aboard a plane that generate revenue, like passengers & cargo	payload	2001-01-09	
 2	1000	0	AVIATION		The name of this maker of the $40 million G-V corporate jet sounds more like it sells boats	Gulfstream	2001-01-09	
-2	200	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Earl Butz,John Mitchell,Henry Kissinger	Richard Nixon	2001-01-09	
-2	400	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Abraham Ribicoff,Dean Rusk,Robert McNamara	John F. Kennedy	2001-01-09	
-2	600	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Salmon Chase,Edwin Stanton,William Seward	Abraham Lincoln	2001-01-09	
-2	800	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Raymond Donovan,James Watt,Caspar Weinberger	Ronald Reagan	2001-01-09	
-2	1000	1400	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Joseph Califano Jr.,Griffin Bell,Cyrus Vance	Jimmy Carter	2001-01-09	
+2	200	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Earl Butz, John Mitchell, Henry Kissinger	Richard Nixon	2001-01-09	
+2	400	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Abraham Ribicoff, Dean Rusk, Robert McNamara	John F. Kennedy	2001-01-09	
+2	600	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Salmon Chase, Edwin Stanton, William Seward	Abraham Lincoln	2001-01-09	
+2	800	0	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Raymond Donovan, James Watt, Caspar Weinberger	Ronald Reagan	2001-01-09	
+2	1000	1400	IN MY CABINET	(Alex: We want you to name the president as we tell you who was...)	Joseph Califano Jr., Griffin Bell, Cyrus Vance	Jimmy Carter	2001-01-09	
 2	200	0	LEGAL BEFORE & AFTER		Supreme Court case in which Snoopy's owner sues to desegregate public schools in Kansas	Charlie Brown v. Board of Education	2001-01-09	
 2	400	0	LEGAL BEFORE & AFTER		\"Macho Man" group that takes the publisher of Hustler magazine to court in a 1996 film	The Village People vs. Larry Flynt	2001-01-09	
 2	600	0	LEGAL BEFORE & AFTER		Controversial reproductive rights case involving a superstitious former Red Sox third baseman	Roe v. Wade Boggs	2001-01-09	
@@ -5243,15 +5242,15 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE BIBLE		When Miriam displeases God in Numbers 12, she comes down with a case of this dreaded skin disease	Leprosy	2001-01-10	
 1	400	0	THE BIBLE		In Exodus 19, God says that if the children of Israel keep this bargain, they'll be a "peculiar treasure\"	Covenant	2001-01-10	
 1	500	0	THE BIBLE		Paul wrote his first letter to the people of this Greek port after he spent a year & a half there	Corinth	2001-01-10	
-1	100	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Edmonton OilersNo. 99	Wayne Gretzky	2001-01-10	
-1	200	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Los Angeles LakersNo. 33	Kareem Abdul-Jabbar	2001-01-10	
+1	100	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Edmonton Oilers No. 99	Wayne Gretzky	2001-01-10	
+1	200	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Los Angeles Lakers No. 33	Kareem Abdul-Jabbar	2001-01-10	
 1	300	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Miami Dolphins No. 13	Dan Marino	2001-01-10	
-1	400	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Boston CelticsNo. 33	Larry Bird	2001-01-10	
-1	500	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Kansas City RoyalsNo. 5	George Brett	2001-01-10	
-1	100	0	WORD PUZZLES		Part of our national Pledge of Allegiance:—————————————————GODONE NATION	One nation under God	2001-01-10	
-1	200	0	WORD PUZZLES		Financial status of our writers before joining "Jeopardy!":—————————————————DEdeeplyBT	Deeply in debt	2001-01-10	
-1	400	0	WORD PUZZLES		Someone to be avoided , especially if you're Julius Caesar:—————————————————REBBATS	Backstabber	2001-01-10	
-1	500	0	WORD PUZZLES		The delayed & often undesirable results of a stimulus:—————————————————EFFECTS THE	The aftereffects	2001-01-10	
+1	400	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Boston Celtics No. 33	Larry Bird	2001-01-10	
+1	500	0	RETIRED JERSEYS	(Alex: Obviously, a reference to sports.)	Kansas City Royals No. 5	George Brett	2001-01-10	
+1	100	0	WORD PUZZLES		Part of our national Pledge of Allegiance: ————————————————— GOD ONE NATION	One nation under God	2001-01-10	
+1	200	0	WORD PUZZLES		Financial status of our writers before joining "Jeopardy!": ————————————————— DEdeeplyBT	Deeply in debt	2001-01-10	
+1	400	0	WORD PUZZLES		Someone to be avoided , especially if you're Julius Caesar: ————————————————— REBBATS	Backstabber	2001-01-10	
+1	500	0	WORD PUZZLES		The delayed & often undesirable results of a stimulus: ————————————————— EFFECTS THE	The aftereffects	2001-01-10	
 1	100	0	WITCHCRAFT		This 4-letter word for a witch's potion is also a slang term for a beer	Brew	2001-01-10	
 1	200	0	WITCHCRAFT		Until Dorothy showed up, these small folks toiled as slaves for Oz' Wicked Witch of the East	Munchkins	2001-01-10	
 1	300	900	WITCHCRAFT		Shakespeare may have written this 1606 play in part to appeal to King James I's interest in witchcraft	\"Macbeth\"	2001-01-10	
@@ -5285,7 +5284,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	WORLD RECORDS		In May 2000 Babu Chhiri, a Sherpa, set a record doing the last portion of this in about 16 hours	Climbing Mount Everest	2001-01-10	
 1	100	0	NEW YORK, NEW YORK		If you're in town in April, put on your bonnet & join the parade down Fifth Avenue for this holiday	Easter	2001-01-11	
 1	200	0	NEW YORK, NEW YORK		Alliterative name commonly used of the Yankees-Mets clash in October 2000	\"Subway Series\"	2001-01-11	
-1	300	0	NEW YORK, NEW YORK		(Here's my good buddy Regis.) This man who died in Tucson in 1960 was largely responsible for this area(which includes a skating rink)	John D. Rockefeller	2001-01-11	
+1	300	0	NEW YORK, NEW YORK		(Here's my good buddy Regis.) This man who died in Tucson in 1960 was largely responsible for this area (which includes a skating rink)	John D. Rockefeller	2001-01-11	
 1	400	0	NEW YORK, NEW YORK		This publication's classic headlines include "Headless Body in Topless Bar\"	New York Post	2001-01-11	
 1	500	0	NEW YORK, NEW YORK		Opened in 1922 at 142nd & Lenox, this club generally banned black customers but welcomed black musicians	Cotton Club	2001-01-11	
 1	100	0	ALL THE KING'S SONGS	(Alex: We'll give you the lyric, you name the Elvis hit in the category.)	\"I don't want no other love, baby it's still you I'm thinking of\"	\"Don't Be Cruel\"	2001-01-11	
@@ -5353,10 +5352,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	EUROPEAN HISTORY		In 1867 this dual monarchy was created under the rule of Francis Joseph I; it lasted until the end of World War I	Austria-Hungary	2001-01-12	
 1	400	0	EUROPEAN HISTORY		In 1806 Napoleon's brother Louis became king of this Low Country which had been known as the Batavian Republic	The Netherlands/Holland	2001-01-12	
 1	500	0	EUROPEAN HISTORY		A major goddess of this first great Cretan civilization was often depicted holding snakes	Minoan	2001-01-12	
-1	100	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Mr. Butts,Duke,Zonker	Doonesbury	2001-01-12	
-1	200	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Mammy Yokum,Daisy Mae,Sadie Hawkins	Li'l Abner	2001-01-12	
-1	300	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Odie,Pooky,Jon	Garfield	2001-01-12	
-1	500	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	The King,Sir Rodney,The Spirit	The Wizard of Id	2001-01-12	
+1	100	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Mr. Butts, Duke, Zonker	Doonesbury	2001-01-12	
+1	200	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Mammy Yokum, Daisy Mae, Sadie Hawkins	Li'l Abner	2001-01-12	
+1	300	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	Odie, Pooky, Jon	Garfield	2001-01-12	
+1	500	0	COMIC STRIPPERS	(Alex: You identify the comic strip.)	The King, Sir Rodney, The Spirit	The Wizard of Id	2001-01-12	
 1	100	0	YES SIR, THAT'S MY SCIENTIST		Sir Alexander Fleming took a shot in the dark & discovered this in 1928	Penicillin	2001-01-12	
 1	200	0	YES SIR, THAT'S MY SCIENTIST		The special interest of Nobel Prize laureate Sir Cyril Hinshelwood was how oxygen & hydrogen combine to form this	Water	2001-01-12	
 1	300	0	YES SIR, THAT'S MY SCIENTIST		Sir David Brewster invented the Dioptic system of illumination for these on the seaside	Lighthouses	2001-01-12	
@@ -5375,10 +5374,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	FASHION BACKWARD	(Alex: Not fashion forward.)	Before spandex, many women wore full bloomers called rationals while riding these 2-wheelers in the 1890s	Bicycles	2001-01-12	
 2	400	0	FASHION BACKWARD	(Alex: Not fashion forward.)	In 1958 you could have celebrated New Year's "Yves" in one of the trapeze dresses he designed for Dior	Yves Saint Laurent	2001-01-12	
 2	800	0	FASHION BACKWARD	(Alex: Not fashion forward.)	In the '60s it was really mod to paint lashes under your eyes in imitation of this superthin supermodel	Twiggy	2001-01-12	
-2	200	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	Woodrow Wilson,1916	Democrat	2001-01-12	
-2	600	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	John Adams,1796	Federalist	2001-01-12	
-2	800	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	Harry Browne,2000	Libertarian	2001-01-12	
-2	1000	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	William Henry Harrison,1840	Whig	2001-01-12	
+2	200	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	Woodrow Wilson, 1916	Democrat	2001-01-12	
+2	600	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	John Adams, 1796	Federalist	2001-01-12	
+2	800	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	Harry Browne, 2000	Libertarian	2001-01-12	
+2	1000	0	ELECTION NIGHT PARTIES	(Alex: We will name a candidate for you, give you a year; you have to identify the party that selected the individual.)	William Henry Harrison, 1840	Whig	2001-01-12	
 2	200	0	ON LOCATION		The jungles of Vietnam in this 1979 Coppola film were actually in the Philippines	Apocalypse Now	2001-01-12	
 2	400	0	ON LOCATION		In 1998 "The X-Files" relocated to California from this Canadian city	Vancouver	2001-01-12	
 2	600	0	ON LOCATION		Martin Scorsese used the well-preserved architecture of Troy, New York to film this Edith Wharton novel	The Age of Innocence	2001-01-12	
@@ -5529,11 +5528,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	600	20th CENTURY STUFF		This 1939 Ford model resulted from Edsel Ford's wanting a luxury car like they had in Europe	the Continental	2001-01-17	
 1	400	0	20th CENTURY STUFF		Lady Amalia, the wife of this discoverer of penicillin, was a member of Greece's parliament	Sir Alexander Fleming	2001-01-17	
 1	500	0	20th CENTURY STUFF		In 1904 Col. William Gorgas took charge of anti-disease efforts in the building of this	the Panama Canal	2001-01-17	
-1	100	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Water Works,Luxury Tax,Short Line	Monopoly	2001-01-17	
+1	100	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Water Works, Luxury Tax, Short Line	Monopoly	2001-01-17	
 1	200	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Right foot yellow, left hand blue (oops... excuse me)	Twister	2001-01-17	
-1	300	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	The wrench, the kitchen,Colonel Mustard	Clue	2001-01-17	
-1	400	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Letter tiles,triple word score,double letter score	Scrabble	2001-01-17	
-1	500	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Tweezers,funny bone,wish bone,Adam's apple	Operation	2001-01-17	
+1	300	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	The wrench, the kitchen, Colonel Mustard	Clue	2001-01-17	
+1	400	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Letter tiles, triple word score, double letter score	Scrabble	2001-01-17	
+1	500	0	GAMES PEOPLE PLAY	(Alex: We'll list the elements of a game, you name the game in...)	Tweezers, funny bone, wish bone, Adam's apple	Operation	2001-01-17	
 1	100	0	IF THEY MARRIED...	(Alex: What would we have?)	If jazz singer Fitzgerald married the evil empire's Darth, she'd be...	Ella Vader	2001-01-17	
 1	200	0	IF THEY MARRIED...	(Alex: What would we have?)	French designer Chanel's marriage to punker Iggy would make her...	Coco Pop	2001-01-17	
 1	300	0	IF THEY MARRIED...	(Alex: What would we have?)	If actress Weld wed former Indiana basketball coach Bobby, she'd be...	Tuesday Knight	2001-01-17	
@@ -5567,18 +5566,18 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	GRUMPY OLD MEN	(Alex: Tribute to him also, perhaps!)	In a 1774 letter to Abigail he wrote, "The business of the Congress is tedious beyond expression\"	John Adams	2001-01-17	
 2	1000	0	GRUMPY OLD MEN	(Alex: Tribute to him also, perhaps!)	In "No Exit" he wrote, "Hell is other people\"	Jean-Paul Sartre	2001-01-17	
 3	0	0	RELIGIOUS NAMES		In commemoration of his predecessors, he was the first pope to choose a double name	Pope John Paul I	2001-01-17	
-1	100	0	FORMER WORLD LEADERS		This man was the last president of his country(Soviet Union)	Mikhail Gorbachev	2001-01-18	
+1	100	0	FORMER WORLD LEADERS		This man was the last president of his country (Soviet Union)	Mikhail Gorbachev	2001-01-18	
 1	300	0	FORMER WORLD LEADERS		This prime minister was also the daughter of a prime minister & the mother of a prime minister	Indira Gandhi	2001-01-18	
 1	100	0	BUILDING PARTS		It can be a platform extending outdoors from an upper floor, or a place for cheaper theater seats	Balcony	2001-01-18	
 1	200	0	BUILDING PARTS		It's a raised section of a room where you store hay, or an upper-story room for artists	Loft	2001-01-18	
 1	300	0	BUILDING PARTS		Somebody may "bet on" this window that forms a recess in a room	Bay	2001-01-18	
 1	400	0	BUILDING PARTS		The minibar is found in a hotel room; the minbar is the pulpit in one of these Islamic structures	Mosque	2001-01-18	
 1	500	0	BUILDING PARTS		It can be a school of music, or as part of a building, a glass-enclosed room for plants	Conservatory	2001-01-18	
-1	100	0	STATES BY CITIES & TOWNS		Laughlin,Elko,Sparks	Nevada	2001-01-18	
-1	200	0	STATES BY CITIES & TOWNS		Heber Springs,Hot Springs,Hope	Arkansas	2001-01-18	
-1	300	0	STATES BY CITIES & TOWNS		Rhinelander,Appleton,Eau Claire	Wisconsin	2001-01-18	
-1	400	500	STATES BY CITIES & TOWNS		Woodstock,Dunwoody,Fort Oglethorpe	Georgia	2001-01-18	
-1	500	0	STATES BY CITIES & TOWNS		South Holland,Northbrook,East St. Louis	Illinois	2001-01-18	
+1	100	0	STATES BY CITIES & TOWNS		Laughlin, Elko, Sparks	Nevada	2001-01-18	
+1	200	0	STATES BY CITIES & TOWNS		Heber Springs, Hot Springs, Hope	Arkansas	2001-01-18	
+1	300	0	STATES BY CITIES & TOWNS		Rhinelander, Appleton, Eau Claire	Wisconsin	2001-01-18	
+1	400	500	STATES BY CITIES & TOWNS		Woodstock, Dunwoody, Fort Oglethorpe	Georgia	2001-01-18	
+1	500	0	STATES BY CITIES & TOWNS		South Holland, Northbrook, East St. Louis	Illinois	2001-01-18	
 1	100	0	AMERICAN BEER HISTORY		In 1864 this man joined his father-in-law Eberhard Anheuser in the brewing business	Adolphus Busch	2001-01-18	
 1	200	0	AMERICAN BEER HISTORY		In 1789 this president announced that he would henceforth only drink porter beer made in America	George Washington	2001-01-18	
 1	300	0	AMERICAN BEER HISTORY		In 1612 Adrian Block & Hans Christiansen established the New World's first known brewery on this island	Manhattan	2001-01-18	
@@ -5599,11 +5598,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	500	ANCIENT TIMES		This woman's mother, Herodias, hated John the Baptist for condemning her marriage	Salome	2001-01-18	
 2	800	0	ANCIENT TIMES		In Rome's festival of Lupercus, god of this quality, women were hit with goatskins to transmit it to them	Fertility	2001-01-18	
 2	1000	0	ANCIENT TIMES		For 400 years China was ruled by this 3-letter dynasty that shares its name with a river	Han	2001-01-18	
-2	200	0	LITERARY CROSSWORD CLUES "T\"		J.R.R.(7)	Tolkien	2001-01-18	
-2	400	0	LITERARY CROSSWORD CLUES "T\"		Mark Twain's Becky(8)	Thatcher	2001-01-18	
-2	600	0	LITERARY CROSSWORD CLUES "T\"		First name of a Fielding foundling(3)	Tom (Jones)	2001-01-18	
-2	800	0	LITERARY CROSSWORD CLUES "T\"		Shakespeare's frisky fairy queen(7)	Titania	2001-01-18	
-2	1000	0	LITERARY CROSSWORD CLUES "T\"		Melville's "peep at Polynesian life"(5)	\"Typee\"	2001-01-18	
+2	200	0	LITERARY CROSSWORD CLUES "T\"		J.R.R. (7)	Tolkien	2001-01-18	
+2	400	0	LITERARY CROSSWORD CLUES "T\"		Mark Twain's Becky (8)	Thatcher	2001-01-18	
+2	600	0	LITERARY CROSSWORD CLUES "T\"		First name of a Fielding foundling (3)	Tom (Jones)	2001-01-18	
+2	800	0	LITERARY CROSSWORD CLUES "T\"		Shakespeare's frisky fairy queen (7)	Titania	2001-01-18	
+2	1000	0	LITERARY CROSSWORD CLUES "T\"		Melville's "peep at Polynesian life" (5)	\"Typee\"	2001-01-18	
 2	200	0	WHERE FOR ART		When the Musee D'Orsay opened in 1986, some of its oldest works came from this museum established in 1793	The Louvre	2001-01-18	
 2	400	0	WHERE FOR ART		This Spanish museum is home to Pedro Pablo Rubens' version of St. George & the Dragon	The Prado	2001-01-18	
 2	600	0	WHERE FOR ART		It claims on its website to have "The Largest Collection of Ancient Egyptian Material Outside Cairo\"	The British Museum	2001-01-18	
@@ -5804,11 +5803,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	U.S. CITIES		This coastal city's name goes back to Louisiana governor Bernardo de Galvez	Galveston	2001-01-24	
 1	400	0	U.S. CITIES		Women outnumber men in this North Carolina city named for the wife of King George III	Charlotte	2001-01-24	
 1	500	0	U.S. CITIES		Site of the 1982 World's Fair, it was twice capitol of Tennessee	Knoxville	2001-01-24	
-1	100	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Annie Hall"(1977)	Diane Keaton	2001-01-24	
-1	200	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Batman"(1989)	Michael Keaton	2001-01-24	
-1	300	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Uncle Buck"(1989)	John Candy	2001-01-24	
-1	400	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"The Englishman Who Went Up A Hill, But Came Down A Mountain"(1995)	Hugh Grant	2001-01-24	
-1	500	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Cat Ballou"(1965)	Jane Fonda	2001-01-24	
+1	100	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Annie Hall" (1977)	Diane Keaton	2001-01-24	
+1	200	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Batman" (1989)	Michael Keaton	2001-01-24	
+1	300	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Uncle Buck" (1989)	John Candy	2001-01-24	
+1	400	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"The Englishman Who Went Up A Hill, But Came Down A Mountain" (1995)	Hugh Grant	2001-01-24	
+1	500	0	TITLE FILM ROLES	(Alex: In which you are expected to name the actor.)	\"Cat Ballou" (1965)	Jane Fonda	2001-01-24	
 1	100	0	ENERGY		In 1832 the first streetcars in New York City were powered by these	Horses	2001-01-24	
 1	200	0	ENERGY		Getting millions of tons lighter every second, it supplies most of the energy the Earth receives	Sun	2001-01-24	
 1	300	0	ENERGY		Before their energy can be released, molecules of this in potatoes must be broken down into sugars	Starch	2001-01-24	
@@ -5946,7 +5945,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	OCCUPATIONS		In the U.S. this person is in charge of a prison; at Oxford, he's in charge of a college	Warden	2001-01-26	
 2	600	0	OCCUPATIONS		Shakespeare's character Bottom is one of these fabric workers	Weaver	2001-01-26	
 2	800	0	OCCUPATIONS		This term for a casino attendant who runs the roulette wheel is the title of a recent film set in England	Croupier	2001-01-26	
-2	1000	0	OCCUPATIONS		It's the job of the little man in the photo from the structure under him(church)	Steeplejack	2001-01-26	
+2	1000	0	OCCUPATIONS		It's the job of the little man in the photo from the structure under him (church)	Steeplejack	2001-01-26	
 2	200	0	IMAX FILMS		This TV Spock narrated the IMAX films "Ring of Fire" & "Destiny in Space\"	Leonard Nimoy	2001-01-26	
 2	400	0	IMAX FILMS		Larger than life on the courts, this title Bull went "To The Max" (about 8 stories high) in 2000	Michael Jordan	2001-01-26	
 2	600	0	IMAX FILMS		\"The Magic Box" follows these 2 illusionists from war-torn Germany to Las Vegas, & all in 3-D	Siegfried & Roy	2001-01-26	
@@ -6002,11 +6001,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	MOVIE PORTRAYALS		This cop who blew the whistle on police corruption in NYC was played by Al Pacino in a 1973 film	Frank Serpico	2001-01-29	
 2	800	2000	MOVIE PORTRAYALS		(Hi, I'm Yolanda King. My father was Martin Luther King, Jr.) In the 1996 movie "Ghosts of Mississippi", I played Reena, the daughter of this civil rights leader killed in 1963	Medgar Evers	2001-01-29	
 2	1000	0	MOVIE PORTRAYALS		This boxing champ of the '40s was portrayed by Paul Newman in "Somebody Up There Likes Me\"	Rocky Graziano	2001-01-29	
-2	200	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Laredo,El Paso	Rio Grande	2001-01-29	
-2	400	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Citta Di Castello,Rome	Tiber	2001-01-29	
-2	600	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Wuhan,Shanghai	Yangtze	2001-01-29	
-2	800	2000	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Obidos,Iquitos	Amazon	2001-01-29	
-2	1000	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Nantes,Orleans	Loire	2001-01-29	
+2	200	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Laredo, El Paso	Rio Grande	2001-01-29	
+2	400	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Citta Di Castello, Rome	Tiber	2001-01-29	
+2	600	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Wuhan, Shanghai	Yangtze	2001-01-29	
+2	800	2000	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Obidos, Iquitos	Amazon	2001-01-29	
+2	1000	0	A RIVER RUNS THROUGH IT	(Alex: We'll name some cities & you identify the river.)	Nantes, Orleans	Loire	2001-01-29	
 2	200	0	ENCYCLOPEDIC KNOWLEDGE		In 1974 Britannica was split into 2 main parts, Micropedia (ready reference) & this (knowledge in depth)	Macropedia	2001-01-29	
 2	400	0	ENCYCLOPEDIC KNOWLEDGE		This encyclopedia extended its "global" reach with a 1961 Braille edition & a 1980 audio edition	World Book	2001-01-29	
 2	200	0	SOLAR SYSTEM TOUR		Don't blink or you'll miss this little guy, a planet that's smaller than Earth's moon	Pluto	2001-01-29	
@@ -6159,11 +6158,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	EAT YOUR VEGGIES		In Asian cuisine, sprouts are from beans & shoots are usually from this	bamboo	2001-02-01	
 1	400	0	EAT YOUR VEGGIES		The Dutch type of this is white, as it's grown underground; the American is green, as the spears are grown above	asparagus	2001-02-01	
 1	500	0	EAT YOUR VEGGIES		Antoine-Auguste Parmentier pushed this tuber on Louis XVI; now Parmentier in a recipe means "with" it	potato	2001-02-01	
-1	100	0	CROSSWORD CLUES "K\"		Tissue trademark(7)	Kleenex	2001-02-01	
-1	200	0	CROSSWORD CLUES "K\"		Kith's partner(3)	Kin	2001-02-01	
-1	300	0	CROSSWORD CLUES "K\"		Granny, or Gordian(4)	Knot	2001-02-01	
-1	400	0	CROSSWORD CLUES "K\"		A medieval foot soldier, or composer Jerome(4)	Kern	2001-02-01	
-1	500	0	CROSSWORD CLUES "K\"		Pakistan's principal port(7)	Karachi	2001-02-01	
+1	100	0	CROSSWORD CLUES "K\"		Tissue trademark (7)	Kleenex	2001-02-01	
+1	200	0	CROSSWORD CLUES "K\"		Kith's partner (3)	Kin	2001-02-01	
+1	300	0	CROSSWORD CLUES "K\"		Granny, or Gordian (4)	Knot	2001-02-01	
+1	400	0	CROSSWORD CLUES "K\"		A medieval foot soldier, or composer Jerome (4)	Kern	2001-02-01	
+1	500	0	CROSSWORD CLUES "K\"		Pakistan's principal port (7)	Karachi	2001-02-01	
 2	200	0	THE CHANNEL HISTORY	(Alex: Not THE HISTORY CHANNEL.)	4 English Channel lighthouses have been built on the Eddystone Rocks, famed cause of these disasters	shipwrecks	2001-02-01	
 2	400	0	THE CHANNEL HISTORY	(Alex: Not THE HISTORY CHANNEL.)	The Cinque Ports, an 11th century confederation, were Sandwich, Dover, Hythe, Romney & this 1066 battle site	Hastings	2001-02-01	
 2	600	0	THE CHANNEL HISTORY	(Alex: Not THE HISTORY CHANNEL.)	These air-cushion vehicles that were "full of eels" in a Monty Python sketch first crossed the Channel in 1959	hovercraft	2001-02-01	
@@ -6578,7 +6577,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	MYTHS & LEGENDS		In Hinduism, Skanda, a 6-headed war god, is the son of this "destroyer\"	Shiva	2001-02-13	2001 International Championship semifinal game 2.
 2	200	0	THE INTERNATIONAL LANGUAGE OF MATH		A point equidistant from the vertices of a regular polygon or a position in hockey & basketball	Center	2001-02-13	2001 International Championship semifinal game 2.
 2	400	0	THE INTERNATIONAL LANGUAGE OF MATH		A whole number is either composite, with factors other than itself & 1, or this type	Prime	2001-02-13	2001 International Championship semifinal game 2.
-2	600	0	THE INTERNATIONAL LANGUAGE OF MATH		It's the single-digit number represented here(the square root of 64)	8	2001-02-13	2001 International Championship semifinal game 2.
+2	600	0	THE INTERNATIONAL LANGUAGE OF MATH		It's the single-digit number represented here (the square root of 64)	8	2001-02-13	2001 International Championship semifinal game 2.
 2	800	0	THE INTERNATIONAL LANGUAGE OF MATH		If a circle has a radius of 7.3 inches, its circumference in inches is 2 x 7.3 x this	pi	2001-02-13	2001 International Championship semifinal game 2.
 2	200	0	NOTABLE NAMES		While on his way to a prayer meeting in 1948, this "Great Soul" of India was assassinated	Mahatma Gandhi	2001-02-13	2001 International Championship semifinal game 2.
 2	400	0	NOTABLE NAMES		In 1995 some sections of this Jewish girl's WWII diary were made public for the first time	Anne Frank	2001-02-13	2001 International Championship semifinal game 2.
@@ -6850,22 +6849,22 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	WHAT GIVES YOU THE RIGHT?		The Seventh Amendment guarantees "The right of trial by" this	Jury	2001-02-20	
 2	800	700	WHAT GIVES YOU THE RIGHT?		The 23rd Amendment ensures you can vote for president if you live here	District of Columbia (Washington, D.C.)	2001-02-20	
 2	1000	0	WHAT GIVES YOU THE RIGHT?		In Amendment 15, the right to vote can't be denied "On account of" these 2 things "or previous condition of servitude\"	Race or color	2001-02-20	
-2	200	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		23 across: Visible(4)	seen	2001-02-20	
-2	400	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		58 down: Dispatched(4)	sent	2001-02-20	
-2	600	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		24 across: Berth place(4)	slip	2001-02-20	
-2	800	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		18 down: Math groups(4)	sets	2001-02-20	
-2	1000	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		23 down: Homo sapiens, for example(7)	species	2001-02-20	
+2	200	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		23 across: Visible (4)	seen	2001-02-20	
+2	400	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		58 down: Dispatched (4)	sent	2001-02-20	
+2	600	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		24 across: Berth place (4)	slip	2001-02-20	
+2	800	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		18 down: Math groups (4)	sets	2001-02-20	
+2	1000	0	THE NEW YORK TIMES CROSSWORD CLUES "S\"		23 down: Homo sapiens, for example (7)	species	2001-02-20	
 3	0	0	U.S. PRESIDENTS		2 of 3 presidents who took their oaths of office in New York state	Chester Arthur, Theodore Roosevelt and/or George Washington	2001-02-20	
 1	100	0	COMPOSERS & THEIR WORKS		Beethoven wrote a battle symphony celebrating this duke's victory over Napoleon	the Duke of Wellington	2001-02-21	
 1	200	0	COMPOSERS & THEIR WORKS		(Hi, I'm Michael Feinstein, here at the Hollywood Bowl.) I'm passionately involved in maintaining the legacy of this great cmposer of whose many great songs, one goes like this	George Gershwin	2001-02-21	
 1	300	0	COMPOSERS & THEIR WORKS		He dedicated his "Brandenburg Concerto" to the Margrave of Brandenburg	J.S. Bach	2001-02-21	
 1	400	0	COMPOSERS & THEIR WORKS		He wrote the score for the 1954 film "On the Waterfront" 3 years before his Broadway smash "West Side Story\"	Leonard Bernstein	2001-02-21	
 1	500	0	COMPOSERS & THEIR WORKS		As composed by Richard Strauss, the role of this "complex" Sophocles heroine is one of opera's most demanding	Electra	2001-02-21	
-1	100	0	MEN ON FILM	(Alex: Name each actor.)	\"Ace Ventura: Pet Detective"(1994)	Jim Carrey	2001-02-21	
-1	200	0	MEN ON FILM	(Alex: Name each actor.)	\"The Fugitive"(1993)	Harrison Ford	2001-02-21	
-1	300	0	MEN ON FILM	(Alex: Name each actor.)	\"The Fabulous Baker Boys"(1989)	Jeff & Beau Bridges	2001-02-21	
-1	400	0	MEN ON FILM	(Alex: Name each actor.)	\"The Natural"(1984)	Robert Redford	2001-02-21	
-1	500	0	MEN ON FILM	(Alex: Name each actor.)	\"Billy Madison"(1995)	Adam Sandler	2001-02-21	
+1	100	0	MEN ON FILM	(Alex: Name each actor.)	\"Ace Ventura: Pet Detective" (1994)	Jim Carrey	2001-02-21	
+1	200	0	MEN ON FILM	(Alex: Name each actor.)	\"The Fugitive" (1993)	Harrison Ford	2001-02-21	
+1	300	0	MEN ON FILM	(Alex: Name each actor.)	\"The Fabulous Baker Boys" (1989)	Jeff & Beau Bridges	2001-02-21	
+1	400	0	MEN ON FILM	(Alex: Name each actor.)	\"The Natural" (1984)	Robert Redford	2001-02-21	
+1	500	0	MEN ON FILM	(Alex: Name each actor.)	\"Billy Madison" (1995)	Adam Sandler	2001-02-21	
 1	100	0	COUNTIES		A county in Mississippi is named for this Confederate president	Jefferson Davis	2001-02-21	
 1	200	0	COUNTIES		A third of Miami-Dade County is located in this national park	Everglades	2001-02-21	
 1	300	0	COUNTIES		\"G" is for this New Hampshire county near the Vermont border, or mystery writer Sue	Grafton	2001-02-21	
@@ -6931,11 +6930,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	FIRST NOVELS		This 19th century New Englander later tried to destroy all the copies of his anonymous first novel, "Fanshawe\"	Nathaniel Hawthorne	2001-02-22	
 1	400	0	FIRST NOVELS		Not surprisingly, Ireland is the setting for this "Circle of Friends" author's first novel, "Light A Penny Candle\"	Maeve Binchy	2001-02-22	
 1	500	0	FIRST NOVELS		This Auchincloss used the pen name Andrew Lee in his first novel, "The Indifferent Children\"	Louis Auchincloss	2001-02-22	
-1	100	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	CUBURSINEPANDAPOLAR	Bear	2001-02-22	
-1	200	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	LOFTTRACTORHORSELAMB	Farm (the third letter)	2001-02-22	
-1	300	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	ROBINSWIFTTERNBUDGIE	bird (third letter again)	2001-02-22	
-1	400	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	BLOWINGCLARINETTORNADOOUTDOOR	Wind (the fourth letter from the end of each word)	2001-02-22	
-1	500	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	ASTERISKSTRIPEDAVID BRIGHT	Star (the second letter)	2001-02-22	
+1	100	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	CUB URSINE PANDA POLAR	Bear	2001-02-22	
+1	200	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	LOFT TRACTOR HORSE LAMB	Farm (the third letter)	2001-02-22	
+1	300	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	ROBIN SWIFT TERN BUDGIE	bird (third letter again)	2001-02-22	
+1	400	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	BLOWING CLARINET TORNADO OUTDOOR	Wind (the fourth letter from the end of each word)	2001-02-22	
+1	500	0	ACROSTICS	(Alex: Reading down, each clue will contain an acrostic which relates to the clue which I will give you in the word itself.)	ASTERISK STRIPE DAVID BRIGHT	Star (the second letter)	2001-02-22	
 1	100	0	STATE OF MINE		This state's school of mines, based in Golden, has an experimental mine in Idaho Springs	Colorado	2001-02-22	
 1	200	0	STATE OF MINE		This state's Wilkes-Barre district won a mine reclamation award for its Upper Lehigh site	Pennsylvania	2001-02-22	
 1	300	0	STATE OF MINE		Historic mining centers in this state include Gallup for coal & Grants for uranium	New Mexico	2001-02-22	
@@ -7048,11 +7047,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	300	20th CENTURY STYLE		Though called this, a popular '60s chair was actually filled with tiny polystyrene balls	Bean Bag chair	2001-02-26	
 1	400	0	20th CENTURY STYLE		In the 1930s Donald Deskey used this style for the interior of Radio City Music Hall	art deco	2001-02-26	
 1	500	0	20th CENTURY STYLE		Harley Earl's designs for GM peaked with this 1959 Cadillac model	Eldorado	2001-02-26	
-1	100	0	CROSSWORD CLUES "C\"		Gator relative(4)	Croc	2001-02-26	
-1	200	0	CROSSWORD CLUES "C\"		\"See ya," in Rome(4)	Ciao	2001-02-26	
-1	300	0	CROSSWORD CLUES "C\"		Turkey slicer(6)	Carver	2001-02-26	
-1	400	0	CROSSWORD CLUES "C\"		Don't tell! ___ up(4)	Clam	2001-02-26	
-1	500	0	CROSSWORD CLUES "C\"		Intoned, like a monk(7)	Chanted	2001-02-26	
+1	100	0	CROSSWORD CLUES "C\"		Gator relative (4)	Croc	2001-02-26	
+1	200	0	CROSSWORD CLUES "C\"		\"See ya," in Rome (4)	Ciao	2001-02-26	
+1	300	0	CROSSWORD CLUES "C\"		Turkey slicer (6)	Carver	2001-02-26	
+1	400	0	CROSSWORD CLUES "C\"		Don't tell! ___ up (4)	Clam	2001-02-26	
+1	500	0	CROSSWORD CLUES "C\"		Intoned, like a monk (7)	Chanted	2001-02-26	
 2	200	0	HAWAII		These beautiful Hawaiian garlands aren't always made of flowers: seeds & shells are used, too	Leis	2001-02-26	
 2	400	0	HAWAII		Once home to Father Damien, this island is so unspoiled that it still has no traffic lights	Molokai	2001-02-26	
 2	600	0	HAWAII		One of the "Big Island"'s biggest thrills is flying in a helicopter over this volcano that's been erupting since 1983	Kilauea	2001-02-26	
@@ -7247,11 +7246,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	HISTORY WITH MR. PEABODY & SHERMAN		Mr. Peabody has to concoct a special poison to foil this woman from a famous Italian family	Lucrezia Borgia	2001-03-02	
 1	400	0	HISTORY WITH MR. PEABODY & SHERMAN		It turns out it's this Roman emperor's violin teacher that's the arsonist	Nero	2001-03-02	
 1	500	0	HISTORY WITH MR. PEABODY & SHERMAN		In one episode an Inca chief puts this explorer before a spear-throwing squad	Francisco Pizarro	2001-03-02	
-1	100	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Cliff,Carla,Coach Pantusso	Cheers	2001-03-02	
-1	200	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Bud,Kelly,Peg,Al	Married... with Children	2001-03-02	
-1	300	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Floyd,Opie,Emmett	The Andy Griffith Show	2001-03-02	
-1	400	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Rosie,Dr. Sidney Friedman,Father Mulcahy	M*A*S*H	2001-03-02	
-1	500	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Wrangler Jane,Corporal Agarn,Chief Wild Eagle	F Troop	2001-03-02	
+1	100	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Cliff, Carla, Coach Pantusso	Cheers	2001-03-02	
+1	200	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Bud, Kelly, Peg, Al	Married... with Children	2001-03-02	
+1	300	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Floyd, Opie, Emmett	The Andy Griffith Show	2001-03-02	
+1	400	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Rosie, Dr. Sidney Friedman, Father Mulcahy	M*A*S*H	2001-03-02	
+1	500	0	CLASSIC SITCOMS BY CHARACTER	(Alex: You identify the sitcom for us.)	Wrangler Jane, Corporal Agarn, Chief Wild Eagle	F Troop	2001-03-02	
 1	100	0	ORGANIZATIONS		As you might guess, the Country Music Association is based in this city	Nashville	2001-03-02	
 1	200	0	ORGANIZATIONS		This group for persons 50 & over is the largest private nonprofit organization in the world	AARP (American Association of Retired Persons)	2001-03-02	
 1	300	0	ORGANIZATIONS		This group also known as ZPG has used slogans like "Stop Heir Pollution" & "The Pill in Time Saves Nine\"	Zero Population Growth	2001-03-02	
@@ -7627,11 +7626,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	NORTH KOREA		North Korea's official name in English is this, abbreviated DPRK	Democratic People's Republic of Korea	2001-03-12	
 2	800	0	NORTH KOREA		In 1994 the U.S. agreed to help North Korea build the less threatening light-water type of these	nuclear reactors	2001-03-12	
 2	1000	0	NORTH KOREA		This man assumed his father's leadership of North Korea in 1994	Kim Jong-il	2001-03-12	
-2	200	0	LITERARY CROSSWORD CLUES "M\"		Robin Hood's maid(6)	Marian	2001-03-12	
-2	400	0	LITERARY CROSSWORD CLUES "M\"		\"Prince"ly Florentine author(11)	Machiavelli	2001-03-12	
-2	600	0	LITERARY CROSSWORD CLUES "M\"		Playwright Christopher, or detective Philip(7)	Marlowe	2001-03-12	
-2	800	1000	LITERARY CROSSWORD CLUES "M\"		Guerre, or Chuzzlewit(6)	Martin	2001-03-12	
-2	1000	0	LITERARY CROSSWORD CLUES "M\"		Irish-born Iris(7)	Murdoch	2001-03-12	
+2	200	0	LITERARY CROSSWORD CLUES "M\"		Robin Hood's maid (6)	Marian	2001-03-12	
+2	400	0	LITERARY CROSSWORD CLUES "M\"		\"Prince"ly Florentine author (11)	Machiavelli	2001-03-12	
+2	600	0	LITERARY CROSSWORD CLUES "M\"		Playwright Christopher, or detective Philip (7)	Marlowe	2001-03-12	
+2	800	1000	LITERARY CROSSWORD CLUES "M\"		Guerre, or Chuzzlewit (6)	Martin	2001-03-12	
+2	1000	0	LITERARY CROSSWORD CLUES "M\"		Irish-born Iris (7)	Murdoch	2001-03-12	
 2	400	0	FAMOUS FEMALES		If you think dope is for kicks, you're out of your mind, once remarked this singer	Billie Holiday	2001-03-12	
 2	200	0	1980s MUSIC		In 1989 she released "Express Yourself" & got divorced from Sean Penn	Madonna	2001-03-12	
 2	600	0	1980s MUSIC		Surprise! They're the Euro trio who recorded "Take On Me\"	a-ha	2001-03-12	
@@ -8002,11 +8001,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	ACTRESS-DIRECTORS		Films like "Big" & "The Preacher's Wife" have put her in a league of her own	Penny Marshall	2001-03-21	
 1	400	0	ACTRESS-DIRECTORS		In 1999 she directed & starred in "Agnes Browne", about a mother of 7, who tries to make ends meet in 1960s Dublin	Anjelica Huston	2001-03-21	
 1	500	0	ACTRESS-DIRECTORS		A no-nonsense officer in "Hill Street Blues", she's since directed "Private Parts" & "Doctor Dolittle\"	Betty Thomas	2001-03-21	
-1	100	0	COUNTRIES BY REGION		Oaxaca,Durango,Nayarit	Mexico	2001-03-21	
-1	200	0	COUNTRIES BY REGION		Thessaly,Epirus,Peloponnesus	Greece	2001-03-21	
-1	300	0	COUNTRIES BY REGION		Hebei,Hubei,Shandong	China	2001-03-21	
-1	400	0	COUNTRIES BY REGION		Nograd,Pest,Somogy	Hungary	2001-03-21	
-1	500	0	COUNTRIES BY REGION		Oppland,Nordland,Telemark	Norway	2001-03-21	
+1	100	0	COUNTRIES BY REGION		Oaxaca, Durango, Nayarit	Mexico	2001-03-21	
+1	200	0	COUNTRIES BY REGION		Thessaly, Epirus, Peloponnesus	Greece	2001-03-21	
+1	300	0	COUNTRIES BY REGION		Hebei, Hubei, Shandong	China	2001-03-21	
+1	400	0	COUNTRIES BY REGION		Nograd, Pest, Somogy	Hungary	2001-03-21	
+1	500	0	COUNTRIES BY REGION		Oppland, Nordland, Telemark	Norway	2001-03-21	
 1	100	0	LIBRARIES		This city's Harold Washington Library Center is the USA's largest municipal library building	Chicago	2001-03-21	
 1	200	0	LIBRARIES		The Chapin Library of Rare Books at Williams College in this state's Berkshire Hills has a 1787 copy of the Constitution	Massachusetts	2001-03-21	
 1	300	800	LIBRARIES		Under Ptolemy I, Zenodotus of Ephesus became its first librarian	Library at Alexandria	2001-03-21	
@@ -8074,11 +8073,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	FOAM		Don Ho is associated with "Tiny Bubbles" & this late bandleader with "Champagne Music\"	Lawrence Welk	2001-03-22	
 1	400	0	FOAM		The aqueous film-forming foam type of these safety devices form an oxygen-excluding barrier	fire extinguishers	2001-03-22	
 1	500	0	FOAM		In this 2000 film Mel Gibson supplied the voice to a character made out of foam latex & clay	Chicken Run	2001-03-22	
-1	100	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	In 1866 Henry Bergh founded the American Society for the Prevention of this (1)(1) He also founded a similar society to protect children	Cruelty to Animals	2001-03-22	
-1	200	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Judah Benjamin, an adviser to this man, was "The Brains of the Confederacy" (2)(2) He fled to England & became a successful lawyer	Jefferson Davis	2001-03-22	
-1	300	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Mathematician Hermann Minkowski combined space & time, laying groundwork for this theory (3)(3) His brother Oskar found that diabetes originates in the pancreas	Theory of Relativity	2001-03-22	
-1	400	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Etienne Brule was the first European to see this second-largest Great Lake (4)(4) And was killed by the tribe of the same name	Huron	2001-03-22	
-1	500	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	A WWII battleship sunk in Uruguay was named for this German graf (5)(5) Who lost the WWI Battle of the Falklands & drowned	Spee	2001-03-22	
+1	100	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	In 1866 Henry Bergh founded the American Society for the Prevention of this (1) (1) He also founded a similar society to protect children	Cruelty to Animals	2001-03-22	
+1	200	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Judah Benjamin, an adviser to this man, was "The Brains of the Confederacy" (2) (2) He fled to England & became a successful lawyer	Jefferson Davis	2001-03-22	
+1	300	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Mathematician Hermann Minkowski combined space & time, laying groundwork for this theory (3) (3) His brother Oskar found that diabetes originates in the pancreas	Theory of Relativity	2001-03-22	
+1	400	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	Etienne Brule was the first European to see this second-largest Great Lake (4) (4) And was killed by the tribe of the same name	Huron	2001-03-22	
+1	500	0	FOOTNOTES IN HISTORY	(Alex: We have footnotes for you.)	A WWII battleship sunk in Uruguay was named for this German graf (5) (5) Who lost the WWI Battle of the Falklands & drowned	Spee	2001-03-22	
 2	200	0	ORGANIC COMPOUNDS		Prepare a 5% solution of acetic acid in water & you've got this salad dressing ingredient	vinegar	2001-03-22	
 2	400	0	ORGANIC COMPOUNDS		Once popular with anesthesiologists & hanky-wielding villains, it's also called trichloromethane	chloroform	2001-03-22	
 2	800	3000	ORGANIC COMPOUNDS		This vitamin got its initial from the way the Danes spell "coagulation\"	vitamin K	2001-03-22	
@@ -8092,11 +8091,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	700	LESSER-KNOWN ANCIENT ROMANS		This Roman always had the full details on new stock offerings	Prospectus	2001-03-22	
 2	800	0	LESSER-KNOWN ANCIENT ROMANS		Found around sacred people, he had an identical twin named Halo	Nimbus	2001-03-22	
 2	1000	0	LESSER-KNOWN ANCIENT ROMANS		He would have been surprised to know he's the state flower of Hawaii	Hibiscus	2001-03-22	
-2	200	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Felix Trinidad,Lennox Lewis,Oscar De La Hoya	boxing	2001-03-22	
-2	400	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Alexander Khalifman,Anatoly Karpov,Garry Kasparov	chess	2001-03-22	
-2	600	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Svetlana Chorkina,Shannon Miller,Kim Zmeskal	gymnastics	2001-03-22	
-2	800	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Alexei Yagudin,Todd Eldredge,Elvis Stojko	figure skating	2001-03-22	
-2	1000	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Lasse Kjus,Hermann Maier,Alberto Tomba	skiing	2001-03-22	
+2	200	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Felix Trinidad, Lennox Lewis, Oscar De La Hoya	boxing	2001-03-22	
+2	400	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Alexander Khalifman, Anatoly Karpov, Garry Kasparov	chess	2001-03-22	
+2	600	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Svetlana Chorkina, Shannon Miller, Kim Zmeskal	gymnastics	2001-03-22	
+2	800	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Alexei Yagudin, Todd Eldredge, Elvis Stojko	figure skating	2001-03-22	
+2	1000	0	WE'RE WORLD CHAMPS	(Alex: You have to name the sport or activity for us.)	Lasse Kjus, Hermann Maier, Alberto Tomba	skiing	2001-03-22	
 2	200	0	SAVE THESE BOOKS FOR "LAST\"		It's the second volume of the "Leather-Stocking Tales\"	The Last of the Mohicans	2001-03-22	
 2	400	0	SAVE THESE BOOKS FOR "LAST\"		Peter Bogdanovich directed the 1971 big screen version of this early Larry McMurtry bestseller	The Last Picture Show	2001-03-22	
 2	600	0	SAVE THESE BOOKS FOR "LAST\"		This Edwin O'Connor novel is based on the political career of James M. Curley	The Last Hurrah	2001-03-22	
@@ -8568,7 +8567,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	ANNUAL EVENTS		This middle leg of the Triple Crown in horse racing is run the third Saturday in May	Preakness Stakes	2001-04-04	
 1	100	0	DUETS		He was Michael Jackson's duet partner on "Say, Say, Say" & Stevie Wonder's on "Ebony and Ivory\"	Paul McCartney	2001-04-04	
 1	200	0	DUETS		In 1994 he charted a new version of "Don't Go Breaking My Heart", this time with RuPaul	Elton John	2001-04-04	
-1	300	500	DUETS		(Hi, I'm Randy Travis, here at the Hollywood Bowl.) On my 1990 "Heroes & Friends" album, this legend joined me in singing..."Happy Trails to You\"	Roy Rogers	2001-04-04	
+1	300	500	DUETS		(Hi, I'm Randy Travis, here at the Hollywood Bowl.) On my 1990 "Heroes & Friends" album, this legend joined me in singing... "Happy Trails to You\"	Roy Rogers	2001-04-04	
 1	400	0	DUETS		It might ring a "Belle" that Celine Dion & Peabo Bryson had a 1992 hit with this movie theme	Beauty and the Beast	2001-04-04	
 1	500	0	DUETS		This singer featured on "Ally McBeal" duetted with Dan Hill on 1987's "Can't We Try\"	Vonda Shepard	2001-04-04	
 1	100	0	WORD SMITHS		\"The Frugal Gourmet Cooks With Wine" is a book by this chef	Jeff Smith	2001-04-04	
@@ -8643,7 +8642,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	GOVERNORS AT STATEHOOD		John Hancock	Massachusetts	2001-04-05	
 2	400	0	GOVERNORS AT STATEHOOD		Edmund Randolph	Virginia	2001-04-05	
 2	600	0	GOVERNORS AT STATEHOOD		George Clinton	New York	2001-04-05	
-2	800	400	GOVERNORS AT STATEHOOD		Peter Burnett(1850)	California	2001-04-05	
+2	800	400	GOVERNORS AT STATEHOOD		Peter Burnett (1850)	California	2001-04-05	
 2	1000	0	GOVERNORS AT STATEHOOD		Thomas Pinckney	South Carolina	2001-04-05	
 2	200	0	DAISY CRAZY		One who is dead & buried is said to be performing this gardening maneuver	pushing up daisies	2001-04-05	
 2	400	0	DAISY CRAZY		It's used as the printing element in certain electric typewriters & older computer printers	a daisy wheel	2001-04-05	
@@ -8653,7 +8652,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	NAME THE POET		\"'Twas brillig, and the slithy toves did gyre and gimble in the wabe\"	Lewis Carroll	2001-04-05	
 2	400	0	NAME THE POET		\"By the shores of Gitche Gumee, by the shining big-sea-water\"	Henry Wadsworth Longfellow ("Song of Hiawatha")	2001-04-05	
 2	600	0	NAME THE POET		\"I was a child and she was a child, in this kingdom by the sea\"	Edgar Allan Poe ("Annabel Lee")	2001-04-05	
-2	800	700	NAME THE POET		\"A child said 'What is the grass?'fetching it to me with full hands\"	Walt Whitman	2001-04-05	
+2	800	700	NAME THE POET		\"A child said 'What is the grass?' fetching it to me with full hands\"	Walt Whitman	2001-04-05	
 2	1000	0	NAME THE POET		\"Into the valley of death rode the six hundred\"	Alfred Lord Tennyson	2001-04-05	
 2	200	0	ALL GOD'S CREATURES		Tuktut Nogait National Park in this country's Northwest Territories is a bluenose caribou calving ground	Canada	2001-04-05	
 2	400	0	ALL GOD'S CREATURES		This "pocket" rodent's name is from French for "honeycomb", alluding to its underground labyrinths	gopher	2001-04-05	
@@ -8661,7 +8660,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	ALL GOD'S CREATURES		This order of mammals consists of just 3 species: the duck-billed platypus & 2 echidnas	monotremes	2001-04-05	
 2	400	0	THE EXPERIENCE MUSIC PROJECT	(Alex: The interactive museum in Seattle.)	In EMP's oral histories, find out how Noel Redding liked his experience playing bass in this man's experience	Jimi Hendrix	2001-04-05	
 2	800	0	THE EXPERIENCE MUSIC PROJECT	(Alex: The interactive museum in Seattle.)	EMP's first online music workshop was led by Ann & Nancy Wilson of this group	Heart	2001-04-05	
-2	200	0	KEEP QUIET!		Shhh!You have no privacy when the walls have these body parts	ears	2001-04-05	
+2	200	0	KEEP QUIET!		Shhh! You have no privacy when the walls have these body parts	ears	2001-04-05	
 2	400	0	KEEP QUIET!		You might be told to "save your" this; but don't "hold" it or you'll turn blue	breath	2001-04-05	
 2	600	0	KEEP QUIET!		Would you believe that the Cone of Silence was an antibugging device on this TV show?	Get Smart	2001-04-05	
 2	800	0	KEEP QUIET!		It is "the soul of wit" & "the soul of lingerie\"	brevity	2001-04-05	
@@ -8684,7 +8683,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	IT'S A MYSTERY		In 1972 Faye Marder married this man; in 1985 they each put out their first mystery novels	Jonathan Kellerman	2001-04-06	
 1	100	0	LET'S PLAY CHICKEN		This canned tuna company has been using a mermaid on its logo since 1952	Chicken of the Sea	2001-04-06	
 1	200	0	LET'S PLAY CHICKEN		This fast food chain told us to "Save the Chickens...Eat a Whopper\"	Burger King	2001-04-06	
-1	300	0	LET'S PLAY CHICKEN		The unofficial theme song of this Warner Brothers blabberbeak is "Camptown Races"...doo dah	Foghorn Leghorn	2001-04-06	
+1	300	0	LET'S PLAY CHICKEN		The unofficial theme song of this Warner Brothers blabberbeak is "Camptown Races" ...doo dah	Foghorn Leghorn	2001-04-06	
 1	400	0	LET'S PLAY CHICKEN		It's often performed at wedding receptions	Funky chicken	2001-04-06	
 1	500	0	LET'S PLAY CHICKEN		Created by Jay Ward & Bill Scott, his secret identity was Henry Cabot Henhaus III	Super Chicken	2001-04-06	
 1	100	0	SO YOU WANT TO JOIN THE LAPD		To join the LAPD you must be younger than 35, but at least this age at the time of hire	21	2001-04-06	
@@ -9200,9 +9199,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	FOREIGN WORDS & PHRASES		Spanish for "little war", it's a member of a small band of irregular soldiers who harass the enemy by surprise raids	Guerrilla	2001-04-19	
 1	500	0	FOREIGN WORDS & PHRASES		This French phrase for a death blow given to put one out of his misery literally means "stroke of mercy\"	Coup de Grace	2001-04-19	
 2	200	0	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1851: The Pequod	Captain Ahab	2001-04-19	
-2	400	0	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1932: The Bounty(before the mutiny)	Captain Bligh	2001-04-19	
+2	400	0	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1932: The Bounty (before the mutiny)	Captain Bligh	2001-04-19	
 2	600	0	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1870: The Nautilus	Captain Nemo	2001-04-19	
-2	800	1000	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1951: The Caine(before the mutiny)	Captain Queeg	2001-04-19	
+2	800	1000	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1951: The Caine (before the mutiny)	Captain Queeg	2001-04-19	
 2	1000	0	THE SKIPPER	(Alex: We will name a ship in literature; you have to name the skipper)	1904: The Ghost	Captain Wolf Larsen	2001-04-19	
 2	200	0	THE MILLIONAIRE		His ex-wife Ivana got $25 million in a 1991 divorce settlement, but he did get to keep the tower	Donald Trump	2001-04-19	
 2	400	0	THE MILLIONAIRE		This exuberant owner of the Dallas Mavericks isn't actually from Havana	Mark Cuban	2001-04-19	
@@ -9227,11 +9226,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	HERE ON GILLIGAN'S ISLE		In the third TV movie after the series, this basketball team visits the island & helps defeat a mad scientist	The Harlem Globetrotters	2001-04-19	
 2	1000	0	HERE ON GILLIGAN'S ISLE		Roy Hinkley, the ingenious Professor on "Gilligan's Island" was played on the series by this man	Russell Johnson	2001-04-19	
 3	0	0	U.S. CITIES		On May 24, 1844 Samuel Morse was in this city demonstrating his invention	Washington, D.C.	2001-04-19	
-1	100	0	THE NORTHERNMOST CAPITAL CITY		Paris,Madrid,Rome	Paris	2001-04-20	
-1	200	0	THE NORTHERNMOST CAPITAL CITY		Beirut,Ankara,Tel Aviv	Ankara	2001-04-20	
-1	300	0	THE NORTHERNMOST CAPITAL CITY		Canberra,Wellington,Jakarta	Jakarta	2001-04-20	
-1	400	0	THE NORTHERNMOST CAPITAL CITY		Brasilia,Santiago,Caracas	Caracas	2001-04-20	
-1	500	0	THE NORTHERNMOST CAPITAL CITY		New Delhi,Beijing,Islamabad	Beijing	2001-04-20	
+1	100	0	THE NORTHERNMOST CAPITAL CITY		Paris, Madrid, Rome	Paris	2001-04-20	
+1	200	0	THE NORTHERNMOST CAPITAL CITY		Beirut, Ankara, Tel Aviv	Ankara	2001-04-20	
+1	300	0	THE NORTHERNMOST CAPITAL CITY		Canberra, Wellington, Jakarta	Jakarta	2001-04-20	
+1	400	0	THE NORTHERNMOST CAPITAL CITY		Brasilia, Santiago, Caracas	Caracas	2001-04-20	
+1	500	0	THE NORTHERNMOST CAPITAL CITY		New Delhi, Beijing, Islamabad	Beijing	2001-04-20	
 1	100	0	POINTING THE FINGER		\"Digital" slogan used by KFC	\"Finger-lickin' good\"	2001-04-20	
 1	300	0	POINTING THE FINGER		Equal to about 9 inches, a span is measured from the tip of the thumb to the tip of this	Little finger (pinky)	2001-04-20	
 1	400	400	POINTING THE FINGER		Dactyloscopy is the practice of using these as a means of identification	Fingerprints	2001-04-20	
@@ -9347,11 +9346,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	A WORLD OF ART		Australian artist John Olsen painted a mural for this opera house in the early '70s	Sydney Opera House	2001-04-24	
 1	400	0	A WORLD OF ART		Sir Thomas Brock was knighted at the unveiling of his statue of Queen Victoria in front of this palace	Buckingham Palace	2001-04-24	
 1	500	0	A WORLD OF ART		The Florentine artist Bronzino served as court painter to Cosimo I of this famous family	Medici	2001-04-24	
-1	100	0	CROSSWORD CLUES "S\"		A bundle of wheat or of paper(5)	sheaf	2001-04-24	
-1	200	0	CROSSWORD CLUES "S\"		A nap in Nogales(6)	siesta	2001-04-24	
-1	300	0	CROSSWORD CLUES "S\"		One hung over Damocles(5)	sword	2001-04-24	
-1	400	0	CROSSWORD CLUES "S\"		Rio's sweetest mountain(9)	Sugarloaf	2001-04-24	
-1	500	0	CROSSWORD CLUES "S\"		It follows Bain de & precedes Moon Frye(6)	Soleil	2001-04-24	
+1	100	0	CROSSWORD CLUES "S\"		A bundle of wheat or of paper (5)	sheaf	2001-04-24	
+1	200	0	CROSSWORD CLUES "S\"		A nap in Nogales (6)	siesta	2001-04-24	
+1	300	0	CROSSWORD CLUES "S\"		One hung over Damocles (5)	sword	2001-04-24	
+1	400	0	CROSSWORD CLUES "S\"		Rio's sweetest mountain (9)	Sugarloaf	2001-04-24	
+1	500	0	CROSSWORD CLUES "S\"		It follows Bain de & precedes Moon Frye (6)	Soleil	2001-04-24	
 1	100	0	TO YOUR HEALTH		A tap on this tibia-topping joint gives information about the health of the spinal cord	Knee	2001-04-24	
 1	200	0	TO YOUR HEALTH		Among these, A is fat-soluble so your body stores it, but C is water-soluble so you need to take it regularly	Vitamins	2001-04-24	
 1	400	0	TO YOUR HEALTH		Ballistic, static & contract-relax are the 3 main types of this pre-workout activity	Stretching	2001-04-24	
@@ -9407,11 +9406,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE KEYSTONE STATE		It's the Pennsylvania city where the Ohio River begins	Pittsburgh	2001-04-25	
 1	400	0	THE KEYSTONE STATE		This baseball team has the oldest team name in the National League	Philadelphia Phillies	2001-04-25	
 1	500	0	THE KEYSTONE STATE		During this 1794 uprising, President Washington sent troops into western Penn. to restore order	Whiskey Rebellion	2001-04-25	
-1	100	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Pugsley &Wednesday	The Addams Family	2001-04-25	
-1	200	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Tracy, Chris,Danny, Laurie &Keith	The Partridge Family	2001-04-25	
-1	300	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Robbie,Mike &Chip	My Three Sons	2001-04-25	
-1	400	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Dewey, Reese,Francis &Malcolm	Malcolm in the Middle	2001-04-25	
-1	500	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Cissy,Jody &Buffy	Family Affair	2001-04-25	
+1	100	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Pugsley & Wednesday	The Addams Family	2001-04-25	
+1	200	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Tracy, Chris, Danny, Laurie & Keith	The Partridge Family	2001-04-25	
+1	300	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Robbie, Mike & Chip	My Three Sons	2001-04-25	
+1	400	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Dewey, Reese, Francis & Malcolm	Malcolm in the Middle	2001-04-25	
+1	500	0	BOOB TUBE OFFSPRING	(Alex: You have to name the TV show.)	Cissy, Jody & Buffy	Family Affair	2001-04-25	
 1	200	0	SIT ON IT!		At the Jackie Kennedy Onassis auction in 1996, one of these chairs used by JFK sold for $442,500	a rocking chair	2001-04-25	
 1	100	0	QUOTABLE WOMEN		In "You Learn By Living", this First Lady of the 1940s challenged, "You must do the thing you think you cannot do\"	Eleanor Roosevelt	2001-04-25	
 1	200	0	QUOTABLE WOMEN		This Bronte sister revealed in an 1840s letter, "I am neither a man nor a woman but an author\"	Charlotte Brontë	2001-04-25	
@@ -9471,7 +9470,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	GENESIS BASICS		It sets sail in Genesis 7	Noah's Ark	2001-04-26	
 1	200	0	GENESIS BASICS		He is slain in Genesis 4	Abel	2001-04-26	
 1	300	0	GENESIS BASICS		These metropolises are destroyed in Genesis 19	Sodom and Gomorrah	2001-04-26	
-1	400	0	GENESIS BASICS		Thestartofthis structureis found inGenesis 11	the Tower of Babel	2001-04-26	
+1	400	0	GENESIS BASICS		The start of this structure is found in Genesis 11	the Tower of Babel	2001-04-26	
 1	500	1000	GENESIS BASICS		In Genesis 40 he takes a job as a dream interpreter	Joseph	2001-04-26	
 1	100	0	LEAF ME ALONE PLEASE		The 4-H Club uses one of these in its symbol	4-leaf clover	2001-04-26	
 1	200	0	LEAF ME ALONE PLEASE		This team won its first Stanley Cup in 1932	Toronto Maple Leafs	2001-04-26	
@@ -9486,9 +9485,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	DEEP IN THE HEART OF TEXAS		Fredericksburg, hometown of Chester W. Nimitz, has a garden of peace given by this country Nimitz fought	Japan	2001-04-26	
 2	600	0	DEEP IN THE HEART OF TEXAS		You'll find the main store of Neiman-Marcus on Main Street in this big city	Dallas	2001-04-26	
 2	1000	0	DEEP IN THE HEART OF TEXAS		This city southwest of Midland got its name from homesick Russian railroad workers	Odessa	2001-04-26	
-2	200	0	FOOD CROSSWORD CLUES		Popeye's power source(7)	spinach	2001-04-26	
-2	400	0	FOOD CROSSWORD CLUES		Peachy relative(9)	nectarine	2001-04-26	
-2	1000	0	FOOD CROSSWORD CLUES		Crooner Crosby's fruit?(4, 6)	Bing cherry	2001-04-26	
+2	200	0	FOOD CROSSWORD CLUES		Popeye's power source (7)	spinach	2001-04-26	
+2	400	0	FOOD CROSSWORD CLUES		Peachy relative (9)	nectarine	2001-04-26	
+2	1000	0	FOOD CROSSWORD CLUES		Crooner Crosby's fruit? (4, 6)	Bing cherry	2001-04-26	
 2	200	0	FAMOUS BUILDINGS		Andy Warhol made an 8-hour-film of one facade of this New York City landmark	Empire State Building	2001-04-26	
 2	600	0	FAMOUS BUILDINGS		In July 2000 a production of "Oedipus Rex" was the 1st spectacle staged in this Roman arena in 1,500 years	The Colosseum	2001-04-26	
 2	800	0	FAMOUS BUILDINGS		The Winter Palace is one of the 4 buildings that make up this Russian museum complex	The Hermitage	2001-04-26	
@@ -9721,7 +9720,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	POETS & POETRY		\"The carriage held but just ourselves and immortality" is a famous line from a poem by this woman	Emily Dickinson	2001-05-02	2001 Teen Tournament quarterfinal game 3.
 2	200	0	A "CON" GAME		It's the type of speech Al Gore gave about a month after George W. Bush wanted to hear it	concession speech	2001-05-02	2001 Teen Tournament quarterfinal game 3.
 2	400	0	A "CON" GAME		By definition, it's an injury to the brain caused by a jarring blow	concussion	2001-05-02	2001 Teen Tournament quarterfinal game 3.
-2	600	0	A "CON" GAME		Brief,7 letters	concise	2001-05-02	2001 Teen Tournament quarterfinal game 3.
+2	600	0	A "CON" GAME		Brief, 7 letters	concise	2001-05-02	2001 Teen Tournament quarterfinal game 3.
 2	800	0	A "CON" GAME		It's been said "The opposite of progress" is this 535-member D.C. institution	Congress	2001-05-02	2001 Teen Tournament quarterfinal game 3.
 2	1000	0	A "CON" GAME		This style of cuisine includes the better-known dishes of various western European nations	continental	2001-05-02	2001 Teen Tournament quarterfinal game 3.
 3	0	0	COLLEGES		Of 60 battles fought in the U.S. Civil War, 55 were commanded on both sides by graduates of this school	United States Military Academy (West Point)	2001-05-02	2001 Teen Tournament quarterfinal game 3.
@@ -9860,11 +9859,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	OLD SCHOOL		This Missouri city on the Mississippi has the oldest college west of the Mississippi	St. Louis	2001-05-07	2001 Teen Tournament semifinal game 1.
 1	400	0	OLD SCHOOL		The oldest existing university is Karueein at Fez, founded in 859 A.D. in this north African country	Morocco	2001-05-07	2001 Teen Tournament semifinal game 1.
 1	500	0	OLD SCHOOL		Founded in 1411, Scotland's oldest university was named after this apostle, Scotland's patron saint	St. Andrew	2001-05-07	2001 Teen Tournament semifinal game 1.
-1	100	0	RECOGNIZE MY GAME		5-iron,flagstick,electric cart,scorecard	golf	2001-05-07	2001 Teen Tournament semifinal game 1.
-1	200	0	RECOGNIZE MY GAME		Paddles,ball,net,a table	ping-pong/table tennis	2001-05-07	2001 Teen Tournament semifinal game 1.
-1	300	0	RECOGNIZE MY GAME		A mallet,the ball,boots,horses	polo	2001-05-07	2001 Teen Tournament semifinal game 1.
-1	400	0	RECOGNIZE MY GAME		A mallet,balls,wickets,stakes	croquet	2001-05-07	2001 Teen Tournament semifinal game 1.
-1	500	0	RECOGNIZE MY GAME		A service line,an attack line,a net,a ball	volleyball	2001-05-07	2001 Teen Tournament semifinal game 1.
+1	100	0	RECOGNIZE MY GAME		5-iron, flagstick, electric cart, scorecard	golf	2001-05-07	2001 Teen Tournament semifinal game 1.
+1	200	0	RECOGNIZE MY GAME		Paddles, ball, net, a table	ping-pong/table tennis	2001-05-07	2001 Teen Tournament semifinal game 1.
+1	300	0	RECOGNIZE MY GAME		A mallet, the ball, boots, horses	polo	2001-05-07	2001 Teen Tournament semifinal game 1.
+1	400	0	RECOGNIZE MY GAME		A mallet, balls, wickets, stakes	croquet	2001-05-07	2001 Teen Tournament semifinal game 1.
+1	500	0	RECOGNIZE MY GAME		A service line, an attack line, a net, a ball	volleyball	2001-05-07	2001 Teen Tournament semifinal game 1.
 1	100	0	HIP HOP NATION		Aesop could tell you this insect was hopping & singing instead of "toiling & moiling" like those workaholic ants	grasshopper	2001-05-07	2001 Teen Tournament semifinal game 1.
 1	200	0	HIP HOP NATION		Unlike frogs, these animals don't jump far, they make short hops & even walk	toads	2001-05-07	2001 Teen Tournament semifinal game 1.
 1	400	0	HIP HOP NATION		Unlike the kangaroo, this close relative can be brightly colored & as small as a rabbit	wallaby	2001-05-07	2001 Teen Tournament semifinal game 1.
@@ -10007,11 +10006,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	THE PHILADELPHIA ORCHESTRA		The orchestra has 2 harpists, 4 bassoonists & 32 of these	violinists	2001-05-09	2001 Teen Tournament semifinal game 3.
 2	800	0	THE PHILADELPHIA ORCHESTRA		The orchestra's first concert at the Academy of Music, its home 1900-2001, featured this man's 1805 Fifth Symphony	Ludwig van Beethoven	2001-05-09	2001 Teen Tournament semifinal game 3.
 2	1000	1800	THE PHILADELPHIA ORCHESTRA		The orchestra is heard in the 1937 movie "100 Men and a Girl" & this 1940 Disney film	Fantasia	2001-05-09	2001 Teen Tournament semifinal game 3.
-2	200	0	CROSSWORD CLUES 2nd LETTER "U\"		Boy cow(4)	bull	2001-05-09	2001 Teen Tournament semifinal game 3.
-2	400	0	CROSSWORD CLUES 2nd LETTER "U\"		One may be vacuum or inner(4)	tube	2001-05-09	2001 Teen Tournament semifinal game 3.
-2	600	0	CROSSWORD CLUES 2nd LETTER "U\"		Pro baseball bench site(6)	dugout	2001-05-09	2001 Teen Tournament semifinal game 3.
-2	800	0	CROSSWORD CLUES 2nd LETTER "U\"		Greek geometry genius(6)	Euclid	2001-05-09	2001 Teen Tournament semifinal game 3.
-2	1000	0	CROSSWORD CLUES 2nd LETTER "U\"		New Year's Eve song(4,4,4)	\"Auld Lang Syne\"	2001-05-09	2001 Teen Tournament semifinal game 3.
+2	200	0	CROSSWORD CLUES 2nd LETTER "U\"		Boy cow (4)	bull	2001-05-09	2001 Teen Tournament semifinal game 3.
+2	400	0	CROSSWORD CLUES 2nd LETTER "U\"		One may be vacuum or inner (4)	tube	2001-05-09	2001 Teen Tournament semifinal game 3.
+2	600	0	CROSSWORD CLUES 2nd LETTER "U\"		Pro baseball bench site (6)	dugout	2001-05-09	2001 Teen Tournament semifinal game 3.
+2	800	0	CROSSWORD CLUES 2nd LETTER "U\"		Greek geometry genius (6)	Euclid	2001-05-09	2001 Teen Tournament semifinal game 3.
+2	1000	0	CROSSWORD CLUES 2nd LETTER "U\"		New Year's Eve song (4,4,4)	\"Auld Lang Syne\"	2001-05-09	2001 Teen Tournament semifinal game 3.
 3	0	0	ANIMALS		The German name for this animal is nilpferd, or "Nile horse\"	hippopotamus	2001-05-09	2001 Teen Tournament semifinal game 3.
 1	100	0	1801-1810		In 1806 he published his first lexicographical work, "A Compendious Dictionary of the English Language\"	Noah Webster	2001-05-10	2001 Teen Tournament final game 1.
 1	200	0	1801-1810		In October 1804 Lewis & Clark prepared to spend the first winter of their trip near this present-day N.D. capital	Bismarck	2001-05-10	2001 Teen Tournament final game 1.
@@ -10199,11 +10198,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	WARS BY BATTLE		1968: The Tet Offensive	Vietnam War	2001-05-15	
 1	400	0	WARS BY BATTLE		1916: Verdun	World War I	2001-05-15	
 1	500	0	WARS BY BATTLE		1461: Towton, Yorkshire	the Wars of the Roses	2001-05-15	
-1	100	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	No more chihuahua/but Gorditas & tacos/Chalupa Supreme	Taco Bell	2001-05-15	
-1	200	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Sourdough or jumbo/Ultimate Cheeseburger too/Fajita Pita	Jack in the Box	2001-05-15	
-1	300	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Grand Slam, Denver Slam/French Slam, Slim Slam, Shamrock Slam/Dagwood Breakfast Slam	Denny's	2001-05-15	
-1	400	500	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Sandwiches & wraps/seven with 6-grams of fat/6-inch or footlong	Subway	2001-05-15	
-1	500	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Ultimate deep dish/hand tossed & crunchy thin crust/Heatwave carriers	Domino's	2001-05-15	
+1	100	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	No more chihuahua/ but Gorditas & tacos/ Chalupa Supreme	Taco Bell	2001-05-15	
+1	200	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Sourdough or jumbo/ Ultimate Cheeseburger too/ Fajita Pita	Jack in the Box	2001-05-15	
+1	300	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Grand Slam, Denver Slam/ French Slam, Slim Slam, Shamrock Slam/ Dagwood Breakfast Slam	Denny's	2001-05-15	
+1	400	500	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Sandwiches & wraps/ seven with 6-grams of fat/ 6-inch or footlong	Subway	2001-05-15	
+1	500	0	FAST FOOD HAIKU	(Alex: We want you to name the chain here)	Ultimate deep dish/ hand tossed & crunchy thin crust/ Heatwave carriers	Domino's	2001-05-15	
 1	200	0	2001 U.S. STAMPS		The Nobel Prize 1901-2001 stamp is a joint issue of the U.S. & this country	Sweden	2001-05-15	
 1	300	0	2001 U.S. STAMPS		On the Love-Letters series, the bud of this flower is the "O" in the word love	Rose	2001-05-15	
 1	400	0	2001 U.S. STAMPS		1 of the 2 Rockwells with works featured in the American Illustrators series	Norman Rockwell or Rockwell Kent	2001-05-15	
@@ -10251,11 +10250,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	GOOD EATS		At Thanksgiving, many families enjoy a side dish of these veggies baked with marshmallows & brown sugar	sweet potatoes	2001-05-16	
 1	400	0	GOOD EATS		Relax, this body part is not an ingredient of the small sandwich named for it	a finger	2001-05-16	
 1	500	0	GOOD EATS		The greengage, a sweet green type of this fruit, was named for the British botanist who imported it from France	Plum	2001-05-16	
-1	100	0	PRESIDENTIAL ALMA MATERS		U.S. Military Academy,1843	Ulysses S. Grant	2001-05-16	
-1	200	0	PRESIDENTIAL ALMA MATERS		Whittier,1934;Duke Law School,1937	Richard Nixon	2001-05-16	
-1	300	0	PRESIDENTIAL ALMA MATERS		Georgetown,1968;Yale Law School,1973	Bill Clinton	2001-05-16	
-1	400	0	PRESIDENTIAL ALMA MATERS		Michigan,1935;Yale Law School,1941	Gerald Ford	2001-05-16	
-1	500	0	PRESIDENTIAL ALMA MATERS		William and Mary,1762	Thomas Jefferson	2001-05-16	
+1	100	0	PRESIDENTIAL ALMA MATERS		U.S. Military Academy, 1843	Ulysses S. Grant	2001-05-16	
+1	200	0	PRESIDENTIAL ALMA MATERS		Whittier, 1934; Duke Law School, 1937	Richard Nixon	2001-05-16	
+1	300	0	PRESIDENTIAL ALMA MATERS		Georgetown, 1968; Yale Law School, 1973	Bill Clinton	2001-05-16	
+1	400	0	PRESIDENTIAL ALMA MATERS		Michigan, 1935; Yale Law School, 1941	Gerald Ford	2001-05-16	
+1	500	0	PRESIDENTIAL ALMA MATERS		William and Mary, 1762	Thomas Jefferson	2001-05-16	
 1	100	0	N.E.W.S.	(Alex: North, east, west, and south.)	Of north, east, west & south, the 2 in a famous Kipling "ballad\"	East & west	2001-05-16	
 1	200	0	N.E.W.S.	(Alex: North, east, west, and south.)	Of North Park, East Park, West Park or South Park, it's where Kenny is killed...& killed, & killed	South Park	2001-05-16	
 1	300	0	N.E.W.S.	(Alex: North, east, west, and south.)	Of north, east, west or south, the one that anagrams to a part of a rose	North (thorn)	2001-05-16	
@@ -10279,18 +10278,18 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	A SLEEPY CATEGORY		A band from Athens, Georgia, or the dream stage of sleep	REM	2001-05-16	
 2	400	0	A SLEEPY CATEGORY		He wrote, "The woods are lovely, dark and deep. But I have promises to keep, and miles to go before I sleep\"	Robert Frost	2001-05-16	
 2	600	0	A SLEEPY CATEGORY		Raymond Chandler is credited with coining this term for death in the title of a 1939 novel	\"The Big Sleep\"	2001-05-16	
-2	800	0	A SLEEPY CATEGORY		Play that includes the following:["Is sleep, perchance to dream; aye, there's the rub"]	\"Hamlet\"	2001-05-16	
+2	800	0	A SLEEPY CATEGORY		Play that includes the following: ["Is sleep, perchance to dream; aye, there's the rub"]	\"Hamlet\"	2001-05-16	
 2	1000	0	A SLEEPY CATEGORY		If you are asleep, you are in the arms of this god	Morpheus	2001-05-16	
 2	200	0	AROUND THE WORLD		For shopping & entertainment, the Ginza district in this city is world-famous	Tokyo	2001-05-16	
 2	400	0	AROUND THE WORLD		This desert in southern Africa has long been home to the San, or Bushmen	Kalahari Desert	2001-05-16	
 2	600	0	AROUND THE WORLD		Every June Puerto Rico holds a music festival honoring this famed cellist	Pablo Casals	2001-05-16	
 2	800	0	AROUND THE WORLD		It's the continent where you'll find Queen Maud Land & the Queen Maud Mountains	Antarctica	2001-05-16	
 2	1000	0	AROUND THE WORLD		Agana is the capital of this U.S. territory	Guam	2001-05-16	
-2	200	0	DIRECTED & STARRED IN		\"The Prince of Tides"(1991)	Barbra Streisand	2001-05-16	
-2	400	0	DIRECTED & STARRED IN		\"Throw Momma From the Train"(1987)	Danny DeVito	2001-05-16	
-2	600	0	DIRECTED & STARRED IN		\"Mo' Better Blues"(1990)	Spike Lee	2001-05-16	
-2	800	0	DIRECTED & STARRED IN		\"Easy Rider"(1969)	Dennis Hopper	2001-05-16	
-2	1000	0	DIRECTED & STARRED IN		\"Absolute Power"(1997)	Clint Eastwood	2001-05-16	
+2	200	0	DIRECTED & STARRED IN		\"The Prince of Tides" (1991)	Barbra Streisand	2001-05-16	
+2	400	0	DIRECTED & STARRED IN		\"Throw Momma From the Train" (1987)	Danny DeVito	2001-05-16	
+2	600	0	DIRECTED & STARRED IN		\"Mo' Better Blues" (1990)	Spike Lee	2001-05-16	
+2	800	0	DIRECTED & STARRED IN		\"Easy Rider" (1969)	Dennis Hopper	2001-05-16	
+2	1000	0	DIRECTED & STARRED IN		\"Absolute Power" (1997)	Clint Eastwood	2001-05-16	
 2	200	0	THE DICKENS, YOU SAY		Of his works, Dickens called this largely autobiographical book his own "favourite child\"	\"David Copperfield\"	2001-05-16	
 2	400	0	THE DICKENS, YOU SAY		In April 1859 Dickens launched a new weekly with the 1st installation of this "tale" set in the French Revoution	\"A Tale of Two Cities\"	2001-05-16	
 2	600	0	THE DICKENS, YOU SAY		\"The Haunted Man" was the last of 5 books Dickens wrote about this holiday	Christmas	2001-05-16	
@@ -10306,11 +10305,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE NEW YORK TIMES TIMELINE		In 1993 the New York Times Company bought this city's Globe for deep pocket change, $1.1 billion	Boston	2001-05-17	
 1	400	600	THE NEW YORK TIMES TIMELINE		The Times won a Pulitzer for its publication of these purloined documents in 1972	the Pentagon Papers	2001-05-17	
 1	500	0	THE NEW YORK TIMES TIMELINE		In 1851 2 staffers from this New York paper, later merged with the Herald, founded the Times	the New-York Tribune	2001-05-17	
-1	100	0	FIRST NAME'S THE SAME		Bradley,Sharif,Khayyam	Omar	2001-05-17	
-1	200	0	FIRST NAME'S THE SAME		Allen,Hayes,Harrelson	Woody	2001-05-17	
-1	300	0	FIRST NAME'S THE SAME		Moore,McCullough,Dewhurst	Colleen	2001-05-17	
-1	400	0	FIRST NAME'S THE SAME		Burton,Robbins,McGraw	Tim	2001-05-17	
-1	500	0	FIRST NAME'S THE SAME		Smith,Rogers,Durant	Will	2001-05-17	
+1	100	0	FIRST NAME'S THE SAME		Bradley, Sharif, Khayyam	Omar	2001-05-17	
+1	200	0	FIRST NAME'S THE SAME		Allen, Hayes, Harrelson	Woody	2001-05-17	
+1	300	0	FIRST NAME'S THE SAME		Moore, McCullough, Dewhurst	Colleen	2001-05-17	
+1	400	0	FIRST NAME'S THE SAME		Burton, Robbins, McGraw	Tim	2001-05-17	
+1	500	0	FIRST NAME'S THE SAME		Smith, Rogers, Durant	Will	2001-05-17	
 1	100	0	HOW HEAVENLY!		Unlike the corned beef & red flannel varieties, the "Heavenly" type of this food is a candy	Hash	2001-05-17	
 1	200	0	HOW HEAVENLY!		Wallace Langham appeared in this 1996 film that featured John Travolta's most "angelic" performance	Michael	2001-05-17	
 1	300	0	HOW HEAVENLY!		This Scottish-born singer's "Angel Touch" dolls aren't "For Your Eyes Only"; anyone can buy them from QVC	Sheena Easton	2001-05-17	
@@ -10699,11 +10698,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	COMMUNICATION		In the early 1900s Congress allowed these with divided backs, half for the address & half for "Wish you were here\"	postcards	2001-05-28	
 1	200	0	COMMUNICATION		It was the R in the FRC, which was created in 1927 & evolved into the FCC	Radio	2001-05-28	
 1	300	0	COMMUNICATION		2-word theatrical term for the way I'm reading this clue	stage whisper	2001-05-28	
-1	100	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Tucson(1867-1877)	Arizona	2001-05-28	
-1	200	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Savannah(1777-1778)	Georgia	2001-05-28	
-1	300	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Wheeling(1863-1870 &1875-1885)	West Virginia	2001-05-28	
-1	400	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Sitka(1867-1900)	Alaska	2001-05-28	
-1	500	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Guthrie(1890-1910)	Oklahoma	2001-05-28	
+1	100	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Tucson (1867-1877)	Arizona	2001-05-28	
+1	200	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Savannah (1777-1778)	Georgia	2001-05-28	
+1	300	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Wheeling (1863-1870 & 1875-1885)	West Virginia	2001-05-28	
+1	400	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Sitka (1867-1900)	Alaska	2001-05-28	
+1	500	0	FORMER CAPITALS	(Alex: You have to identify the state.)	Guthrie (1890-1910)	Oklahoma	2001-05-28	
 1	100	0	LAW		Before Jimmy Smits nailed perps on "NYPD Blue", he defended them as Victor Sifuentes on this show	L.A. Law	2001-05-28	
 1	200	0	LAW		Before becoming a man named Brady, he starred as a lawyer named Preston on "The Defenders\"	(Robert) Reed	2001-05-28	
 1	300	0	LAW		\"And hey...Let's be careful out there" ended roll call on this '80s cop show	Hill Street Blues	2001-05-28	
@@ -10714,11 +10713,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	\"AND\"		He was the Roman slave who removed a thorn from a big cat's paw, & we ain't lion	Androcles	2001-05-28	
 1	400	0	\"AND\"		Name of a princess of myth, a constellation & a new Gene Roddenberry sci-fi show	Andromeda	2001-05-28	
 1	500	0	\"AND\"		He's the only man to win the Daytona 500, Indy 500 & a Formula One World Championship	(Mario) Andretti	2001-05-28	
-1	100	0	ORDER	(Alex: We're talking chronological order here.)	Presidents: James Polk,James Madison,Abraham Lincoln	Madison, Polk & Lincoln	2001-05-28	
+1	100	0	ORDER	(Alex: We're talking chronological order here.)	Presidents: James Polk, James Madison, Abraham Lincoln	Madison, Polk & Lincoln	2001-05-28	
 1	200	0	ORDER	(Alex: We're talking chronological order here.)	\"Love Me Do", "We Can Work It Out", "Get Back\"	\"Love Me Do", "We Can Work It Out", "Get Back\"	2001-05-28	
 1	300	0	ORDER	(Alex: We're talking chronological order here.)	On-screen: "E.T.", "X-Men", "M\"	M, E.T., & X-Men	2001-05-28	
-1	400	0	ORDER	(Alex: We're talking chronological order here.)	Joe DiMaggio,Shoeless Joe Jackson,Jose Canseco	Shoeless Joe, DiMaggio, & Canseco	2001-05-28	
-1	500	0	ORDER	(Alex: We're talking chronological order here.)	Spanish Civil War,U.S. Civil War,English Civil War	English Civil War, U.S. Civil War, Spanish Civil War	2001-05-28	
+1	400	0	ORDER	(Alex: We're talking chronological order here.)	Joe DiMaggio, Shoeless Joe Jackson, Jose Canseco	Shoeless Joe, DiMaggio, & Canseco	2001-05-28	
+1	500	0	ORDER	(Alex: We're talking chronological order here.)	Spanish Civil War, U.S. Civil War, English Civil War	English Civil War, U.S. Civil War, Spanish Civil War	2001-05-28	
 2	200	0	ASIAN LIT		Nguyen Du's "Kim Van Kieu", adapted from a Chinese novel, is one of this country's best-loved poems	Vietnam	2001-05-28	
 2	400	0	ASIAN LIT		In the Chinese play "The Palace of Eternal Youth" lovers are reunited on this heavenly body	the moon	2001-05-28	
 2	200	0	CLASSICAL MUSICIANS		This composer, George Sand's lover, was nicknamed "The Ariel of the Piano\"	Chopin	2001-05-28	
@@ -10726,11 +10725,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	CLASSICAL MUSICIANS		From 1903 on, Igor Stravinsky studied privately with this composer of "Scheherazade\"	Rimsky-Korsakov	2001-05-28	
 2	800	0	CLASSICAL MUSICIANS		In 1853 Schumann noted in his diary meeting this composer & called him "a genius\"	Johannes Brahms	2001-05-28	
 2	1000	0	CLASSICAL MUSICIANS		In 1821, at age 12, this Jewish-born German composer met Goethe, who was impressed with the boy	Mendelssohn	2001-05-28	
-2	200	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	WWI,WWII	Eisenhower	2001-05-28	
+2	200	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	WWI, WWII	Eisenhower	2001-05-28	
 2	400	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	The Spanish-American War	Teddy Roosevelt	2001-05-28	
-2	600	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	The Mexican War,The Civil War	Grant	2001-05-28	
-2	800	3000	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	Revolutionary War,Creek War,War of 1812,First Seminole War	Andrew Jackson	2001-05-28	
-2	1000	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	War of 1812,Second Seminole War,Black Hawk War,Mexican War	(Zachary) Taylor	2001-05-28	
+2	600	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	The Mexican War, The Civil War	Grant	2001-05-28	
+2	800	3000	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	Revolutionary War, Creek War, War of 1812, First Seminole War	Andrew Jackson	2001-05-28	
+2	1000	0	PRESIDENTIAL SOLDIERS	(Alex: We'll list wars. You have to name the President who served in all of the wars we will list.)	War of 1812, Second Seminole War, Black Hawk War, Mexican War	(Zachary) Taylor	2001-05-28	
 2	200	0	TRAVEL & TOURISM		Statue of Liberty Nat'l Monument includes Liberty Island & the former immigration station on this island	Ellis Island	2001-05-28	
 2	400	0	TRAVEL & TOURISM		St. Mark's Cathedral in this city was once the private palace chapel of the doges	Venice	2001-05-28	
 2	600	0	TRAVEL & TOURISM		In 1997 this library, which has 2 copies of the Magna Carta, moved to the Saint Pancras area of London	British Library	2001-05-28	
@@ -10763,11 +10762,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	PRESIDENTIAL PETS		You'll earn a feather for your cap if you know Caroline Kennedy had a pony named this	Macaroni	2001-05-29	
 1	400	0	PRESIDENTIAL PETS		Thomas Jefferson's pet grizzly bears were a present from this pair of travelers	Lewis & Clark	2001-05-29	
 1	500	0	PRESIDENTIAL PETS		The FDR Memorial in Washington includes a statue of Roosevelt with this famous Scottie at his feet	Fala	2001-05-29	
-1	100	0	CITIES BY HOTEL		The Waldorf-Astoria,The Plaza,The St. Regis	New York City	2001-05-29	
-1	200	0	CITIES BY HOTEL		The Venetian,The Sahara,The Luxor	Las Vegas	2001-05-29	
+1	100	0	CITIES BY HOTEL		The Waldorf-Astoria, The Plaza, The St. Regis	New York City	2001-05-29	
+1	200	0	CITIES BY HOTEL		The Venetian, The Sahara, The Luxor	Las Vegas	2001-05-29	
 1	300	0	CITIES BY HOTEL		The Ambassador, site of RFK's assassination in 1968	Los Angeles	2001-05-29	
 1	400	0	CITIES BY HOTEL		The Fairmont, after which James Brolin's TV "Hotel" was modeled	San Francisco	2001-05-29	
-1	500	0	CITIES BY HOTEL		Copley Square Hotel,The Omni Parker House,Back Bay Hilton	Boston	2001-05-29	
+1	500	0	CITIES BY HOTEL		Copley Square Hotel, The Omni Parker House, Back Bay Hilton	Boston	2001-05-29	
 1	100	0	ISN'T IT "GRAND"?		This group decides whether there's enough evidence to try a person in a criminal court of law	Grand jury	2001-05-29	
 1	200	0	ISN'T IT "GRAND"?		Each day over a half million people pass through this place located on 42nd Street at Park Avenue	Grand Central Station	2001-05-29	
 1	300	0	ISN'T IT "GRAND"?		\"Should auld acquaintance be forgot, keep your eye on" this	The grand old flag	2001-05-29	
@@ -10855,18 +10854,18 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	FIGHTS HISTORICAL		On February 5, 1943 this "Raging Bull" handed Sugar Ray Robinson his first career defeat in 130 bouts	Jake LaMotta	2001-05-30	
 2	1000	0	FIGHTS HISTORICAL		On December 26, 1908 he became the first black Heavyweight champ, TKOing Tommy Burns in the 14th round	Jack Johnson	2001-05-30	
 2	200	0	MATTERS MATHEMATICAL		The intersection of 2 non-parallel planes forms one of these, the shortest distance between 2 points	Line	2001-05-30	
-2	400	0	MATTERS MATHEMATICAL		4a is a monomial;4a-7 is one of these	Binomial	2001-05-30	
+2	400	0	MATTERS MATHEMATICAL		4a is a monomial; 4a-7 is one of these	Binomial	2001-05-30	
 2	800	0	MATTERS MATHEMATICAL		The fraction 1/5 cubed equals 5 to the power of this	-3	2001-05-30	
 2	1000	0	MATTERS MATHEMATICAL		A little "meditation" will tell you pi is classified as this type of irrational number	transcendental	2001-05-30	
 3	0	0	FAMOUS NAMES		A city bus is part of the exhibits at the Montgomery, Alabama library & museum named for this person	Rosa Parks	2001-05-30	
 1	100	0	RADIOLOGY		The field of therapeutic radiology concentrates on radiation treatment for this disease	cancer	2001-05-31	
 1	200	0	RADIOLOGY		The American College of Radiology wants increased Medicare reimbursement for this breast imaging	mammography	2001-05-31	
 1	300	0	RADIOLOGY		This element, symbol Ba, is used to coat your innards for better viewing	barium	2001-05-31	
-1	400	2000	RADIOLOGY		Radiology began with a discovery by this German-born scientist	(Wilhelm) Rontgen	2001-05-31	
+1	400	2000	RADIOLOGY		Radiology began with a discovery by this German-born scientist	(Wilhelm) Röntgen	2001-05-31	
 1	100	0	SAINTLY PEOPLE		Last name of Louis, who left as Canada's PM in 1957, & of Yves, who became head of Dior in 1957	St. Laurent	2001-05-31	
 1	200	0	SAINTLY PEOPLE		This redheaded actress dated Henry Kissinger & married Robert Wagner	Jill St. John	2001-05-31	
 1	300	0	SAINTLY PEOPLE		Videos directed by Randee St. Nicholas include Whitney Houston's "I'm Every Woman" & this singer's "Breathe Again\"	Toni Braxton	2001-05-31	
-1	400	0	SAINTLY PEOPLE		This French composer was separated from his wife from 1881 to his death in 1921	Saint-Saens	2001-05-31	
+1	400	0	SAINTLY PEOPLE		This French composer was separated from his wife from 1881 to his death in 1921	Saint-Saëns	2001-05-31	
 1	500	0	SAINTLY PEOPLE		This singer & activist who emerged in the '60s was born to Cree parents in Saskatchewan	Buffy Sainte-Marie	2001-05-31	
 1	100	0	NEW YORK, NEW YORK	(Alex: A wonderful town.)	The New York Stock Exchange has been called the heart of this street (we can hear the ticker ticking)	Wall Street	2001-05-31	
 1	200	0	NEW YORK, NEW YORK	(Alex: A wonderful town.)	The main area of Vegas' New York-New York casino is made to look like this park, without the pigeons	Central Park	2001-05-31	
@@ -10895,11 +10894,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	FRENCH ART & ARTISTS		In the 1860s this Frenchman, truly a deep "thinker", briefly studied for the religious life	Rodin	2001-05-31	
 2	600	0	FRENCH ART & ARTISTS		Jacques-Louis David's 1787 painting of "The Death of" this man features a cup of hemlock	Socrates	2001-05-31	
 2	1000	0	FRENCH ART & ARTISTS		Honore Daumier was imprisoned in 1832 for depicting King Louis Philippe as this Rabelaisian giant	Gargantua	2001-05-31	
-2	200	0	HOME STATES		Butch Cassidy,Roseanne,Donny Osmond	Utah	2001-05-31	
-2	400	0	HOME STATES		Robert Motherwell,Kurt Cobain,Bill Gates	Washington	2001-05-31	
-2	600	0	HOME STATES		Thomas Dewey,Henry Ford,Madonna	Michigan	2001-05-31	
-2	800	0	HOME STATES		Dana Carvey,Evel Knievel,Jeannette Rankin	Montana	2001-05-31	
-2	1000	0	HOME STATES		Amelia Earhart,Edgar Lee Masters,Dennis Hopper	Kansas	2001-05-31	
+2	200	0	HOME STATES		Butch Cassidy, Roseanne, Donny Osmond	Utah	2001-05-31	
+2	400	0	HOME STATES		Robert Motherwell, Kurt Cobain, Bill Gates	Washington	2001-05-31	
+2	600	0	HOME STATES		Thomas Dewey, Henry Ford, Madonna	Michigan	2001-05-31	
+2	800	0	HOME STATES		Dana Carvey, Evel Knievel, Jeannette Rankin	Montana	2001-05-31	
+2	1000	0	HOME STATES		Amelia Earhart, Edgar Lee Masters, Dennis Hopper	Kansas	2001-05-31	
 2	200	0	I'M CZAR-Y, SO CZAR-Y		Czar Paul's mother was this "Great" empress, Paul's father was probably her husband Czar Peter III	Catherine (the Great)	2001-05-31	
 2	400	0	I'M CZAR-Y, SO CZAR-Y		Type of weapon used to assassinate Czar Alexander II in 1881	dynamite	2001-05-31	
 2	600	0	I'M CZAR-Y, SO CZAR-Y		Boris Godunov recolonized this area stretching north to the Arctic Ocean; we're not sure why he wanted it	Siberia	2001-05-31	
@@ -10987,11 +10986,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THAT'S MISTER TO YOU		Pity the fool who doesn't know that he played Clubber Lang in "Rocky III\"	Mr. T	2001-06-04	
 1	400	0	THAT'S MISTER TO YOU		\"From Rags to Bitches" is the autobiography of this man known for his worst-dressed lists	Mr. Blackwell	2001-06-04	
 1	500	0	THAT'S MISTER TO YOU		Counting Crows made their name with this song	Mr. Jones	2001-06-04	
-1	100	0	WHAT A TOOL		Dead blow, soft face,claw,ball peen	Hammers	2001-06-04	
-1	200	0	WHAT A TOOL		Bent nose,duckbill,channel lock,needle nose	Pliers	2001-06-04	
-1	300	0	WHAT A TOOL		Dovetail, dry wall,pull,hack	Saws	2001-06-04	
-1	400	0	WHAT A TOOL		Drum,corner,random orbit,belt	Sanders	2001-06-04	
-1	500	0	WHAT A TOOL		Bench,block,shaping,smooth	Planes	2001-06-04	
+1	100	0	WHAT A TOOL		Dead blow, soft face, claw, ball peen	Hammers	2001-06-04	
+1	200	0	WHAT A TOOL		Bent nose, duckbill, channel lock, needle nose	Pliers	2001-06-04	
+1	300	0	WHAT A TOOL		Dovetail, dry wall, pull, hack	Saws	2001-06-04	
+1	400	0	WHAT A TOOL		Drum, corner, random orbit, belt	Sanders	2001-06-04	
+1	500	0	WHAT A TOOL		Bench, block, shaping, smooth	Planes	2001-06-04	
 1	100	0	YOU COULD PUT OUT AN "I\"		A massive floating body broken away from a glacier	Iceberg	2001-06-04	
 1	200	0	YOU COULD PUT OUT AN "I\"		An erroneous perception of reality, perhaps a "grand" one	Illusion	2001-06-04	
 1	300	0	YOU COULD PUT OUT AN "I\"		One who engages in deception under an assumed name or identity	Imposter	2001-06-04	
@@ -11177,11 +11176,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	EUROPE		Country in which you'd find the city the natives call Den Haag	Holland (or the Netherlands)	2001-06-07	
 2	800	0	EUROPE		The capital of Hungary for over 200 years, it's now the capital of Slovakia	Bratislava	2001-06-07	
 2	1000	0	EUROPE		Called Bohemians by the French & Gypsies by the English, they refer to themselves as this	the Romani	2001-06-07	
-2	200	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Mario Puzo & Francis Ford Coppola(1972)	The Godfather	2001-06-07	
-2	400	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	John Irving(1999)	The Cider House Rules	2001-06-07	
-2	600	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Billy Bob Thornton(1996)	Sling Blade	2001-06-07	
-2	800	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	William Peter Blatty(1973)	The Exorcist	2001-06-07	
-2	1000	1000	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Emma Thompson(1995)	Sense and Sensibility	2001-06-07	
+2	200	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Mario Puzo & Francis Ford Coppola (1972)	The Godfather	2001-06-07	
+2	400	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	John Irving (1999)	The Cider House Rules	2001-06-07	
+2	600	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Billy Bob Thornton (1996)	Sling Blade	2001-06-07	
+2	800	0	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	William Peter Blatty (1973)	The Exorcist	2001-06-07	
+2	1000	1000	BEST ADAPTED SCREENPLAY	(Alex: You have to name the Oscar-winning film.)	Emma Thompson (1995)	Sense and Sensibility	2001-06-07	
 2	600	0	BIRDS		Fanfare, please... it's the American counterpart to Europe's whooper swan	the trumpeter swan	2001-06-07	
 2	1000	1000	BIRDS		Richard Chamberlain might know that the chestnut-backed & freckle-breasted are varieties of this bird	thornbirds	2001-06-07	
 2	200	0	IT'S ALL POLITICS		In July 1804 Alexander Hamilton ended up on the losing end of a duel with this politician	Aaron Burr	2001-06-07	
@@ -11295,11 +11294,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	MEDICAL EDUCATION		Long a major branch of philosophy, the medical or "bio" type entered medical curricula in recent decades	Ethics	2001-06-11	
 2	400	0	MEDICAL EDUCATION		The Earth makes one of these a day; med students make several of them to learn different fields	a rotation	2001-06-11	
 2	800	0	MEDICAL EDUCATION		A 1983 invasion protected American med students on this Caribbean island	Grenada	2001-06-11	
-2	200	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Ansel Adams,William Saroyan,Richard Nixon	California	2001-06-11	
-2	400	0	STATES' MEN	(Alex: We want you to name the state the men are from)	James Garner,Woody Guthrie,Will Rogers	Oklahoma	2001-06-11	
-2	600	1500	STATES' MEN	(Alex: We want you to name the state the men are from)	Robert Fulton,Milton Hershey,Andy Warhol	Pennsylvania	2001-06-11	
-2	800	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Sparky Anderson,Tom Brokaw,George McGovern	South Dakota	2001-06-11	
-2	1000	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Clark Gable,Clarence Darrow,Neil Armstrong	Ohio	2001-06-11	
+2	200	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Ansel Adams, William Saroyan, Richard Nixon	California	2001-06-11	
+2	400	0	STATES' MEN	(Alex: We want you to name the state the men are from)	James Garner, Woody Guthrie, Will Rogers	Oklahoma	2001-06-11	
+2	600	1500	STATES' MEN	(Alex: We want you to name the state the men are from)	Robert Fulton, Milton Hershey, Andy Warhol	Pennsylvania	2001-06-11	
+2	800	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Sparky Anderson, Tom Brokaw, George McGovern	South Dakota	2001-06-11	
+2	1000	0	STATES' MEN	(Alex: We want you to name the state the men are from)	Clark Gable, Clarence Darrow, Neil Armstrong	Ohio	2001-06-11	
 2	200	0	BEFORE & AFTER		Supreme Court chief justice lucky enough to marry Annette Bening	Earl Warren Beatty	2001-06-11	
 2	600	0	BEFORE & AFTER		Cartoon cat & mouse who "gratefully" crooned "Truckin'\"	Tom & Jerry Garcia	2001-06-11	
 3	0	0	FAMOUS AMERICANS		This man was nearby at the assassination of 3 U.S. presidents, one of whom was his father	Robert Todd Lincoln	2001-06-11	
@@ -11312,7 +11311,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	AT THE HOTEL		It's what "DND" stands for, as when Semisonic sings, "DND, now they'll leave us alone...\"	Do Not Disturb	2001-06-12	
 1	300	0	AT THE HOTEL		The Alabama Board of Health says hotel room glasses must be washed, rinsed & this, "For Your Protection\"	Sanitized	2001-06-12	
 1	400	0	AT THE HOTEL		A mint placed here is a traditional sign you're in a high-class establishment	On your pillow	2001-06-12	
-1	500	0	AT THE HOTEL		Type of hotel accommodation in the name of the chain symbolized here:[Embassy]	Suites	2001-06-12	
+1	500	0	AT THE HOTEL		Type of hotel accommodation in the name of the chain symbolized here: [Embassy]	Suites	2001-06-12	
 1	100	0	LIBROS EN ESPANOL		Dickens: "Historia de Dos Ciudades\"	\"A Tale of Two Cities\"	2001-06-12	
 1	200	0	LIBROS EN ESPANOL		Wells: "La Maquina del Tiempo\"	\"The Time Machine\"	2001-06-12	
 1	300	0	LIBROS EN ESPANOL		Hugo: "El Jorobado de Nuestra Senora de Paris\"	The Hunchback of Notre Dame	2001-06-12	
@@ -11372,11 +11371,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	OUT OF THE "BLUE\"		Before holding court on "Judging Amy", Amy Brenneman played a cop on this drama	NYPD Blue	2001-06-13	
 1	400	0	OUT OF THE "BLUE\"		It begins, "Well it's one for the money, two for the show, three to get ready now go cat go\"	\"Blue Suede Shoes\"	2001-06-13	
 1	500	0	OUT OF THE "BLUE\"		They're the bad guys whom the Beatles battled in the movie "Yellow Submarine\"	Blue Meanies	2001-06-13	
-1	100	0	LAST NAME'S THE SAME		Dave, Clarence,Marlo	Thomas	2001-06-13	
-1	200	0	LAST NAME'S THE SAME		James Earl,Tommy Lee,Rickie Lee	Jones	2001-06-13	
-1	300	0	LAST NAME'S THE SAME		Rita,Martha,Calvin	Coolidge	2001-06-13	
-1	400	0	LAST NAME'S THE SAME		Norma,Robert,Calvin	Klein	2001-06-13	
-1	500	0	LAST NAME'S THE SAME		Graham,Clarence,Ogden	Nash	2001-06-13	
+1	100	0	LAST NAME'S THE SAME		Dave, Clarence, Marlo	Thomas	2001-06-13	
+1	200	0	LAST NAME'S THE SAME		James Earl, Tommy Lee, Rickie Lee	Jones	2001-06-13	
+1	300	0	LAST NAME'S THE SAME		Rita, Martha, Calvin	Coolidge	2001-06-13	
+1	400	0	LAST NAME'S THE SAME		Norma, Robert, Calvin	Klein	2001-06-13	
+1	500	0	LAST NAME'S THE SAME		Graham, Clarence, Ogden	Nash	2001-06-13	
 1	100	0	BOOK REVIEWS		One review called this Robert James Waller tale of a photographer's affair with a farmwife "Yuppie women's porn\"	The Bridges of Madison County	2001-06-13	
 1	200	0	BOOK REVIEWS		\"Dr. Seuss took 220 words, rhymed them, and turned out" this "volume of absurdity that worked like a karate chop\"	The Cat in the Hat	2001-06-13	
 1	300	0	BOOK REVIEWS		One reviewer said "Wondrous beasts and scientific possibilities" made this Michael Crichton novel "alluring\"	Jurassic Park	2001-06-13	
@@ -11527,11 +11526,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	600	\"P"LACES		This capital was virtually deserted during the reign of the Khmer Rouge	Phnom Penh	2001-06-15	
 2	800	0	\"P"LACES		More than half the population of this country perished in an 1864-1870 war with Argentina, Brazil & Uruguay	Paraguay	2001-06-15	
 2	1000	0	\"P"LACES		Peter Mayle wrote "A Year In" this French region	Provence	2001-06-15	
-2	200	0	HELP ME WITH THIS CROSSWORD!		It's where you hope not to be led to:[21 Across: _ _ O_]	Doom	2001-06-15	
-2	400	0	HELP ME WITH THIS CROSSWORD!		Aluminum silicate mineral:[6 Across: F E _ D S P A _]	Feldspar	2001-06-15	
-2	600	0	HELP ME WITH THIS CROSSWORD!		Type of dance or button:[45 Across: _ _ _ _ Y]	Belly	2001-06-15	
-2	800	0	HELP ME WITH THIS CROSSWORD!		\"Hectoring" father:[12 Across: P R _ _ M]	Priam	2001-06-15	
-2	1000	0	HELP ME WITH THIS CROSSWORD!		Shiver, in Cherbourg:[17 Across: F _ _ _ _ O N]	Frisson	2001-06-15	
+2	200	0	HELP ME WITH THIS CROSSWORD!		It's where you hope not to be led to: [21 Across: _ _ O_]	Doom	2001-06-15	
+2	400	0	HELP ME WITH THIS CROSSWORD!		Aluminum silicate mineral: [6 Across: F E _ D S P A _]	Feldspar	2001-06-15	
+2	600	0	HELP ME WITH THIS CROSSWORD!		Type of dance or button: [45 Across: _ _ _ _ Y]	Belly	2001-06-15	
+2	800	0	HELP ME WITH THIS CROSSWORD!		\"Hectoring" father: [12 Across: P R _ _ M]	Priam	2001-06-15	
+2	1000	0	HELP ME WITH THIS CROSSWORD!		Shiver, in Cherbourg: [17 Across: F _ _ _ _ O N]	Frisson	2001-06-15	
 3	0	0	NAMES IN THE NEWS		On December 16, 2000, the day after his graduation, LSU retired his No. 33 jersey	Shaquille O'Neal	2001-06-15	
 1	100	0	CITY LIT		En Francais, the title of an 1831 work is "Notre-Dame de" zis city	Paris	2001-06-18	
 1	200	0	CITY LIT		Betty Smith wrote about her hometown in the classic "A Tree Grows in" this borough	Brooklyn	2001-06-18	
@@ -11675,11 +11674,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	NATIONAL BOOK AWARD WINNERS		Category in which Philip Levine & Wallace Stevens each won twice	Poetry	2001-06-20	
 2	800	0	NATIONAL BOOK AWARD WINNERS		He had a long career: his "Wapshot Chronicle" won in 1958 & his "Stories" in 1981	John Cheever	2001-06-20	
 2	1000	0	NATIONAL BOOK AWARD WINNERS		\"A Fable" was a winner for this author in 1955	William Faulkner	2001-06-20	
-2	200	0	WHICH CAME FIRST?		PresidentsHarding,Hoover,Hayes	Hayes	2001-06-20	
+2	200	0	WHICH CAME FIRST?		Presidents Harding, Hoover, Hayes	Hayes	2001-06-20	
 2	400	0	WHICH CAME FIRST?		\"All My Children", "All in the Family", "All-Star Anything Goes\"	All My Children	2001-06-20	
-2	600	0	WHICH CAME FIRST?		Arizona statehood,California statehood,Wisconsin statehood	Wisconsin statehood	2001-06-20	
+2	600	0	WHICH CAME FIRST?		Arizona statehood, California statehood, Wisconsin statehood	Wisconsin statehood	2001-06-20	
 2	800	0	WHICH CAME FIRST?		The books "For Whom the Bell Tolls", "The Sun Also Rises", "A Moveable Feast\"	\"The Sun Also Rises\"	2001-06-20	
-2	1000	0	WHICH CAME FIRST?		Ramses II,Khufu (AKA Cheops),Thutmose III	Khufu	2001-06-20	
+2	1000	0	WHICH CAME FIRST?		Ramses II, Khufu (AKA Cheops), Thutmose III	Khufu	2001-06-20	
 2	200	0	AH, FLORIDA!		You can see many specimens of this common swamp-dwelling tree in the Winter Haven "Gardens" that bear its name	cypress	2001-06-20	
 2	400	0	AH, FLORIDA!		These islands stretch out about 150 miles from Biscayne Bay into the Gulf of Mexico	Florida Keys	2001-06-20	
 2	600	0	AH, FLORIDA!		Called the Tangerine Bowl until 1983, the Citrus Bowl is held annually in this city	Orlando	2001-06-20	
@@ -11731,11 +11730,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	SHAKESPEAREANA		The American Film Institute says the oldest complete U.S. feature is a 1912 version of this hunchback history	\"Richard III\"	2001-06-21	
 2	800	0	SHAKESPEAREANA		One of Henry IV's big lines is "Uneasy lies the head that wears" one of these	A crown	2001-06-21	
 2	1000	0	SHAKESPEAREANA		Will's friend Ben Jonson wrote in tribute, "He was not of an age, but for" this	All time	2001-06-21	
-2	200	0	CAPITAL CITY HOTELS		The Dorchester &the Savoy	London	2001-06-21	
-2	400	0	CAPITAL CITY HOTELS		Hostel Aphrodite &Hotel Achilleas	Athens	2001-06-21	
-2	600	0	CAPITAL CITY HOTELS		Hostel La Macarena &Hostel Cervantes	Madrid	2001-06-21	
-2	800	0	CAPITAL CITY HOTELS		The Hotel Romischer Kaiser &the Amadeus Hotel	Vienna	2001-06-21	
-2	1000	1000	CAPITAL CITY HOTELS		Hotel Erzsebet &the Club Hotel Petnehazy	Budapest	2001-06-21	
+2	200	0	CAPITAL CITY HOTELS		The Dorchester & the Savoy	London	2001-06-21	
+2	400	0	CAPITAL CITY HOTELS		Hostel Aphrodite & Hotel Achilleas	Athens	2001-06-21	
+2	600	0	CAPITAL CITY HOTELS		Hostel La Macarena & Hostel Cervantes	Madrid	2001-06-21	
+2	800	0	CAPITAL CITY HOTELS		The Hotel Romischer Kaiser & the Amadeus Hotel	Vienna	2001-06-21	
+2	1000	1000	CAPITAL CITY HOTELS		Hotel Erzsebet & the Club Hotel Petnehazy	Budapest	2001-06-21	
 2	200	0	2 Bs		In "The Absent-Minded Professor", Prof. Brainard applies this to the soles of his school's basketball players	Flubber	2001-06-21	
 2	400	0	2 Bs		17th c. British poet John Suckling invented this card game in which the score is kept by placing pegs in a board	cribbage	2001-06-21	
 2	600	0	2 Bs		This kind of lettuce was named for a 19th century American vegetable grower	Bibb lettuce	2001-06-21	
@@ -11805,11 +11804,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	\"WH"AT IS IT?		Look! Up in the sky! It's a helicopter! No, it's this slang term for helicopter	whirlybird	2001-06-22	
 2	1000	600	\"WH"AT IS IT?		You'll find this capital of the Yukon Territory on the Alaska Highway; so giddyup now!	Whitehorse	2001-06-22	
 3	0	0	ORGANIZATIONS		The president of this social club founded by New York City entertainers in 1904 is called the Abbot	Friars' Club	2001-06-22	
-1	100	0	THE SOUTHERNMOST CAPITAL CITY		London,Paris,Lisbon	Lisbon	2001-06-25	
-1	200	0	THE SOUTHERNMOST CAPITAL CITY		Sydney,Wellington,Jakarta	Wellington	2001-06-25	
-1	300	0	THE SOUTHERNMOST CAPITAL CITY		Khartoum,Tripoli,Cairo	Khartoum	2001-06-25	
-1	400	0	THE SOUTHERNMOST CAPITAL CITY		Taipei,Hanoi,Manila	Manila	2001-06-25	
-1	500	0	THE SOUTHERNMOST CAPITAL CITY		Kingston,Havana,Nassau	Kingston	2001-06-25	
+1	100	0	THE SOUTHERNMOST CAPITAL CITY		London, Paris, Lisbon	Lisbon	2001-06-25	
+1	200	0	THE SOUTHERNMOST CAPITAL CITY		Sydney, Wellington, Jakarta	Wellington	2001-06-25	
+1	300	0	THE SOUTHERNMOST CAPITAL CITY		Khartoum, Tripoli, Cairo	Khartoum	2001-06-25	
+1	400	0	THE SOUTHERNMOST CAPITAL CITY		Taipei, Hanoi, Manila	Manila	2001-06-25	
+1	500	0	THE SOUTHERNMOST CAPITAL CITY		Kingston, Havana, Nassau	Kingston	2001-06-25	
 1	100	0	NANCY		In books, she does her sleuthing with the help of pals Bess & George	Nancy Drew	2001-06-25	
 1	200	0	NANCY		This famous daughter & singer made her national TV debut with dad & Elvis in 1959	Nancy Sinatra	2001-06-25	
 1	400	0	NANCY		She played Tony's mom, Livia Soprano	Nancy Marchand	2001-06-25	
@@ -11869,11 +11868,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	MARTHA STEWART		(Hi, I'm Martha Stewart, and I have a tip for you.) After New Year's put any leftover champagne in an open jar & in a few weeks you'll have this salad dressing ingredient	vinegar	2001-06-26	
 1	400	0	MARTHA STEWART		Martha says these make wonderful houseplants including the rabbit's foot & maidenhair varieties	Ferns	2001-06-26	
 1	500	0	MARTHA STEWART		Add fragrance to your linen closet with sachets & help keep moths away with blocks of this wood	Aromatic cedar	2001-06-26	
-1	100	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	DALBABKLMUAL	Airlines	2001-06-26	
-1	200	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	TMHMCFGM	Auto makers	2001-06-26	
-1	300	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	ABFEAGLFDXUPS	delivery companies (or courier companies)	2001-06-26	
-1	400	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	WAGRADLDGCVS	Drug store companies	2001-06-26	
-1	500	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	GTWAAPLEEEECPQ	Computer manufacturers	2001-06-26	
+1	100	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	DAL BAB KLM UAL	Airlines	2001-06-26	
+1	200	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	TM HMC F GM	Auto makers	2001-06-26	
+1	300	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	ABF EAGL FDX UPS	delivery companies (or courier companies)	2001-06-26	
+1	400	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	WAG RAD LDG CVS	Drug store companies	2001-06-26	
+1	500	0	SYMBOLIC INDUSTRIES	(Alex: We'll give you some stock symbols, you name the industry the companies are to be found in.)	GTW AAPL EEEE CPQ	Computer manufacturers	2001-06-26	
 1	100	0	PITCHES		In 1959 physicist Lyman Briggs determined that this pitch really does what its name says	Curveball	2001-06-26	
 1	200	0	PITCHES		It's the basic off-speed pitch, thrown at a slow speed to disrupt the batter's timing	Changeup	2001-06-26	
 1	300	0	PITCHES		This basic pitch is also the name of the group with the 1998 hit "The Way\"	Fastball	2001-06-26	
@@ -11942,11 +11941,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	YOU SAY POTATO		Don Rickles voiced Mr. Potato Head in this 1995 film	Toy Story	2001-06-27	
 1	400	0	YOU SAY POTATO		This snack company uses over 5 billion pounds of potatoes annually to make Ruffles & other chips	Frito-Lay	2001-06-27	
 1	500	1000	YOU SAY POTATO		In Gaelic it's known as "An Gorta Mor" (The Great Hunger)	The Irish Potato Famine	2001-06-27	
-1	100	0	CROSSWORD CLUES "K\"		Derby state(8)	Kentucky	2001-06-27	
-1	200	0	CROSSWORD CLUES "K\"		Chivalrous chesspiece(6)	knight	2001-06-27	
-1	300	0	CROSSWORD CLUES "K\"		Cinematic knockout Novak(3)	Kim	2001-06-27	
-1	400	0	CROSSWORD CLUES "K\"		Canadian river, or singer Lainie(5)	Kazan	2001-06-27	
-1	500	0	CROSSWORD CLUES "K\"		A gazebo, or an outdoor newsstand(5)	kiosk	2001-06-27	
+1	100	0	CROSSWORD CLUES "K\"		Derby state (8)	Kentucky	2001-06-27	
+1	200	0	CROSSWORD CLUES "K\"		Chivalrous chesspiece (6)	knight	2001-06-27	
+1	300	0	CROSSWORD CLUES "K\"		Cinematic knockout Novak (3)	Kim	2001-06-27	
+1	400	0	CROSSWORD CLUES "K\"		Canadian river, or singer Lainie (5)	Kazan	2001-06-27	
+1	500	0	CROSSWORD CLUES "K\"		A gazebo, or an outdoor newsstand (5)	kiosk	2001-06-27	
 2	200	0	RUSSIAN HISTORY		In December 1994 Russia sent troops into this breakaway republic to quell an independence movement	Chechnya	2001-06-27	
 2	400	0	RUSSIAN HISTORY		After marrying Nicholas II, German princess Alix of Hesse-Darmstadt took this Russian name	Alexandra	2001-06-27	
 2	600	1000	RUSSIAN HISTORY		On Feb. 8, 1904 this country attacked Port Arthur, a Chinese port leased by the Russians, beginning a 19-month war	Japan	2001-06-27	
@@ -12224,11 +12223,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	RECENT FILMS		This title Stone Age family was "In Viva Rock Vegas\"	The Flintstones	2001-07-04	
 1	400	0	RECENT FILMS		In this film Sean Connery plays a reclusive writer who won the Pulitzer Prize for his only novel	Finding Forrester	2001-07-04	
 1	500	0	RECENT FILMS		As in the TV series, this actor provided the voice of Charlie, the Angels' unseen boss, in "Charlie's Angels\"	John Forsythe	2001-07-04	
-1	100	0	WORD PUZZLES		Said of someone who is very specialmillONEion	one in a million	2001-07-04	
-1	200	0	WORD PUZZLES		Better wear your parka when it's this cold:0——————-DEGREEDEGREEDEGREE	three degrees below zero	2001-07-04	
-1	300	0	WORD PUZZLES		When things are still undecided, they're heretheUPair	up in the air	2001-07-04	
-1	400	0	WORD PUZZLES		It's where Judy Garland wanted to go: SOMEWHERETHE RAINBOW	somewhere over the rainbow	2001-07-04	
-1	500	0	WORD PUZZLES		It's the clothing article I have on right now: WEARPOLKA DOT	polka dot(ted) underwear	2001-07-04	
+1	100	0	WORD PUZZLES		Said of someone who is very special millONEion	one in a million	2001-07-04	
+1	200	0	WORD PUZZLES		Better wear your parka when it's this cold: 0 ——————- DEGREE DEGREE DEGREE	three degrees below zero	2001-07-04	
+1	300	0	WORD PUZZLES		When things are still undecided, they're here theUPair	up in the air	2001-07-04	
+1	400	0	WORD PUZZLES		It's where Judy Garland wanted to go: SOMEWHERE THE RAINBOW	somewhere over the rainbow	2001-07-04	
+1	500	0	WORD PUZZLES		It's the clothing article I have on right now: WEAR POLKA DOT	polka dot(ted) underwear	2001-07-04	
 2	200	0	THE 4th		Alphabetically, the 4th of the 50 states is this Razorback home	Arkansas	2001-07-04	
 2	800	3000	THE 4th		The 4th monarch of England in the 20th century, he died in 1972	Edward VIII	2001-07-04	
 2	1000	0	THE 4th		The 4th Nobel Prize winner for Physiology/Medicine, this Russian won in 1904 for work in the physiology of digestion	Pavlov	2001-07-04	
@@ -12322,7 +12321,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	1973		One of 1973's top-grossing films was this music-packed feature set in the summer of '62	American Graffiti	2001-07-06	
 1	300	2500	1973		In October, on this holy day, war erupted in the Middle East	Yom Kippur (The Day of Atonement)	2001-07-06	
 1	400	0	1973		In this landmark case, the Supreme Court handed down its controversial ruling on abortion	Roe vs. Wade	2001-07-06	
-1	500	0	1973		Don't cry for this leader—after nearly 18 years in exile, he returned to Argentina in June	Peron	2001-07-06	
+1	500	0	1973		Don't cry for this leader—after nearly 18 years in exile, he returned to Argentina in June	Perón	2001-07-06	
 1	100	0	TRIVIALICIOUS		Second from the sun, it's also the only planet that rotates in a retrograde motion	Venus	2001-07-06	
 1	200	0	TRIVIALICIOUS		The first product to have a bar code was a pack of this company's gum	Wrigley's	2001-07-06	
 1	300	0	TRIVIALICIOUS		Daniel Boone & Betsy Ross are the only real people ever to have been the head on these candy dispensers	Pez	2001-07-06	
@@ -12602,9 +12601,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	THE FRENCH REVOLUTION	(Alex: Guess what tomorrow is.)	This national anthem was first sung by patriots from Marseille who aided in the storming of the Tuileries in 1792	\"La Marseillaise\"	2001-07-13	
 1	500	0	THE FRENCH REVOLUTION	(Alex: Guess what tomorrow is.)	On July 13, 1793 this publisher of "L'Ami du peuple" was stabbed to death by Charlotte Corday	Marat	2001-07-13	
 1	100	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Rowlf the Dog, Kermit the Frog	Jim Henson	2001-07-13	
-1	200	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Lamb Chop,Charlie Horse,Hush Puppy	Shari Lewis	2001-07-13	
-1	300	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Yoda,Cookie Monster,Miss Piggy	Frank Oz	2001-07-13	
-1	400	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Pedro,Johnny	Señor Wences	2001-07-13	
+1	200	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Lamb Chop, Charlie Horse, Hush Puppy	Shari Lewis	2001-07-13	
+1	300	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Yoda, Cookie Monster, Miss Piggy	Frank Oz	2001-07-13	
+1	400	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Pedro, Johnny	Señor Wences	2001-07-13	
 1	500	0	PUPPETS FOR DUMMIES	(Alex: We want you to name the puppeteer most closely associated with the puppets we will mention.)	Madame	Wayland Flowers	2001-07-13	
 1	300	0	PRESENTING THE PLAYWRIGHTS		The works of this two-time Pulitzer Prize winner are set largely in the American south	Tennessee Williams	2001-07-13	
 1	400	0	PRESENTING THE PLAYWRIGHTS		Called the most significant British dramatist since Shakespeare, this Irish-born author wrote 50 stage plays	(George Bernard) Shaw	2001-07-13	
@@ -12697,11 +12696,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	FILL IN THE BLANK-ISTAN		Ut follows Uruguay on an alphabetical list of the world's independent countries	Uzbekistan	2001-07-16	
 2	800	0	FILL IN THE BLANK-ISTAN		Ankara is the capital of Turkey and Ashgabat is the capital of this country	Turkmenistan	2001-07-16	
 2	1000	1000	FILL IN THE BLANK-ISTAN		This area partly in Iraq is name for an ethnic group treated brutally by Saddam Hussein	Kurdistan	2001-07-16	
-2	200	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Roger Staubach(1969-1979)	the Dallas Cowboys	2001-07-16	
-2	400	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Bill Bradley(1967-1977)	the New York Knicks	2001-07-16	
-2	600	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Gordie Howe(1946-1971)	the Detroit Red Wings	2001-07-16	
-2	800	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Paul Hornung(1957-1966)	the Green Bay Packers	2001-07-16	
-2	1000	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Bob Cousy(1950-1963)	the Boston Celtics	2001-07-16	
+2	200	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Roger Staubach (1969-1979)	the Dallas Cowboys	2001-07-16	
+2	400	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Bill Bradley (1967-1977)	the New York Knicks	2001-07-16	
+2	600	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Gordie Howe (1946-1971)	the Detroit Red Wings	2001-07-16	
+2	800	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Paul Hornung (1957-1966)	the Green Bay Packers	2001-07-16	
+2	1000	0	TEAM PLAYERS, HALL OF FAME EDITION	(Alex: We'll give you the player, you name the team.)	Bob Cousy (1950-1963)	the Boston Celtics	2001-07-16	
 2	200	0	NEGATIVE SCIENCE		This quantity symbolized by an x or y, can also mean someone inexperienced or untested	unknown	2001-07-16	
 2	400	0	NEGATIVE SCIENCE		Sometimes preceded by poly-, it means "able to dissolve more of a substance\"	unsaturated	2001-07-16	
 2	600	0	NEGATIVE SCIENCE		Term for any substance that destroys leaves, like those used in Vietnam to expose the enemy in the jungle	defoliator	2001-07-16	
@@ -12759,7 +12758,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	MOVIE TAGLINES		1979: "In space no one can hear you scream\"	Alien	2001-07-17	
 2	400	0	MOVIE TAGLINES		1999: "Everyone dies. Not everyone leaves.\"	The Sixth Sense	2001-07-17	
 2	600	0	MOVIE TAGLINES		1997: "Julianne fell in love with her best friend the day he decided to marry someone else\"	My Best Friend's Wedding	2001-07-17	
-2	800	2500	MOVIE TAGLINES		1967: "They're young...They're in love...And they kill people\"	Bonnie & Clyde	2001-07-17	
+2	800	2500	MOVIE TAGLINES		1967: "They're young... They're in love... And they kill people\"	Bonnie & Clyde	2001-07-17	
 2	1000	0	MOVIE TAGLINES		1980: "They're on a mission from God\"	The Blues Brothers	2001-07-17	
 2	600	0	ART FOR ART'S SAKE!		As evidenced here, this artist's Neoclassic style made him a favorite of French rulers	David	2001-07-17	
 2	200	0	\"HAY", THERE		A knockout punch	a haymaker	2001-07-17	
@@ -12832,11 +12831,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	MARTHA MY DEAR		Her father, Col. John Dandridge, was a wealthy landowner	Martha Washington	2001-07-19	
 1	300	0	MARTHA MY DEAR		Backed by the Vandellas, she had hits with "Heat Wave" & "Dancing In The Street\"	Martha Reeves	2001-07-19	
 1	400	0	MARTHA MY DEAR		\"The Dirty Duck" & "The Case Has Altered" are mysteries by this woman	Martha Grimes	2001-07-19	
-1	100	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Idaho,Oregon	Washington	2001-07-19	
-1	200	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Massachusetts,New Hampshire,New York	Vermont	2001-07-19	
-1	300	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Idaho,North Dakota,South Dakota,Wyoming	Montana	2001-07-19	
-1	400	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Arkansas,Mississippi,Texas	Louisiana	2001-07-19	
-1	500	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Illinois,Iowa,Michigan,Minnesota	Wisconsin	2001-07-19	
+1	100	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Idaho, Oregon	Washington	2001-07-19	
+1	200	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Massachusetts, New Hampshire, New York	Vermont	2001-07-19	
+1	300	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Idaho, North Dakota, South Dakota, Wyoming	Montana	2001-07-19	
+1	400	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Arkansas, Mississippi, Texas	Louisiana	2001-07-19	
+1	500	0	BORDERLINE STATES	(Alex: We want you to name the state bordered by the states we name.)	Illinois, Iowa, Michigan, Minnesota	Wisconsin	2001-07-19	
 1	100	0	\"SWEET" SONGS		This Neil Diamond hit is subtitled "Good Times Never Seemed So Good\"	\"Sweet Caroline\"	2001-07-19	
 1	200	0	\"SWEET" SONGS		The Harlem Globetrotters use this song as a theme	\"Sweet Georgia Brown\"	2001-07-19	
 1	300	0	\"SWEET" SONGS		Well, I hope Neil Young will remember that Lynyrd Skynyrd replied to "Southern Man" with this song	\"Sweet Home Alabama\"	2001-07-19	
@@ -12864,7 +12863,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	PRESIDENTIAL FACTS		Albert Fall, Herbert Hoover & Henry Wallace were all members of his cabinet	Warren G. Harding	2001-07-19	
 2	200	0	20th CENTURY POETS		In 2000 the Librarian of Congress announced that 95-year-old Stanley Kunitz would take up this post	poet laureate	2001-07-19	
 2	400	0	20th CENTURY POETS		Trees figured in many of his poems, like "Birches", "Dust of Snow" & "Good-Bye and Keep Cold\"	Robert Frost	2001-07-19	
-2	600	0	20th CENTURY POETS		You can hear Johnny Gilbert lower case his voice to read this man's work: "The voice of your eyes is deeper than all roses; nobody, not even the rain, has such small hands..."	E.E. Cummings	2001-07-19	
+2	600	0	20th CENTURY POETS		You can hear Johnny Gilbert lower case his voice to read this man's work: "The voice of your eyes is deeper than all roses; nobody, not even the rain, has such small hands...\"	E.E. Cummings	2001-07-19	
 2	800	0	20th CENTURY POETS		\"For the Union Dead" is a 1964 book by this poet whose ancestors came over on the Mayflower	Robert Lowell	2001-07-19	
 2	1000	0	20th CENTURY POETS		In 1995 this Seamus from Ireland detected the Nobel Prize for Literature coming his way	Seamus Heaney	2001-07-19	
 2	200	0	MOVIES OF THE "YEAR\"		6 words: Raquel Welch in a fur bikini	One Million Years B.C.	2001-07-19	

@@ -743,10 +743,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	WORLD CAPITALS		The 26-story Palacio Salvo in this Uruguayan capital was once the tallest building in South America	Montevideo	1995-09-20	
 1	500	0	WORLD CAPITALS		Australia's Governor-General lives in a house called Yarralumla in this capital city	Canberra	1995-09-20	
 1	100	0	COMMON BONDS		Happy, rush, witching	hours	1995-09-20	
-1	200	0	COMMON BONDS		Litter,doodle,shutter	bugs	1995-09-20	
-1	300	0	COMMON BONDS		Bon,camp,St. Elmo's	fire	1995-09-20	
-1	400	0	COMMON BONDS		Invisible,squid,India	ink	1995-09-20	
-1	500	0	COMMON BONDS		Traffic,strawberry,Pearl	jams	1995-09-20	
+1	200	0	COMMON BONDS		Litter, doodle, shutter	bugs	1995-09-20	
+1	300	0	COMMON BONDS		Bon, camp, St. Elmo's	fire	1995-09-20	
+1	400	0	COMMON BONDS		Invisible, squid, India	ink	1995-09-20	
+1	500	0	COMMON BONDS		Traffic, strawberry, Pearl	jams	1995-09-20	
 2	200	0	FAMOUS NAMES		She bore John Adams 3 sons & 2 daughters	Abigail Adams	1995-09-20	
 2	400	0	FAMOUS NAMES		Though he became "The Wizard of Menlo Park", New Jersey, he was born in Milan, Ohio in 1847	Edison	1995-09-20	
 2	600	0	FAMOUS NAMES		Bishara is the middle name of this convicted assassin of Robert F. Kennedy	Sirhan Sirhan	1995-09-20	
@@ -1417,7 +1417,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	NONFICTION		In 1890 this reporter shared her travel experiences in "Around the World in Seventy-Two Days\"	Nellie Bly	1995-10-05	
 2	200	0	AROUND THE WORLD		Legend says the volcano goddess known as Madame Pele is sometimes seen on this "Big Island" of the "Aloha State\"	Hawaii	1995-10-05	
 2	400	0	AROUND THE WORLD		Many Yucatecos, natives of this peninsula, are descended from the Maya Indians	the Yucatan	1995-10-05	
-2	600	0	AROUND THE WORLD		Itzhak Ben-Zvi was the only person chosen president of this country 3 times–in 1952, 1957 & 1962	Israel	1995-10-05	
+2	600	0	AROUND THE WORLD		Itzhak Ben-Zvi was the only person chosen president of this country 3 times-in 1952, 1957 & 1962	Israel	1995-10-05	
 2	800	0	AROUND THE WORLD		This city was known as Serdica in ancient times, long before it became Bulgaria's capital	Sofia	1995-10-05	
 2	1000	0	AROUND THE WORLD		You can rent princess Margaret's villa on Mustique, an island in this sea, for about $6,000 a week	the Caribbean	1995-10-05	
 2	200	0	ITALIAN FOOD		The classic pasta for clam sauce, it's sometimes referred to as flat spaghetti	linguine	1995-10-05	
@@ -1503,7 +1503,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	MYTHOLOGICAL WORDS & PHRASES		It was the formless abyss that existed before the world was created; now it's a synonym for total anarchy	chaos	1995-10-06	
 3	0	0	PRIMATES		A type of macaque, it's the only primate, other than man, found in Europe	The Gibraltar Ape	1995-10-06	
 1	100	0	HISTORY		In 1819 he defeated the Spaniards at Boyaca, liberating the territory of Colombia	Simón Bolívar	1995-10-09	
-1	200	0	HISTORY		Of Russia's 4 empresses, she reigned the longest–34 years	Catherine the Great	1995-10-09	
+1	200	0	HISTORY		Of Russia's 4 empresses, she reigned the longest-34 years	Catherine the Great	1995-10-09	
 1	300	0	HISTORY		In 1887 the Chinese acknowledged Portuguese sovereignty over this territory	Macau	1995-10-09	
 1	400	900	HISTORY		In 60 B.C. Julius Caesar, Marcus Crassus & this man founded the first of Rome's 2 triumvirates	Pompey	1995-10-09	
 1	500	0	HISTORY		In April 1979 Abel T. Muzorewa was elected to succeed this man as prime minister of Rhodesia	Ian Smith	1995-10-09	
@@ -2155,7 +2155,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	ARTISTS		He produced the successful print "The Ruins of the Merchants' Exchange" in 1835. long before teaming with Ives	Currier	1995-10-23	
 2	800	0	ARTISTS		This Frenchman's late work "Four Dancers" is an ambitious study of motion	Degas	1995-10-23	
 2	1000	0	ARTISTS		His "Nude Descending a Staircase, No. 2" was exhibited at the famous 1913 Armory Show	(Marcel) Duchamp	1995-10-23	
-2	200	0	AMERICAN HISTORY		In 1960 the CIA devised a plan to overthrow this nearby world leader–didn't work	(Fidel) Castro	1995-10-23	
+2	200	0	AMERICAN HISTORY		In 1960 the CIA devised a plan to overthrow this nearby world leader-didn't work	(Fidel) Castro	1995-10-23	
 2	400	0	AMERICAN HISTORY		Prospectors trampled his crops & stole his cattle after gold was discovered on his land in January 1848	Sutter	1995-10-23	
 2	600	0	AMERICAN HISTORY		Sen. Edmund Ross never won office again after casting the deciding vote to acquit this president	Andrew Johnson	1995-10-23	
 2	800	0	AMERICAN HISTORY		He named a large region of Antarctica for his wife Marie	(Richard) Byrd	1995-10-23	
@@ -2163,7 +2163,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	CHARACTERS IN MUSICALS		Christine, Raoul, the Phantom	The Phantom of the Opera	1995-10-23	
 2	400	0	CHARACTERS IN MUSICALS		Aunt Eller, Ado Annie, Curly	Oklahoma!	1995-10-23	
 2	600	0	CHARACTERS IN MUSICALS		Princess Ying Yaowalak, Prince Chulalongkorn, Anna Leonowens	The King and I	1995-10-23	
-2	800	0	CHARACTERS IN MUSICALS		Joe Hardy, Applegate,Lola	Damn Yankees	1995-10-23	
+2	800	0	CHARACTERS IN MUSICALS		Joe Hardy, Applegate, Lola	Damn Yankees	1995-10-23	
 2	1000	0	CHARACTERS IN MUSICALS		Pseudolus, Hysterium, Miles Gloriosus	A Funny Thing Happened on the Way to the Forum	1995-10-23	
 3	0	0	FAMOUS NAMES		As British ambassador to Turkey he was allowed to take away "any pieces of stone with old inscriptions\"	(Lord) Elgin	1995-10-23	
 1	100	0	THE ROMAN EMPIRE		In 47 B.C. he came, saw & conquered King Pharnaces of Pontus	Julius Caesar	1995-10-24	
@@ -2909,7 +2909,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	AMERICAN HISTORY		In 1829 this future Texas president resigned as Tennessee's governor when his wife left him	Sam Houston	1995-11-09	1995 Celebrity Jeopardy! game 4.
 2	1000	0	AMERICAN HISTORY		On Nov. 11 1620 this document was signed in Provincetown Harbor	the Mayflower Compact	1995-11-09	1995 Celebrity Jeopardy! game 4.
 2	200	0	EUROPEAN TRAVEL		Almost all flights from the U.S. to London arrive at this airport rather than at Gatwick	Heathrow	1995-11-09	1995 Celebrity Jeopardy! game 4.
-2	400	0	EUROPEAN TRAVEL		An important site of these sporting events is Lisbonis Praca de Touros at Campo Pequeno	bullfighting	1995-11-09	1995 Celebrity Jeopardy! game 4.
+2	400	0	EUROPEAN TRAVEL		An important site of these sporting events is Lisbon is Praca de Touros at Campo Pequeno	bullfighting	1995-11-09	1995 Celebrity Jeopardy! game 4.
 2	600	0	EUROPEAN TRAVEL		For some rest & relaxation, visit Baden-Baden in this country; it's famous for its spas	Germany	1995-11-09	1995 Celebrity Jeopardy! game 4.
 2	800	0	EUROPEAN TRAVEL		Before leaving Rome, toss a coin in this & you're sure to return	the Trevi Fountain	1995-11-09	1995 Celebrity Jeopardy! game 4.
 2	1000	0	EUROPEAN TRAVEL		This luxurious Mediterranean coastal region stretches from Menton to St. Tropez	the Côte d'Azur (the French Riviera)	1995-11-09	1995 Celebrity Jeopardy! game 4.
@@ -2937,7 +2937,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	LANGUAGES		Hans Christian Andersen wrote his fairy tales in this language—ask any mermaid	Danish	1995-11-10	1995 Celebrity Jeopardy! game 5.
 1	100	0	CROSSWORD CLUES "S\"	(Alex: Each correct response will begin with the letter S.)	Seat on a steed (6)	saddle	1995-11-10	1995 Celebrity Jeopardy! game 5.
 1	200	0	CROSSWORD CLUES "S\"	(Alex: Each correct response will begin with the letter S.)	Biblical wise guy (7)	Solomon	1995-11-10	1995 Celebrity Jeopardy! game 5.
-1	300	0	CROSSWORD CLUES "S\"	(Alex: Each correct response will begin with the letter S.)	Department store kleptomaniac(10)	a shoplifter	1995-11-10	1995 Celebrity Jeopardy! game 5.
+1	300	0	CROSSWORD CLUES "S\"	(Alex: Each correct response will begin with the letter S.)	Department store kleptomaniac (10)	a shoplifter	1995-11-10	1995 Celebrity Jeopardy! game 5.
 2	200	0	THE HUMAN BODY		The body's 3 major types of blood vessels are the arteries, capillaries & these	veins	1995-11-10	1995 Celebrity Jeopardy! game 5.
 2	400	0	THE HUMAN BODY		Named for a mythical hero, it's the strongest tendon	Achilles tendon	1995-11-10	1995 Celebrity Jeopardy! game 5.
 2	600	0	THE HUMAN BODY		There are 2 bones that make up the jaw: the maxilla & this lower bone	the mandible	1995-11-10	1995 Celebrity Jeopardy! game 5.
@@ -4079,16 +4079,16 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE ANIMAL KINGDOM		The June bug, a type of this insect, is related to the Scarab of ancient Egypt	a beetle	1995-12-08	
 1	400	0	THE ANIMAL KINGDOM		\"Baiting" these burrowing weasel relatives was once a favorite European sport	a badger	1995-12-08	
 1	500	0	THE ANIMAL KINGDOM		This fish lives in rivers before traveling up to 3500 miles to the Sargasso Sea to lay eggs	an eel	1995-12-08	
-1	100	0	CROSSWORD CLUES "V\"		Spoils getter(6)	victor	1995-12-08	
-1	200	0	CROSSWORD CLUES "V\"		A shot in the arm(11)	vaccination	1995-12-08	
-1	300	0	CROSSWORD CLUES "V\"		Bat man(7)	vampire	1995-12-08	
-1	400	0	CROSSWORD CLUES "V\"		Wine time(7)	vintage	1995-12-08	
-1	500	0	CROSSWORD CLUES "V\"		A safe place(5)	vault	1995-12-08	
-1	100	0	I heart NY		There's a statue of Poland's King Jagiello beside the turtle pond in this famous park	Central Park	1995-12-08	
-1	200	0	I heart NY		This Fifth Avenue cathedral's twin spires soar 330 feet	St. Patrick's	1995-12-08	
-1	300	0	I heart NY		Gilded crowns adorn the gates of this university once known as King's College	Columbia	1995-12-08	
-1	400	0	I heart NY		The Oyster Bar in this famous terminal opened in 1913	Grand Central	1995-12-08	
-1	500	0	I heart NY		A concert hall in this theatre complex is named for electronics industry pioneer Avery Fisher	Lincoln Center	1995-12-08	
+1	100	0	CROSSWORD CLUES "V\"		Spoils getter (6)	victor	1995-12-08	
+1	200	0	CROSSWORD CLUES "V\"		A shot in the arm (11)	vaccination	1995-12-08	
+1	300	0	CROSSWORD CLUES "V\"		Bat man (7)	vampire	1995-12-08	
+1	400	0	CROSSWORD CLUES "V\"		Wine time (7)	vintage	1995-12-08	
+1	500	0	CROSSWORD CLUES "V\"		A safe place (5)	vault	1995-12-08	
+1	100	0	I ♥ NY		There's a statue of Poland's King Jagiello beside the turtle pond in this famous park	Central Park	1995-12-08	
+1	200	0	I ♥ NY		This Fifth Avenue cathedral's twin spires soar 330 feet	St. Patrick's	1995-12-08	
+1	300	0	I ♥ NY		Gilded crowns adorn the gates of this university once known as King's College	Columbia	1995-12-08	
+1	400	0	I ♥ NY		The Oyster Bar in this famous terminal opened in 1913	Grand Central	1995-12-08	
+1	500	0	I ♥ NY		A concert hall in this theatre complex is named for electronics industry pioneer Avery Fisher	Lincoln Center	1995-12-08	
 2	200	0	AFRICAN HISTORY		In the 1860s John Hanning Speke concluded that Lake Victoria was the source of this river	the Nile	1995-12-08	
 2	400	0	AFRICAN HISTORY		In 1870 a rich diamond field was found where this country's city of Kimberley now stands	South Africa	1995-12-08	
 2	600	0	AFRICAN HISTORY		In 1931 this emperor gave Ethopia its first written constitution	Haile Selassie	1995-12-08	
@@ -4511,7 +4511,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	FRUITS & VEGETABLES		Stripped of their reddish-brown shells, these fruity "nuts" often conclude a Chinese meal	lychee nuts	1995-12-19	
 1	100	0	CROSSWORD CLUES "A\"		Crocodile cousin (9)	an alligator	1995-12-19	
 1	200	0	CROSSWORD CLUES "A\"		Guinevere's groom (6)	Arthur	1995-12-19	
-1	300	0	CROSSWORD CLUES "A\"		Clinton country(8)	Arkansas	1995-12-19	
+1	300	0	CROSSWORD CLUES "A\"		Clinton country (8)	Arkansas	1995-12-19	
 1	400	0	CROSSWORD CLUES "A\"		Oak offspring (5)	an acorn	1995-12-19	
 1	500	0	CROSSWORD CLUES "A\"		Gorgeous Gardner (3)	Ava	1995-12-19	
 2	200	0	DANCE		The soles of a clog dancer's shoes are traditionally made of this material	wood	1995-12-19	
@@ -4813,7 +4813,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	MUSICAL QUOTES		\"Extraordinary how potent cheap music is" is a line from his "Private Lives\"	Noel Coward	1995-12-26	1995-B Seniors Tournament semifinal game 2.
 1	300	0	MUSICAL QUOTES		In "Ode to a Nightingale", he wrote, "Fled is that music:— do I wake or sleep?\"	John Keats	1995-12-26	1995-B Seniors Tournament semifinal game 2.
 1	400	600	MUSICAL QUOTES		\"Musick is the thing of the world that I love most" comes from his July 30, 1666 diary entry	Samuel Pepys	1995-12-26	1995-B Seniors Tournament semifinal game 2.
-1	500	0	MUSICAL QUOTES		In an 1829 letter, this German poet wrote,"I call architecture frozen music\"	Goethe	1995-12-26	1995-B Seniors Tournament semifinal game 2.
+1	500	0	MUSICAL QUOTES		In an 1829 letter, this German poet wrote, "I call architecture frozen music\"	Goethe	1995-12-26	1995-B Seniors Tournament semifinal game 2.
 2	200	0	ARCHITECTURE		This defense department headquarters was designed by G.E. Bergstrom to conserve structural steel	the Pentagon	1995-12-26	1995-B Seniors Tournament semifinal game 2.
 2	400	0	ARCHITECTURE		Often used to absorb thrusts from roof vaults, these supports come in hanging & flying varieties	buttresses	1995-12-26	1995-B Seniors Tournament semifinal game 2.
 2	600	0	ARCHITECTURE		Examples of his geodesic dome were built in Baton Rouge, LA. & on Oahu, among other places	(Buckminster) Fuller	1995-12-26	1995-B Seniors Tournament semifinal game 2.
@@ -5222,7 +5222,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	FASHION HISTORY		A broad necktie & a broad scarf were named for this fashionable English racetrack	Ascot	1996-01-04	
 1	100	0	SANDRA BULLOCK MOVIES		In "Demolition Man", future cop Sandra came on like Rambo with this, well... film Rambo	Sylvester Stallone	1996-01-04	
 1	200	0	SANDRA BULLOCK MOVIES		As Angela Bennett in this 1995 film, Sandra found her identity deleted "from the information superhighway	The Net	1996-01-04	
-1	300	500	SANDRA BULLOCK MOVIES		1992 film based on & named for the following golden oldie: "I held my nose, I closed my eyes /I took a drink\"	\"Love Potion No. 9\"	1996-01-04	
+1	300	500	SANDRA BULLOCK MOVIES		1992 film based on & named for the following golden oldie: "I held my nose, I closed my eyes / I took a drink\"	\"Love Potion No. 9\"	1996-01-04	
 1	400	0	SANDRA BULLOCK MOVIES		Sandra waitressed at the Sweetwater Cafe in the Robert Duvall-Richard Harris film "Wrestling" this author	Hemingway	1996-01-04	
 1	500	0	SANDRA BULLOCK MOVIES		Sandra fell for Peter Gallagher, who fell into a coma, in this "sleeper" hit of 1995	While You Were Sleeping	1996-01-04	
 1	100	0	ANIMALS		The robber species of this crustacean will drown in water	a crab	1996-01-04	
@@ -5973,7 +5973,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	TRAVEL & TOURISM		The Harbour Bridge near this Australian city's opera house is one of its best-known scenic features	Sydney	1996-01-22	
 2	800	0	TRAVEL & TOURISM		You can see Father Flanagan's memorabilia in his home in this community outside Omaha	Boys Town	1996-01-22	
 2	1000	0	TRAVEL & TOURISM		Margaret Island in this river is Budapest's most popular park	the Danube	1996-01-22	
-2	200	1000	AMERICAN MUSIC		Early press reports claimed this singer took his name from a poet he liked; he's denied it"Well, it ain't no use to sit and wonder why, babe...\"	Bob Dylan	1996-01-22	
+2	200	1000	AMERICAN MUSIC		Early press reports claimed this singer took his name from a poet he liked; he's denied it "Well, it ain't no use to sit and wonder why, babe...\"	Bob Dylan	1996-01-22	
 2	400	0	AMERICAN MUSIC		When Tommy Dorsey died in 1956, this co-leader took over the band	Jimmy Dorsey	1996-01-22	
 2	600	0	AMERICAN MUSIC		He scored an Oscar for his score of "Jaws\"	(John) Williams	1996-01-22	
 2	800	0	AMERICAN MUSIC		His full nickname was Yardbird, but he was also called Bird	Charlie Parker	1996-01-22	
@@ -6745,7 +6745,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	700	HERALDRY		This basic element of a coat of arms is also known as the escutcheon	the shield	1996-02-08	
 1	100	0	COMMON BONDS		Bee, receiving, chorus	line	1996-02-08	
 1	200	0	COMMON BONDS		Potato, chocolate, poker	chip	1996-02-08	
-1	300	0	COMMON BONDS		Forward, Khyber,Eurail	pass	1996-02-08	
+1	300	0	COMMON BONDS		Forward, Khyber, Eurail	pass	1996-02-08	
 1	400	0	COMMON BONDS		Crater, Swan, Veronica	a Lake	1996-02-08	
 1	500	0	COMMON BONDS		Saw, sail, sword	fish	1996-02-08	
 2	200	0	ANCIENT TIMES		The Alexandrian library contained more than 400,000 scrolls, most made of this writing material	papyrus	1996-02-08	
@@ -7261,7 +7261,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	200	0	THE DECLARATION OF INDEPENDENCE		The vote for independence happened on this date in 1776, 2 days earlier than most people think	July the 2nd	1996-02-20	1996 College Championship semifinal game 2.
 2	400	0	THE DECLARATION OF INDEPENDENCE		This signer is quoted, "There! John Bull can read my name without spectacles\"	John Hancock	1996-02-20	1996 College Championship semifinal game 2.
 2	600	0	THE DECLARATION OF INDEPENDENCE		The number of the Continental Congress that adopted the Declaration	Second	1996-02-20	1996 College Championship semifinal game 2.
-2	800	0	THE DECLARATION OF INDEPENDENCE		Signers' first names included 6 Williams,6 Georges,1 Button &1 of these, a Mr. Gerry	Elbridge	1996-02-20	1996 College Championship semifinal game 2.
+2	800	0	THE DECLARATION OF INDEPENDENCE		Signers' first names included 6 Williams, 6 Georges, 1 Button & 1 of these, a Mr. Gerry	Elbridge	1996-02-20	1996 College Championship semifinal game 2.
 2	1000	0	THE DECLARATION OF INDEPENDENCE		He said Jefferson wanted him to write the first draft, but Jefferson didn't remember it that way	John Adams	1996-02-20	1996 College Championship semifinal game 2.
 3	0	0	QUOTATIONS		In 1947 Bernard Baruch told the Senate, "We are in the midst of" one of these "which is getting warmer\"	a cold war	1996-02-20	1996 College Championship semifinal game 2.
 1	100	0	THE PLANETS		It completes one rotation on its axis every 23 hours, 56 minutes, 4.09 seconds	the Earth	1996-02-21	1996 College Championship semifinal game 3.
@@ -7289,11 +7289,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	ANCIENT ROME		About 40 of these underground cemeteries stretch approximately 350 miles around Rome	catacombs	1996-02-21	1996 College Championship semifinal game 3.
 1	400	0	ANCIENT ROME		Coins celebrating Julius Caesar's murder had 2 daggers on them & "Eid-Mar", short for this	the Ides of March	1996-02-21	1996 College Championship semifinal game 3.
 1	500	0	ANCIENT ROME		There were few statues of this goddess of the hearth; she was represented by an eternal flame	Vesta	1996-02-21	1996 College Championship semifinal game 3.
-1	100	0	COMMON BONDS		Costume,surprise,slumber	a party	1996-02-21	1996 College Championship semifinal game 3.
-1	200	0	COMMON BONDS		Santa Fe,Oregon,Chisholm	Trails	1996-02-21	1996 College Championship semifinal game 3.
-1	300	0	COMMON BONDS		Reuben,club,hero	a sandwich	1996-02-21	1996 College Championship semifinal game 3.
-1	400	0	COMMON BONDS		A thermometer,a novel,the riot act	things you read	1996-02-21	1996 College Championship semifinal game 3.
-1	500	0	COMMON BONDS		Pulp,crown,root	parts of the teeth	1996-02-21	1996 College Championship semifinal game 3.
+1	100	0	COMMON BONDS		Costume, surprise, slumber	a party	1996-02-21	1996 College Championship semifinal game 3.
+1	200	0	COMMON BONDS		Santa Fe, Oregon, Chisholm	Trails	1996-02-21	1996 College Championship semifinal game 3.
+1	300	0	COMMON BONDS		Reuben, club, hero	a sandwich	1996-02-21	1996 College Championship semifinal game 3.
+1	400	0	COMMON BONDS		A thermometer, a novel, the riot act	things you read	1996-02-21	1996 College Championship semifinal game 3.
+1	500	0	COMMON BONDS		Pulp, crown, root	parts of the teeth	1996-02-21	1996 College Championship semifinal game 3.
 2	200	0	20th CENTURY AMERICA		This Nation of Islam minister led the Million Man March in Washington, D.C. October 16, 1995	(Louis) Farrakhan	1996-02-21	1996 College Championship semifinal game 3.
 2	400	0	20th CENTURY AMERICA		On December 10, 1915, this company's one millionth automobile rolled off the assembly line	Ford Motor Company	1996-02-21	1996 College Championship semifinal game 3.
 2	600	0	20th CENTURY AMERICA		On Wake Island in October 1950, President Truman met this general for the first time to discuss the Korean War	MacArthur	1996-02-21	1996 College Championship semifinal game 3.
@@ -7588,11 +7588,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	PHAMOUS PHILADELPHIANS		\"I spy" with my little eye this Fat Albert creator	Bill Cosby	1996-02-28	
 1	400	0	PHAMOUS PHILADELPHIANS		Basketball's stilt	Wilt Chamberlain	1996-02-28	
 1	500	0	PHAMOUS PHILADELPHIANS		Read one of this Philadelphia-born anthropologist's books & you may want to read "Samoa\"	Margaret Mead	1996-02-28	
-1	100	0	CROSSWORD CLUES "E\"		First lady(3)	Eve	1996-02-28	
-1	200	0	CROSSWORD CLUES "E\"		Way out(4)	exit	1996-02-28	
-1	300	0	CROSSWORD CLUES "E\"		Way up(8)	elevator	1996-02-28	
-1	400	0	CROSSWORD CLUES "E\"		Listen in(9)	eavesdrop	1996-02-28	
-1	500	0	CROSSWORD CLUES "E\"		Change of life(9)	evolution	1996-02-28	
+1	100	0	CROSSWORD CLUES "E\"		First lady (3)	Eve	1996-02-28	
+1	200	0	CROSSWORD CLUES "E\"		Way out (4)	exit	1996-02-28	
+1	300	0	CROSSWORD CLUES "E\"		Way up (8)	elevator	1996-02-28	
+1	400	0	CROSSWORD CLUES "E\"		Listen in (9)	eavesdrop	1996-02-28	
+1	500	0	CROSSWORD CLUES "E\"		Change of life (9)	evolution	1996-02-28	
 2	200	0	MYTHOLOGY		After losing his wings, he washed up on an island known thereafter as Icaria	Icarus	1996-02-28	
 2	400	0	MYTHOLOGY		Tyndareus was the human father of this woman for whom the Greeks fought at Troy	Helen	1996-02-28	
 2	600	0	MYTHOLOGY		The Aegis was the armour made by this supreme god from the skin of the goat that nursed him	Zeus	1996-02-28	
@@ -8015,11 +8015,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	BLACK AMERICA		In 1969 she wrote "My Life with Martin Luther King, Jr.\"	Coretta Scott King	1996-03-08	
 1	400	0	BLACK AMERICA		It's the largest & one of the most influential civil rights groups in America	The NAACP	1996-03-08	
 1	500	0	BLACK AMERICA		Chris Dickerson was the first Black Mr. America & she was the first Black Miss America	Vanessa Williams	1996-03-08	
-1	100	0	CROSSWORD CLUES "M\"		Jumpin' Jagger(4)	Mick	1996-03-08	
-1	200	0	CROSSWORD CLUES "M\"		Master mime Marcel(7)	Marceau	1996-03-08	
-1	300	0	CROSSWORD CLUES "M\"		Leading lady Learned(7)	Michael	1996-03-08	
-1	400	0	CROSSWORD CLUES "M\"		Code creator(5)	Morse	1996-03-08	
-1	500	0	CROSSWORD CLUES "M\"		Gruesome Gorgon(6)	Medusa	1996-03-08	
+1	100	0	CROSSWORD CLUES "M\"		Jumpin' Jagger (4)	Mick	1996-03-08	
+1	200	0	CROSSWORD CLUES "M\"		Master mime Marcel (7)	Marceau	1996-03-08	
+1	300	0	CROSSWORD CLUES "M\"		Leading lady Learned (7)	Michael	1996-03-08	
+1	400	0	CROSSWORD CLUES "M\"		Code creator (5)	Morse	1996-03-08	
+1	500	0	CROSSWORD CLUES "M\"		Gruesome Gorgon (6)	Medusa	1996-03-08	
 2	200	0	THE ELEMENTS		You'll find an abundance of this element in limestone & marble, & in your bones	calcium	1996-03-08	
 2	400	0	THE ELEMENTS		In 1993 the EPA advised that people buying a house should check for this gas, symbol Rn	radon	1996-03-08	
 2	600	0	THE ELEMENTS		The anesthetic known as laughing gas is an oxide of this element	nitrogen	1996-03-08	
@@ -8316,11 +8316,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	FAMOUS HOPKINS		You might hobnob on Nob Hill in this city at the Mark Hopkins Hotel	San Francisco	1996-03-15	
 1	400	0	FAMOUS HOPKINS		As an aide to this president, Harry Hopkins accompanied him to Tehran & Yalta	Franklin Roosevelt	1996-03-15	
 1	500	0	FAMOUS HOPKINS		Gertrude Stein attended this university's medical school	Johns Hopkins	1996-03-15	
-1	100	0	COMMON BONDS		Band,Coconut,Puka	shells	1996-03-15	
-1	200	0	COMMON BONDS		Legal,launch,lily	pads	1996-03-15	
-1	300	0	COMMON BONDS		Balboa,Mountains,Graziano	Rocky	1996-03-15	
-1	400	1000	COMMON BONDS		Daiquiris,yogurt,assets	frozen	1996-03-15	
-1	500	0	COMMON BONDS		Alarms,teeth,eyelashes	false things	1996-03-15	
+1	100	0	COMMON BONDS		Band, Coconut, Puka	shells	1996-03-15	
+1	200	0	COMMON BONDS		Legal, launch, lily	pads	1996-03-15	
+1	300	0	COMMON BONDS		Balboa, Mountains, Graziano	Rocky	1996-03-15	
+1	400	1000	COMMON BONDS		Daiquiris, yogurt, assets	frozen	1996-03-15	
+1	500	0	COMMON BONDS		Alarms, teeth, eyelashes	false things	1996-03-15	
 2	200	0	CATHEDRALS & CHURCHES		Church authorities recently imposed complete silence on visitors to this Venetian basilica	St. Mark's	1996-03-15	
 2	400	0	CATHEDRALS & CHURCHES		The Church of St. Martin-in-the-Fields in this city has been called James Gibbs' masterpiece	London	1996-03-15	
 2	600	0	CATHEDRALS & CHURCHES		Built in 1632, St. Luke's near Smithfield in this state is the USA's oldest church of English foundation	Virginia	1996-03-15	
@@ -8560,11 +8560,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	JEWISH FOOD		On Rosh Hashanah it's traditional to dip slices of this fruit in honey	Apples	1996-03-21	
 1	400	0	JEWISH FOOD		Challah, a type of this, is served in a twisted form on the Sabbath	Bread	1996-03-21	
 1	500	0	JEWISH FOOD		A kugel may be noodle or this type made from the main ingredient in latkes	Potatoes	1996-03-21	
-1	100	0	COMMON BONDS		Side,Dart,Ouija	Boards	1996-03-21	
-1	200	0	COMMON BONDS		Bank,Honor,Tootsie	Rolls	1996-03-21	
-1	300	0	COMMON BONDS		Booster,Sling,Jump	Shots	1996-03-21	
-1	400	0	COMMON BONDS		Place,Floor,Door	Mats	1996-03-21	
-1	500	0	COMMON BONDS		Life,Security,Shin	Guards	1996-03-21	
+1	100	0	COMMON BONDS		Side, Dart, Ouija	Boards	1996-03-21	
+1	200	0	COMMON BONDS		Bank, Honor, Tootsie	Rolls	1996-03-21	
+1	300	0	COMMON BONDS		Booster, Sling, Jump	Shots	1996-03-21	
+1	400	0	COMMON BONDS		Place, Floor, Door	Mats	1996-03-21	
+1	500	0	COMMON BONDS		Life, Security, Shin	Guards	1996-03-21	
 2	200	0	WORLD FACTS		At over 3,500,000 square miles, this desert covers an area larger than Australia	Sahara	1996-03-21	
 2	400	0	WORLD FACTS		The initials F & I on Puerto Rico's official seal stand for this royal pair	Ferdinand & Isabella	1996-03-21	
 2	600	0	WORLD FACTS		This Swiss-French lake is the largest of the Alpine lakes	Lake Geneva	1996-03-21	
@@ -8797,7 +8797,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	WOMEN		She & her husband Julius were convicted of espionage on the testimony of her brother David Greenglass	Ethel Rosenberg	1996-03-27	
 1	400	0	WOMEN		On Dec. 2, 1994 this alleged "Hollywood Madam" was found guilty of pandering	Heidi Fleiss	1996-03-27	
 1	500	0	WOMEN		She married Adolf Hitler in a Berlin air raid shelter on April 29, 1945 & killed herself the next day	Eva Braun	1996-03-27	
-1	100	0	QUOTATIONS		Word that ends Henny Youngman's line"Take my wife....\"	please	1996-03-27	
+1	100	0	QUOTATIONS		Word that ends Henny Youngman's line "Take my wife....\"	please	1996-03-27	
 1	200	0	QUOTATIONS		This humorist said, "Politics has got so expensive that it takes lots of money to even get beat with\"	Will Rogers	1996-03-27	
 1	300	0	QUOTATIONS		She wrote to F. Scott Fitzgerald, "Don't you think I was made for you?\"	Zelda	1996-03-27	
 1	400	0	QUOTATIONS		Hemingway wrote, "All modern American literature comes from one book by Mark Twain called" this	\"Huckleberry Finn\"	1996-03-27	
@@ -10376,11 +10376,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	SCHOOL DAYS		With Sally, Mother, father, Spot & Puff, this brother & sister taught generations to read	Dick & Jane	1996-05-02	
 1	400	0	SCHOOL DAYS		One may be administered to a cosmetology student who missed an exam	a makeup	1996-05-02	
 1	500	0	SCHOOL DAYS		Since they had a mix of history, geography & literature, McGuffey's readers were described as this	eclectic	1996-05-02	
-1	100	0	WORLD OF FOOD		Sushi,teriyaki,yakitori	Japan	1996-05-02	
-1	200	0	WORLD OF FOOD		Guacamole,red snapper Vera Cruz,cochinita pibil	Mexico	1996-05-02	
-1	300	0	WORLD OF FOOD		Gulyas,paprikas csirke,palacsinta	Hungary	1996-05-02	
-1	400	0	WORLD OF FOOD		Dolmathes,tyropitta,souvlakia	Greece	1996-05-02	
-1	500	0	WORLD OF FOOD		Kalbi,kim chee,bul goki	Korea	1996-05-02	
+1	100	0	WORLD OF FOOD		Sushi, teriyaki, yakitori	Japan	1996-05-02	
+1	200	0	WORLD OF FOOD		Guacamole, red snapper Vera Cruz, cochinita pibil	Mexico	1996-05-02	
+1	300	0	WORLD OF FOOD		Gulyas, paprikas csirke, palacsinta	Hungary	1996-05-02	
+1	400	0	WORLD OF FOOD		Dolmathes, tyropitta, souvlakia	Greece	1996-05-02	
+1	500	0	WORLD OF FOOD		Kalbi, kim chee, bul goki	Korea	1996-05-02	
 2	200	0	KENYA		Prides of more than 20 of these predators can be seen at the Masai Mara National Reserve	lions	1996-05-02	
 2	400	0	KENYA		About 70% of Kenyans follow this religion; more than half of them are Protestants	Christianity	1996-05-02	
 2	600	0	KENYA		This official is head of state, head of government & Commander in Chief	Daniel Arap Moi	1996-05-02	
@@ -10555,11 +10555,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	MUSICAL INSTRUMENTS		Used in Indian music, a tabla is this type of percussion instrument	a drum	1996-05-07	
 1	400	0	MUSICAL INSTRUMENTS		Les Paul developed & popularized the solid-body type of this instrument in the 1940s	the electric guitar	1996-05-07	
 1	500	0	MUSICAL INSTRUMENTS		This vellum-bellied instrument typically has 4 full-length strings & a shorter fifth "thumb" string	the banjo	1996-05-07	
-1	100	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Fu-chou,Amoy-Swatow,Mandarin	Chinese	1996-05-07	
-1	200	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Castilian, Andalusian,Aragonese	Spanish	1996-05-07	
+1	100	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Fu-chou, Amoy-Swatow, Mandarin	Chinese	1996-05-07	
+1	200	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Castilian, Andalusian, Aragonese	Spanish	1996-05-07	
 1	300	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Norman, Angevin, Champenois	French	1996-05-07	
-1	400	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Cretan,Tsakonian,Peloponnesian	Greek	1996-05-07	
-1	500	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Thuringian,Swabian,Swiss	German	1996-05-07	
+1	400	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Cretan, Tsakonian, Peloponnesian	Greek	1996-05-07	
+1	500	0	DIALECTS	(Alex: We'll give you the dialect; you identify the language.)	Thuringian, Swabian, Swiss	German	1996-05-07	
 2	200	0	BIBLICAL PEOPLE		He was involved with a Philistine woman from Timnath & a Gaza harlot before taking up with Delilah	Samson	1996-05-07	
 2	400	0	BIBLICAL PEOPLE		It's the surname of the Judas who betrayed Jesus	Iscariot	1996-05-07	
 2	600	0	BIBLICAL PEOPLE		Japheth, one of his sons, was ancestor to the Gomer, Riphath & Ashkenaz nations	Noah	1996-05-07	
@@ -10679,7 +10679,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	WORLD POTPOURRI		When visiting Macao, it might help to know a little Chinese & this European language; it's official	Portuguese	1996-05-09	
 1	100	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Tom____Harry	Dick and	1996-05-09	
 1	200	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Hop____jump	skip	1996-05-09	
-1	300	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Signed ____delivered	sealed	1996-05-09	
+1	300	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Signed ____ delivered	sealed	1996-05-09	
 1	400	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Life ____ the pursuit of happiness	liberty	1996-05-09	
 1	500	0	FIRST____LAST	(Alex: You have to supply the missing element.)	Athos ____ Aramis	Porthos	1996-05-09	
 2	200	0	TEENS OF THE PAST		When Ptolemy XIII & this sister ascended the Egyptian throne, he was 10 & she was about 18	Cleopatra	1996-05-09	
@@ -10738,11 +10738,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	GENERAL SCIENCE		Geologically speaking, it's the wearing away of a surface by wind, rain or other elements	erosion	1996-05-10	
 1	400	0	GENERAL SCIENCE		Sodium bicarbonate is the chemical name for this substance sold under the Arm & Hammer name	baking soda	1996-05-10	
 1	500	0	GENERAL SCIENCE		Hematite is the chief ore of this metal	iron	1996-05-10	
-1	100	0	CHARACTERS IN DISNEY FILMS		Happy, the Queen'shuntsman,the Magic Mirror	Snow White (and the Seven Dwarfs)	1996-05-10	
-1	200	0	CHARACTERS IN DISNEY FILMS		Faline,Flower,Thumper	Bambi	1996-05-10	
-1	300	0	CHARACTERS IN DISNEY FILMS		Romanticcentaurs,dancing, hippos,the Sorcerer's Apprentice	Fantasia	1996-05-10	
-1	400	0	CHARACTERS IN DISNEY FILMS		The Dodo,the Doorknob,the Dormouse	Alice in Wonderland	1996-05-10	
-1	500	0	CHARACTERS IN DISNEY FILMS		Bert,Jane Banks,Michael Banks	Mary Poppins	1996-05-10	
+1	100	0	CHARACTERS IN DISNEY FILMS		Happy, the Queen's huntsman, the Magic Mirror	Snow White (and the Seven Dwarfs)	1996-05-10	
+1	200	0	CHARACTERS IN DISNEY FILMS		Faline, Flower, Thumper	Bambi	1996-05-10	
+1	300	0	CHARACTERS IN DISNEY FILMS		Romantic centaurs, dancing, hippos, the Sorcerer's Apprentice	Fantasia	1996-05-10	
+1	400	0	CHARACTERS IN DISNEY FILMS		The Dodo, the Doorknob, the Dormouse	Alice in Wonderland	1996-05-10	
+1	500	0	CHARACTERS IN DISNEY FILMS		Bert, Jane Banks, Michael Banks	Mary Poppins	1996-05-10	
 2	200	0	ART & ARTISTS		In Justice Antonin Scalia's chambers you can view a Gilbert Stuart portrait of this president	Washington	1996-05-10	
 2	400	0	ART & ARTISTS		Picasso's "Still Life with Chair Caning" was his 1st of these, a painting with bits of paper & cloth glued to it	a collage	1996-05-10	
 2	600	0	ART & ARTISTS		In 1759 he moved to Bath, where he painted such lush portraits as "The Blue Boy\"	Gainsborough	1996-05-10	
@@ -10855,7 +10855,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE OLYMPICS		For Olympic play in this sport, a 30-second rather than a 24-second shot clock is used	basketball	1996-05-14	
 1	400	500	THE OLYMPICS		This host country won the most total medals at the 1994 Winter Olympics	Norway	1996-05-14	
 1	500	0	THE OLYMPICS		This event where athletes slide down a track on a runnered vehicle joined the Winter Games in 1964	the luge	1996-05-14	
-1	100	0	PLANTS		You can kiss under this "Christmas" parasite, but don't eat the berries–they can be poisonous	mistletoe	1996-05-14	
+1	100	0	PLANTS		You can kiss under this "Christmas" parasite, but don't eat the berries-they can be poisonous	mistletoe	1996-05-14	
 1	200	0	PLANTS		This green plant pigment still absorbs light when extracted & dried	chlorophyll	1996-05-14	
 1	300	0	PLANTS		Honey locusts & pyracantha shrubs are examples of plants with these sharp-pointed modified branches	thorns	1996-05-14	
 1	400	0	PLANTS		This "bald" swamp tree is the state tree of Louisiana	cypress	1996-05-14	
@@ -10982,11 +10982,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	HOLIDAYS & OBSERVANCES		Texas remembers the birth of this 36th president on August 27	Lyndon Johnson	1996-05-16	1996 Teen Tournament final game 1.
 1	400	0	HOLIDAYS & OBSERVANCES		1963 was a rare instance of the Eastern & Western Christian observances of this movable feast coinciding	Easter	1996-05-16	1996 Teen Tournament final game 1.
 1	500	0	HOLIDAYS & OBSERVANCES		The name of this African-American holiday comes from Swahili meaning "first fruits\"	Kwanzaa	1996-05-16	1996 Teen Tournament final game 1.
-1	100	0	COMMON BONDS		Bulletin,ironing, skate	boards	1996-05-16	1996 Teen Tournament final game 1.
-1	200	0	COMMON BONDS		A stamp,a lollipop,one's chops	to lick (things you lick)	1996-05-16	1996 Teen Tournament final game 1.
-1	300	0	COMMON BONDS		Blue,John, Leno	Jays	1996-05-16	1996 Teen Tournament final game 1.
-1	400	0	COMMON BONDS		Cowboy,bowler,top	hats	1996-05-16	1996 Teen Tournament final game 1.
-1	500	0	COMMON BONDS		A glance,a fishing line,a vote	to cast (things you cast)	1996-05-16	1996 Teen Tournament final game 1.
+1	100	0	COMMON BONDS		Bulletin, ironing, skate	boards	1996-05-16	1996 Teen Tournament final game 1.
+1	200	0	COMMON BONDS		A stamp, a lollipop, one's chops	to lick (things you lick)	1996-05-16	1996 Teen Tournament final game 1.
+1	300	0	COMMON BONDS		Blue, John, Leno	Jays	1996-05-16	1996 Teen Tournament final game 1.
+1	400	0	COMMON BONDS		Cowboy, bowler, top	hats	1996-05-16	1996 Teen Tournament final game 1.
+1	500	0	COMMON BONDS		A glance, a fishing line, a vote	to cast (things you cast)	1996-05-16	1996 Teen Tournament final game 1.
 2	200	0	THE ARTS		This classic Christmas ballet contains the "Waltz Of The Flowers\"	The Nutcracker	1996-05-16	1996 Teen Tournament final game 1.
 2	400	0	THE ARTS		These annual theatre awards are named for Antoinette Perry	the Tonys	1996-05-16	1996 Teen Tournament final game 1.
 2	600	0	THE ARTS		In 1995 Jerome Robbins turned this musical about teen street gangs into a dance work	West Side Story	1996-05-16	1996 Teen Tournament final game 1.
@@ -11043,11 +11043,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	500	1896		On Aug. 17, 1896 gold was found in Bonanza Creek, a tributary of the Klondike in this present territory	the Yukon Territory	1996-05-17	1996 Teen Tournament final game 2.
 1	400	0	1896		U.S. triple jumper James Connolly wong the first Olympic gold medal at the games in this city	Athens	1996-05-17	1996 Teen Tournament final game 2.
 1	500	0	1896		England's first autos were built in this city famous for Lady Godiva's ride	Coventry	1996-05-17	1996 Teen Tournament final game 2.
-1	100	0	LAST NAME'S THE SAME		Sam,Thelma, Whitney	Houston	1996-05-17	1996 Teen Tournament final game 2.
-1	200	0	LAST NAME'S THE SAME		Oral,Julia,Cokie	Roberts	1996-05-17	1996 Teen Tournament final game 2.
-1	300	0	LAST NAME'S THE SAME		Debbie,Charles,Mel	Gibson	1996-05-17	1996 Teen Tournament final game 2.
-1	400	0	LAST NAME'S THE SAME		Julianne,Chynna,Lou Diamond	Phillips	1996-05-17	1996 Teen Tournament final game 2.
-1	500	0	LAST NAME'S THE SAME		Ian,Peggy,Sir Alexander	Fleming	1996-05-17	1996 Teen Tournament final game 2.
+1	100	0	LAST NAME'S THE SAME		Sam, Thelma, Whitney	Houston	1996-05-17	1996 Teen Tournament final game 2.
+1	200	0	LAST NAME'S THE SAME		Oral, Julia, Cokie	Roberts	1996-05-17	1996 Teen Tournament final game 2.
+1	300	0	LAST NAME'S THE SAME		Debbie, Charles, Mel	Gibson	1996-05-17	1996 Teen Tournament final game 2.
+1	400	0	LAST NAME'S THE SAME		Julianne, Chynna, Lou Diamond	Phillips	1996-05-17	1996 Teen Tournament final game 2.
+1	500	0	LAST NAME'S THE SAME		Ian, Peggy, Sir Alexander	Fleming	1996-05-17	1996 Teen Tournament final game 2.
 2	200	0	HISTORIC QUOTATIONS		In 1968 this Massachusetts senator said, "Like my brothers before me, I pick up a fallen standard\"	Edward Kennedy	1996-05-17	1996 Teen Tournament final game 2.
 2	400	0	HISTORIC QUOTATIONS		In 1940 this French general broadcast "France has lost a battle, but France has not lost the war\"	de Gaulle	1996-05-17	1996 Teen Tournament final game 2.
 2	600	0	HISTORIC QUOTATIONS		After the bombing of Hiroshima, this emperor said, "We have resolved to endure the unendurable\"	Hirohito	1996-05-17	1996 Teen Tournament final game 2.
@@ -11284,11 +11284,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	TELEVISION HISTORY		A 26-episode series based on this Pulitzer-Prize winning book by JFK premiered in 1964	Profiles in Courage	1996-05-23	
 1	400	0	TELEVISION HISTORY		This creator of "Howdy Doody" began in broadcasting as a musician on radio station WBEN	\"Buffalo Bob" Smith	1996-05-23	
 1	500	0	TELEVISION HISTORY		\"See It Now" debuted November 18, 1951 with this newsman as its host	Edward R. Murrow	1996-05-23	
-1	100	0	COUNTIES		Orange,Nassau,Niagara	New York	1996-05-23	
-1	200	0	COUNTIES		Orange,Red River,Lubbock	Texas	1996-05-23	
-1	300	0	COUNTIES		Orange,Greene,Durham	North Carolina	1996-05-23	
-1	400	0	COUNTIES		Orange,Addison,Bennington	Vermont	1996-05-23	
-1	500	500	COUNTIES		Orange,Tipton,Tippecanoe	Indiana	1996-05-23	
+1	100	0	COUNTIES		Orange, Nassau, Niagara	New York	1996-05-23	
+1	200	0	COUNTIES		Orange, Red River, Lubbock	Texas	1996-05-23	
+1	300	0	COUNTIES		Orange, Greene, Durham	North Carolina	1996-05-23	
+1	400	0	COUNTIES		Orange, Addison, Bennington	Vermont	1996-05-23	
+1	500	500	COUNTIES		Orange, Tipton, Tippecanoe	Indiana	1996-05-23	
 2	200	0	PERU		The highlands of this mountain range occupy about 1/3 of Peru's land	the Andes	1996-05-23	
 2	400	0	PERU		These people settled around Cuzco in the 12th century; by the 16th they'd conquered most of Peru	the Incas	1996-05-23	
 2	600	0	PERU		In 1977 Peru received a loan from this body, the IMF, in exchange for taking austerity measures	International Monetary Fund	1996-05-23	
@@ -11577,11 +11577,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	ADVICE		His advice to people in a 1966 lecture was "Turn on, tune in and drop out\"	Timothy Leary	1996-05-30	
 1	400	0	ADVICE		Samuel Butler said to "Look before you ere you leap; for as you sow, ye are like to" do this	reap	1996-05-30	
 1	500	0	ADVICE		1987 Rob Reiner film with Wallace Shawn's advice "Never go in against a Sicilian when death is on the line\"	The Princess Bride	1996-05-30	
-1	100	0	CHARACTERS IN MUSICALS		Merlyn,Mordred,Morgan Le Fey	Camelot	1996-05-30	
-1	200	0	CHARACTERS IN MUSICALS		Lucy,Linus,Snoopy	You're a Good Man, Charlie Brown	1996-05-30	
-1	300	0	CHARACTERS IN MUSICALS		Og,Woody Mahoney,Finian McLonergan	Finian's Rainbow	1996-05-30	
-1	400	0	CHARACTERS IN MUSICALS		Marcellus Washburn,Amaryllis,Harold Hill	The Music Man	1996-05-30	
-1	500	0	CHARACTERS IN MUSICALS		Georges,Noelle,Gabrielle Chanel	Coco	1996-05-30	
+1	100	0	CHARACTERS IN MUSICALS		Merlyn, Mordred, Morgan Le Fey	Camelot	1996-05-30	
+1	200	0	CHARACTERS IN MUSICALS		Lucy, Linus, Snoopy	You're a Good Man, Charlie Brown	1996-05-30	
+1	300	0	CHARACTERS IN MUSICALS		Og, Woody Mahoney, Finian McLonergan	Finian's Rainbow	1996-05-30	
+1	400	0	CHARACTERS IN MUSICALS		Marcellus Washburn, Amaryllis, Harold Hill	The Music Man	1996-05-30	
+1	500	0	CHARACTERS IN MUSICALS		Georges, Noelle, Gabrielle Chanel	Coco	1996-05-30	
 2	200	0	ACTORS TURNED POLITICIANS		Are you feeling lucky? Then come up with the name of this actor elected mayor of Carmel, Calif. in 1986	Clint Eastwood	1996-05-30	
 2	400	0	ACTORS TURNED POLITICIANS		Alessandra, the granddaughter of this dictator, was elected to the Italian Parliament in 1992	Mussolini	1996-05-30	
 2	600	0	ACTORS TURNED POLITICIANS		Silent film star Charlie Farrell was a mayor of this California city, as was Sonny Bono	Palm Springs	1996-05-30	
@@ -11638,11 +11638,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	LIQUIDS		The earliest forms of this writing fluid were compounded from lampblack, gum or glue, & water	ink	1996-05-31	
 1	400	500	LIQUIDS		Hydrargyrum is the Latin name of this metal	mercury	1996-05-31	
 1	500	0	LIQUIDS		Discovered in 1846, this liquid produces over 1,000 times its own volume in gas when exploded	nitroglycerin	1996-05-31	
-1	100	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Waikiki Parc,Waikiki Joy,Outrigger Waikiki	Honolulu	1996-05-31	
-1	200	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Ledra Marriott,Lycabettus,Divani Palace Acropolis	Athens	1996-05-31	
-1	300	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Lafayette Hotel,Maison Dupuy,Pontchartrain Hotel	New Orleans	1996-05-31	
-1	400	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	New Otani Hotel & Garden,Westin Bonaventure Hotel,Hollywood Roosevelt	Los Angeles	1996-05-31	
-1	500	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Summit Hotel,Hotel Shangrila,Yak & Yeti	Katmandu, (Nepal)	1996-05-31	
+1	100	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Waikiki Parc, Waikiki Joy, Outrigger Waikiki	Honolulu	1996-05-31	
+1	200	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Ledra Marriott, Lycabettus, Divani Palace Acropolis	Athens	1996-05-31	
+1	300	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Lafayette Hotel, Maison Dupuy, Pontchartrain Hotel	New Orleans	1996-05-31	
+1	400	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	New Otani Hotel & Garden, Westin Bonaventure Hotel, Hollywood Roosevelt	Los Angeles	1996-05-31	
+1	500	0	HOTELS BY CITY	(Alex: We will name the hotels, you identify the locale.)	Summit Hotel, Hotel Shangrila, Yak & Yeti	Katmandu, (Nepal)	1996-05-31	
 2	200	0	CATHEDRALS		The nave of this New York cathedral has pews for about 3,000 worshipers	St. Patrick's	1996-05-31	
 2	400	0	CATHEDRALS		Since 1578 this ancient piece of linen has been preserved & venerated in the cathedral of Turin	the Shroud of Turin	1996-05-31	
 2	600	0	CATHEDRALS		This London cathedral has Europe's second-largest dome, after Saint Peter's Basilica	St. Paul's	1996-05-31	
@@ -11699,11 +11699,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	SWEETS		Joy of Cooking says the unsulfured type of this sticky sweetener is the best for cooking	molasses	1996-06-03	
 1	400	0	SWEETS		Coeur a la creme is a chilled dessert molded in this shape & served with berries or other fresh fruit	heart	1996-06-03	
 1	500	0	SWEETS		Kulich is a cylindrical Russian cake traditionally served on this holiday	Easter	1996-06-03	
-1	100	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Shansi,Shantung,Shensi	China	1996-06-03	
-1	200	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Entre Rios,Rio Negro,La Pampa	Argentina	1996-06-03	
-1	300	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Ghor,Balkh,Kabul	Afghanistan	1996-06-03	
-1	400	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Sind,Punjab,Baluchistan	Pakistan	1996-06-03	
-1	500	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Lomza,Lublin,Bialystok	Poland	1996-06-03	
+1	100	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Shansi, Shantung, Shensi	China	1996-06-03	
+1	200	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Entre Rios, Rio Negro, La Pampa	Argentina	1996-06-03	
+1	300	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Ghor, Balkh, Kabul	Afghanistan	1996-06-03	
+1	400	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Sind, Punjab, Baluchistan	Pakistan	1996-06-03	
+1	500	0	PROVINCES	(Alex: We will give you the province, you identify the country.)	Lomza, Lublin, Bialystok	Poland	1996-06-03	
 2	200	0	ACTIVISTS		Peace activist David Dellinger helped organize demonstrations at this city's 1968 Democratic Convention	Chicago	1996-06-03	
 2	400	0	ACTIVISTS		In 1968 Cesar Chavez & his union called for a boycott of these growers	the grape growers	1996-06-03	
 2	600	0	ACTIVISTS		This Black comedian & civil rights activist wrote a "Political Primer" in 1971	Dick Gregory	1996-06-03	
@@ -11760,11 +11760,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	ASTRONOMY		In 1989 Asclepius, one of these, passed within 500,000 miles of the Earth	an asteroid	1996-06-04	
 1	400	0	ASTRONOMY		In 1968 he became a professor of astronomy at Cornell & Director of the Laboratory for Planetary Studies	Carl Sagan	1996-06-04	
 1	500	0	ASTRONOMY		Galileo may have seen this outer planet centuries before its 1846 discovery without recognizing it as such	Neptune	1996-06-04	
-1	100	0	CROSSWORD CLUES "K\"		Tea pot(6)	a kettle	1996-06-04	
-1	200	0	CROSSWORD CLUES "K\"		Poker pot(5)	a kitty	1996-06-04	
-1	300	0	CROSSWORD CLUES "K\"		Destiny, Turkish style(6)	kismet	1996-06-04	
-1	400	0	CROSSWORD CLUES "K\"		John Lennon's was "instant"(5)	karma	1996-06-04	
-1	500	0	CROSSWORD CLUES "K\"		Noisy grasshopper(7)	katydid	1996-06-04	
+1	100	0	CROSSWORD CLUES "K\"		Tea pot (6)	a kettle	1996-06-04	
+1	200	0	CROSSWORD CLUES "K\"		Poker pot (5)	a kitty	1996-06-04	
+1	300	0	CROSSWORD CLUES "K\"		Destiny, Turkish style (6)	kismet	1996-06-04	
+1	400	0	CROSSWORD CLUES "K\"		John Lennon's was "instant" (5)	karma	1996-06-04	
+1	500	0	CROSSWORD CLUES "K\"		Noisy grasshopper (7)	katydid	1996-06-04	
 2	200	0	BALLET		When he was just 15, George Balanchine played the title role in this beloved Christmas ballet	The Nutcracker	1996-06-04	
 2	400	0	BALLET		\"La Rose Malade" was created for Maya Plisetskaya, this Moscow ballet company's prima ballerina	the Bolshoi	1996-06-04	
 2	600	0	BALLET		The second part of this Stravinsky ballet is entitled "The Sacrifice\"	The Rite of Spring (Le Sacre du Printemps)	1996-06-04	
@@ -12421,11 +12421,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	HISTORIC AMERICANS		This frontier judge was born in Mason County, Kentucky, but his exact birthdate is unknown	Judge Roy Bean	1996-06-19	
 1	400	0	HISTORIC AMERICANS		This early U.S. president often practiced the violin 3 hours a day	Jefferson	1996-06-19	
 1	500	0	HISTORIC AMERICANS		Prominent temperance leader Neal Dow was this party's presidential candidate in 1880	the Prohibition Party	1996-06-19	
-1	100	0	COMMON BONDS		Cherry,orchestra,bottomless	a pit	1996-06-19	
-1	200	0	COMMON BONDS		Mud,Eskimo,shepherd's	pie	1996-06-19	
-1	300	0	COMMON BONDS		Of Science,of Foxhounds,of ceremonies	Masters	1996-06-19	
-1	400	0	COMMON BONDS		Wet,Navajo,security	blanket	1996-06-19	
-1	500	0	COMMON BONDS		Picture,van,violation	moving	1996-06-19	
+1	100	0	COMMON BONDS		Cherry, orchestra, bottomless	a pit	1996-06-19	
+1	200	0	COMMON BONDS		Mud, Eskimo, shepherd's	pie	1996-06-19	
+1	300	0	COMMON BONDS		Of Science, of Foxhounds, of ceremonies	Masters	1996-06-19	
+1	400	0	COMMON BONDS		Wet, Navajo, security	blanket	1996-06-19	
+1	500	0	COMMON BONDS		Picture, van, violation	moving	1996-06-19	
 1	100	0	\"M" ON THE MAP		With a population of over 365,000, it's Minnesota's largest city	Minneapolis	1996-06-19	
 1	200	0	\"M" ON THE MAP		In 1865 Edward Whymper became the first to reach the top of this Alpine peak	the Matterhorn	1996-06-19	
 1	300	0	\"M" ON THE MAP		A certain points, this principality stretches less than one-quarter mile inland from the Mediterranean	Monaco	1996-06-19	
@@ -12487,11 +12487,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	PEOPLE IN HISTORY		Cuthbert Collingwood was second in command to this naval hero in the battle of Trafalgar	Lord Nelson	1996-06-20	
 1	400	0	PEOPLE IN HISTORY		Before becoming the USA's first attorney general, Edmund Randolph was this southern state's first attorney general	Virginia	1996-06-20	
 1	500	1000	PEOPLE IN HISTORY		After a victory over the Spanish in 1640, the Duke of Braganza was crowned King John IV of this country	Portugal	1996-06-20	
-1	100	0	SHADES	(Alex: Shades of colors.)	Prussian,navy,baby	blue	1996-06-20	
-1	200	0	SHADES	(Alex: Shades of colors.)	Plum,eggplant,amethyst	purple	1996-06-20	
-1	300	0	SHADES	(Alex: Shades of colors.)	Apple,pistachio,moss	green	1996-06-20	
-1	400	0	SHADES	(Alex: Shades of colors.)	Teak,russet,vandyke	brown	1996-06-20	
-1	500	0	SHADES	(Alex: Shades of colors.)	Turkey,Pompeian,Chinese	red	1996-06-20	
+1	100	0	SHADES	(Alex: Shades of colors.)	Prussian, navy, baby	blue	1996-06-20	
+1	200	0	SHADES	(Alex: Shades of colors.)	Plum, eggplant, amethyst	purple	1996-06-20	
+1	300	0	SHADES	(Alex: Shades of colors.)	Apple, pistachio, moss	green	1996-06-20	
+1	400	0	SHADES	(Alex: Shades of colors.)	Teak, russet, vandyke	brown	1996-06-20	
+1	500	0	SHADES	(Alex: Shades of colors.)	Turkey, Pompeian, Chinese	red	1996-06-20	
 2	200	0	DANISH RULERS		Frederick VI became an ally of this French emperor in 1807 & involved Denmark in a war that bankrupted it	Napoleon Bonaparte	1996-06-20	
 2	600	0	DANISH RULERS		10th century ruler Harold Bluetooth, son of Gorm the Old, introduced this religion into Denmark	Christianity	1996-06-20	
 2	800	0	DANISH RULERS		During Frederick IX's reign, 1947-1972, this "law" was changed, allowing Margrethe II to rule next	the law of succession	1996-06-20	
@@ -12733,7 +12733,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	COUNTIES BY STATE	(Alex: We'll give you the counties; you tell us the state.)	Accomack, Albemarle, Appomattox	Virginia	1996-06-26	
 1	300	0	COUNTIES BY STATE	(Alex: We'll give you the counties; you tell us the state.)	Talladega, Tallapoosa, Tuscaloosa	Alabama	1996-06-26	
 1	400	0	COUNTIES BY STATE	(Alex: We'll give you the counties; you tell us the state.)	Camden, Cumberland, Cape May	New Jersey	1996-06-26	
-1	500	0	COUNTIES BY STATE	(Alex: We'll give you the counties; you tell us the state.)	Davidson, Durham,Dare	North Carolina	1996-06-26	
+1	500	0	COUNTIES BY STATE	(Alex: We'll give you the counties; you tell us the state.)	Davidson, Durham, Dare	North Carolina	1996-06-26	
 2	200	0	FICTIONAL SMITHS & JONESES		The title of his "The Dead Zone" refers to the damaged part of Johnny Smith's brain	Stephen King	1996-06-26	
 2	400	0	FICTIONAL SMITHS & JONESES		Loye Jones causes a fight between Willie & Junebug in her "The Heart Is a Lonely Hunter\"	Carson McCullers	1996-06-26	
 2	600	0	FICTIONAL SMITHS & JONESES		Januarius Jones is an obese sensualist in this Mississippian's first novel, "Soldiers' Pay\"	Faulkner	1996-06-26	
@@ -12911,11 +12911,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	CELEBRITIES' REAL NAMES		Singing political satirist Mark Ruslander	Mark Russell	1996-07-01	
 1	400	0	CELEBRITIES' REAL NAMES		Steven Spielberg's better half Kathy Sue Nail	Kate Capshaw	1996-07-01	
 1	500	0	CELEBRITIES' REAL NAMES		Ex-Police man Gordon Matthew Sumner	Sting	1996-07-01	
-1	100	0	I ❤️ S.F.	(Alex: I love San Francisco.)	Andrew Hallidie built the first of these after watching draft horses strain & trudge up Nob Hill	a cable car	1996-07-01	
-1	200	0	I ❤️ S.F.	(Alex: I love San Francisco.)	You can enter this area through the Dragon's Gate on Grant Avenue at Bush Street	Chinatown	1996-07-01	
-1	300	0	I ❤️ S.F.	(Alex: I love San Francisco.)	The 1906 & 1989 earthquakes were on this fault	the San Andreas Fault	1996-07-01	
-1	400	0	I ❤️ S.F.	(Alex: I love San Francisco.)	This stadium might have left a light burning in the window to bring the Giants there in 1960	Candlestick Park	1996-07-01	
-1	500	0	I ❤️ S.F.	(Alex: I love San Francisco.)	Linking the city with Oakland, Richmond, Concord & Fremont is the BART, which stands for this	Bay Area Rapid Transit	1996-07-01	
+1	100	0	I ❤ S.F.	(Alex: I love San Francisco.)	Andrew Hallidie built the first of these after watching draft horses strain & trudge up Nob Hill	a cable car	1996-07-01	
+1	200	0	I ❤ S.F.	(Alex: I love San Francisco.)	You can enter this area through the Dragon's Gate on Grant Avenue at Bush Street	Chinatown	1996-07-01	
+1	300	0	I ❤ S.F.	(Alex: I love San Francisco.)	The 1906 & 1989 earthquakes were on this fault	the San Andreas Fault	1996-07-01	
+1	400	0	I ❤ S.F.	(Alex: I love San Francisco.)	This stadium might have left a light burning in the window to bring the Giants there in 1960	Candlestick Park	1996-07-01	
+1	500	0	I ❤ S.F.	(Alex: I love San Francisco.)	Linking the city with Oakland, Richmond, Concord & Fremont is the BART, which stands for this	Bay Area Rapid Transit	1996-07-01	
 2	200	0	20th CENTURY BRITISH P.M.s		In 1989 he was named Chancellor of the Exchequer in Margaret Thatcher's cabinet	John Major	1996-07-01	
 2	400	0	20th CENTURY BRITISH P.M.s		On September 3, 1939, he led the country into war	(Neville) Chamberlain	1996-07-01	
 2	600	0	20th CENTURY BRITISH P.M.s		He was educated by his uncle Richard Lloyd, the village cobbler, & took his name in his honor	(David) Lloyd George	1996-07-01	
@@ -13134,7 +13134,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	THE LIVER		The liver is the largest of these organs that produce & release useful chemical substances	the glands	1996-07-05	
 1	200	0	THE LIVER		When the body needs energy, the liver converts glycogen into this simple sugar & releases it into the blood	glucose	1996-07-05	
 1	300	0	THE LIVER		Of 1 pound, 3 pounds or 8 pounds, the approximate weight of a normal liver	3 pounds	1996-07-05	
-1	400	0	THE LIVER		There are 5 main viral types of this inflammation of the liver—A,B,C,D,& E	hepatitis	1996-07-05	
+1	400	0	THE LIVER		There are 5 main viral types of this inflammation of the liver—A, B, C, D,& E	hepatitis	1996-07-05	
 1	500	600	THE LIVER		The liver consists of 4 sections called these	lobes	1996-07-05	
 1	100	0	U.S. GEOGRAPHY		The straits of Florida connect these 2 large bodies of water	the Atlantic & the Gulf of Mexico	1996-07-05	
 1	200	0	U.S. GEOGRAPHY		Much of this largest California national park is below sea level	Death Valley	1996-07-05	
@@ -13512,7 +13512,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	UNITED NATIONS SECRETARIES-GENERAL		After he left office in 1953, he returned to Norway & later served in the cabinet	Trygve Lie	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
 2	200	0	THE OLYMPICS		At Antwerp in 1920, the Olympic flag debuted & these birds were first released as symbols of peace	Doves	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
 2	400	0	THE OLYMPICS		With 8,611 points, Robert Zmelik of Czechoslovakia won this multi-sport event in 1992	Decathlon	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
-2	600	0	THE OLYMPICS		The Olympic motto, "Citius Altius Fortius",translates to "Swifter, Higher" & this	Stronger	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
+2	600	0	THE OLYMPICS		The Olympic motto, "Citius Altius Fortius", translates to "Swifter, Higher" & this	Stronger	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
 2	800	0	THE OLYMPICS		The 1968 summer games in this capital city were the first telecast in color	Mexico City	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
 2	1000	0	THE OLYMPICS		The first torch relay was run in 1936, taking the flame from Olympia, Greece to this city	Berlin	1996-07-15	1996 Olympic Games Tournament semifinal game 1.
 2	200	0	ART & ARTISTS		He was in his 20's when he sculpted the "Pieta", now in St. Peter's Basilica	Michelangelo	1996-07-15	1996 Olympic Games Tournament semifinal game 1.

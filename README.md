@@ -4,14 +4,14 @@
 
 This dataset contains _Jeopardy!_ clues from Season 1 through Season 39 (July 2023). It does not contain every clue that has appeared on the show. The data source prefers not to be credited.
 
-There are 473,133 clues in total. Most of them can be found in `combined_season1-39.tsv`. Note that the file is zipped. When uncompressed it is approx. 68 MB.
+There are 473,067 clues in total. Most of them can be found in `combined_season1-39.tsv`. This file is approx. 68 MB.
 
 There are also individual files for each season (located in the `seasons` folder). These files are small enough that you should be able to open them with Microsoft Excel or Google Sheets.
 
 * Seasons 1–11 average 8,821 clues each.
-* Seasons 12–38 average 13,262 clues each.
+* Seasons 12–38 average 13,260 clues each.
 
-There is a `kids_teen.tsv` file which contains only clues that appeared in Kids and Teen Tournament matches. These clues are also in the combined dataset but this file is included for convenience.
+There is a `kids_teen.tsv` file which contains only clues that appeared in Kids and Teen Tournament matches. These clues are in the combined dataset but this file is included for convenience.
 
 Clues appearing in special matches outside the daily syndicated program are found in `extra_matches.tsv`. This file has 4,750 clues and they do not appear in the combined dataset.
 
@@ -19,7 +19,7 @@ I've done my best to clean the data and filter out clues that depend on images, 
 
 ---
 
-**Column Information:**
+**Column Information**
 
 Label | Description
 :--- | :---
@@ -35,6 +35,12 @@ _notes_ | Misc. information about the clue, e.g. if it's from a special tourname
 
 ---
 
+**Other Data**
+
+A file with contestant scoring data can be found in the `other_data` folder. There are columns for each contestant's score after the _Single_, _Double_, and _Final Jeopardy_ rounds. Most but not all episodes from `combined_season1-39.tsv` are included.
+
+---
+
 **FAQ**
 
 > How do I download the dataset?
@@ -43,10 +49,8 @@ If you're new to Github and aren't sure what's going on, click the green `Code` 
 
 > What is a `.TSV` file?
 
-The data is organized like a spreadsheet with a `TAB` character between each cell. You can open the files with applications like Microsoft Excel or Google Sheets.
+The data is written in plain text and organized like a spreadsheet with a `TAB` character between each cell. You can open the files with applications like Microsoft Excel or Google Sheets.
 
 ---
 
 All data is property of Jeopardy Productions, Inc. and protected under law. I am not affiliated with the show. Please don't use the data to make a public-facing web site, app, or any other product.
-
-

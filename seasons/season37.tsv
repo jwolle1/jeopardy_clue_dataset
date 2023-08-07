@@ -146,7 +146,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	SUMMARIZING THE NOVEL		Gotta fly; Major Major Major Major problems; war is Heller	Catch 22	2020-09-16	
 2	1600	0	SUMMARIZING THE NOVEL		Here comes the Barnes; where there's a will, there's a Hemingway; Romero the torero	The Sun Also Rises	2020-09-16	
 2	2000	0	SUMMARIZING THE NOVEL		Utopia (not!); I ain't goin' nowhere; the Butler did it (in 1872)	Erewhon	2020-09-16	
-2	400	0	ACM AWARDS	(Alex: And the awards air tonight.)	In 2017 Keith Urban & this "American Idol" rocked the house with "The Fighter"	Carrie Underwood	2020-09-16	
+2	400	0	ACM AWARDS	(Alex: And the awards air tonight.)	In 2017 Keith Urban & this "American Idol" rocked the house with "The Fighter\"	Carrie Underwood	2020-09-16	
 2	800	0	ACM AWARDS	(Alex: And the awards air tonight.)	The son of country singer Rhett Akins, he was the 2018 winner for Male Artist of the Year	Thomas Rhett	2020-09-16	
 2	1200	0	ACM AWARDS	(Alex: And the awards air tonight.)	In 2017 Luke Bryan, Dierks Bentley & Joe Walsh performed "Johnny B. Goode" in tribute to this rock pioneer who had recently passed away	Chuck Berry	2020-09-16	
 2	1600	0	ACM AWARDS	(Alex: And the awards air tonight.)	A nickname for the state of Virginia, this band won Group of the Year in 2019 & Vocal Group of the Year in 2018	Old Dominion	2020-09-16	
@@ -295,11 +295,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	THE TEMPLETON PRIZE		Physicist Bernard d'Espagnat, 2009's winner, explored the philosophical implications of these mysterious "mechanics\"	quantum mechanics	2020-09-21	
 1	800	0	THE TEMPLETON PRIZE		The 2013 prize went to this Cape Town man whose teachings combine Anglicanism with the concept of ubuntu, meaning humanity & kindness	Archbishop Desmond Tutu	2020-09-21	
 1	1000	0	THE TEMPLETON PRIZE		1982's winner was this man from N.C. who "took his message of Christianity into the...world of radio and television\"	Billy Graham	2020-09-21	
-1	200	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Plain____Doe	Jane	2020-09-21	
-1	400	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Saving____period	Grace	2020-09-21	
-1	600	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Round____Hood	Robin	2020-09-21	
-1	800	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Rambling____hip	Rose	2020-09-21	
-1	1000	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Pretty____dreadful	Penny	2020-09-21	
+1	200	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Plain ____ Doe	Jane	2020-09-21	
+1	400	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Saving ____ period	Grace	2020-09-21	
+1	600	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Round ____ Hood	Robin	2020-09-21	
+1	800	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Rambling ____ hip	Rose	2020-09-21	
+1	1000	0	MIDDLEWOMAN	(Alex: You have to supply the woman's name in the link of the clue that we give you.)	Pretty ____ dreadful	Penny	2020-09-21	
 1	200	0	THE ROOM WHERE IT HAPPENS		It's where the sub-zero goes	the kitchen	2020-09-21	
 1	400	0	THE ROOM WHERE IT HAPPENS		Indoor games like 20 Questions are named for it	the parlor	2020-09-21	
 1	600	0	THE ROOM WHERE IT HAPPENS		West Wing crisis center since 1961	the Situation Room	2020-09-21	
@@ -492,7 +492,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	SCULPTURE		(Sarah of the Clue Crew presents by a display monitor.) Evolving from cave art, examples of this type of sculpture includes sunken, low or bas, and high or alto	relief	2020-09-24	
 2	1200	0	SCULPTURE		Revelstoke, British Columbia, on the Columbia River, has a sculpture of a sturgeon with this other fish	salmon	2020-09-24	
 2	1600	0	SCULPTURE		Dale Chihuly is primarily known for making sculptures out of this	glass	2020-09-24	
-2	2000	0	SCULPTURE		Much of this English sculptor's work is truly monumental, like his 9-foot "Draped Reclining Mother and Baby"	Henry Moore	2020-09-24	
+2	2000	0	SCULPTURE		Much of this English sculptor's work is truly monumental, like his 9-foot "Draped Reclining Mother and Baby\"	Henry Moore	2020-09-24	
 2	400	0	BODIES OF WATER		The Straits of Florida connect this body of water to the Atlantic Ocean	the Gulf of Mexico	2020-09-24	
 2	800	5000	BODIES OF WATER		This river flows into Lake Constance, which borders Switzerland, Germany & Austria	the Rhine	2020-09-24	
 2	1200	0	BODIES OF WATER		The Cayman Islands are in this sea	Caribbean Sea	2020-09-24	
@@ -871,7 +871,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	GROUPS IN THE BIBLE		This group adhered to an early form of Judaism; a "good" one shows up in a parable	the Samaritans	2020-10-05	
 1	600	0	GROUPS IN THE BIBLE		Jesus "called unto him his disciples, and of them he chose" this many "whom also he named Apostles\"	12	2020-10-05	
 1	800	0	GROUPS IN THE BIBLE		One of the tribes of Israel, these descendants of one of Jacob's sons ministered in the temple as priests, aides & musicians	the Levites	2020-10-05	
-1	1000	0	GROUPS IN THE BIBLE		The painting here shows the newly short-haired Samson captured by these people	the Philistines	2020-10-05	
 1	200	0	WORD DERIVATIONS		Roulette derives its name from French for "little" this, though it's really not that little	a wheel	2020-10-05	
 1	400	0	WORD DERIVATIONS		Today meaning a fruit juice mix, its name is from the Hindi for "five", referring to a quintet of ingredients	punch	2020-10-05	
 1	600	0	WORD DERIVATIONS		The name of this tusked marine mammal is probably from the Dutch & is also the name of the Netherlands' top class of submarine	a walrus	2020-10-05	
@@ -1225,7 +1224,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	TREE OF A KIND		Windmill, sago, date	a palm	2020-10-13	
 1	600	0	TREE OF A KIND		Norway, Serbian, Sitka	spruce	2020-10-13	
 1	800	0	TREE OF A KIND		Mission, Manzanillo, Kalamata	olive trees	2020-10-13	
-1	1000	100	TREE OF A KIND		Rainbow,yellow gum, Tasmanian blue gum	eucalyptus	2020-10-13	
+1	1000	100	TREE OF A KIND		Rainbow, yellow gum, Tasmanian blue gum	eucalyptus	2020-10-13	
 1	200	0	LANGUAGES		Most of the Coptic language alphabet is adapted from the Greek, but 7 letters evolved from this Ancient Egyptian writing system	Hieroglyphics	2020-10-13	
 1	400	0	LANGUAGES		In this 2006 comedy film, Sacha Baron Cohen is actually speaking Hebrew, not Kazakh	Borat	2020-10-13	
 1	600	0	LANGUAGES		The Afrikaans language is also known as "Cape" this European language	Dutch	2020-10-13	
@@ -2226,11 +2225,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	PEOPLES		Geronimo was a leader of these Native American people	the Chiricahua Apache	2020-11-05	
 2	1600	0	PEOPLES		Northern Norway, Sweden & Finland are home to these people also known as the Sami	the Lapp	2020-11-05	
 2	2000	0	PEOPLES		The governments of Kenya & Tanzania are trying to persuade these nomadic people to make permanent settlements	the Masai	2020-11-05	
-2	400	0	THE SCIENTIST'S HAIKU		Worked for Edison /His AC lit World Expo /Ahead of his time	Tesla	2020-11-05	
-2	800	0	THE SCIENTIST'S HAIKU		Brit biologist /Not Holmes but still Watson's pal /A twisted ladder	(Francis) Crick	2020-11-05	
-2	1200	0	THE SCIENTIST'S HAIKU		Gazing into space /Ev'ry 76 years /His object flies by	(Edmond) Halley	2020-11-05	
-2	1600	0	THE SCIENTIST'S HAIKU		Planning planet moves /3 laws—first is elliptic /German gravity	Kepler	2020-11-05	
-2	2000	0	THE SCIENTIST'S HAIKU		An Irish chemist /1600s gas law man /An improved air pump!	(Robert) Boyle	2020-11-05	
+2	400	0	THE SCIENTIST'S HAIKU		Worked for Edison / His AC lit World Expo / Ahead of his time	Tesla	2020-11-05	
+2	800	0	THE SCIENTIST'S HAIKU		Brit biologist / Not Holmes but still Watson's pal / A twisted ladder	(Francis) Crick	2020-11-05	
+2	1200	0	THE SCIENTIST'S HAIKU		Gazing into space / Ev'ry 76 years / His object flies by	(Edmond) Halley	2020-11-05	
+2	1600	0	THE SCIENTIST'S HAIKU		Planning planet moves / 3 laws—first is elliptic / German gravity	Kepler	2020-11-05	
+2	2000	0	THE SCIENTIST'S HAIKU		An Irish chemist / 1600s gas law man / An improved air pump!	(Robert) Boyle	2020-11-05	
 2	400	0	21st CENTURY BLACK & WHITE MOVIES		In 2019 Alfonso Cuarón won an Oscar for the black & white cinematography of this film about Mexico in the 1970s	Roma	2020-11-05	
 2	800	0	21st CENTURY BLACK & WHITE MOVIES		This 2011 Best Picture winner isn't completely silent, but it is a black & white movie	The Artist	2020-11-05	
 2	1200	0	21st CENTURY BLACK & WHITE MOVIES		This Bruce Dern movie named for a Plains state was in B&W in the theaters but was shown in color on cable	Nebraska	2020-11-05	
@@ -2440,7 +2439,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	GEOLOGY		If water or wind alters rock, it's called by this meteorological name; if that process moves the rock, that's erosion	weathering	2020-11-11	
 1	200	0	SHE SHOOTS		When Virginia Schau won this news prize for a photo of a 1953 rescue, the announcement identified her as Mrs. Walter M. Schau	a Pulitzer	2020-11-11	
 1	400	0	SHE SHOOTS		While she was working on a kibbutz in 1969, this celeb photographer's boyfriend got her a subscription to Rolling Stone	Annie Leibovitz	2020-11-11	
-1	600	0	SHE SHOOTS		19th century rivals ridiculed Julia Margaret Cameron's blurry photos; she's now revered as a pioneer of soft "this"	focus	2020-11-11	
+1	600	0	SHE SHOOTS		19th century rivals ridiculed Julia Margaret Cameron's blurry photos; she's now revered as a pioneer of soft "this\"	focus	2020-11-11	
 1	800	0	SHE SHOOTS		Dorothea Lange chronicled Depression-era drought refugees from this state looking for work in California	Oklahoma	2020-11-11	
 1	1000	0	SHE SHOOTS		Cindy Sherman acts as her own photographic model, often employing these artificial body parts, from Greek for "add\"	prosthetics	2020-11-11	
 1	200	0	HE SCORES!		This onetime Boston Pops conductor is even better known for his scores for the "Star Wars" & "Indiana Jones" film series	John Williams	2020-11-11	
@@ -2470,11 +2469,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	TRANSPORTATION		In 2007 this company unveiled its Dreamliner, a commercial jet made of 50% carbon-composite materials	Boeing	2020-11-11	
 2	1600	0	TRANSPORTATION		A howdah is a seat for one or more people to ride on the back of one of these creatures	elephant (camel)	2020-11-11	
 2	2000	0	TRANSPORTATION		First used in Japan around 1870, this 2-wheeled cart pulled by a runner often had a hood to protect the passengers	a rickshaw	2020-11-11	
-2	400	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	Zainab Jah plays this woman who tried to recruit supporters for John Brown; he called her "The General""I will come with all the bees I can hive, but once that date is set, do not change it, not for anything."	(Harriet) Tubman	2020-11-11	
+2	400	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	Zainab Jah plays this woman who tried to recruit supporters for John Brown; he called her "The General" "I will come with all the bees I can hive, but once that date is set, do not change it, not for anything.\"	(Harriet) Tubman	2020-11-11	
 2	800	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	Brown was supported by transcendentalist writers like Emerson & this friend who gave a "Plea for Captain John Brown\"	Thoreau	2020-11-11	
-2	1200	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	John Brown had respect for & a close friendship with this orator seen in "The Good Lord Bird" & played by Daveed Diggs"The conscience of the nation... must be roused."	Frederick Douglass	2020-11-11	
+2	1200	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	John Brown had respect for & a close friendship with this orator seen in "The Good Lord Bird" & played by Daveed Diggs "The conscience of the nation... must be roused.\"	Frederick Douglass	2020-11-11	
 2	1600	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	After an 1858 raid, this pres. put a $250 bounty on Brown, who in turn offered a reward of $2.50 for the capture of the pres.	Buchanan	2020-11-11	
-2	2000	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	Ethan Hawke plays John Brown, who hoped to liberate all enslaved people, & Oct. 16, 1859 raided the arsenal in this town"I want them to know we just took over the nation's largest armory to free the enslaved people of this nation. That will be big news, I reckon."	Harpers Ferry	2020-11-11	
+2	2000	0	JOHN BROWN	(Alex: And that category will contain clues from the new Showtime limited series The Good Lord Bird.)	Ethan Hawke plays John Brown, who hoped to liberate all enslaved people, & Oct. 16, 1859 raided the arsenal in this town "I want them to know we just took over the nation's largest armory to free the enslaved people of this nation. That will be big news, I reckon.\"	Harpers Ferry	2020-11-11	
 3	0	0	HISTORY OF MEDICINE		2020 marks the 55th birthday of the first piece of equipment dedicated to this process, now used for regular screenings	mammogram	2020-11-11	
 1	200	0	FEMINISM		An 1848 declaration said these institutions were unjustly closed to women; today women are the majority there	colleges	2020-11-12	
 1	400	0	FEMINISM		Giving her 1989 book its title, Arlie Hochschild noted, "Most women work one shift at" their jobs & a "second shift" here	at home	2020-11-12	
@@ -2565,7 +2564,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	37 IS HEAVEN		This Texan was the USA's 37th vice president (& 36th president)	LBJ	2020-11-13	
 1	800	0	37 IS HEAVEN		The character of Rick Blaine in this classic movie is 37 years old	Casablanca	2020-11-13	
 1	1000	0	37 IS HEAVEN		According to legend, on his journey of conquest in 218 B.C. this man brought 37 elephants with him	Hannibal	2020-11-13	
-2	400	0	CELEBRITY CLASS OF 1980		Before running "The Office", he starred in school plays like "How To Succeed in Business without Really Trying"	Steve Carell	2020-11-13	
+2	400	0	CELEBRITY CLASS OF 1980		Before running "The Office", he starred in school plays like "How To Succeed in Business without Really Trying\"	Steve Carell	2020-11-13	
 2	800	0	CELEBRITY CLASS OF 1980		His yearbook mentions he did varsity wrestling and varsity soccer, and his original last name was Mapother	Tom Cruise	2020-11-13	
 2	1200	0	CELEBRITY CLASS OF 1980		This future Oscar winner was valedictorian of her graduating class at the Lycée Français in Los Angeles	(Jodie) Foster	2020-11-13	
 2	1600	0	CELEBRITY CLASS OF 1980		She was on the fast track her senior year, winning the AAU Junior Olympics Pentathlon; in 1988 she would win the Olympics Heptathlon	Jackie Joyner-Kersee	2020-11-13	
@@ -2662,11 +2661,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	HATS AMORE!		Slouch hats are associated with this country; World War I cavalry soldiers from there would wear emu feathers on them	Australia	2020-11-17	
 1	800	0	HATS AMORE!		Move the tassel on this hat from right to left when you graduate, then toss it skyward	a mortarboard	2020-11-17	
 1	1000	0	HATS AMORE!		Samuel L. Jackson has his own line of this brand of caps that is an abbreviation of "knitted angora wool\"	a Kangol	2020-11-17	
-1	200	0	U.S. CITY SIGHTS		Starbucks Reserve Roastery & Tasting Room,Kurt Cobain's benches in Viretta Park	Seattle	2020-11-17	
-1	400	0	U.S. CITY SIGHTS		Delta Flight Museum,Centennial Olympic Park	Atlanta	2020-11-17	
-1	600	0	U.S. CITY SIGHTS		The Mary Tyler Moore statue,the "Purple Rain" house	Minneapolis	2020-11-17	
-1	800	0	U.S. CITY SIGHTS		Riverwalk,Alamo Heights Bark Park	San Antonio	2020-11-17	
-1	1000	0	U.S. CITY SIGHTS		Carnegie Science Center,Duquesne Incline	Pittsburgh	2020-11-17	
+1	200	0	U.S. CITY SIGHTS		Starbucks Reserve Roastery & Tasting Room, Kurt Cobain's benches in Viretta Park	Seattle	2020-11-17	
+1	400	0	U.S. CITY SIGHTS		Delta Flight Museum, Centennial Olympic Park	Atlanta	2020-11-17	
+1	600	0	U.S. CITY SIGHTS		The Mary Tyler Moore statue, the "Purple Rain" house	Minneapolis	2020-11-17	
+1	800	0	U.S. CITY SIGHTS		Riverwalk, Alamo Heights Bark Park	San Antonio	2020-11-17	
+1	1000	0	U.S. CITY SIGHTS		Carnegie Science Center, Duquesne Incline	Pittsburgh	2020-11-17	
 1	200	0	COLOR FILMS		In "The Thin Red Line", Jim Caviezel, Sean Penn & Woody Harrelson fight this war's Battle of Guadalcanal	World War II	2020-11-17	
 1	400	0	COLOR FILMS		Dancers clash over the lead role in a Tchaikovsky ballet in this 2010 thriller	Black Swan	2020-11-17	
 1	600	1800	COLOR FILMS		The title of this 1999 film comes from the linoleum floor of death row	The Green Mile	2020-11-17	
@@ -3357,9 +3356,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	THE 2020 PULITZER PRIZES		The Music Pulitzer went to Anthony Davis for his opera about these wrongly convicted "Five" from Harlem	the Central Park Five	2020-12-02	
 2	400	0	CROSSWORD CLUES "G\"		French device that took a little off the top (10)	guillotine	2020-12-02	
 2	800	0	CROSSWORD CLUES "G\"		Severe congestion on the road (8)	gridlock	2020-12-02	
-2	1200	0	CROSSWORD CLUES "G\"		Sociable or extroverted(10)	gregarious	2020-12-02	
-2	1600	0	CROSSWORD CLUES "G\"		A small ape, like a siamang(6)	gibbon	2020-12-02	
-2	2000	0	CROSSWORD CLUES "G\"		Pertinent to the topic(7)	germane	2020-12-02	
+2	1200	0	CROSSWORD CLUES "G\"		Sociable or extroverted (10)	gregarious	2020-12-02	
+2	1600	0	CROSSWORD CLUES "G\"		A small ape, like a siamang (6)	gibbon	2020-12-02	
+2	2000	0	CROSSWORD CLUES "G\"		Pertinent to the topic (7)	germane	2020-12-02	
 2	400	0	COUNTRIES OF THE WORLD		Snezka in Bohemia is this country's highest point	the Czech Republic	2020-12-02	
 2	800	0	COUNTRIES OF THE WORLD		Basilicata & Campania are administrative regions of this country	Italy	2020-12-02	
 2	1200	0	COUNTRIES OF THE WORLD		The islands called the Azores lie about 800 miles from this country to which they belong	Portugal	2020-12-02	
@@ -3632,11 +3631,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	CLOTHES MINDED		Puffer or quilted vests are also known as these vests, for the natural insulation used in them	down	2020-12-09	
 1	800	0	CLOTHES MINDED		This headwear of the Middle Ages has a name that sounds like an adult who accompanies two young people on a date	a chaperon	2020-12-09	
 1	1000	0	CLOTHES MINDED		The raglan variety of this clothing part is named for a British general who lost a limb at Waterloo & had a special shirt made	sleeve	2020-12-09	
-1	200	0	PEOPLE OF THE BOOK		Dorothy,Aunt Em	The Wizard of Oz	2020-12-09	
-1	400	0	PEOPLE OF THE BOOK		Stephen Dedalus,Molly Bloom	Ulysses	2020-12-09	
-1	600	2200	PEOPLE OF THE BOOK		John Yossarian &Milo Minderbinder	Catch-22	2020-12-09	
-1	800	0	PEOPLE OF THE BOOK		Ponyboy Curtis,Johnny Cade,Cherry Valance	The Outsiders	2020-12-09	
-1	1000	0	PEOPLE OF THE BOOK		Lucie Manette,Madame Defarge	A Tale of Two Cities	2020-12-09	
+1	200	0	PEOPLE OF THE BOOK		Dorothy, Aunt Em	The Wizard of Oz	2020-12-09	
+1	400	0	PEOPLE OF THE BOOK		Stephen Dedalus, Molly Bloom	Ulysses	2020-12-09	
+1	600	2200	PEOPLE OF THE BOOK		John Yossarian & Milo Minderbinder	Catch-22	2020-12-09	
+1	800	0	PEOPLE OF THE BOOK		Ponyboy Curtis, Johnny Cade, Cherry Valance	The Outsiders	2020-12-09	
+1	1000	0	PEOPLE OF THE BOOK		Lucie Manette, Madame Defarge	A Tale of Two Cities	2020-12-09	
 1	200	0	COMPUTER LANGUAGES		Developed by Bjarne Stroustrup, this letter "++" is one of the first computer languages that college students learn	C	2020-12-09	
 1	600	0	COMPUTER LANGUAGES		In the acronym for this computer language created at Dartmouth in the 1960s, the first letter stands for "Beginner's\"	BASIC	2020-12-09	
 1	800	0	COMPUTER LANGUAGES		Created by Tim Berners-Lee, the language known by these 4 letters is used to create lots of web pages	HTML	2020-12-09	
@@ -3767,7 +3766,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	IN THE SPORT'S HALL OF FAME		Michael Strahan, Joe Gibbs	football	2020-12-11	
 1	600	0	IN THE SPORT'S HALL OF FAME		Darrell Waltrip, Joe Gibbs	NASCAR	2020-12-11	
 1	800	0	IN THE SPORT'S HALL OF FAME		Crossword puzzle fixture Mel Ott, Josh Gibson	baseball	2020-12-11	
-1	1000	0	IN THE SPORT'S HALL OF FAME		Crossword puzzle fixture Bobby Orr,Terry Sawchuk	hockey	2020-12-11	
+1	1000	0	IN THE SPORT'S HALL OF FAME		Crossword puzzle fixture Bobby Orr, Terry Sawchuk	hockey	2020-12-11	
 1	200	0	BRITISH ENGLISH		A large bus for traveling in the U.K.; in the U.S. it's a person who guides a sports team	a coach	2020-12-11	
 1	400	0	BRITISH ENGLISH		The Brits put their trousers on one leg at a time; this 5-letter word that Americans use means underwear over there	pants	2020-12-11	
 1	600	0	BRITISH ENGLISH		A dummy in Devon is this accessory for a baby	a pacifier	2020-12-11	
@@ -4034,7 +4033,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	PLAY CHARACTERS		This title character says, "Who find my visage's center ornament a thing to jest at—it is my wont... to let him taste my steel\"	Cyrano de Bergerac	2020-12-17	
 1	200	0	STATES BY COUNTY		Kern, Imperial, Lassen	California	2020-12-18	
 1	400	0	STATES BY COUNTY		Winnebago, Champaign, Fayette	Illinois	2020-12-18	
-1	600	0	STATES BY COUNTY		Autauga, Coosa,Talladega	Alabama	2020-12-18	
+1	600	0	STATES BY COUNTY		Autauga, Coosa, Talladega	Alabama	2020-12-18	
 1	800	0	STATES BY COUNTY		Skagit, Pacific, Snohomish	Washington	2020-12-18	
 1	1000	0	STATES BY COUNTY		Mesa, Cheyenne, Pueblo	Colorado	2020-12-18	
 1	200	0	RUTH BADER GINSBURG	(Alex: A whole category devoted to the late justice.)	Always in style, Justice Ginsburg was famous for wearing "dissent" these; a famous one came from Banana Republic	dissent collar	2020-12-18	
@@ -4378,7 +4377,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	3000	CROSS WORLD CLUES		It is sandwiched between Queensland & Victoria (3,5,5)	New South Wales	2021-01-08	Alex Trebek's final game.
 2	1200	0	CROSS WORLD CLUES		It's on the western cote d'Afrique (4, 1'6)	Côte d'Ivoire	2021-01-08	Alex Trebek's final game.
 2	1600	0	CROSS WORLD CLUES		Hawaiian island associated with the sainted Father Damien (7)	Molokai	2021-01-08	Alex Trebek's final game.
-2	2000	0	CROSS WORLD CLUES		It's Spain's longest river(4)	Ebro	2021-01-08	Alex Trebek's final game.
+2	2000	0	CROSS WORLD CLUES		It's Spain's longest river (4)	Ebro	2021-01-08	Alex Trebek's final game.
 3	0	0	WOMEN & SCIENCE		Dr. Margaret Todd gave science this word for different forms of one basic substance; it's from the Greek for "equal" & "place\"	isotope	2021-01-08	Alex Trebek's final game.
 1	200	0	BEEFY "T"s		This hyphenated "tip" of meat is named for its 3-sided shape	tri-tip	2021-01-11	
 1	400	0	BEEFY "T"s		The beef julienne at Benihana has mushrooms in this sauce	teriyaki	2021-01-11	
@@ -4697,11 +4696,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	SPACE-PODGE		Traveling at up to 500 miles per second, solar wind mainly contains ions of these 2 lightest elements	hydrogen & helium	2021-01-18	
 1	800	0	SPACE-PODGE		Neptune was once called a gas giant, but is now termed this less gassy 3-letter type of giant	an ice giant	2021-01-18	
 1	1000	0	SPACE-PODGE		One of the closest to Earth, the Helix is a ring-shaped one of these clouds of dust & gas	a nebula	2021-01-18	
-1	200	0	CELEBRITY NAMES IN COMMON		Jessica Parker &Michelle Gellar	Sarah	2021-01-18	
-1	400	0	CELEBRITY NAMES IN COMMON		Seacrest &Phillippe	Ryan	2021-01-18	
-1	600	0	CELEBRITY NAMES IN COMMON		Garner &Hudson	Jennifer	2021-01-18	
-1	800	0	CELEBRITY NAMES IN COMMON		Firth &Farrell	Colin	2021-01-18	
-1	1000	0	CELEBRITY NAMES IN COMMON		Oh &Dee	Sandra	2021-01-18	
+1	200	0	CELEBRITY NAMES IN COMMON		Jessica Parker & Michelle Gellar	Sarah	2021-01-18	
+1	400	0	CELEBRITY NAMES IN COMMON		Seacrest & Phillippe	Ryan	2021-01-18	
+1	600	0	CELEBRITY NAMES IN COMMON		Garner & Hudson	Jennifer	2021-01-18	
+1	800	0	CELEBRITY NAMES IN COMMON		Firth & Farrell	Colin	2021-01-18	
+1	1000	0	CELEBRITY NAMES IN COMMON		Oh & Dee	Sandra	2021-01-18	
 1	200	0	FROM D TO D		Beastly cross-country transport in Arctic regions	a dog sled	2021-01-18	
 1	400	0	FROM D TO D		Adjective meaning you are so surprised by something that you do not know what to do or say	dumbfounded	2021-01-18	
 1	600	0	FROM D TO D		The name of these muscles comes from their triangular shape	deltoids	2021-01-18	
@@ -4802,7 +4801,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	GIRL YOU KNOW IT'S TRUE		On Sept. 18, 1872 10 of the 20 female students at Syracuse University formed one of these	a sorority	2021-01-20	
 1	600	0	GIRL YOU KNOW IT'S TRUE		Bleeda Kahlo & Courtney Shove are players in this rough 'n' speedy sport	roller derby	2021-01-20	
 1	800	0	GIRL YOU KNOW IT'S TRUE		On International Women's Day 2020 the Celebrity Edge set sail as the first cruise ship with an all-female this control center	the bridge	2021-01-20	
-1	1000	0	GIRL YOU KNOW IT'S TRUE		The portrait here is of 19th century French empress Eugénie surround by these ladies, you know it's true	ladies-in-waiting	2021-01-20	
 1	200	0	EVERYBODY WANTS TO RULE THE WORLD		\"God's Shadow" is a biography of Ottoman Sultan Selim, whose conquests included this country, in a 1516 battle near Aleppo	Syria	2021-01-20	
 1	400	500	EVERYBODY WANTS TO RULE THE WORLD		For adding areas such as Valencia to his realm, 13th c. King James I of Aragon was known as "Jaime el" this Spanish word	Conquistador	2021-01-20	
 1	600	0	EVERYBODY WANTS TO RULE THE WORLD		In December 1398 Tamerlane sacked this old city in northern India amid great carnage	(Old) Delhi	2021-01-20	
@@ -5080,8 +5078,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	CROSSWORD CLUES "D\"		Predicament you might be caught on the horns of (7)	dilemma	2021-01-26	
 2	800	0	CROSSWORD CLUES "D\"		A steerable airship (9)	a dirigible	2021-01-26	
 2	1200	0	CROSSWORD CLUES "D\"		Ghostly twin (12)	doppelganger	2021-01-26	
-2	1600	0	CROSSWORD CLUES "D\"		A large monkey, or a boring tool(5)	drill	2021-01-26	
-2	2000	0	CROSSWORD CLUES "D\"		It's the "better part of valor"(10)	discretion	2021-01-26	
+2	1600	0	CROSSWORD CLUES "D\"		A large monkey, or a boring tool (5)	drill	2021-01-26	
+2	2000	0	CROSSWORD CLUES "D\"		It's the "better part of valor" (10)	discretion	2021-01-26	
 2	400	0	HISTORIC SURVIVORS	(Jeff Probst: I'm Jeff Probst with a category about real people who faced long odds & challenging conditions to become historical survivors.)	(Jeff Probst presents the clue.) Blinded in an accident at the age of 3, he became a church organist & got a scholarship to the National Institute for Blind Children in Paris, where he went on to teach & develop the system of writing that's name for him	Braille	2021-01-26	
 2	800	0	HISTORIC SURVIVORS	(Jeff Probst: I'm Jeff Probst with a category about real people who faced long odds & challenging conditions to become historical survivors.)	(Jeff Probst presents the clue.) This great Italian tenor was staying at the Palace Hotel in San Francisco when the 1906 earthquake struck; he had performed in "Carmen" the previous night & woke to his room rocking like a boat on the sea	Caruso	2021-01-26	
 2	1200	0	HISTORIC SURVIVORS	(Jeff Probst: I'm Jeff Probst with a category about real people who faced long odds & challenging conditions to become historical survivors.)	(Jeff Probst presents the clue.) Though cold & tired when she reached the "Carpathia" from a Titanic lifeboat, she realized that some women had lost everything, so she rallied first-class passengers & raised $10,000 before the "Carpathia" reached New York; she was unsinkable indeed	Molly Brown	2021-01-26	
@@ -6160,7 +6158,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	To make a summoning gesture to another	beckon	2021-02-19	
 2	800	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	The Coolpix P950 is a digital camera from this Japanese company	Nikon	2021-02-19	
 2	1200	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	This title of albums by R.E.M. & the Grateful Dead means a settling of accounts	Reckoning	2021-02-19	
-2	1600	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	This Asian variety of white radish takes its name from Japanese for "large root"	daikon	2021-02-19	
+2	1600	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	This Asian variety of white radish takes its name from Japanese for "large root\"	daikon	2021-02-19	
 2	2000	0	\"KON"FUSION	(Ken: "K-O-N" will appear in each response, although not at the beginning of the word.)	The Church of Paraportiani is a highlight of this Greek island	Mykonos	2021-02-19	
 2	400	0	REESE'S PIECES OF LITERATURE	(Ken: These are books selected by Reese Witherspoon's Hello Sunshine Book Club.)	\"The Proposal" at the beginning of Jasmine Guillory's novel happens on the JumboTron of this Los Angeles baseball stadium	Dodger Stadium	2021-02-19	
 2	800	0	REESE'S PIECES OF LITERATURE	(Ken: These are books selected by Reese Witherspoon's Hello Sunshine Book Club.)	\"From Scratch" is Tembi Locke's memoir of marrying a chef & eating great food on this Italian island	Sicily	2021-02-19	
@@ -6193,10 +6191,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	THERE'S A BOOK IN MY MOVIE		In "Pleasantville" Reese Witherspoon goes from black & white to color after reading this novel by D.H. Lawrence	Lady Chatterley's Lover	2021-02-22	
 1	1000	0	THERE'S A BOOK IN MY MOVIE		Naturally, "Mastering the Art of French Cooking" is at the heart of this film with Amy Adams & Meryl Streep	Julie & Julia	2021-02-22	
 1	200	0	CROSSWORD CLUES "T\"		Burial vault (4)	tomb	2021-02-22	
-1	400	0	CROSSWORD CLUES "T\"		A hairy, scary spider(9)	tarantula	2021-02-22	
+1	400	0	CROSSWORD CLUES "T\"		A hairy, scary spider (9)	tarantula	2021-02-22	
 1	600	0	CROSSWORD CLUES "T\"		France's flag (8)	tricolor	2021-02-22	
 1	800	0	CROSSWORD CLUES "T\"		Good luck charm (8)	talisman	2021-02-22	
-1	1000	0	CROSSWORD CLUES "T\"		Old-fashioned "fool"ishness(10)	tomfoolery	2021-02-22	
+1	1000	0	CROSSWORD CLUES "T\"		Old-fashioned "fool"ishness (10)	tomfoolery	2021-02-22	
 2	400	0	THROWING THE BOOK AT YOU		The bestseller "Midnight in" this place tells of a 1986 disaster in the Soviet Union	Chernobyl	2021-02-22	
 2	800	0	THROWING THE BOOK AT YOU		Father & daughter go out at night in a children's classic by Jane Yolen titled this bird "Moon\"	Owl Moon	2021-02-22	
 2	1200	0	THROWING THE BOOK AT YOU		The billions made & lost in the real estate crash are detailed in this "large" Michael Lewis bestseller, later a film in 2015	The Big Short	2021-02-22	
@@ -6917,7 +6915,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	WOMEN IN MYTHOLOGY		After Theseus killed the Minotaur, Ariadne helped him escape this intricate maze	the Labyrinth	2021-03-10	
 2	800	0	WOMEN IN MYTHOLOGY		Arachne was changed into this type of animal, the origin of the name of its zoological class	a spider	2021-03-10	
 2	1200	0	WOMEN IN MYTHOLOGY		Thank God it's Freya-day—a day of the week named for the wife of this Norse god	Odin	2021-03-10	
-2	1600	0	WOMEN IN MYTHOLOGY		This Trojan woman is a prophetess in some stories, in the artwork here, she's assaulted by Ajax, who is later drowned by the gods	Cassandra	2021-03-10	
 2	2000	0	WOMEN IN MYTHOLOGY		She helped Jason with a seemingly impossible task—getting the Golden Fleece (which required her to fleece her own dad)	Medea	2021-03-10	
 2	400	0	COLORFUL RIVERS		Rising in Colombia, the Rio Negro (or black river) flows about 1,400 miles before joining this massive river	the Amazon	2021-03-10	
 2	800	0	COLORFUL RIVERS		This headstream branch of the Nile that originates in Ethiopia is the source of almost 70% of its water	the Blue Nile	2021-03-10	
@@ -7104,7 +7101,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	ART		In the 1940s & '50s this artist's drip technique opened the way to what was referred to as "action painting\"	Jackson Pollock	2021-03-15	
 2	1200	0	ART		This sleek style is better known in architecture, but was used in painting, as in Tamara de Lempicka's 1929 self portrait	art deco	2021-03-15	
 2	1600	0	ART		Alessandro Filipepi, Sandro for short, was the real name of this man who painted "La Primavera" around 1480	Botticelli	2021-03-15	
-2	2000	0	ART		(Sarah of the Clue Crew presents from Hauptmarkt Square in Nuremberg, Germany.) Many great artists have called Nuremberg home, including this Renaissance master renown for both paintings like his self-portrait & woodcuts like the series "The Revelation of St. John"	Albrecht Durer	2021-03-15	
+2	2000	0	ART		(Sarah of the Clue Crew presents from Hauptmarkt Square in Nuremberg, Germany.) Many great artists have called Nuremberg home, including this Renaissance master renown for both paintings like his self-portrait & woodcuts like the series "The Revelation of St. John\"	Albrecht Durer	2021-03-15	
 2	400	0	HISTORIC PLACES		St. Croix in the U.S. Virgin Islands has a landing site named for this man's visit on Nov. 14, 1493	Columbus	2021-03-15	
 2	800	0	HISTORIC PLACES		The Clarke House is this U.S. city's oldest, having survived the Great Fire, though it now stands 2 blocks from its original spot	Chicago	2021-03-15	
 2	1200	0	HISTORIC PLACES		Built in 1779 in Shropshire, England, the world's first iron bridge is in an area called the birthplace of this revolution	the Industrial Revolution	2021-03-15	
@@ -7248,8 +7245,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	PEOPLE IN HISTORY		He founded Tuskegee University in 1881 & in 1940 was the first African American on a U.S. postage stamp	Booker T. Washington	2021-03-18	
 1	800	0	PEOPLE IN HISTORY		She spent 2 years in exile in London before returning to Pakistan & winning a historic election	Bhutto	2021-03-18	
 1	1000	0	PEOPLE IN HISTORY		A chief of the Hunkpapa Lakota, he fled with his people to Canada in 1877 rather than surrender to the U.S. government	Sitting Bull	2021-03-18	
-1	200	0	COMPLETE THE AD SLOGAN		Loreal: Because you're____ it	worth	2021-03-18	
-1	400	0	COMPLETE THE AD SLOGAN		Ajax: Stronger than____	dirt	2021-03-18	
+1	200	0	COMPLETE THE AD SLOGAN		Loreal: Because you're ____ it	worth	2021-03-18	
+1	400	0	COMPLETE THE AD SLOGAN		Ajax: Stronger than ____	dirt	2021-03-18	
 1	600	0	COMPLETE THE AD SLOGAN		Sony: Make. ____	Believe	2021-03-18	
 1	800	0	COMPLETE THE AD SLOGAN		Volkswagen, in the '60s: Think ____	small	2021-03-18	
 1	1000	0	COMPLETE THE AD SLOGAN		Smith Barney: They make money the ____-____ way	old-fashioned	2021-03-18	
@@ -7305,7 +7302,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	JOBS IN THE BIBLE		In Luke 2 they're "abiding in the field, keeping watch over their flock by night\"	shepherds	2021-03-19	
 1	400	0	JOBS IN THE BIBLE		In Matthew 4 Jesus is walking by the Sea of Galilee when he sees 2 brothers doing this job & recruits them	fishing	2021-03-19	
 1	600	0	JOBS IN THE BIBLE		Genesis 10 says Nimrod was "a mighty" this "before the Lord\"	hunter	2021-03-19	
-1	800	0	JOBS IN THE BIBLE		Skeptical folks in a synagogue ask, "Is not this the" ____,the son of Mary...?	carpenter	2021-03-19	
+1	800	0	JOBS IN THE BIBLE		Skeptical folks in a synagogue ask, "Is not this the" ____, the son of Mary...?	carpenter	2021-03-19	
 1	1000	0	JOBS IN THE BIBLE		Jesus calls these old-time copyists hypocrites & tells them, "Woe unto you\"	scribes	2021-03-19	
 1	200	0	PIRATE FLAGS		It's the "merry" 2-word name for the skull & crossbones flag	the Jolly Roger	2021-03-19	
 1	400	0	PIRATE FLAGS		These ships in the Royal Navy flew pirate flags upon surfacing while returning to port after sinking enemy ships during war	submarines	2021-03-19	
@@ -7828,9 +7825,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	ENGLISH DRAMA THAT AIN'T SHAKESPEARE		In a "tragical" play by Marlowe, 2 scholars named Cornelius & Valdes teach Doctor this how to summon demons	Doctor Faustus	2021-03-31	
 2	1600	0	ENGLISH DRAMA THAT AIN'T SHAKESPEARE		Richard Sheridan's 18th century comedies of manners include "The School for" this disgrace	Scandal	2021-03-31	
 2	2000	6000	ENGLISH DRAMA THAT AIN'T SHAKESPEARE		This period of the returned monarchy featured plays known for bawdiness, like "The Country Wife\"	Restoration	2021-03-31	
-2	400	0	CROSSWORD CLUES "R\"		Single-horned herbivore(10)	rhinoceros	2021-03-31	
+2	400	0	CROSSWORD CLUES "R\"		Single-horned herbivore (10)	rhinoceros	2021-03-31	
 2	800	0	CROSSWORD CLUES "R\"		The banister of a staircase (7)	a railing	2021-03-31	
-2	1200	0	CROSSWORD CLUES "R\"		An insurgency(9)	rebellion	2021-03-31	
+2	1200	0	CROSSWORD CLUES "R\"		An insurgency (9)	rebellion	2021-03-31	
 2	1600	0	CROSSWORD CLUES "R\"		Contract addendum (5)	a rider	2021-03-31	
 2	2000	0	CROSSWORD CLUES "R\"		Cathedral crucifix (4)	rood	2021-03-31	
 3	0	0	LOGOS		After 9/11, designer Milton Glaser modified this iconic logo of his, adding a bruise & the words "More Than Ever\"	I Heart New York (I Love New York)	2021-03-31	
@@ -7940,7 +7937,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	WOMEN IN CONGRESS		A pacifist from Montana, this first woman elected to Congress voted against U.S. entry into both World War I & II	Rankin	2021-04-02	
 2	400	0	TRIPLE RHYME TIME		A recent azure menagerie	a new blue zoo	2021-04-02	
 2	800	0	TRIPLE RHYME TIME		The pontiff cleanser on a cord	a pope soap on a rope	2021-04-02	
-2	1200	5000	TRIPLE RHYME TIME		The deceased,incredibleMs. Hepburn	the late great Kate	2021-04-02	
+2	1200	5000	TRIPLE RHYME TIME		The deceased, incredible Ms. Hepburn	the late great Kate	2021-04-02	
 2	1600	0	TRIPLE RHYME TIME		A Parisian ditch aroma	a French trench stench	2021-04-02	
 2	2000	0	TRIPLE RHYME TIME		From the capital of Italy, he's an archer & an impresario	a Roman bowman showman	2021-04-02	
 2	400	0	SCIENCE "N" MEDICINE		By definition it's a drug that relieves pain, induces sleep & is mostly derived from opium	a narcotic	2021-04-02	
@@ -8255,7 +8252,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	ART & ARTISTS		Jasper Johns completed the first of his paintings of this in 1955, so he only had to do 48 stars	the U.S. flag	2021-04-12	
 1	400	0	ART & ARTISTS		In 1924 Andre Breton left this art -ism to help begin the equally wacky Surrealism	Dadaism	2021-04-12	
 1	600	0	ART & ARTISTS		The subject of a 2014 film, Margaret Keane was noted for her paintings of waifs with this distinction, the film's title	big eyes	2021-04-12	
-1	800	0	ART & ARTISTS		"Apples and Oranges" is by this influential post-impressionist whom Henri Matisse called "The Father of Us All\"	(Paul) Cézanne	2021-04-12	
+1	800	0	ART & ARTISTS		\"Apples and Oranges" is by this influential post-impressionist whom Henri Matisse called "The Father of Us All\"	(Paul) Cézanne	2021-04-12	
 1	1000	0	ART & ARTISTS		Historically impossible, this Raphael painting put Pythagoras, Epicurus, Socrates & Diogenes all in one "School\"	the Athens School	2021-04-12	
 1	200	0	FORMER WEBSITES		Altavista was a groundbreaking one of these; then it was gobbled up by Yahoo!	a search engine	2021-04-12	
 1	400	0	FORMER WEBSITES		In between launching Saturn & Dreamcast consoles, this company tried the subscription service heat.net	Sega	2021-04-12	
@@ -9040,11 +9037,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	GEOGRAPHIC TOP 10s		3 of the world's 10 wettest spots are in this U.S. state	Hawaii	2021-04-29	
 1	800	0	GEOGRAPHIC TOP 10s		This Japanese island is the world's 7th largest	Honshu	2021-04-29	
 1	1000	0	GEOGRAPHIC TOP 10s		This mountain chain that extends some 1,500 miles from Morocco to Tunisia is the world's 7th longest	the Atlas Mountains	2021-04-29	
-1	200	0	MASTERPIECE/THEATER		Life hasn't turned out so well for Biff & Happy Loman in this play, which has a massive spoiler for a title	Death of a Salesman	2021-04-29	
-1	400	0	MASTERPIECE/THEATER		After doling out wish fulfillment nightly, James Monroe Iglehart got one for himself with a 2014 Tony win for this musical role	the Genie	2021-04-29	
-1	600	0	MASTERPIECE/THEATER		This artist used his signature gold leaf technique on one of his 2 portraits of Viennese society woman Adele Bloch-Bauer	(Gustav) Klimt	2021-04-29	
-1	800	0	MASTERPIECE/THEATER		Kate & Petruchio butt heads, to say the least, in this classic play first printed in 1623	The Taming of the Shrew	2021-04-29	
-1	1000	0	MASTERPIECE/THEATER		\"The Persistence of Memory", a 1931 oil-on-canvas piece by him, is on display at MOMA, & you can set your watch by that	(Salvador) Dalí	2021-04-29	
+1	200	0	MASTERPIECE/ THEATER		Life hasn't turned out so well for Biff & Happy Loman in this play, which has a massive spoiler for a title	Death of a Salesman	2021-04-29	
+1	400	0	MASTERPIECE/ THEATER		After doling out wish fulfillment nightly, James Monroe Iglehart got one for himself with a 2014 Tony win for this musical role	the Genie	2021-04-29	
+1	600	0	MASTERPIECE/ THEATER		This artist used his signature gold leaf technique on one of his 2 portraits of Viennese society woman Adele Bloch-Bauer	(Gustav) Klimt	2021-04-29	
+1	800	0	MASTERPIECE/ THEATER		Kate & Petruchio butt heads, to say the least, in this classic play first printed in 1623	The Taming of the Shrew	2021-04-29	
+1	1000	0	MASTERPIECE/ THEATER		\"The Persistence of Memory", a 1931 oil-on-canvas piece by him, is on display at MOMA, & you can set your watch by that	(Salvador) Dalí	2021-04-29	
 1	200	0	ANNOYING WORD!		A proverbial "pet" one can be about people who are always late to meetings	a peeve	2021-04-29	
 1	400	0	ANNOYING WORD!		It precedes "feathers" when you upset someone	ruffle	2021-04-29	
 1	600	0	ANNOYING WORD!		To make one listless through monotony; you can also go "full-" this when employing maximum effort	bore	2021-04-29	
@@ -9226,7 +9223,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	POP CULTURE		To promote his album "The Life of Pablo", this rapper opened a series of pop-up stores around the world	Kanye West	2021-05-04	
 1	800	0	POP CULTURE		An industrious raccoon named Tom Nook runs the in-game business in this Nintendo game: "New Horizons\"	Animal Crossing	2021-05-04	
 1	1000	0	POP CULTURE		Mobster & assassin Frank Sheeran is the title character of this 2019 Martin Scorsese mob epic	The Irishman	2021-05-04	
-1	200	0	CROSSWORD CLUES "F\"		Spurious synonym(4 letters)	fake	2021-05-04	
+1	200	0	CROSSWORD CLUES "F\"		Spurious synonym (4 letters)	fake	2021-05-04	
 1	400	0	CROSSWORD CLUES "F\"		An Armada (5 letters)	a fleet	2021-05-04	
 1	600	0	CROSSWORD CLUES "F\"		Countertop laminate, 1960s style (7 letters)	Formica	2021-05-04	
 1	800	0	CROSSWORD CLUES "F\"		A vestibule (5 letters)	foyer	2021-05-04	
@@ -9560,7 +9557,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	THE WORST PART OF WAKING UP		Lacrimal gland production is lowest during sleep, so this rhyming disorder is often worse when waking	dry eye	2021-05-12	
 1	200	0	THE MEASURE OF A FILM		2012: "Attack of the 50 ____ Cheerleader\"	Foot	2021-05-12	
 1	400	0	THE MEASURE OF A FILM		2002: "8 ____", featuring music	Mile	2021-05-12	
-1	600	0	THE MEASURE OF A FILM		1999: "8____"featuring Nic Cage	mm	2021-05-12	
+1	600	0	THE MEASURE OF A FILM		1999: "8____" featuring Nic Cage	mm	2021-05-12	
 1	800	0	THE MEASURE OF A FILM		2001: "Hedwig & the ____ ____\"	Angry Inch	2021-05-12	
 1	1000	0	THE MEASURE OF A FILM		1953: "The Beast from 20,000 ____\"	Fathoms	2021-05-12	
 1	200	0	NAPOLEON THE INNOVATOR		This reading system for the blind began as a challenge by Napoleon to find a way for soldiers to communicate silently in the dark	Braille	2021-05-12	
@@ -9903,7 +9900,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Hidalgo & Mine That Bird	horses	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
 2	800	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Eeyore & Puzzle	donkeys	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
 2	1200	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Ranger & Francis (who talked)	mules	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
-2	1600	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Marty & the San Diego Zoo'sRobert	zebras	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
+2	1600	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Marty & the San Diego Zoo's Robert	zebras	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
 2	2000	0	MANE'S THE SAME	(Buzzy: You'll name the type of animal.)	Lippy & Kovu	two lions	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
 3	0	0	MIDDLE EASTERN GEOGRAPHY		Of the 6 countries that border the Red Sea, it's last alphabetically	Yemen	2021-05-19	2021 Tournament of Champions quarterfinal game 3.
 1	200	0	THE CONSTITUTION		In all legal cases with a state as one party, this body "shall have original jurisdiction\"	the Supreme Court	2021-05-20	2021 Tournament of Champions quarterfinal game 4.
@@ -10064,7 +10061,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	ON THE RIVER		Waldpark Mannheim, Cologne Cathedral	the Rhine	2021-05-24	2021 Tournament of Champions semifinal game 1.
 2	1200	0	ON THE RIVER		Cincinnati Municipal Airport, Wheeling Suspension Bridge	the Ohio	2021-05-24	2021 Tournament of Champions semifinal game 1.
 2	1600	0	ON THE RIVER		Museo del Greco & Lisbon Oceanarium	the Tagus	2021-05-24	2021 Tournament of Champions semifinal game 1.
-2	2000	0	ON THE RIVER		Ciudad Bolívar,Ciudad Guayana	the Orinoco	2021-05-24	2021 Tournament of Champions semifinal game 1.
+2	2000	0	ON THE RIVER		Ciudad Bolívar, Ciudad Guayana	the Orinoco	2021-05-24	2021 Tournament of Champions semifinal game 1.
 2	400	0	NON-ITALIAN ROMAN EMPEROR		The ashes of this Roman emperor who was originally from Spain are said to have been placed in his column in 117 A.D.	Trajan	2021-05-24	2021 Tournament of Champions semifinal game 1.
 2	800	0	NON-ITALIAN ROMAN EMPEROR		Maximinus Thrax got his heavy metal name because he was born in this ancient region spanning Greece, Turkey & Bulgaria	Thrace	2021-05-24	2021 Tournament of Champions semifinal game 1.
 2	1200	8000	NON-ITALIAN ROMAN EMPEROR		Claudius & Caracalla were born in this Roman region in what is now the city of Lyon	Gaul	2021-05-24	2021 Tournament of Champions semifinal game 1.
@@ -10177,8 +10174,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	SEEING RED		She's draped in red in a 16th century work by Giorgione	(the Virgin) Mary	2021-05-26	2021 Tournament of Champions semifinal game 3.
 2	800	0	SEEING RED		The title of this work is Spanish for the man wielding the red cape	matador	2021-05-26	2021 Tournament of Champions semifinal game 3.
 2	1200	0	SEEING RED		A painting by Kazamir Malevich in the Russian State Museum has this appropriate geometric title	Red Square	2021-05-26	2021 Tournament of Champions semifinal game 3.
-2	1600	0	SEEING RED		"Red Virginia Creeper" is by this great Scandinavian	Edvard Munch	2021-05-26	2021 Tournament of Champions semifinal game 3.
-2	2000	0	SEEING RED		"Red, Yellow, Red" is one of this abstract artist's color field paintings	Rothko	2021-05-26	2021 Tournament of Champions semifinal game 3.
+2	1600	0	SEEING RED		\"Red Virginia Creeper" is by this great Scandinavian	Edvard Munch	2021-05-26	2021 Tournament of Champions semifinal game 3.
+2	2000	0	SEEING RED		\"Red, Yellow, Red" is one of this abstract artist's color field paintings	Rothko	2021-05-26	2021 Tournament of Champions semifinal game 3.
 2	400	0	IT'S A MIRAGE		Mirages are a common sight in Namibia's Etosha pan, a vast, dry plain mainly covered in this mineral	salt	2021-05-26	2021 Tournament of Champions semifinal game 3.
 2	800	0	IT'S A MIRAGE		The French-made Mirage fighter jet is known as Shahak, or "heavens", in this country that's used it to great effect	Israel	2021-05-26	2021 Tournament of Champions semifinal game 3.
 2	1200	0	IT'S A MIRAGE		A mirage in which the Sun appears to have another sun below it is called this type, after the Greek letter it resembles	omega	2021-05-26	2021 Tournament of Champions semifinal game 3.
@@ -10254,11 +10251,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	SCIENCE & NATURE		Here's the crepe type of this tree in full bloom	myrtle	2021-05-27	2021 Tournament of Champions final game 1.
 2	1200	0	SCIENCE & NATURE		Bionomics is another name for this -ology	ecology	2021-05-27	2021 Tournament of Champions final game 1.
 2	2000	0	SCIENCE & NATURE		This distant "cloud" named for an astronomer is thought to be the source of long-period comets	the Oort Cloud	2021-05-27	2021 Tournament of Champions final game 1.
-2	400	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Hank ____ ____Giamatti	Aaron Paul	2021-05-27	2021 Tournament of Champions final game 1.
-2	800	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Philip K. ____ ____Gable	Dick Clark	2021-05-27	2021 Tournament of Champions final game 1.
-2	1200	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	James____ ____Scorsese	Dean Martin	2021-05-27	2021 Tournament of Champions final game 1.
-2	1600	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Lenny____ ____Greenwood	Bruce Lee	2021-05-27	2021 Tournament of Champions final game 1.
-2	2000	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	David Foster____ ____Mendes	Wallace Shawn	2021-05-27	2021 Tournament of Champions final game 1.
+2	400	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Hank ____ ____ Giamatti	Aaron Paul	2021-05-27	2021 Tournament of Champions final game 1.
+2	800	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Philip K. ____ ____ Gable	Dick Clark	2021-05-27	2021 Tournament of Champions final game 1.
+2	1200	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	James ____ ____ Scorsese	Dean Martin	2021-05-27	2021 Tournament of Champions final game 1.
+2	1600	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	Lenny ____ ____ Greenwood	Bruce Lee	2021-05-27	2021 Tournament of Champions final game 1.
+2	2000	0	CELEB NAME IN THE MIDDLE	(Buzzy: You'll fill in the blanks with the celebrity name.)	David Foster ____ ____ Mendes	Wallace Shawn	2021-05-27	2021 Tournament of Champions final game 1.
 2	400	0	LOSING YOUR RELIGION		Losing the second letter in a word for a sacred Bible hymn gets you this body part	the palm	2021-05-27	2021 Tournament of Champions final game 1.
 2	800	0	LOSING YOUR RELIGION		A place of worship sacred to Jews & Mormons alike loses a letter, becoming this Arizona metropolis	Tempe	2021-05-27	2021 Tournament of Champions final game 1.
 2	1200	0	LOSING YOUR RELIGION		A type of holy man loses the last letter of his title & does this, snoops into others' business	pries	2021-05-27	2021 Tournament of Champions final game 1.
@@ -10278,7 +10275,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	THAT'S GARBAGE!		As well as rubbish by the roadside, it can mean a stretcher for an injured person	litter	2021-05-28	2021 Tournament of Champions final game 2.
 1	600	0	THAT'S GARBAGE!		As a verb it means to drink greedily or guzzle; as a noun it's slop for swine	swill	2021-05-28	2021 Tournament of Champions final game 2.
 1	800	0	THAT'S GARBAGE!		Dregs or leavings; Emma Lazarus had "wretched" precede it	refuse	2021-05-28	2021 Tournament of Champions final game 2.
-1	1000	0	THAT'S GARBAGE!		"The Pilgrim's Progress" gave us the man with this rake, determined to keep working away in the filth	a muck rake	2021-05-28	2021 Tournament of Champions final game 2.
+1	1000	0	THAT'S GARBAGE!		\"The Pilgrim's Progress" gave us the man with this rake, determined to keep working away in the filth	a muck rake	2021-05-28	2021 Tournament of Champions final game 2.
 1	200	0	CLASSIC TOYS & GAMES		The name of this block-stacking game comes from a Swahili word for "build\"	Jenga	2021-05-28	2021 Tournament of Champions final game 2.
 1	400	0	CLASSIC TOYS & GAMES		Combining silicone oil & boric acid creates the bouncy, moldable material first sold as this in 1949	Silly Putty	2021-05-28	2021 Tournament of Champions final game 2.
 1	600	0	CLASSIC TOYS & GAMES		In Clue, this weapon may be found in the dining room but can be used to illuminate any room of the mansion	the candlestick	2021-05-28	2021 Tournament of Champions final game 2.
@@ -10686,7 +10683,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	A boy (3 letters)	a lad	2021-06-08	
 1	400	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	Found on the seashore (4 letters)	sand	2021-06-08	
 1	600	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	To govern (4 letters)	rule	2021-06-08	
-1	800	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	To elude (5 letters)also starts & ends with "E\"	evade	2021-06-08	
+1	800	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	To elude (5 letters) also starts & ends with "E\"	evade	2021-06-08	
 1	1000	0	CLUES FROM THE FIRST CROSSWORD PUZZLE	(Mayim: Published in 1913.)	A daydream (7 letters) we'll spot you the first letter, "R\"	a reverie	2021-06-08	
 1	200	0	WELCOME TO THE PARTY		She voted for Carter in 1976 as a registered Democrat, but soon switched & later served as Secretary of State under George W. Bush	Condoleezza Rice	2021-06-08	
 1	400	0	WELCOME TO THE PARTY		In 1962 this future president said, "I didn't leave the Democratic Party. The party left me\"	Ronald Reagan	2021-06-08	
@@ -10811,10 +10808,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	GAME		Make "room" for Change Seats! & Wink Murder, 2 of Mental Floss' 14 of these kind of "games to bring back" for the holidays	parlor games	2021-06-10	
 1	800	0	GAME		In 1996 the New Zealand All Blacks beat Australia 43-6 in the first tri-nations tourney in this tough sport	rugby	2021-06-10	
 1	1000	0	GAME		Handicaps & divots are in this sport, but don't say golf; there is also penalty 3, a free hit from 40 yards to an open goal	polo	2021-06-10	
-1	200	0	SET		The symbol here denotes this, also known as a null set	void (an empty set)	2021-06-10	
 1	400	0	SET		It's the intersection of the set {3, 4, 5} with the set of prime numbers	3 & 5	2021-06-10	
 1	600	0	SET		A one-to-one this between 2 sets means their members can be precisely paired, not that they're exchanging letters	corresponding	2021-06-10	
-1	800	0	SET		Meaning the combination of two sets, the symbol here is called this, the shape may give you a hint	union	2021-06-10	
 1	1000	800	SET		This type of diagram that uses overlapping circles to illustrate 2 set relationships is named for a 19th century Englishman	a Venn diagram	2021-06-10	
 1	200	0	MATCH		A twinset is a matching pullover & this type of open-front sweater, worn together	a cardigan	2021-06-10	
 1	400	0	MATCH		A spectrophotometer can be used to match colors of this, whether from Behr or Benjamin Moore	paint	2021-06-10	
@@ -11220,7 +11215,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	SOME RANDOM INFO		The last person to receive a pension from this war died in 2020; the 90-year-old woman's dad changed sides midway through	the American Civil War	2021-06-21	
 1	800	0	SOME RANDOM INFO		Bruce Peterson's horrific 1967 crash of Northrop's M2-F2 was in this 1970s TV series opening; Peterson survived, but without bionics	The Six Million Dollar Man	2021-06-21	
 1	1000	0	SOME RANDOM INFO		This app that took a wild ride in 2021 with stocks like AMC Theatres was formed in 2015 to democratize investing	Robinhood	2021-06-21	
-1	200	0	MOVIE TITLE MIDDLE WORD		Henry Fonda & a jury decide a fate(1957)	\"Angry\"	2021-06-21	
+1	200	0	MOVIE TITLE MIDDLE WORD		Henry Fonda & a jury decide a fate (1957)	\"Angry\"	2021-06-21	
 1	400	0	MOVIE TITLE MIDDLE WORD		O'shea Jackson Jr. plays Ice Cube (his dad) (2015)	\"Outta\"	2021-06-21	
 1	600	0	MOVIE TITLE MIDDLE WORD		Robin Williams tells his students to seize the day (1989)	\"Poets\"	2021-06-21	
 1	800	0	MOVIE TITLE MIDDLE WORD		Hilary Swank hits like a girl—a really, really powerful girl (2004)	\"Dollar\"	2021-06-21	
@@ -11701,7 +11696,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	THE MOVIE IN QUESTION		1993, starring a young Johnny Depp: "What's Eating Gilbert ____\"	Grape	2021-07-01	
 1	400	0	THE MOVIE IN QUESTION		1937, starring Fred Astaire & Ginger Rogers: "Shall We ____\"	Dance	2021-07-01	
 1	600	0	THE MOVIE IN QUESTION		1977, starring Richard Pryor: "Which Way Is ____?\"	Up	2021-07-01	
-1	800	0	THE MOVIE IN QUESTION		2000, set in the 1930s: "O ____ ,____ ____ ____?\"	O Brother, Where Are Thou?	2021-07-01	
+1	800	0	THE MOVIE IN QUESTION		2000, set in the 1930s: "O ____ , ____ ____ ____?\"	O Brother, Where Are Thou?	2021-07-01	
 1	200	0	\"C" AS IN CAT		Sadly, this fast spotted cat hasn't prospered—it's endangered	a cheetah	2021-07-01	
 1	400	0	\"C" AS IN CAT		The puma is also known as the catamount & this other "c"at	the cougar	2021-07-01	
 1	600	0	\"C" AS IN CAT		Cats with this coat pattern caused by a genetic anomaly are almost always female	calico	2021-07-01	
@@ -11860,7 +11855,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	DRUNK HISTORY		Still in business today, Japan's Sudo Honke brewery has been turning rice & water into this since the 12th century	sake	2021-07-05	
 2	800	0	DRUNK HISTORY		The Bols family began distilling Genever, also known as "Hollands" or "Dutch" this liquor, in 1664	gin	2021-07-05	
 2	1200	0	DRUNK HISTORY		This liqueur dates back to the 16th century; in the 20th, it was bottled with brandy as B&B	Benedictine	2021-07-05	
-2	1600	3400	DRUNK HISTORY		Year in which the photo here was taken	1933	2021-07-05	
 2	2000	0	DRUNK HISTORY		Before the Rothschilds bought it, Chateau this was one of 4 top-rated wineries in France's 1855 official ranking	Lafite	2021-07-05	
 3	0	0	WORLD GEOGRAPHY		On either side of Indochina are these 2 gulfs that start with the same letter	the Gulf of Tonkin & the Gulf of Thailand	2021-07-05	
 1	200	0	AMERICANA		This hero of a folk ballad says, "If I can't beat this steam drill down, I'll die with this hammer in my hand!\"	John Henry	2021-07-06	
@@ -12360,7 +12354,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	\"O"PPOSITES		Of vacant (8 letters)	occupied	2021-07-16	
 1	400	0	\"O"PPOSITES		Of written (4 letters)	oral	2021-07-16	
 1	600	0	\"O"PPOSITES		Of chaos (5 letters)	order	2021-07-16	
-1	800	3000	\"O"PPOSITES		Of powerless(10 letters)	omnipotent	2021-07-16	
+1	800	3000	\"O"PPOSITES		Of powerless (10 letters)	omnipotent	2021-07-16	
 1	1000	0	\"O"PPOSITES		Of pellucid (6 letters)	opaque	2021-07-16	
 1	200	0	GRAMMY WINNERS		2020: It was a family affair for her & daughter Blue Ivy Carter, winning for the video "Brown Skin Girl\"	Beyoncé	2021-07-16	
 1	400	0	GRAMMY WINNERS		2008: Not in attendance, she dominated the evening, winning 5 awards	Winehouse	2021-07-16	
@@ -13110,8 +13104,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 3	0	0	ASIA		This country became independent in 1946; in 1964 it officially switched its independence day from July 4 to June 12	the Philippines	2021-08-03	
 1	200	0	AUDIBLE		She gives her life in lyrics in "Songteller" "Well, I've often said that my songs are my children and I expect them to support me when I'm old. Well, I am old and they are!\"	Parton	2021-08-04	
 1	400	0	AUDIBLE		Known for nothing, this funny guy narrates his memoir called "Is This Anything?" "I was a very, very nervous performer when I first began going onstage. But I was encouraged by my Queens College friends Jesse Michnik, Joe Bacino and Mike Costanza.\"	(Jerry) Seinfeld	2021-08-04	
-1	600	0	AUDIBLE		Feel your pulse pound with a 1988 bestseller by this action novelist"Look, Dr. Ryan," the general started to say. Jack cut him off. "General, I am cleared for Tea Clipper. You know that, so let's stop screwing around.\"	(Tom) Clancy	2021-08-04	
-1	800	0	AUDIBLE		Johnny Depp got the honor of bringing this guitar legend's memoir to life"Mick and I knew each other just because we happened to live very close, just a few door away, with a bit of schooling thrown in.\"	Keith Richards	2021-08-04	
+1	600	0	AUDIBLE		Feel your pulse pound with a 1988 bestseller by this action novelist "Look, Dr. Ryan," the general started to say. Jack cut him off. "General, I am cleared for Tea Clipper. You know that, so let's stop screwing around.\"	(Tom) Clancy	2021-08-04	
+1	800	0	AUDIBLE		Johnny Depp got the honor of bringing this guitar legend's memoir to life "Mick and I knew each other just because we happened to live very close, just a few door away, with a bit of schooling thrown in.\"	Keith Richards	2021-08-04	
 1	1000	0	AUDIBLE		This actor bares all in his memoir "Greenlights" "I've had four concussions from falling out of four trees, three of them on a full moon. I have bongoed naked until the cops arrested me.\"	(Matthew) McConaughey	2021-08-04	
 1	200	0	THE 16th CENTURY		Some were suspicious in 1560 when Amy Robsart died at 28 just when her husband the Earl of Leicester was hoping to marry this queen	Elizabeth	2021-08-04	
 1	400	0	THE 16th CENTURY		In 1593 a Thai king & a Burmese prince settled a battle one-on-one, riding on these; the king won	elephants	2021-08-04	

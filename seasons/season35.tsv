@@ -362,9 +362,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	ONE-SYLLABLE CITIES		A huge Reformation monument stands in this city where Martin Luther stood before the diet in 1521	Worms	2018-09-18	
 1	200	0	QROSSWORD QLUES "Q\"		Little game bird (5)	a quail	2018-09-18	
 1	400	0	QROSSWORD QLUES "Q\"		Nauseated (6)	queasy	2018-09-18	
-1	600	0	QROSSWORD QLUES "Q\"		Flavor-ful physics particle(5)	a quark	2018-09-18	
-1	800	0	QROSSWORD QLUES "Q\"		To guzzle(5)	quaff	2018-09-18	
-1	1000	0	QROSSWORD QLUES "Q\"		Astringent fruit(6)	quince	2018-09-18	
+1	600	0	QROSSWORD QLUES "Q\"		Flavor-ful physics particle (5)	a quark	2018-09-18	
+1	800	0	QROSSWORD QLUES "Q\"		To guzzle (5)	quaff	2018-09-18	
+1	1000	0	QROSSWORD QLUES "Q\"		Astringent fruit (6)	quince	2018-09-18	
 1	200	0	PSA MASCOTS		Here are Vince & Larry, two of these 3-word guys who helped America use seat belts	crash test dummies	2018-09-18	
 1	400	0	PSA MASCOTS		This crime dog is hungry for justice	McGruff the Crime Dog	2018-09-18	
 1	600	0	PSA MASCOTS		Daren the Lion, D.A.R.E.'s mascot, wants you to say no to these	drugs	2018-09-18	
@@ -495,8 +495,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	ACTING THE PART		Katniss	Jennifer Lawrence	2018-09-20	
 2	800	0	ACTING THE PART		Jake Shuttlesworth, Easy Rawlins	Denzel Washington	2018-09-20	
 2	1200	0	ACTING THE PART		J, Bagger, Tea Cake Walters	Will Smith	2018-09-20	
-2	1600	0	ACTING THE PART		Renton, Obi-Wan Kenobi, Phillip Morris,Rodney Copperbottom	Ewan McGregor	2018-09-20	
-2	2000	0	ACTING THE PART		Cataleya,Graciela,Gamora,Neytiri,Uhura	Zoe Saldana	2018-09-20	
+2	1600	0	ACTING THE PART		Renton, Obi-Wan Kenobi, Phillip Morris, Rodney Copperbottom	Ewan McGregor	2018-09-20	
+2	2000	0	ACTING THE PART		Cataleya, Graciela, Gamora, Neytiri, Uhura	Zoe Saldana	2018-09-20	
 2	400	0	ISLANDS IN THE SEA		Barbuda & Basse-Terre	the Caribbean Sea	2018-09-20	
 2	800	0	ISLANDS IN THE SEA		The Pribilof Islands	the Bering Sea	2018-09-20	
 2	1200	0	ISLANDS IN THE SEA		The Cyclades	the Aegean	2018-09-20	
@@ -606,9 +606,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	WORDS FROM THE COMICS		This 2-word name for a rich benefactor comes from a "Little Orphan Annie" character	Daddy Warbucks	2018-09-24	
 1	1000	0	WORDS FROM THE COMICS		Lockheed Martin adopted the name "Skunk Works" from a similar name for a backwoods still in this comic strip	Li'l Abner	2018-09-24	
 1	200	0	IN THE "FOR" CAST		1994: Sally Field, Tom Hanks, Robin Wright	Forrest Gump	2018-09-24	
-1	400	0	IN THE "FOR" CAST		1992: Clint Eastwood, Gene Hackman,Morgan Freeman	Unforgiven	2018-09-24	
-1	600	0	IN THE "FOR" CAST		2008: Russell Brand,Mila Kunis,Jason Segel	Forgetting Sarah Marshall	2018-09-24	
-1	800	0	IN THE "FOR" CAST		2006: Hugo Weaving,Natalie Portman,John Hurt	V for Vendetta	2018-09-24	
+1	400	0	IN THE "FOR" CAST		1992: Clint Eastwood, Gene Hackman, Morgan Freeman	Unforgiven	2018-09-24	
+1	600	0	IN THE "FOR" CAST		2008: Russell Brand, Mila Kunis, Jason Segel	Forgetting Sarah Marshall	2018-09-24	
+1	800	0	IN THE "FOR" CAST		2006: Hugo Weaving, Natalie Portman, John Hurt	V for Vendetta	2018-09-24	
 1	1000	0	IN THE "FOR" CAST		1971: Sean Connery, Charles Gray, Jill St. John	Diamonds Are Forever	2018-09-24	
 2	400	0	poetry		archy, created by don marquis, writes in lower case; he's a cockroach & can't press a letter & this key at the same time	shift	2018-09-24	
 2	800	0	poetry		\"i carry your heart with me" & "i am so glad and very" are efforts from this twentieth century poet famous for using lower case	ee cummings	2018-09-24	
@@ -831,7 +831,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	TV CRIMESOLVERS		This alliterative Oscar-winning actress was our "Saving Grace" from 2007 to 2010	Holly Hunter	2018-09-28	
 1	200	0	PARTS OF THE WHOLE		Colophon, frontispiece, spine	a book	2018-09-28	
 1	400	0	PARTS OF THE WHOLE		Cork, cowhide, 108 stitches	a baseball	2018-09-28	
-1	600	0	PARTS OF THE WHOLE		Belt,stylus,tonearm	a phonograph (or turntable)	2018-09-28	
+1	600	0	PARTS OF THE WHOLE		Belt, stylus, tonearm	a phonograph (or turntable)	2018-09-28	
 1	800	0	PARTS OF THE WHOLE		Pin, hose, a pressurized tank filled with chemicals such as potassium bicarbonate or just water	a fire extinguisher	2018-09-28	
 1	1000	0	PARTS OF THE WHOLE		Magnetron, stirrer fan, shielded door	microwave	2018-09-28	
 1	200	0	PUB GRUB		As their name implies, these mini-burgers go down quite easily, especially with a couple of beers	sliders	2018-09-28	
@@ -1268,7 +1268,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	BEFORE & AFTER AT THE MALL		The 20% off coupons an alliterative home store mails out include the lyrics "My love stands on golden sand\"	Bed Bath & "Beyond The Sea\"	2018-10-09	
 2	400	0	CROSSWORD CLUES "Y\"		Desire for Japanese currency? (3)	yen	2018-10-09	
 2	800	0	CROSSWORD CLUES "Y\"		\"In a new town"? "It's fun to stay" here (4)	the YMCA	2018-10-09	
-2	1200	0	CROSSWORD CLUES "Y\"		To give way(5)	yield	2018-10-09	
+2	1200	0	CROSSWORD CLUES "Y\"		To give way (5)	yield	2018-10-09	
 2	400	0	OTHER CONSTITUTIONS		Afghanistan: "No law shall contravene the tenets and provisions of" this faith	Islam	2018-10-09	
 2	800	0	OTHER CONSTITUTIONS		Denmark: "The form of government shall be that of a constitutional" this	a monarchy	2018-10-09	
 2	1200	0	OTHER CONSTITUTIONS		\"The republic of Poland shall take special care of" these, "particularly war invalids\"	veterans	2018-10-09	
@@ -1956,11 +1956,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	CONQUISTADORS		Despite retaking this Incan capital, Diego de Almagro was killed for imprisoning Pizarro's brothers	Cuzco	2018-10-25	
 2	400	0	LONG MOVIES		In 1996 a Kenneth Branagh film fit this Shakespeare tragedy into just over 4 hours	Hamlet	2018-10-25	
 2	800	0	LONG MOVIES		A 2016 British film has this happening on a wall for 10 hours—the color is white, if you are wondering	paint drying	2018-10-25	
-2	400	0	TOOLS OF THEIR TRADE		Axe,foam,hydrant wrench	a firefighter	2018-10-25	
-2	800	0	TOOLS OF THEIR TRADE		Wheel, kiln,glazing tongs	a porcelain worker	2018-10-25	
-2	1200	0	TOOLS OF THEIR TRADE		Hammer,anvil, forge	a blacksmith	2018-10-25	
+2	400	0	TOOLS OF THEIR TRADE		Axe, foam, hydrant wrench	a firefighter	2018-10-25	
+2	800	0	TOOLS OF THEIR TRADE		Wheel, kiln, glazing tongs	a porcelain worker	2018-10-25	
+2	1200	0	TOOLS OF THEIR TRADE		Hammer, anvil, forge	a blacksmith	2018-10-25	
 2	1600	0	TOOLS OF THEIR TRADE		Air compressor, strut compressor, oil drain	an auto mechanic	2018-10-25	
-2	2000	0	TOOLS OF THEIR TRADE		Mouth gag,cropping tools, spay hook	a veterinarian	2018-10-25	
+2	2000	0	TOOLS OF THEIR TRADE		Mouth gag, cropping tools, spay hook	a veterinarian	2018-10-25	
 2	400	0	FICTIONAL BOOKS IN BOOKS		\"The Secret Goldfish" by D.B. Caulfield is mentioned in this work	Catcher in the Rye	2018-10-25	
 2	800	0	FICTIONAL BOOKS IN BOOKS		Hand me the "Encyclopedia Galactica", a work often referenced in this author's "Foundation" series	(Isaac) Asimov	2018-10-25	
 2	1200	0	FICTIONAL BOOKS IN BOOKS		\"The Theory & Practice of Oligarchical Collectivism" by Goldstein appears in this dystopian work	1984	2018-10-25	
@@ -2538,10 +2538,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	WOMEN AUTHORS		Astrid Lindgren created this redheaded girl with an odd fashion sense	Pippi Longstocking	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	2000	0	WOMEN AUTHORS		Rainbow Rowell writes about first love in the novel "Eleanor &" him	Eleanor & Park	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	400	0	THE TV SHOW'S CHARACTERS		Get animated: Finn, Jake the Dog, Princess Bubblegum	Adventure Time	2018-11-08	2018 Teen Tournament quarterfinal game 2.
-2	800	0	THE TV SHOW'S CHARACTERS		Future imperfect: Serena Joy,Ofglen	The Handmaid's Tale	2018-11-08	2018 Teen Tournament quarterfinal game 2.
+2	800	0	THE TV SHOW'S CHARACTERS		Future imperfect: Serena Joy, Ofglen	The Handmaid's Tale	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	1200	0	THE TV SHOW'S CHARACTERS		In a spin-off: Madison Clark, Ofelia Salazar	Fear the Walking Dead	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	1600	0	THE TV SHOW'S CHARACTERS		A numeric title: Clarke Griffin, Marcus Kane	The 100	2018-11-08	2018 Teen Tournament quarterfinal game 2.
-2	2000	0	THE TV SHOW'S CHARACTERS		A divine series; Laura Moon,Mr. World, Technical Boy	American Gods	2018-11-08	2018 Teen Tournament quarterfinal game 2.
+2	2000	0	THE TV SHOW'S CHARACTERS		A divine series; Laura Moon, Mr. World, Technical Boy	American Gods	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	400	0	HEALTH & MEDICINE		The CDC says a buildup of this gas in the home can't be seen or smelled but it can kill, so make sure you have a working detector	carbon monoxide	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	800	0	HEALTH & MEDICINE		The American Dental Association recommends doing this with an interdental cleaner at least once a day	flossing	2018-11-08	2018 Teen Tournament quarterfinal game 2.
 2	1200	0	HEALTH & MEDICINE		People who experience life-threatening events may develop PTSD, short for this	post-traumatic stress disorder	2018-11-08	2018 Teen Tournament quarterfinal game 2.
@@ -2716,7 +2716,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	800	WHERE ARE WE?		(Jimmy of the Clue Crew presents.) I'm in this city on the Mississippi that's named for a French king & actually belonged to France from 1800 to 1803	St. Louis	2018-11-13	2018 Teen Tournament quarterfinal game 5.
 2	2000	0	WHERE ARE WE?		(Sarah of the Clue Crew presents.) I'm about midway between the Capitol & the Lincoln Memorial, right in the middle of this 2 & a half mile expanse known as "America's front yard\"	the National Mall	2018-11-13	2018 Teen Tournament quarterfinal game 5.
 2	400	0	YOU'VE GOT CLASS		Extended phys ed class today, as you try to beat the 2:19:36 U.S. women's record set by Deena Kastor in this race...go!	the marathon	2018-11-13	2018 Teen Tournament quarterfinal game 5.
-2	800	0	YOU'VE GOT CLASS		Geometry time—it's the number of degrees in angle B	50deg	2018-11-13	2018 Teen Tournament quarterfinal game 5.
+2	800	0	YOU'VE GOT CLASS		Geometry time—it's the number of degrees in angle B	50°	2018-11-13	2018 Teen Tournament quarterfinal game 5.
 2	1200	0	YOU'VE GOT CLASS		History will tell you that in 1864 this man became a lt. general & assumed command of all U.S. armies	Grant	2018-11-13	2018 Teen Tournament quarterfinal game 5.
 2	2000	0	YOU'VE GOT CLASS		Let's muscle in some biology with this muscle in the upper arm; its name comes from Latin words for "2" & "head\"	a bicep	2018-11-13	2018 Teen Tournament quarterfinal game 5.
 2	400	0	RHYMES WITH A VOWEL		Bashful, or short of the full amount	shy	2018-11-13	2018 Teen Tournament quarterfinal game 5.
@@ -3122,8 +3122,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	L (a necklace of flowers)	lei	2018-11-22	
 1	400	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	L (a big feast)	luau	2018-11-22	
 1	600	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	P (taro paste)	poi	2018-11-22	
-1	800	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	K(garden island)	Kauai	2018-11-22	
-1	1000	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	Khn(A big deal on or off the surfboard)	kahuna	2018-11-22	
+1	800	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	K (garden island)	Kauai	2018-11-22	
+1	1000	0	VWLLSS HWN	(Alex: Vowelless Hawaiian.)	Khn (A big deal on or off the surfboard)	kahuna	2018-11-22	
 2	400	0	\'99 PROBLEMS		1799: Britain's Combination Act oppressed workers by outlawing trade these	unions	2018-11-22	
 2	800	0	\'99 PROBLEMS		1699: This notorious "Captain" arrived in the West Indies & found out he was wanted for piracy	Captain Kidd	2018-11-22	
 2	1200	0	\'99 PROBLEMS		1599: Per the book "A Year in the Life of" him, his theater company parted ways with master clown Will Kemp	Shakespeare	2018-11-22	
@@ -3317,7 +3317,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	FIRST "IN", LAST "OUT\"	(Alex: Each correct response will begin with "I-N" or end with "O-U-T".)	They're what acronyms are composed of	initials	2018-11-27	
 2	800	0	FIRST "IN", LAST "OUT\"	(Alex: Each correct response will begin with "I-N" or end with "O-U-T".)	Molten gold is sometimes poured into this type of mold	an ingot	2018-11-27	
 2	1200	0	FIRST "IN", LAST "OUT\"	(Alex: Each correct response will begin with "I-N" or end with "O-U-T".)	When used by management, this type of labor tactic literally bars workers from their place of employ	lockout	2018-11-27	
-2	1600	0	FIRST "IN", LAST "OUT\"	(Alex: Each correct response will begin with "I-N" or end with "O-U-T".)	The sign here announces to drivers an upcoming one of these intersections	a roundabout	2018-11-27	
 2	2000	0	FIRST "IN", LAST "OUT\"	(Alex: Each correct response will begin with "I-N" or end with "O-U-T".)	Type of expenses incurred casually & in addition to the expected amount	incidental	2018-11-27	
 3	0	0	ACTRESSES		In 1997 she became the first to win an Oscar for a film directed by her husband; her brother-in-law produced the film	Frances McDormand	2018-11-27	
 1	200	0	DENZEL WASHINGTON FILMS BY ROLE		Virginia high school football coach Herman Boone	Remember the Titans	2018-11-28	
@@ -3482,7 +3481,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	FAMOUS PERSON FILL-INS		Anna ____ ____ Odom	Kendrick Lamar	2018-11-30	
 2	1200	0	FAMOUS PERSON FILL-INS		Daisy ____ ____ Pelley	Ridley Scott	2018-11-30	
 2	1600	0	FAMOUS PERSON FILL-INS		Sebastian ____ ____ Iacocca	Stan Lee	2018-11-30	
-2	2000	0	FAMOUS PERSON FILL-INS		Benjamin________ Brosnan	Franklin Pierce	2018-11-30	
+2	2000	0	FAMOUS PERSON FILL-INS		Benjamin ____ ____ Brosnan	Franklin Pierce	2018-11-30	
 2	400	0	CHURCHES & CATHEDRALS		Maurice de Sully, the archbishop of Paris, got the idea for this cathedral around 1160	Notre Dame	2018-11-30	
 2	800	0	CHURCHES & CATHEDRALS		This London cathedral sits on Ludgate Hill; check out its Whispering Gallery	St. Paul's	2018-11-30	
 2	1600	0	CHURCHES & CATHEDRALS		Florence's skyline is marked by a feature of the cathedral Santa Maria del Fiore, with this Italian nickname	il Duomo	2018-11-30	
@@ -3548,10 +3547,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	NATIONAL HISTORIC LANDMARKS		Boys Town began as this priest's Boys' Home	Father Flanagan	2018-12-03	
 2	2000	0	NATIONAL HISTORIC LANDMARKS		State where you'll find Calvin Coolidge Homestead District & also Socialist Labor Party Hall	Vermont	2018-12-03	
 2	400	0	A FILM OF A DIFFERENT COLOR		1963: "The Pink ____"; 2018: "Black ____\"	panther	2018-12-03	
-2	800	0	A FILM OF A DIFFERENT COLOR		\"Purple ____" with Prince;"Black ____" with Michael Douglas	rain	2018-12-03	
+2	800	0	A FILM OF A DIFFERENT COLOR		\"Purple ____" with Prince; "Black ____" with Michael Douglas	rain	2018-12-03	
 2	1200	0	A FILM OF A DIFFERENT COLOR		1988: "The Thin Blue ____"; 1998: "The Thin Red ____\"	line	2018-12-03	
-2	1600	0	A FILM OF A DIFFERENT COLOR		\"White ____" with Cagney;"Red ____" with Schwarzenegger	heat	2018-12-03	
-2	2000	0	A FILM OF A DIFFERENT COLOR		Comedy time: "Silver ____" with Pryor & Wilder;"Blue ____" with Martin Lawrence	streak	2018-12-03	
+2	1600	0	A FILM OF A DIFFERENT COLOR		\"White ____" with Cagney; "Red ____" with Schwarzenegger	heat	2018-12-03	
+2	2000	0	A FILM OF A DIFFERENT COLOR		Comedy time: "Silver ____" with Pryor & Wilder; "Blue ____" with Martin Lawrence	streak	2018-12-03	
 3	0	0	AMERICAN BUSINESS		Last name of John, Daniel, Elisha & Edward, whose firm turned 200 in 2018 & has dressed 40 U.S. presidents	Brooks	2018-12-03	
 1	200	0	IT'S BEGINNING TO LOOK A LOT LIKE CHRISTMAS		They look like holly but are actually berries of the Arabica species of this plant	coffee	2018-12-04	
 1	400	0	IT'S BEGINNING TO LOOK A LOT LIKE CHRISTMAS		It's not a partridge in a pear tree, but rather this 5-letter bird in a cherry tree	a quail	2018-12-04	
@@ -3575,11 +3574,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	BIOGRAPHIES		A biography of this burg is subtitled "Wyatt Earp, Bat Masterson, and the Wickedest Town in the American West\"	Dodge City	2018-12-04	
 1	800	0	BIOGRAPHIES		\"Hank & Jim" tells of the 50-year friendship between these 2 Oscar-winning screen legends	Henry Fonda and Jimmy Stewart	2018-12-04	
 1	1000	1000	BIOGRAPHIES		\"Prairie Fires" tells how in her 60s, ruined by the Depression, she started writing about her pioneer childhood	(Laura Ingalls) Wilder	2018-12-04	
-1	200	0	CROSSWORD CLUES "G\"		Japanese teahouse entertainer(6)	a geisha	2018-12-04	
-1	400	0	CROSSWORD CLUES "G\"		Mythical eagle-lion hybrid(7)	a griffin	2018-12-04	
-1	600	0	CROSSWORD CLUES "G\"		A turkey's gizzard, heart & liver, collectively(7)	the giblets	2018-12-04	
-1	800	0	CROSSWORD CLUES "G\"		To move about aimlessly(3)	gad	2018-12-04	
-1	1000	0	CROSSWORD CLUES "G\"		Potato dumplings(7)	gnocchi	2018-12-04	
+1	200	0	CROSSWORD CLUES "G\"		Japanese teahouse entertainer (6)	a geisha	2018-12-04	
+1	400	0	CROSSWORD CLUES "G\"		Mythical eagle-lion hybrid (7)	a griffin	2018-12-04	
+1	600	0	CROSSWORD CLUES "G\"		A turkey's gizzard, heart & liver, collectively (7)	the giblets	2018-12-04	
+1	800	0	CROSSWORD CLUES "G\"		To move about aimlessly (3)	gad	2018-12-04	
+1	1000	0	CROSSWORD CLUES "G\"		Potato dumplings (7)	gnocchi	2018-12-04	
 2	400	0	TECHNOLOGY: OLD & NEW		We call television this 4-letter word because of the cathode ray ones the sets once contained	the tube	2018-12-04	
 2	800	0	TECHNOLOGY: OLD & NEW		Invented in the late 18th century, the cyanometer is used to measure the blueness of this	the sky	2018-12-04	
 2	1200	0	TECHNOLOGY: OLD & NEW		In the 1990s Brent Townshend invented the 56K version of this PC communications device & licensed it at $2.50 each	a modem	2018-12-04	
@@ -4041,11 +4040,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	SHORE LINES		\"We shall fight on the beaches", said Churchill in his June 4, 1940 speech on the evacuation from this port	Dunkirk	2018-12-14	
 1	800	0	SHORE LINES		A poem by her rhymes "your poor" with "the wretched refuse of your teeming shore\"	(Emma) Lazarus	2018-12-14	
 1	1000	0	SHORE LINES		A Steinbeck tale says, "Kino heard the little splash of morning waves on the beach" the day he found this title object	the pearl	2018-12-14	
-2	400	0	GREAT BOOKS ON AUDIBLE		Dan Stevens of "Downton Abbey" fame brings this novel to lifeI had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body	Frankenstein	2018-12-14	
-2	800	0	GREAT BOOKS ON AUDIBLE		Here's Tim Robbins with this classic that pains a terrifying vision of the future"Do you ever read any of the books you burn?" He laughed. "That's against the law!"	Fahrenheit 451	2018-12-14	
-2	1200	0	GREAT BOOKS ON AUDIBLE		Take a listen to Scarlett Johansson if you are curious about this classicI almost wish I hadn't gone down that rabbit-hole—and yet—and yet—it's rather curious, you know, this sort of life!	Alice in Wonderland	2018-12-14	
-2	1600	2000	GREAT BOOKS ON AUDIBLE		A natural storyteller, Nick Offerman brings his talents to this classic of American lit...appeared on the sidewalk with a bucket of whitewash and a long-handled brush, he surveyed the fence, and all gladness left him	The Adventures of Tom Sawyer	2018-12-14	
-2	2000	0	GREAT BOOKS ON AUDIBLE		Thandie Newton reads this 19th century gothic novel"Mr. Rochester!", I exclaimed, "Who is he?" "The owner of Thornfield," she responded quietly, "Did you not know he was called Rochester?"	Jane Eyre	2018-12-14	
+2	400	0	GREAT BOOKS ON AUDIBLE		Dan Stevens of "Downton Abbey" fame brings this novel to life I had worked hard for nearly two years, for the sole purpose of infusing life into an inanimate body	Frankenstein	2018-12-14	
+2	800	0	GREAT BOOKS ON AUDIBLE		Here's Tim Robbins with this classic that pains a terrifying vision of the future "Do you ever read any of the books you burn?" He laughed. "That's against the law!\"	Fahrenheit 451	2018-12-14	
+2	1200	0	GREAT BOOKS ON AUDIBLE		Take a listen to Scarlett Johansson if you are curious about this classic I almost wish I hadn't gone down that rabbit-hole—and yet—and yet—it's rather curious, you know, this sort of life!	Alice in Wonderland	2018-12-14	
+2	1600	2000	GREAT BOOKS ON AUDIBLE		A natural storyteller, Nick Offerman brings his talents to this classic of American lit ...appeared on the sidewalk with a bucket of whitewash and a long-handled brush, he surveyed the fence, and all gladness left him	The Adventures of Tom Sawyer	2018-12-14	
+2	2000	0	GREAT BOOKS ON AUDIBLE		Thandie Newton reads this 19th century gothic novel "Mr. Rochester!", I exclaimed, "Who is he?" "The owner of Thornfield," she responded quietly, "Did you not know he was called Rochester?\"	Jane Eyre	2018-12-14	
 2	400	0	COUNTRIES' HIGHEST POINTS		Zugspitze in the Bavarian Alps	Germany	2018-12-14	
 2	800	0	COUNTRIES' HIGHEST POINTS		Mount Ararat	Turkey	2018-12-14	
 2	1200	0	COUNTRIES' HIGHEST POINTS		In South America; Juliana Top in the Wilhelmina Mountains	Suriname	2018-12-14	
@@ -4188,7 +4187,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	1000	0	DO THE MATH		(x + 1)2 expands to this	x2 + 2x + 1	2018-12-19	
 1	200	0	HIGHER EDUCATION		Ralph Waldo Emerson started attending this college at age 14, graduated & then began teaching there at age 18	Harvard	2018-12-19	
 1	400	0	HIGHER EDUCATION		The 1960s antiwar movement that grew to cover the whole nation started at places like this Ca. school founded in 1868	Cal Berkeley	2018-12-19	
-1	600	0	HIGHER EDUCATION		"The Book of Knowledge" is vied for by Carleton & Macalaster, called this state's top 2 liberal arts colleges	Minnesota	2018-12-19	
+1	600	0	HIGHER EDUCATION		\"The Book of Knowledge" is vied for by Carleton & Macalaster, called this state's top 2 liberal arts colleges	Minnesota	2018-12-19	
 1	800	2000	HIGHER EDUCATION		In 1961 this private Texas school provided most of the land that became NASA's Mission Control Center	Rice	2018-12-19	
 1	1000	0	HIGHER EDUCATION		Its Tempe campus has one of the largest undergraduate populations in the United States	Arizona State	2018-12-19	
 1	400	0	WORDS THAT SHOULD RHYME	(Alex: Like "kilo" and "silo", but they don't.)	Difficult & the stuff that's kneaded to make bread	dough and tough	2018-12-19	
@@ -4214,10 +4213,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	ARCHITECTURE		It's fitting that Latin for "sleep" gives us the name of these windows, frequently used in bedrooms	dormer windows	2018-12-19	
 2	1600	0	ARCHITECTURE		Introduced in 1925, this simplified style is also known as jazz moderne	Art Deco	2018-12-19	
 2	2000	0	ARCHITECTURE		(Kelly shows a model of classical architecture on the monitor.) Classical architecture emphasized the column & a type of gable which linguists believe got this name from a dialectal garbling of "pyramid\"	pediment	2018-12-19	
-2	400	0	THAT SUPERHERO/VILLAIN WON A TONY		Wolverine, for "The Boy from Oz"(2004)	(Hugh) Jackman	2018-12-19	
-2	800	0	THAT SUPERHERO/VILLAIN WON A TONY		Spider-Man, for "Angels in America"(2018)	Garfield	2018-12-19	
+2	400	0	THAT SUPERHERO/VILLAIN WON A TONY		Wolverine, for "The Boy from Oz" (2004)	(Hugh) Jackman	2018-12-19	
+2	800	0	THAT SUPERHERO/VILLAIN WON A TONY		Spider-Man, for "Angels in America" (2018)	Garfield	2018-12-19	
 2	1200	0	THAT SUPERHERO/VILLAIN WON A TONY		Nightcrawler, as the emcee for "Cabaret" (1998)	(Alan) Cumming	2018-12-19	
-2	1600	0	THAT SUPERHERO/VILLAIN WON A TONY		Black Widow, for "A View from the Bridge"(2010)	(Scarlett) Johansson	2018-12-19	
+2	1600	0	THAT SUPERHERO/VILLAIN WON A TONY		Black Widow, for "A View from the Bridge" (2010)	(Scarlett) Johansson	2018-12-19	
 2	2000	0	THAT SUPERHERO/VILLAIN WON A TONY		Dr. Horrible, for "Hedwig and the Angry Inch" (2014)	Neil Patrick Harris	2018-12-19	
 2	400	0	\"IN" THE END		To mean a barrier, this word can follow iron or bamboo	curtain	2018-12-19	
 2	800	0	\"IN" THE END		If you use raw papaya or raw pineapple in this type of dessert, it won't jiggle	gelatin	2018-12-19	
@@ -4283,7 +4282,6 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	HUGS & KISSES		Brits were gobsmacked when Michelle Obama defied royal protocol & put an arm around her at a 2009 meeting	Queen Elizabeth II	2018-12-20	
 2	1200	0	HUGS & KISSES		In 1979 Soviet Premier Leonid Brezhnev smooched Erich Honecker, head of this country that has rejoined another	East Germany	2018-12-20	
 2	1600	0	HUGS & KISSES		Ruling title of Alexander I, whom Napoleon embraced in June 1807 & attacked in June 1812	tsar	2018-12-20	
-2	2000	0	HUGS & KISSES		The photo here was taken August 14, 1945, the day this was announced	the end of World War II or V-J Day	2018-12-20	
 2	400	0	\"XO\"		You don't have to go to Egypt to try your luck at this hotel on the Las Vegas strip	Luxor	2018-12-20	
 2	800	0	\"XO\"		In the devil made you do it, you might be in need of a priest who can perform this demon expulsion	an exorcism	2018-12-20	
 2	1200	0	\"XO\"		This word is sometimes used to describe a woman who's full figured	buxom	2018-12-20	
@@ -4742,7 +4740,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	THE GOLDBERGS		This Bach work consists of an aria & 30 keyboard pieces & may have been named for its first performer	the Goldberg Variations	2019-01-01	
 2	1600	0	THE GOLDBERGS		In 1998 Bill Goldberg won a WCW world title by defeating this mania-inducing wrestler	Hulk Hogan	2019-01-01	
 2	2000	0	THE GOLDBERGS		Before Arthur Goldberg was a Supreme Court justice, he served during WWII in this forerunner of the CIA	the OSS (or Office of Strategic Services)	2019-01-01	
-2	400	0	TEXT ALERTS		This novel informs us, "War is peacefreedom is slaveryignorance is strength\"	1984	2019-01-01	
+2	400	0	TEXT ALERTS		This novel informs us, "War is peace freedom is slavery ignorance is strength\"	1984	2019-01-01	
 2	800	0	TEXT ALERTS		Of this Hawthorne heroine, it is said, "Not a stitch in that embroidered letter, but she has felt in her heart\"	(Hester) Prynne	2019-01-01	
 2	1200	0	TEXT ALERTS		Her "New Year's resolutions: I will not drink more than fourteen alcohol units a week\"	Bridget Jones	2019-01-01	
 2	1600	3500	TEXT ALERTS		\"March, or I'll put the handcuffs on you", he tells Jean Valjean	(Inspector) Javert	2019-01-01	
@@ -4774,10 +4772,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	BUILDING AN IDIOM	(Alex: Each correct response will contain a structure or a dwelling.)	Plans that are impractical are these edifices built high above the earth	castles in the air (or in the sky)	2019-01-02	
 1	1000	0	BUILDING AN IDIOM	(Alex: Each correct response will contain a structure or a dwelling.)	This structure made of very thin 2 1/2 x 3 1/2" rectangles is proverbially unstable	a house of cards	2019-01-02	
 1	200	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Huckleberry Finch (1884 & 1960)	Huckleberry Finn and Scout Finch	2019-01-02	
-1	400	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Fredo Baggins(1969 & 1954)	Fredo Corleone and Bilbo Baggins	2019-01-02	
+1	400	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Fredo Baggins (1969 & 1954)	Fredo Corleone and Bilbo Baggins	2019-01-02	
 1	600	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Holden Copperfield (1951 & 1850)	Holden Caulfield and David Copperfield	2019-01-02	
 1	800	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Rhett Smiley (1936 & 1961, '62, etc.)	Rhett Butler and George Smiley	2019-01-02	
-1	1000	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Sansa Panza(1996 & 1605)	Sansa Stark and Sancho Panza	2019-01-02	
+1	1000	0	CHARACTER MASHUPS	(Alex: We want you to identify the characters we have mashed up together.)	Sansa Panza (1996 & 1605)	Sansa Stark and Sancho Panza	2019-01-02	
 1	200	0	COUNT		An ionization chamber like this man's counter tallies up radioactive particles	(Hans) Geiger	2019-01-02	
 1	400	0	COUNT		In social media, this count is the number of times a Twitter user's message was posted by others on their feeds	retweets	2019-01-02	
 1	600	0	COUNT		This count determines how many erythrocytes & leukocytes you have on average	a blood count	2019-01-02	
@@ -4828,11 +4826,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	1000	AMERICAN HISTORY		Alexander Hamilton Jr. got justice for his dad when Eliza Jumel hired him to handle her divorce from this man	Aaron Burr	2019-01-03	
 1	800	0	AMERICAN HISTORY		JFK declined to change the name, chosen by his predecessor, of this retreat in the Blue Ridge Mountains	Camp David	2019-01-03	
 1	1000	0	AMERICAN HISTORY		This Michigan businessman once fired all his accounting staff, leaving others to figure income by weighing invoices	(Henry) Ford	2019-01-03	
-1	200	0	CROSSWORD CLUES "D\"		Doc or Dopey(5)	a dwarf	2019-01-03	
+1	200	0	CROSSWORD CLUES "D\"		Doc or Dopey (5)	a dwarf	2019-01-03	
 1	400	0	CROSSWORD CLUES "D\"		Run off the tracks (6)	derail	2019-01-03	
-1	600	0	CROSSWORD CLUES "D\"		____ & confused, in the movies(5)	dazed	2019-01-03	
+1	600	0	CROSSWORD CLUES "D\"		____ & confused, in the movies (5)	dazed	2019-01-03	
 1	800	0	CROSSWORD CLUES "D\"		A student's sheepskin (7)	diploma	2019-01-03	
-1	1000	0	CROSSWORD CLUES "D\"		Housebroken(12)	domesticated	2019-01-03	
+1	1000	0	CROSSWORD CLUES "D\"		Housebroken (12)	domesticated	2019-01-03	
 1	200	0	GETTING SQUIRRELLY		Squirrels are part of this order that includes beavers & marmots	rodents	2019-01-03	
 1	400	0	GETTING SQUIRRELLY		Some squirrels are active during winter; others go through this dormancy process	hibernation	2019-01-03	
 1	600	0	GETTING SQUIRRELLY		Squirrels pretend to bury nuts & these oak tree fruits to foil would-be thieves	acorns	2019-01-03	
@@ -4968,9 +4966,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	MOVING THE CAPITAL		After Hurricane Hattie devastated Belize City in 1961, the capital was moved inland to this city	Belmopan	2019-01-07	
 2	400	0	ACTORS & THEIR TV ROLES		Boston lawyer Alan Shore; Raymond "Red" Reddington	James Spader	2019-01-07	
 2	800	0	ACTORS & THEIR TV ROLES		Acting coach Gene Cousineau; the Fonz	(Henry) Winkler	2019-01-07	
-2	1200	0	ACTORS & THEIR TV ROLES		Kara Danvers' boss Cat Grant;Ally McBeal	Calista Flockhart	2019-01-07	
+2	1200	0	ACTORS & THEIR TV ROLES		Kara Danvers' boss Cat Grant; Ally McBeal	Calista Flockhart	2019-01-07	
 2	1600	0	ACTORS & THEIR TV ROLES		Darlene Conner's significant other David Healy; Leonard Hofstadter	Johnny Galecki	2019-01-07	
-2	2000	0	ACTORS & THEIR TV ROLES		Rory Gilmore's boyfriend Dean;hunter of supernatural beings Sam Winchester	Jared Padalecki	2019-01-07	
+2	2000	0	ACTORS & THEIR TV ROLES		Rory Gilmore's boyfriend Dean; hunter of supernatural beings Sam Winchester	Jared Padalecki	2019-01-07	
 2	400	0	WORDS FROM THE MALAY		This name of a woody grass of Asia that can reach 130 feet tall may be derived from an original Malay word	bamboo	2019-01-07	
 2	800	0	WORDS FROM THE MALAY		A Malay word for a weight gives us this small storage container for your tea	a tea caddy	2019-01-07	
 2	1200	0	WORDS FROM THE MALAY		This draped, skirtlike garment is worn by men & women, not just Dorothy Lamour	a sarong	2019-01-07	
@@ -5047,11 +5045,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	ADD A LETTER	(Alex: Each correct response will be two words.)	One extra letter turns a diabolical person into a good buddy	fiend and friend	2019-01-08	
 2	2000	0	ADD A LETTER	(Alex: Each correct response will be two words.)	A type of woolen thread becomes a word of longing when it gets a letter woven in	yarn and yearn	2019-01-08	
 3	0	0	1950s TRAVEL		In March 1958 Hilton opened a hotel in this Western Hemisphere capital but 2 1/2 years later was out of business there	Havana	2019-01-08	
-1	200	0	WHEEL OF JEOPARDY!		A board for when you are bored_ _ C K _ _ M M _ _	backgammon	2019-01-09	
-1	400	0	WHEEL OF JEOPARDY!		Three or more giving mutual supportA G R _ _ P _ _ G	a group hug	2019-01-09	
-1	600	0	WHEEL OF JEOPARDY!		Insomniac's activityT _ _ _ _ N _ _ N _T _ _ N _ N _	tossing and turning	2019-01-09	
-1	800	0	WHEEL OF JEOPARDY!		Precursor to the SUVS T _ T _ _ _W _ G _ _	station wagon	2019-01-09	
-1	1000	0	WHEEL OF JEOPARDY!		One of a twin in the MidwestS _ _ N __ A U _	Saint Paul	2019-01-09	
+1	200	0	WHEEL OF JEOPARDY!		A board for when you are bored _ _ C K _ _ M M _ _	backgammon	2019-01-09	
+1	400	0	WHEEL OF JEOPARDY!		Three or more giving mutual support A G R _ _ P _ _ G	a group hug	2019-01-09	
+1	600	0	WHEEL OF JEOPARDY!		Insomniac's activity T _ _ _ _ N _ _ N _ T _ _ N _ N _	tossing and turning	2019-01-09	
+1	800	0	WHEEL OF JEOPARDY!		Precursor to the SUV S T _ T _ _ _ W _ G _ _	station wagon	2019-01-09	
+1	1000	0	WHEEL OF JEOPARDY!		One of a twin in the Midwest S _ _ N _ _ A U _	Saint Paul	2019-01-09	
 1	200	0	FOOD & DRINK		Oh, yeah! This non-carbonated beverage is Nebraska's state soft drink	Kool-Aid	2019-01-09	
 1	400	0	FOOD & DRINK		This pizza with simple toppings of mozzarella, tomatoes & basil was named in honor of the queen of Savoy	Margherita	2019-01-09	
 1	600	0	FOOD & DRINK		This hearty, spicy tripe soup has been touted as a hangover cure & is popular in Mexico on New Year's morning	menudo	2019-01-09	
@@ -5298,11 +5296,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	SEND ME A LETTER		In Morse code it's 3 dots	S	2019-01-15	
 1	800	0	SEND ME A LETTER		A 6-string guitar's low & high strings are typically tuned to this note	E	2019-01-15	
 1	1000	0	SEND ME A LETTER		It denotes the horizontal axis in a Cartesian coordinate system	X	2019-01-15	
-1	200	0	EDIBLE COMMON BONDS		Casaba,Crenshaw,honeydew	melons	2019-01-15	
-1	400	0	EDIBLE COMMON BONDS		Red globe, Thompson seedless,Concord	a grape	2019-01-15	
-1	600	0	EDIBLE COMMON BONDS		Newtown Pippin,Gravenstein,Cortland	apples	2019-01-15	
-1	800	0	EDIBLE COMMON BONDS		Fingerling,white rose,Yukon gold	potatoes	2019-01-15	
-1	1000	0	EDIBLE COMMON BONDS		Calimyrna,Kadota,Black Mission	figs	2019-01-15	
+1	200	0	EDIBLE COMMON BONDS		Casaba, Crenshaw, honeydew	melons	2019-01-15	
+1	400	0	EDIBLE COMMON BONDS		Red globe, Thompson seedless, Concord	a grape	2019-01-15	
+1	600	0	EDIBLE COMMON BONDS		Newtown Pippin, Gravenstein, Cortland	apples	2019-01-15	
+1	800	0	EDIBLE COMMON BONDS		Fingerling, white rose, Yukon gold	potatoes	2019-01-15	
+1	1000	0	EDIBLE COMMON BONDS		Calimyrna, Kadota, Black Mission	figs	2019-01-15	
 1	200	0	\"ITS" FINAL		The IRS performed 1.1 million in 2017	audits	2019-01-15	
 1	400	0	\"ITS" FINAL		Axillae is a more elegant word for these areas below the shoulder	armpits	2019-01-15	
 1	600	0	\"ITS" FINAL		Watch it! I've about reached these boundaries of mine	limits	2019-01-15	
@@ -6767,11 +6765,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	EATING VERBS		As a noun, it means fabric worn around the neck; as a verb, it means to eat quickly	scarf	2019-02-19	
 1	800	0	EATING VERBS		It can mean a pickle topping for hot dogs or to eat with great pleasure	relish	2019-02-19	
 1	1000	0	EATING VERBS		This verb that starts with a silent letter means to chew something that resists being chewed, like a dog's bone	gnaw	2019-02-19	
-1	200	0	WHAT'S HAPPENING THIS MONTH?		Earth Day,Tax Day	April	2019-02-19	
-1	400	0	WHAT'S HAPPENING THIS MONTH?		Columbus Day,Boss' Day	October	2019-02-19	
-1	600	0	WHAT'S HAPPENING THIS MONTH?		Festivus,International Migrants Day	December	2019-02-19	
-1	800	0	WHAT'S HAPPENING THIS MONTH?		Victoria Day (in Canada),V-E Day	May	2019-02-19	
-1	1000	0	WHAT'S HAPPENING THIS MONTH?		England's Twelfth Night,Battle of New Orleans Day	January	2019-02-19	
+1	200	0	WHAT'S HAPPENING THIS MONTH?		Earth Day, Tax Day	April	2019-02-19	
+1	400	0	WHAT'S HAPPENING THIS MONTH?		Columbus Day, Boss' Day	October	2019-02-19	
+1	600	0	WHAT'S HAPPENING THIS MONTH?		Festivus, International Migrants Day	December	2019-02-19	
+1	800	0	WHAT'S HAPPENING THIS MONTH?		Victoria Day (in Canada), V-E Day	May	2019-02-19	
+1	1000	0	WHAT'S HAPPENING THIS MONTH?		England's Twelfth Night, Battle of New Orleans Day	January	2019-02-19	
 1	200	0	OSCAR RECORDS	(Alex: Remember, the Academy Awards are this weekend.)	\"Life is Beautiful" & "8 1/2" are 2 of the record 14 films from this country to win Best Foreign Language Film	Italy	2019-02-19	
 1	400	0	OSCAR RECORDS	(Alex: Remember, the Academy Awards are this weekend.)	For "Mudbound", Rachel Morrison was the first woman nominated in this category given to directors of photography	Cinematography	2019-02-19	
 1	600	1400	OSCAR RECORDS	(Alex: Remember, the Academy Awards are this weekend.)	Winning for "The Miracle Worker", Patty Duke is tied for the shortest Oscar speech: These 2 words	thank you	2019-02-19	
@@ -6810,11 +6808,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	PARIS POTPOURRI		For 5 seasons, she & BFF Nicole Richie starred on the reality series "The Simple Life\"	Paris Hilton	2019-02-19	
 2	1600	0	PARIS POTPOURRI		Used for casts & molds, plaster of Paris is made from this soft mineral	gypsum	2019-02-19	
 2	2000	0	PARIS POTPOURRI		In Greek mythology Paris is the son of this king of Troy	Priam	2019-02-19	
-2	400	0	CROSSWORD CLUES "K\"		Moscow citadel(7)	Kremlin	2019-02-19	
-2	800	0	CROSSWORD CLUES "K\"		Cosmic reincarnation principle(5)	karma	2019-02-19	
-2	1200	0	CROSSWORD CLUES "K\"		Garments gotten "in a twist"(8)	knickers	2019-02-19	
+2	400	0	CROSSWORD CLUES "K\"		Moscow citadel (7)	Kremlin	2019-02-19	
+2	800	0	CROSSWORD CLUES "K\"		Cosmic reincarnation principle (5)	karma	2019-02-19	
+2	1200	0	CROSSWORD CLUES "K\"		Garments gotten "in a twist" (8)	knickers	2019-02-19	
 2	1600	0	CROSSWORD CLUES "K\"		Invasive climbing vine (5)	kudzu	2019-02-19	
-2	2000	0	CROSSWORD CLUES "K\"		No fair trials in this court(8)	kangaroo	2019-02-19	
+2	2000	0	CROSSWORD CLUES "K\"		No fair trials in this court (8)	kangaroo	2019-02-19	
 3	0	0	BROADWAY MUSICALS		The title of this musical that opened in 1956 came from the last line of a nursery rhyme about a structure that spanned the Thames	My Fair Lady	2019-02-19	
 1	200	0	NOTORIOUS		This "butcher of Uganda" attacked Tanzania in 1978, but his forces were routed & he fled into exile	Idi Amin	2019-02-20	2019 All-Star Games match 1, game 1
 1	400	3200	NOTORIOUS		Notorious weapons dealer Adnan Khashoggi was a key figure in this 1986 scandal that saw 1,500 missiles head to Tehran	the Iran-Contra scandal	2019-02-20	2019 All-Star Games match 1, game 1
@@ -6974,7 +6972,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	ANCIENT AGRICULTURE		Deuteronomy 8:8 promises a land not of milk & honey but of this salad dressing "and honey\"	olive oil	2019-02-26	2019 All-Star Games match 2, game 1.
 2	400	0	JUST THE FACTS		The House of Representatives convened in 2019 with Kevin McCarthy in this post	House Minority Leader	2019-02-26	2019 All-Star Games match 2, game 1.
 2	800	0	JUST THE FACTS		The 2 Asian apes are the orangutan & this arboreal one	the gibbon	2019-02-26	2019 All-Star Games match 2, game 1.
-2	1200	0	JUST THE FACTS		Tothe nearestthousand,the heightin feetof Mount Everest	29,000	2019-02-26	2019 All-Star Games match 2, game 1.
+2	1200	0	JUST THE FACTS		To the nearest thousand, the height in feet of Mount Everest	29,000	2019-02-26	2019 All-Star Games match 2, game 1.
 2	1600	0	JUST THE FACTS		Shakespeare's shortest play is this twisted yarn with twins both named Antipholus	The Comedy of Errors	2019-02-26	2019 All-Star Games match 2, game 1.
 2	2000	0	JUST THE FACTS		Maynard Jackson's 1973 election as the first black mayor of this state capital was seen as a sign of "The New South\"	Atlanta	2019-02-26	2019 All-Star Games match 2, game 1.
 2	400	0	LAKES & RIVERS		Lake Wakatipu in this country was used as a backdrop in the "Lord of the Rings" movies	New Zealand	2019-02-26	2019 All-Star Games match 2, game 1.
@@ -6982,7 +6980,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	LAKES & RIVERS		Boundary Lake is shared by North Dakota & this Canadian province	Manitoba	2019-02-26	2019 All-Star Games match 2, game 1.
 2	1600	0	LAKES & RIVERS		The Amazon River begins not in Brazil but with headwaters in this western South American country	Peru	2019-02-26	2019 All-Star Games match 2, game 1.
 2	2000	0	LAKES & RIVERS		The Iberian peninsula's second-longest river, it flows into the Mediterranean southwest of Barcelona	the Ebro	2019-02-26	2019 All-Star Games match 2, game 1.
-2	400	0	LEADERS		Time for follow the leader: 19. Hayes20. Garfield &21. him	(Chester) Arthur	2019-02-26	2019 All-Star Games match 2, game 1.
+2	400	0	LEADERS		Time for follow the leader: 19. Hayes 20. Garfield & 21. him	(Chester) Arthur	2019-02-26	2019 All-Star Games match 2, game 1.
 2	800	0	LEADERS		Walter Reuther ran this union's GM department from 1939 & the whole union from 1946 to 1970	United Auto Workers	2019-02-26	2019 All-Star Games match 2, game 1.
 2	1200	0	LEADERS		Comic songs & sounds were his forte as 1940 bandleader of the City Slickers	Spike Jones	2019-02-26	2019 All-Star Games match 2, game 1.
 2	1600	0	LEADERS		Viktor Orban is the anti-immigrant leader of this European country	Hungary	2019-02-26	2019 All-Star Games match 2, game 1.
@@ -7053,11 +7051,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	DATES		Until it was moved up to January 20, this was the official presidential inauguration date	March 4th	2019-02-27	2019 All-Star Games match 2, game 2.
 2	1600	0	DATES		1926 date on which Houdini died	October 31st	2019-02-27	2019 All-Star Games match 2, game 2.
 2	2000	0	DATES		The Dominion of Canada was proclaimed on this date in 1867	July 1st	2019-02-27	2019 All-Star Games match 2, game 2.
-2	400	0	CROSSWORD CLUES "V\"		Part of a bride's ensemble(4)	her veil	2019-02-27	2019 All-Star Games match 2, game 2.
-2	800	0	CROSSWORD CLUES "V\"		The heart, lungs, liver, kidneys, etc.(7)	viscera	2019-02-27	2019 All-Star Games match 2, game 2.
-2	1200	0	CROSSWORD CLUES "V\"		Ear-splitting World Cup noisemaker(8)	a vuvuzela	2019-02-27	2019 All-Star Games match 2, game 2.
-2	1600	0	CROSSWORD CLUES "V\"		The left-hand page of a book or manuscript(5)	the verso	2019-02-27	2019 All-Star Games match 2, game 2.
-2	2000	0	CROSSWORD CLUES "V\"		An early bike or trike(10)	a velocipede	2019-02-27	2019 All-Star Games match 2, game 2.
+2	400	0	CROSSWORD CLUES "V\"		Part of a bride's ensemble (4)	her veil	2019-02-27	2019 All-Star Games match 2, game 2.
+2	800	0	CROSSWORD CLUES "V\"		The heart, lungs, liver, kidneys, etc. (7)	viscera	2019-02-27	2019 All-Star Games match 2, game 2.
+2	1200	0	CROSSWORD CLUES "V\"		Ear-splitting World Cup noisemaker (8)	a vuvuzela	2019-02-27	2019 All-Star Games match 2, game 2.
+2	1600	0	CROSSWORD CLUES "V\"		The left-hand page of a book or manuscript (5)	the verso	2019-02-27	2019 All-Star Games match 2, game 2.
+2	2000	0	CROSSWORD CLUES "V\"		An early bike or trike (10)	a velocipede	2019-02-27	2019 All-Star Games match 2, game 2.
 3	0	0	20th CENTURY HISTORY		Interpreting for Vaclav Havel, future ambassador Rita Klimova gave us this phrase for a smooth change of government	the velvet revolution	2019-02-27	2019 All-Star Games match 2, game 2.
 1	200	0	WEIGHTS & MEASURES		An octant is 1/8 of a circle & equal to this many degrees	45	2019-02-28	2019 All-Star Games wildcard match, game 1.
 1	400	0	WEIGHTS & MEASURES		One cable length from shore is equal to 100 fathoms, this many feet	600	2019-02-28	2019 All-Star Games wildcard match, game 1.
@@ -7114,8 +7112,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	ARTS & CULTURE		In 1957's "Square Dance", this New York City Ballet founder combined classical technique with square dance calls	George Balanchine	2019-02-28	2019 All-Star Games wildcard match, game 1.
 2	1600	0	ARTS & CULTURE		This trumpeter composed "Blood on the Fields", a 1994 oratorio incorporating jazz rhythms	Wynton Marsalis	2019-02-28	2019 All-Star Games wildcard match, game 1.
 2	2000	0	ARTS & CULTURE		Handel wrote a piece to celebrate this patron saint of music; maybe it's also her in the Paul Simon song	St. Cecilia	2019-02-28	2019 All-Star Games wildcard match, game 1.
-2	400	0	TRIOS		Collective name for Pavarotti, Carreras,Domingo	The Three Tenors	2019-02-28	2019 All-Star Games wildcard match, game 1.
-2	800	0	TRIOS		The law of inertia,F=ma, &the law of action & reaction	Newton's Three Laws of Motion	2019-02-28	2019 All-Star Games wildcard match, game 1.
+2	400	0	TRIOS		Collective name for Pavarotti, Carreras, Domingo	The Three Tenors	2019-02-28	2019 All-Star Games wildcard match, game 1.
+2	800	0	TRIOS		The law of inertia, F=ma, & the law of action & reaction	Newton's Three Laws of Motion	2019-02-28	2019 All-Star Games wildcard match, game 1.
 2	1200	0	TRIOS		This rock band: Eric Clapton, Ginger Baker, Jack Bruce	Cream	2019-02-28	2019 All-Star Games wildcard match, game 1.
 2	1600	2600	TRIOS		Submerged in China: Qutang, Wu & Xiling	the Three Gorges of Three Gorges Dam	2019-02-28	2019 All-Star Games wildcard match, game 1.
 2	2000	0	TRIOS		An Arkansas trio championed in the documentary "Paradise Lost": Damien Echols, Jason Baldwin, Jessie Misskelley	the West Memphis 3	2019-02-28	2019 All-Star Games wildcard match, game 1.
@@ -7134,7 +7132,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	THEIR IVY LEAGUE ALMA MATER		Emma Watson & John F. Kennedy Jr.—this "colorful" school	Brown University	2019-03-01	2019 All-Star Games wildcard match, game 2.
 1	600	2500	THEIR IVY LEAGUE ALMA MATER		Brooke Shields (class of '87 with honors) & F. Scott Fitzgerald	Princeton	2019-03-01	2019 All-Star Games wildcard match, game 2.
 1	800	0	THEIR IVY LEAGUE ALMA MATER		Bill & Hillary Clinton for law school, where they first met	Yale	2019-03-01	2019 All-Star Games wildcard match, game 2.
-1	1000	0	THEIR IVY LEAGUE ALMA MATER		Dr. Seuss,Shonda Rhimes &Mindy Kaling	Dartmouth	2019-03-01	2019 All-Star Games wildcard match, game 2.
+1	1000	0	THEIR IVY LEAGUE ALMA MATER		Dr. Seuss, Shonda Rhimes & Mindy Kaling	Dartmouth	2019-03-01	2019 All-Star Games wildcard match, game 2.
 1	200	0	TV		In 1959 there were more than 25 shows in this genre on TV, including "Rawhide\"	a western	2019-03-01	2019 All-Star Games wildcard match, game 2.
 1	400	0	TV		Currently on TBS, he's been on late night TV since 1993, hosting 3 different shows	Conan O'Brien	2019-03-01	2019 All-Star Games wildcard match, game 2.
 1	600	0	TV		This creator of "Mad Men" brought us 2018's "The Romanoffs\"	Matthew Weiner	2019-03-01	2019 All-Star Games wildcard match, game 2.
@@ -7704,7 +7702,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	ON THE MOVE		In the 1930s, maps and little weights called shrimp boats were used by the first en-route centers for ATC, short for this	air traffic control	2019-03-14	
 2	800	0	ON THE MOVE		Manhattan subway lines the 7, the L & the S travel east-west, also called this direction	crosstown	2019-03-14	
 2	1200	0	ON THE MOVE		A word also used in the navy, it's an airline's planes as a whole; spirit airlines has a young one, averaging about 6 years old	fleet	2019-03-14	
-2	1600	0	ON THE MOVE		(Jimmy of the Clue Crew presents the clue.)A sloop has one mast with two sails; also with a double "O" in its name, this boat has at least two masts, the aftmost typically taller than the foremast	schooner	2019-03-14	
+2	1600	0	ON THE MOVE		(Jimmy of the Clue Crew presents the clue.) A sloop has one mast with two sails; also with a double "O" in its name, this boat has at least two masts, the aftmost typically taller than the foremast	schooner	2019-03-14	
 2	400	0	ALL BETS ARE OFF	(Alex: Each correct response will not contain the letters B-E-T.)	This Greek letter gave us part of the word for all the letters that make up a language	alpha	2019-03-14	
 2	800	0	ALL BETS ARE OFF	(Alex: Each correct response will not contain the letters B-E-T.)	In comic books she's in a rivalry for the affections of Archie Andrews	Veronica	2019-03-14	
 2	1600	0	ALL BETS ARE OFF	(Alex: Each correct response will not contain the letters B-E-T.)	AMC TV series that introduced Mike Ehrmantraut, played by Jonathan Banks	Breaking Bad	2019-03-14	
@@ -7756,7 +7754,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	POP CULTURE DOUBLE TALK		This Bowie song that says "you've torn your dress" & "your face is a mess" ranks as one of the all-time best glam rock songs	\"Rebel Rebel\"	2019-03-15	
 2	2000	0	POP CULTURE DOUBLE TALK		With music & lyrics by Burt Bacharach & Hal David, this Broadway show features the song "I'll Never Fall In Love Again\"	Promises, Promises	2019-03-15	
 2	400	0	ERAS & AGES		Also talking about a "wired planet", in 1971 Marshall McLuhan used the phrase this synonym for knowledge "age\"	information age	2019-03-15	
-2	800	0	ERAS & AGES		—Hey, Dante!—Yeah, Plutarch!—It's almost 1300. Time to start this "rebirth\"	the Renaissance	2019-03-15	
+2	800	0	ERAS & AGES		—Hey, Dante! —Yeah, Plutarch! —It's almost 1300. Time to start this "rebirth\"	the Renaissance	2019-03-15	
 2	1200	0	ERAS & AGES		Nobel laureate Paul Crutzen said the Anthropocene epoch began with rising levels of these gases like CO2 around 1800	greenhouse gases	2019-03-15	
 2	1600	0	ERAS & AGES		In a book title by historian Eric Hobsbawm, the Age of Revolution began in this year of big doings in France	1789	2019-03-15	
 2	2000	0	ERAS & AGES		Japan underwent Westernization in the period named for Mutsuhito, who took this royal "M" name & died in 1912	the Meiji Restoration	2019-03-15	
@@ -8352,8 +8350,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	5-LETTER "W"ORDS		An edible saltwater snail with a spiral shell	a whelk	2019-03-29	
 2	400	0	PAINT ME AS YOU SEE ME		The so-called "Chandos" portrait may have served as the basis for the engraving of this author in the First Folio	William Shakespeare	2019-03-29	
 2	800	0	PAINT ME AS YOU SEE ME		As a youth, this future telegraph inventor was more interested in painting & did a self-portrait	(Samuel) Morse	2019-03-29	
-2	1600	0	PAINT ME AS YOU SEE ME		The portrait here is from 1765, 11 years before this subject signed the Declaration of Independence	John Hancock	2019-03-29	
-2	2000	0	PAINT ME AS YOU SEE ME		"Elvira Resting at a Table" is by this Italian artist who only gained fame after a tragic early death	Modigliani	2019-03-29	
+2	2000	0	PAINT ME AS YOU SEE ME		\"Elvira Resting at a Table" is by this Italian artist who only gained fame after a tragic early death	Modigliani	2019-03-29	
 2	400	0	QUARTZ & ALL		Smoky quartz is a prized product of the Caringorm Mountains of this U.K. country	Scotland	2019-03-29	
 2	800	0	QUARTZ & ALL		This silty, wind-blown stuff is 60 to 70% quartz, more or...	loess	2019-03-29	
 2	1200	0	QUARTZ & ALL		Quartzite is quartz that was once this rock made up of tiny grains	sandstone	2019-03-29	
@@ -8375,11 +8372,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	1400	THE WORLD OF MONEY		In an effort to diversity its portfolio, Canada sold most of this, becoming the only G7 member with less than 100 tons	gold	2019-04-01	
 1	800	0	THE WORLD OF MONEY		Described as the "grandfather of the world's secret tax havens", this country is said to have $6.5 trillion in assets	Switzerland	2019-04-01	
 1	1000	0	THE WORLD OF MONEY		Sony & Toyota are 2 of the companies traded on this Japanese stock index	the Nikkei	2019-04-01	
-1	200	0	CROSSWORD CLUES "Y\"		Sing like an Alpine mountaineer(5)	yodel	2019-04-01	
-1	400	0	CROSSWORD CLUES "Y\"		It can precede fever, jacket & pages(6)	yellow	2019-04-01	
-1	600	0	CROSSWORD CLUES "Y\"		A fungus for fermentation & leavening(5)	yeast	2019-04-01	
-1	800	0	CROSSWORD CLUES "Y\"		School for future rabbis(7)	yeshiva	2019-04-01	
-1	1000	0	CROSSWORD CLUES "Y\"		Brute in "Gulliver's Travels"(5)	a Yahoo	2019-04-01	
+1	200	0	CROSSWORD CLUES "Y\"		Sing like an Alpine mountaineer (5)	yodel	2019-04-01	
+1	400	0	CROSSWORD CLUES "Y\"		It can precede fever, jacket & pages (6)	yellow	2019-04-01	
+1	600	0	CROSSWORD CLUES "Y\"		A fungus for fermentation & leavening (5)	yeast	2019-04-01	
+1	800	0	CROSSWORD CLUES "Y\"		School for future rabbis (7)	yeshiva	2019-04-01	
+1	1000	0	CROSSWORD CLUES "Y\"		Brute in "Gulliver's Travels" (5)	a Yahoo	2019-04-01	
 1	200	0	AROUND THE BODY		Remove the epi- from the outermost layer of skin to get this middle layer	the dermis	2019-04-01	
 1	400	0	AROUND THE BODY		When you inhale, this dome-shaped muscle contracts & moves downward, allowing your lungs to expand	the diaphragm	2019-04-01	
 1	600	0	AROUND THE BODY		The heart is divided into these 4 chambers abbreviated RA, LA, RV & LV	right atrium, left atrium, right ventricle and left ventricle	2019-04-01	
@@ -8546,11 +8543,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	NATURE STICKS IT TO YOU		On 8 of the 9 days of the festival of San Fermin in this city, you can try running with the bulls	Pamplona	2019-04-04	
 1	800	0	NATURE STICKS IT TO YOU		The stiletto type of this reptile has horizontal fangs & is especially dangerous because it can bite you with its mouth closed	a snake	2019-04-04	
 1	1000	5000	NATURE STICKS IT TO YOU		The venomous stonefish has a blade called a lachrymal saber that pops out from a bone under this body part	the eye	2019-04-04	
-1	200	0	THE HIGHEST CAPITAL CITY		Canberra,Kathmandu,Kingston	Kathmandu	2019-04-04	
-1	400	0	THE HIGHEST CAPITAL CITY		Washington, D.C.,Ottawa,Mexico City	Mexico City	2019-04-04	
-1	600	0	THE HIGHEST CAPITAL CITY		Brasilia,Quito,Santiago	Quito	2019-04-04	
-1	800	0	THE HIGHEST CAPITAL CITY		Athens,Amsterdam,Addis Ababa	Addis Ababa	2019-04-04	
-1	1000	0	THE HIGHEST CAPITAL CITY		Kabul,Baghdad,Beirut	Kabul	2019-04-04	
+1	200	0	THE HIGHEST CAPITAL CITY		Canberra, Kathmandu, Kingston	Kathmandu	2019-04-04	
+1	400	0	THE HIGHEST CAPITAL CITY		Washington, D.C., Ottawa, Mexico City	Mexico City	2019-04-04	
+1	600	0	THE HIGHEST CAPITAL CITY		Brasilia, Quito, Santiago	Quito	2019-04-04	
+1	800	0	THE HIGHEST CAPITAL CITY		Athens, Amsterdam, Addis Ababa	Addis Ababa	2019-04-04	
+1	1000	0	THE HIGHEST CAPITAL CITY		Kabul, Baghdad, Beirut	Kabul	2019-04-04	
 1	200	0	BALLPARK CUISINE		Sheffield Corner at this stadium offers the Chick-ago sandwich	Wrigley Field	2019-04-04	
 1	400	0	BALLPARK CUISINE		For the 2018 season, Comerica Park in Detroit offered egg rolls filled with this hazelnut spread	Nutella	2019-04-04	
 1	600	0	BALLPARK CUISINE		Minute Maid Park has the meats: pulled pork, chopped beef & smoked sausage, all atop this deep-fried spiral cake	a funnel cake	2019-04-04	
@@ -8791,9 +8788,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	HOLIDAYS & OBSERVANCES		Drawing on a southern African holiday, it celebrates nguzo saba, which are 7 cultural principles	Kwanzaa	2019-04-10	
 1	800	0	HOLIDAYS & OBSERVANCES		Making a cake for this Jewish holiday? You can't use flour (or any leavening agent)	Passover	2019-04-10	
 1	1000	3000	HOLIDAYS & OBSERVANCES		Constitution Day is September 17; this related set is celebrated every December 15	the Bill of Rights	2019-04-10	
-1	200	0	ACROSS STATE LINES		Heading north on I-5: California,Oregon,this	Washington	2019-04-10	
-1	400	0	ACROSS STATE LINES		Going due west: Ohio,Indiana,this	Illinois	2019-04-10	
-1	600	0	ACROSS STATE LINES		Going south on U.S. 281: Nebraska,Kansas,this	Oklahoma	2019-04-10	
+1	200	0	ACROSS STATE LINES		Heading north on I-5: California, Oregon, this	Washington	2019-04-10	
+1	400	0	ACROSS STATE LINES		Going due west: Ohio, Indiana, this	Illinois	2019-04-10	
+1	600	0	ACROSS STATE LINES		Going south on U.S. 281: Nebraska, Kansas, this	Oklahoma	2019-04-10	
 1	800	0	ACROSS STATE LINES		Heading north: Rhode Island, Massachusetts, this	New Hampshire	2019-04-10	
 1	1000	0	ACROSS STATE LINES		Heading east on I-94: Montana, North Dakota, this	Minnesota	2019-04-10	
 1	200	0	WUTZ MISPELED		He exited the Massachusetts turnpike & headed toward Wooster, but was stopped by the state trooper for his taillight	Worcester	2019-04-10	
@@ -8815,11 +8812,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	MATTHEW, MARK, LUKE & JOHN		What we have here is a successful communication; Paul Newman got an Academy Award nomination for this 1967 film	Cool Hand Luke	2019-04-10	
 2	1600	0	MATTHEW, MARK, LUKE & JOHN		This wrestler & actor really is an all-time champ; as of 2018, he granted 550-plus wishes for Make-A-Wish	John Cena	2019-04-10	
 2	2000	0	MATTHEW, MARK, LUKE & JOHN		This current congressman was already a civil rights leader in 1963 at age 23	John Lewis	2019-04-10	
-2	400	0	POP CULTURE COMMON BONDS		Odie, Marmaduke,Snoopy	cartoon dogs	2019-04-10	
+2	400	0	POP CULTURE COMMON BONDS		Odie, Marmaduke, Snoopy	cartoon dogs	2019-04-10	
 2	800	0	POP CULTURE COMMON BONDS		\"Shiny Happy People", "Man On The Moon", "Fall On Me\"	R.E.M.	2019-04-10	
-2	1200	0	POP CULTURE COMMON BONDS		True Religion, 7 For All Mankind,Lucky Brand	jeans	2019-04-10	
-2	1600	0	POP CULTURE COMMON BONDS		Johnny Weissmuller,Miles O'Keefe,Alexander Skarsgard	Tarzan	2019-04-10	
-2	2000	0	POP CULTURE COMMON BONDS		Singers Maddie Poppe,Phillip Phillips,Jordin Sparks	American Idol	2019-04-10	
+2	1200	0	POP CULTURE COMMON BONDS		True Religion, 7 For All Mankind, Lucky Brand	jeans	2019-04-10	
+2	1600	0	POP CULTURE COMMON BONDS		Johnny Weissmuller, Miles O'Keefe, Alexander Skarsgard	Tarzan	2019-04-10	
+2	2000	0	POP CULTURE COMMON BONDS		Singers Maddie Poppe, Phillip Phillips, Jordin Sparks	American Idol	2019-04-10	
 2	400	0	THE CIVIL WAR		On July 21, 1861 the Union attacked the Confederates near a stone bridge crossing this creek in the first battle of it	First Battle of Bull Run	2019-04-10	
 2	800	0	THE CIVIL WAR		On April 3, 1865 its business district was aflame when this Confederate capital fell	Richmond	2019-04-10	
 2	1600	9200	THE CIVIL WAR		On March 9, 1862 ironclad warships met in battle for the first time as these 2 vessels clashed, with no clear victor	the Monitor and the Merrimack	2019-04-10	
@@ -8869,10 +8866,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	25 TCM	(Ben Mankiewicz: Hi, I'm Ben Mankiewicz, primetime host of TCM, here to celebrate 25 years of Turner Classic Movies.)	(Ben Mankiewicz gives the clue.) With a deep, abiding love & knowledge of film, he was the very first host of Turner Classic Movies & made an impressive 62,851 appearances over 20+ years with the channel	Robert Osborne	2019-04-11	
 1	1000	0	25 TCM	(Ben Mankiewicz: Hi, I'm Ben Mankiewicz, primetime host of TCM, here to celebrate 25 years of Turner Classic Movies.)	(Ben Mankiewicz gives the clue.) One of the interviews I most anticipated was with this Italian screen legend before a TCM Classic Film Festival screening of her film "Marriage Italian Style\"	Sophia Loren	2019-04-11	
 2	400	0	MOVIE & SONG, SAME TITLE		Don McLean, 1971; Jason Biggs, 1999	\"American Pie\"	2019-04-11	
-2	800	0	MOVIE & SONG, SAME TITLE		Inner Circle,1987;Martin Lawrence & Will Smith,1995	\"Bad Boys\"	2019-04-11	
-2	1200	0	MOVIE & SONG, SAME TITLE		Queen, 1975;Rami Malek,2018	\"Bohemian Rhapsody\"	2019-04-11	
-2	1600	0	MOVIE & SONG, SAME TITLE		The Psychedelic Furs, 1981;Molly Ringwald,1986	\"Pretty In Pink\"	2019-04-11	
-2	2000	0	MOVIE & SONG, SAME TITLE		Led Zeppelin, 1969;Matthew McConaughey,1993	\"Dazed And Confused\"	2019-04-11	
+2	800	0	MOVIE & SONG, SAME TITLE		Inner Circle, 1987; Martin Lawrence & Will Smith, 1995	\"Bad Boys\"	2019-04-11	
+2	1200	0	MOVIE & SONG, SAME TITLE		Queen, 1975; Rami Malek, 2018	\"Bohemian Rhapsody\"	2019-04-11	
+2	1600	0	MOVIE & SONG, SAME TITLE		The Psychedelic Furs, 1981; Molly Ringwald, 1986	\"Pretty In Pink\"	2019-04-11	
+2	2000	0	MOVIE & SONG, SAME TITLE		Led Zeppelin, 1969; Matthew McConaughey, 1993	\"Dazed And Confused\"	2019-04-11	
 2	800	5000	AMERICAN POETRY		Despite his name, he holds "with those who favor fire" for how "the world will end\"	(Robert) Frost	2019-04-11	
 2	1200	0	AMERICAN POETRY		\"Sharks following the moans the fever and the dying" is from Robert Hayden's "Middle" this, depicting the slave trade	passage	2019-04-11	
 2	1600	0	AMERICAN POETRY		Frank O'Hara's most famous poem is "The Day Lady Died", in which he reads about this jazz singer's death in 1959	Billie Holliday	2019-04-11	
@@ -9061,11 +9058,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	LITERARY ALLUSIONS		To be pulled into a weird, confusing environment is to go "down" this, just like Lewis Carroll's Alice	the rabbit hole	2019-04-16	
 2	1600	11381	LITERARY ALLUSIONS		Meaning extremely large, this adjective comes from the name of Rabelais' giant of a 16th century character	gargantuan	2019-04-16	
 2	2000	0	LITERARY ALLUSIONS		A community that is a hotbed of sex & drama, like the title town in a novel, film & TV soap opera of the 1950s & '60s	Peyton Place	2019-04-16	
-2	400	0	BOYS IN THE BAND		Adam Clayton,Bono,the Edge	U2	2019-04-16	
+2	400	0	BOYS IN THE BAND		Adam Clayton, Bono, the Edge	U2	2019-04-16	
 2	800	0	BOYS IN THE BAND		Steve Jones, Johnny Rotten, Sid Vicious	the Sex Pistols	2019-04-16	
-2	1200	0	BOYS IN THE BAND		Donnie Wahlberg,Joey McIntyre,Jordan Knight	New Kids on the Block	2019-04-16	
+2	1200	0	BOYS IN THE BAND		Donnie Wahlberg, Joey McIntyre, Jordan Knight	New Kids on the Block	2019-04-16	
 2	1600	0	BOYS IN THE BAND		Stu Cook, Tom Fogerty, John Fogerty	CCR (Creedence Clearwater Revival)	2019-04-16	
-2	2000	0	BOYS IN THE BAND		Andy Hurley,Patrick Stump,Pete Wentz	Fall Out Boy	2019-04-16	
+2	2000	0	BOYS IN THE BAND		Andy Hurley, Patrick Stump, Pete Wentz	Fall Out Boy	2019-04-16	
 2	400	0	SOUNDS LIKE PIG LATIN		One hockey team has a temporary numerical advantage with an opposing player in the penalty box in this situation	power play	2019-04-16	
 2	800	0	SOUNDS LIKE PIG LATIN		Long thought to have invented baseball, he fought for the Union at Antietam & Gettysburg	Abner Doubleday	2019-04-16	
 2	1200	0	SOUNDS LIKE PIG LATIN		Most rye bread is flavored with these seeds	caraway	2019-04-16	
@@ -9665,10 +9662,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	AMERICAN GODS		In the Voodoo religion of Haiti, one of the better known deities is known as "Baron" this French word for Saturday	Samedi	2019-04-30	
 2	1600	0	AMERICAN GODS		Makunaima & his brother created the world, according to these West Indies people who lent their name to a big sea	the Carib	2019-04-30	
 2	2000	0	AMERICAN GODS		Longfellow talked of the "wigwam" of this grandmother, the Earth Mother to the Algonquin	Nokomis	2019-04-30	
-2	400	0	CROSSWORD CLUES "G\"		Football field(8)	gridiron	2019-04-30	
-2	800	0	CROSSWORD CLUES "G\"		Uncredited author(11)	ghostwriter	2019-04-30	
-2	1200	0	CROSSWORD CLUES "G\"		12 dozen(5)	gross	2019-04-30	
-2	1600	0	CROSSWORD CLUES "G\"		Ruby impostor(6)	garnet	2019-04-30	
+2	400	0	CROSSWORD CLUES "G\"		Football field (8)	gridiron	2019-04-30	
+2	800	0	CROSSWORD CLUES "G\"		Uncredited author (11)	ghostwriter	2019-04-30	
+2	1200	0	CROSSWORD CLUES "G\"		12 dozen (5)	gross	2019-04-30	
+2	1600	0	CROSSWORD CLUES "G\"		Ruby impostor (6)	garnet	2019-04-30	
 2	2000	0	CROSSWORD CLUES "G\"		Stimulate, or coat metal with zinc (9)	galvanize	2019-04-30	
 3	0	0	EUROPEAN CITIES		Founded, according to tradition, in 11 B.C., this former capital lies about halfway between Paris & Berlin	Bonn	2019-04-30	
 1	200	0	I COULD LIVE IN THAT FOOD	(Alex: Each correct response will be a food with a domicile in its name.)	This food for the calorie-conscious is also called Dutch cheese	cottage cheese	2019-05-01	
@@ -9912,7 +9909,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	DOOMED TO REPEAT "IT\"	(Alex: The letters "I-T" will come up twice in a correct response.)	\"To boldly go" is this grammatical construction	a split infinitive	2019-05-06	2019 Teachers Tournament quarterfinal game 1.
 2	1600	0	DOOMED TO REPEAT "IT\"	(Alex: The letters "I-T" will come up twice in a correct response.)	Restaurants like Da Nico & Il Cortile line Mulberry Street in this section of Manhattan	Little Italy	2019-05-06	2019 Teachers Tournament quarterfinal game 1.
 2	2000	0	DOOMED TO REPEAT "IT\"	(Alex: The letters "I-T" will come up twice in a correct response.)	Dissociative identity disorder is more colloquially known as this psychological condition	split personality	2019-05-06	2019 Teachers Tournament quarterfinal game 1.
-3	0	0	POETS		A poem by him includes, "It was grassy and wanted wear;/though...the passing there/had worn them really about the same\"	Robert Frost	2019-05-06	2019 Teachers Tournament quarterfinal game 1.
+3	0	0	POETS		A poem by him includes, "It was grassy and wanted wear;/ though...the passing there/ had worn them really about the same\"	Robert Frost	2019-05-06	2019 Teachers Tournament quarterfinal game 1.
 1	200	0	THE JET PROPULSION LABORATORY		(Sarah of the Clue Crew presents from the Jet Propulsion Laboratory.) Using facilities in Spain, Australia & California, JPL can monitor all space missions beyond the orbit of the Moon from mission control; those stations are spaced by this many degrees longitude, one-third of the globe, to maintain constant contact	120	2019-05-07	2019 Teachers Tournament quarterfinal game 2.
 1	400	0	THE JET PROPULSION LABORATORY		(Sarah of the Clue Crew presents from the Jet Propulsion Laboratory.) A descent vehicle, like the one in this clean room, was used to create a soft landing using the sky crane maneuver to lower this inquisitive rover to the surface in 2012	Curiosity	2019-05-07	2019 Teachers Tournament quarterfinal game 2.
 1	600	0	THE JET PROPULSION LABORATORY		(Sarah of the Clue Crew presents from the Jet Propulsion Laboratory.) JPL's Juno probe needed a boost to get to its target; scientists designed its trajectory to come back to Earth & then use our gravity to slingshot to this planet, Juno's husband in mythology	Jupiter	2019-05-07	2019 Teachers Tournament quarterfinal game 2.
@@ -10151,10 +10148,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	\"O-U" WORDS		Studies suggest that a woman who uses this birthing support person is less likely to have a C-section	a doula	2019-05-10	2019 Teachers Tournament quarterfinal game 5.
 2	2000	0	\"O-U" WORDS		French for "jewel", it was once a popular movie theater name	a bijou	2019-05-10	2019 Teachers Tournament quarterfinal game 5.
 3	0	0	U.S. STATES		This state entered the Union in 1820 after separating from another state that began with the same 2 letters	Maine	2019-05-10	2019 Teachers Tournament quarterfinal game 5.
-1	200	0	3 OF A KIND		Beluga,blue,bowhead	whale	2019-05-13	2019 Teachers Tournament semifinal game 1.
-1	400	0	3 OF A KIND		Fiesta,Falcon,Fusion	Ford vehicles	2019-05-13	2019 Teachers Tournament semifinal game 1.
-1	600	0	3 OF A KIND		Oh Hell!,slapjack,war	card games	2019-05-13	2019 Teachers Tournament semifinal game 1.
-1	800	0	3 OF A KIND		Kahoolawe,Lani, Niihau	Hawaiian islands	2019-05-13	2019 Teachers Tournament semifinal game 1.
+1	200	0	3 OF A KIND		Beluga, blue, bowhead	whale	2019-05-13	2019 Teachers Tournament semifinal game 1.
+1	400	0	3 OF A KIND		Fiesta, Falcon, Fusion	Ford vehicles	2019-05-13	2019 Teachers Tournament semifinal game 1.
+1	600	0	3 OF A KIND		Oh Hell!, slapjack, war	card games	2019-05-13	2019 Teachers Tournament semifinal game 1.
+1	800	0	3 OF A KIND		Kahoolawe, Lani, Niihau	Hawaiian islands	2019-05-13	2019 Teachers Tournament semifinal game 1.
 1	1000	0	3 OF A KIND		Balvenie, Bowmore, Bunnahabhain	types of Scotch	2019-05-13	2019 Teachers Tournament semifinal game 1.
 1	200	0	COLLEGES & UNIVERSITIES		This university, the Bruins of the Pac-12, waves its banners in blue & gold	UCLA	2019-05-13	2019 Teachers Tournament semifinal game 1.
 1	400	0	COLLEGES & UNIVERSITIES		The Woodstock Theological Library is part of this D.C. Jesuit school	Georgetown	2019-05-13	2019 Teachers Tournament semifinal game 1.
@@ -10329,11 +10326,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	600	0	THE ACCESSORIZED TEACHER		The First Amendment Center says public school teachers may wear non-obtrusive religious jewelry such as a cross or this; l'chaim!	a Star of David	2019-05-16	2019 Teachers Tournament final game 1.
 1	800	0	THE ACCESSORIZED TEACHER		In 2015 Turkey's Supreme Court ruled that male teachers may wear these in class; simple studs are probably best	earrings	2019-05-16	2019 Teachers Tournament final game 1.
 1	1000	0	THE ACCESSORIZED TEACHER		Say you love learning with a pair of these showing books; George H.W. Bush wore some to honor his wife's literacy activism	socks	2019-05-16	2019 Teachers Tournament final game 1.
-1	200	0	CROSSWORD CLUES "L\"		A go-between, or a relationship that could be "dangerous"(7)	a liaison	2019-05-16	2019 Teachers Tournament final game 1.
-1	400	0	CROSSWORD CLUES "L\"		Potato pancake(5)	a latke	2019-05-16	2019 Teachers Tournament final game 1.
+1	200	0	CROSSWORD CLUES "L\"		A go-between, or a relationship that could be "dangerous" (7)	a liaison	2019-05-16	2019 Teachers Tournament final game 1.
+1	400	0	CROSSWORD CLUES "L\"		Potato pancake (5)	a latke	2019-05-16	2019 Teachers Tournament final game 1.
 1	600	0	CROSSWORD CLUES "L\"		Sane or easily understood (5)	lucid	2019-05-16	2019 Teachers Tournament final game 1.
-1	800	2400	CROSSWORD CLUES "L\"		Fungi & algae combo(6)	lichen	2019-05-16	2019 Teachers Tournament final game 1.
-1	1000	0	CROSSWORD CLUES "L\"		A pale purple(8)	lavender	2019-05-16	2019 Teachers Tournament final game 1.
+1	800	2400	CROSSWORD CLUES "L\"		Fungi & algae combo (6)	lichen	2019-05-16	2019 Teachers Tournament final game 1.
+1	1000	0	CROSSWORD CLUES "L\"		A pale purple (8)	lavender	2019-05-16	2019 Teachers Tournament final game 1.
 1	200	0	DANCING BACK TO DISCO		The Village People knew "there's a place you can go...when you're short on your dough"; hey, it's "fun to stay" here!	at the YMCA	2019-05-16	2019 Teachers Tournament final game 1.
 1	400	0	DANCING BACK TO DISCO		Donna Summer sang, "Lookin' for some" this title "baby this evenin', I need some" this title "baby tonight\"	\"Hot Stuff\"	2019-05-16	2019 Teachers Tournament final game 1.
 1	600	0	DANCING BACK TO DISCO		The complete lyrics of Van McCoy's song that had dancers on their feet: "Do it!" & this 3-word phrase	do the hustle	2019-05-16	2019 Teachers Tournament final game 1.
@@ -10503,9 +10500,9 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	THE MONTHLY MOVIE TITLE		An all-star cast including Meryl Streep gathers for a funeral in this 2013 adaptation of a Pulitzer-winning play	August: Osage County	2019-05-20	
 2	2000	0	THE MONTHLY MOVIE TITLE		In 1964 Burt Lancaster played a general attempting a military takeover of the government in this film	Seven Days in May	2019-05-20	
 3	0	0	NAME THE FRENCH AUTHOR		\"I am making myself liable to Articles 30 & 31 of the law of 29 July regarding the press, which make libel a punishable offense\"	Emile Zola	2019-05-20	
-1	200	0	TV CARTOON SERIES BY CHARACTERS		Shaggy,Daphne,Velma	Scooby-Doo	2019-05-21	
-1	400	0	TV CARTOON SERIES BY CHARACTERS		Fry the delivery guy,Turanga Leela,Morbo	Futurama	2019-05-21	
-1	600	0	TV CARTOON SERIES BY CHARACTERS		Hank, Peggy,Luanne Platter	King of the Hill	2019-05-21	
+1	200	0	TV CARTOON SERIES BY CHARACTERS		Shaggy, Daphne, Velma	Scooby-Doo	2019-05-21	
+1	400	0	TV CARTOON SERIES BY CHARACTERS		Fry the delivery guy, Turanga Leela, Morbo	Futurama	2019-05-21	
+1	600	0	TV CARTOON SERIES BY CHARACTERS		Hank, Peggy, Luanne Platter	King of the Hill	2019-05-21	
 1	800	0	TV CARTOON SERIES BY CHARACTERS		Chuckie, Tommy, Angelica	Rugrats	2019-05-21	
 1	1000	0	TV CARTOON SERIES BY CHARACTERS		Tina, Gene & Linda Belcher	Bob's Burgers	2019-05-21	
 1	200	0	POTENT POTABLES		It's the main alcoholic ingredient in a pina colada	rum	2019-05-21	
@@ -10642,10 +10639,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	THE 2018 IG NOBEL PRIZES		The Economics winners investigated if the use of these dolls was effective against bad bosses	voodoo dolls	2019-05-23	
 1	1000	0	THE 2018 IG NOBEL PRIZES		Work on the caloric benefits of this anthropophagic diet during the Paleolithic ate up the Nutrition prize	cannibalism	2019-05-23	
 1	200	0	THE COMMON FACTOR		Track & ____ & stream	field	2019-05-23	
-1	400	0	THE COMMON FACTOR		Arm & ____ &sickle	hammer	2019-05-23	
+1	400	0	THE COMMON FACTOR		Arm & ____ & sickle	hammer	2019-05-23	
 1	600	0	THE COMMON FACTOR		Brick & ____ & pestle	mortar	2019-05-23	
-1	800	0	THE COMMON FACTOR		Summer & ____ &mirrors	smoke	2019-05-23	
-1	1000	0	THE COMMON FACTOR		Torvill & ____ &DeLuca	Dean	2019-05-23	
+1	800	0	THE COMMON FACTOR		Summer & ____ & mirrors	smoke	2019-05-23	
+1	1000	0	THE COMMON FACTOR		Torvill & ____ & DeLuca	Dean	2019-05-23	
 1	200	0	NEWSPEAK	(Alex: And hearkening back to the novel 1984...)	Oldspeak referred to this language spoken by about 1.5 billion today	English	2019-05-23	
 1	400	0	NEWSPEAK	(Alex: And hearkening back to the novel 1984...)	Most sex was outlawed, so artsem, short for this, was preferred for reproduction	artificial insemination	2019-05-23	
 1	600	0	NEWSPEAK	(Alex: And hearkening back to the novel 1984...)	Taking place every day after morning wake-up, "physical jerks" were these & were mandatory	exercise	2019-05-23	
@@ -10799,7 +10796,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	800	0	FEELING ART "C\"		MoMA has a series of 32 Andy Warhol paintings of these cans, including clam chowder & chicken noodle	Campbell's soups	2019-05-27	
 2	1200	0	FEELING ART "C\"		Botticelli painted Athena with this type of mythic creature	a centaur	2019-05-27	
 2	1600	0	FEELING ART "C\"		Though her dad said he'd rather see her dead, she moved to Paris in 1866 & later exhibited with the Impressionists	(Mary) Cassatt	2019-05-27	
-2	2000	0	FEELING ART "C\"		He was a master of chiaroscuro, the use of light & shadows to add drama to his canvases, as in "The Denial of St. Peter"	Caravaggio	2019-05-27	
+2	2000	0	FEELING ART "C\"		He was a master of chiaroscuro, the use of light & shadows to add drama to his canvases, as in "The Denial of St. Peter\"	Caravaggio	2019-05-27	
 3	0	0	GAMES		When this game was introduced in 1860, it had squares like Intemperance & Poverty & if you hit the Suicide square your game was over	The Game of Life	2019-05-27	
 1	200	0	HEAVY SCIENCE		Ask Ozzy Osbourne: cadmium & thallium are among the "heavy" these	metals	2019-05-28	
 1	400	0	HEAVY SCIENCE		Made with deuterium, an isotope of this element, heavy water has the formula D2O	hydrogen	2019-05-28	
@@ -11312,7 +11309,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	ARTY FACTS		In 2014 a very big blossom by this American set a record for a female artist when it sold for $44.4 million	Georgia O'Keeffe	2019-06-07	
 2	800	0	ARTY FACTS		(Jimmy of the Clue Crew presents the clue): A 15th-century Madonna has gained 21st-century notice for its possible depiction of one of these mysterious objects	a UFO (flying saucer)	2019-06-07	
 2	1200	0	ARTY FACTS		In 2014 stolen paintings worth $12 million were recovered in L.A., including "Mexican Peasant" by this muralist	Rivera	2019-06-07	
-2	1600	0	ARTY FACTS		"The Great Wave" by the Japanese artist Hokusai inspired this 1905 piece of music by Claude Debussy	\"La Mer\"	2019-06-07	
+2	1600	0	ARTY FACTS		\"The Great Wave" by the Japanese artist Hokusai inspired this 1905 piece of music by Claude Debussy	\"La Mer\"	2019-06-07	
 2	2000	0	ARTY FACTS		This "Naked" Goya work was put on a Spanish stamp in 1930, but the U.S. Post Office refused any mail using it	Naked Maja	2019-06-07	
 2	400	0	AROUND THE BODY		The "Hyster-" in hysterectomy indicates that it's the removal of this body part	the uterus	2019-06-07	
 2	800	0	AROUND THE BODY		These arteries that supply blood to the heart itself take their name from the Latin for "crown\"	the coronary arteries	2019-06-07	
@@ -11341,10 +11338,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	2000	0	IF THEY MARRIED...		\'90s singer Tori of "Cornflake Girl" fame joins actor John in his "Full House" & hyphenates her name to this	Tori Amos-Stamos	2019-06-07	
 3	0	0	CANADIAN CITIES		City Hall in this Western provincial capital is on Victoria Avenue near the corner of Albert Street	Regina	2019-06-07	
 1	200	0	BIG 4 SPORTS TEAM NAMES IRL		In 2015 Iran's city of Bandar Mahshahr hit a near-record 165 on this index	the heat index	2019-06-10	
-1	400	0	BIG 4 SPORTS TEAM NAMES IRL		Vermilion, burgundy,scarlet	reds	2019-06-10	
+1	400	0	BIG 4 SPORTS TEAM NAMES IRL		Vermilion, burgundy, scarlet	reds	2019-06-10	
 1	600	0	BIG 4 SPORTS TEAM NAMES IRL		Canada has 105 of these lawmakers	senators	2019-06-10	
 1	800	0	BIG 4 SPORTS TEAM NAMES IRL		In song Gene Autry had these "that jingle jangle jingle\"	spurs	2019-06-10	
-1	1000	0	BIG 4 SPORTS TEAM NAMES IRL		Moyers,Nye,Pecos	the Bills	2019-06-10	
+1	1000	0	BIG 4 SPORTS TEAM NAMES IRL		Moyers, Nye, Pecos	the Bills	2019-06-10	
 1	200	0	BOOKS		\"The Bad Beginning" is Book One in "A Series of" these	unfortunate events	2019-06-10	
 1	400	0	BOOKS		The first woman to win the Pulitzer for Fiction, Edith Wharton won for this 1920 novel about 1870s New York City	The Age of Innocence	2019-06-10	
 1	600	0	BOOKS		A foreword to this novel says Humbert Humbert died in legal captivity before the start of his trial	Lolita	2019-06-10	
@@ -11802,8 +11799,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	BIG RIVERS		Capital cities on the banks of the Nile River include Cairo & this capital of Sudan	Khartoum	2019-06-19	2019 Teen Tournament quarterfinal game 3.
 2	2000	2500	BIG RIVERS		Giving its name to a different country, this ancient river flows 2,000 miles mostly through Pakistan	the Indus	2019-06-19	2019 Teen Tournament quarterfinal game 3.
 2	400	0	CROSSWORD CLUES "N\"		Pester (3)	nag	2019-06-19	2019 Teen Tournament quarterfinal game 3.
-2	800	0	CROSSWORD CLUES "N\"		Can't feel a thing(4)	numb	2019-06-19	2019 Teen Tournament quarterfinal game 3.
-2	1200	0	CROSSWORD CLUES "N\"		Jesus' boyhood home(8)	Nazareth	2019-06-19	2019 Teen Tournament quarterfinal game 3.
+2	800	0	CROSSWORD CLUES "N\"		Can't feel a thing (4)	numb	2019-06-19	2019 Teen Tournament quarterfinal game 3.
+2	1200	0	CROSSWORD CLUES "N\"		Jesus' boyhood home (8)	Nazareth	2019-06-19	2019 Teen Tournament quarterfinal game 3.
 2	1600	0	CROSSWORD CLUES "N\"		Favoritism shown to family members in business or politics (8)	nepotism	2019-06-19	2019 Teen Tournament quarterfinal game 3.
 2	2000	2000	CROSSWORD CLUES "N\"		Neither acidic nor basic (7)	neutral	2019-06-19	2019 Teen Tournament quarterfinal game 3.
 2	400	0	THE D.C. UNIVERSE		A little birdie told me Dick Costolo became CEO of this social media site after a 2010 boardroom coup	Twitter	2019-06-19	2019 Teen Tournament quarterfinal game 3.
@@ -11855,7 +11852,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	METEOROLOGY		(Jimmy of the Clue Crew shows storms on a map.) In the north Atlantic & northeast Pacific, "hurricane" is the regional term; in the northwest Pacific, it's "typhoon", but in the south Pacific & Indian Ocean, this word is used, from Greek for "circle\"	a cyclone	2019-06-20	2019 Teen Tournament quarterfinal game 4.
 2	800	0	METEOROLOGY		When one of these devices that measures air pressure is falling, wet weather is likely on the way	a barometer	2019-06-20	2019 Teen Tournament quarterfinal game 4.
 2	1200	2000	METEOROLOGY		This triatomic allotrope of oxygen leaves that peculiar smell in the air after thunderstorms	ozone	2019-06-20	2019 Teen Tournament quarterfinal game 4.
-2	1600	0	METEOROLOGY		The 11-year cycle of these solar areas that are a cool 6,500deg has been correlated with temperature changes on Earth	sunspots	2019-06-20	2019 Teen Tournament quarterfinal game 4.
+2	1600	0	METEOROLOGY		The 11-year cycle of these solar areas that are a cool 6,500° has been correlated with temperature changes on Earth	sunspots	2019-06-20	2019 Teen Tournament quarterfinal game 4.
 2	2000	0	METEOROLOGY		The Beaufort scale generally ranges from 0 to 12 in measuring this	wind	2019-06-20	2019 Teen Tournament quarterfinal game 4.
 2	400	0	ACTORS BY ROLE		Wade Wilson in "X-Men Origins: Wolverine\"	Ryan Reynolds	2019-06-20	2019 Teen Tournament quarterfinal game 4.
 2	800	0	ACTORS BY ROLE		Beca, one of the Barden Bellas in "Pitch Perfect\"	Anna Kendrick	2019-06-20	2019 Teen Tournament quarterfinal game 4.
@@ -12330,10 +12327,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1200	0	THE GEORGE W. BUSH PRESIDENTIAL LIBRARY	(Alex: Our 43rd president is celebrating a birthday this weekend.)	(Jimmy of the Clue Crew presents from the George W. Bush Presidential Library.) This 9mm Glock pistol was held by this former world leader when he was found hiding in a hole in the ground by American forces in 2003	Saddam Hussein	2019-07-02	
 2	1600	0	THE GEORGE W. BUSH PRESIDENTIAL LIBRARY	(Alex: Our 43rd president is celebrating a birthday this weekend.)	(Jimmy of the Clue Crew presents from the George W. Bush Presidential Library.) The Situation Room replica has the actual furniture from Washington—from this table on March 19th, 2003, President Bush gave the order to start the Iraq War to General Franks, head of CENTCOM, short for this	Central Command	2019-07-02	
 2	2000	0	THE GEORGE W. BUSH PRESIDENTIAL LIBRARY	(Alex: Our 43rd president is celebrating a birthday this weekend.)	(Jimmy of the Clue Crew presents from the George W. Bush Presidential Library.) The Bush Library has a full-sized Oval Office, where you can sit behind a replica of this famous desk, also used by FDR & JFK, among others	the Resolute desk	2019-07-02	
-2	400	0	CITIES IN THE COUNTRY		Da Nang,Da Lat	Vietnam	2019-07-02	
+2	400	0	CITIES IN THE COUNTRY		Da Nang, Da Lat	Vietnam	2019-07-02	
 2	800	0	CITIES IN THE COUNTRY		Lugano, Lausanne	Switzerland	2019-07-02	
-2	1200	0	CITIES IN THE COUNTRY		Lagos,Lafia	Nigeria	2019-07-02	
-2	1600	0	CITIES IN THE COUNTRY		Beersheba,Bat Yam	Israel	2019-07-02	
+2	1200	0	CITIES IN THE COUNTRY		Lagos, Lafia	Nigeria	2019-07-02	
+2	1600	0	CITIES IN THE COUNTRY		Beersheba, Bat Yam	Israel	2019-07-02	
 2	2000	0	CITIES IN THE COUNTRY		Aarhus, Aalborg	Denmark	2019-07-02	
 2	400	0	LITERATURE FROM A DIFFERENT PERSPECTIVE		2018's "The Silence of the Girls" tells this classic story from the perspective of Briseis, Achilles' concubine	the Iliad	2019-07-02	
 2	800	0	LITERATURE FROM A DIFFERENT PERSPECTIVE		In this man's "Wife", Una marries the title whaling captain	Ahab	2019-07-02	
@@ -12372,7 +12369,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	AMERICAN WRITERS		In a story by this sci-fi master, "I Sing the Body Electric!" is the title of a pamphlet for a robot grandmother	Ray Bradbury	2019-07-03	
 1	1000	0	AMERICAN WRITERS		\"Miss Lonelyhearts" was one of his satiric novels of the 1930s	(Nathanael) West	2019-07-03	
 1	200	0	THERE'S A TIME & A PLACE FOR EVERYTHING		East Pittsburgh, Nov. 2, 1920: Election returns are the first commercial broadcast in this medium	radio	2019-07-03	
-1	400	0	THERE'S A TIME & A PLACE FOR EVERYTHING		Philly,July 12, 1776: John Dickinson asks the Continental Congress, hey, did you read these Articles I sent you?	the Articles of Confederation	2019-07-03	
+1	400	0	THERE'S A TIME & A PLACE FOR EVERYTHING		Philly, July 12, 1776: John Dickinson asks the Continental Congress, hey, did you read these Articles I sent you?	the Articles of Confederation	2019-07-03	
 1	600	1000	THERE'S A TIME & A PLACE FOR EVERYTHING		1541, Lima: This conquistador is murdered at dinner in his palace	Pizarro	2019-07-03	
 1	800	0	THERE'S A TIME & A PLACE FOR EVERYTHING		London, 1854: Dr. John Snow identifies the Broad Street pump as the cause of an epidemic of this disease	cholera	2019-07-03	
 1	1000	0	THERE'S A TIME & A PLACE FOR EVERYTHING		1862, this Tokyo castle: Iemochi marries Princess Kazu in a shogun wedding	Edo Castle	2019-07-03	
@@ -12487,10 +12484,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	800	0	HISTORIC AMERICANS		This newspaper magnate ran for the Democratic presidential nomination in 1904	(William Randolph) Hearst	2019-07-05	
 1	1000	0	HISTORIC AMERICANS		Wondering how to help impoverished women, this woman (1879-1966) realized she had to remove legal barriers to birth control	Margaret Sanger	2019-07-05	
 1	200	0	PARTS OF THE WHOLE		Pedals, seat, a single wheel	a unicycle	2019-07-05	
-1	400	0	PARTS OF THE WHOLE		Card reader slot,hose, nozzle	a gas dispenser (or pump)	2019-07-05	
-1	600	0	PARTS OF THE WHOLE		Cutter link,guide bar,kickback guard,stop button	a chainsaw	2019-07-05	
-1	800	0	PARTS OF THE WHOLE		Chanter,drones,a tartan sack	a bagpipe	2019-07-05	
-1	1000	0	PARTS OF THE WHOLE		Shaft,fletching,nock	an arrow	2019-07-05	
+1	400	0	PARTS OF THE WHOLE		Card reader slot, hose, nozzle	a gas dispenser (or pump)	2019-07-05	
+1	600	0	PARTS OF THE WHOLE		Cutter link, guide bar, kickback guard, stop button	a chainsaw	2019-07-05	
+1	800	0	PARTS OF THE WHOLE		Chanter, drones, a tartan sack	a bagpipe	2019-07-05	
+1	1000	0	PARTS OF THE WHOLE		Shaft, fletching, nock	an arrow	2019-07-05	
 1	200	0	THE FIFA MEN'S WORLD CUP		In 2006 Zinedine Zidane famously incurred a red card infraction: this foul that even got a Paris statue named for it	the headbutt	2019-07-05	
 1	400	0	THE FIFA MEN'S WORLD CUP		Pele was only 17 when he first played for this country in 1958—it would win 3 World Cups with him	Brazil	2019-07-05	
 1	600	0	THE FIFA MEN'S WORLD CUP		In 2018 France won the final game 4-2, but only scored 3 times because the 4th goal was this type	an own goal	2019-07-05	
@@ -12592,7 +12589,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	STATE OF THE COUNTIES		There's Marlboro country—er, county—along with Greenville & Sumter	South Carolina	2019-07-09	
 1	400	0	STATE OF THE COUNTIES		Take in the united colors of Bennington, party in Orleans, then go to Rutland	Vermont	2019-07-09	
 1	600	0	STATE OF THE COUNTIES		Nez Perce County is on its west side & Teton County, on the east	Idaho	2019-07-09	
-1	800	0	STATE OF THE COUNTIES		Here are 3 of its 5 counties: Bristol,Kent & Newport	Rhode Island	2019-07-09	
+1	800	0	STATE OF THE COUNTIES		Here are 3 of its 5 counties: Bristol, Kent & Newport	Rhode Island	2019-07-09	
 1	1000	0	STATE OF THE COUNTIES		Enjoy the Great Divide, get held for Ransom, then pick up Grand Forks	North Dakota	2019-07-09	
 1	200	0	SECOND BOOK IN THE SERIES		In "The Marvelous Land of Oz", he's the ruler of the Emerald City & is still full of straw	the Scarecrow	2019-07-09	
 1	400	0	SECOND BOOK IN THE SERIES		Stieg Larsson's second novel about Lisbeth Salander was "The Girl Who Played With" this	fire	2019-07-09	
@@ -13103,7 +13100,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	THE REAL MOVIE PERSON		Felicity Jones played a young Ruth Bader Ginsburg in this 2018 biopic	On the Basis of Sex	2019-07-19	
 2	2000	0	THE REAL MOVIE PERSON		In 2017 this title woman in a 2000 pic helped sue Okla. oil & gas companies whose fracking was said to cause earthquakes	Erin Brockovich	2019-07-19	
 2	400	0	LANDS O' LAKES		Lake Managua	Nicaragua	2019-07-19	
-2	800	0	LANDS O' LAKES		Lake Ladoga,Lake Kubenskoye	Russia	2019-07-19	
+2	800	0	LANDS O' LAKES		Lake Ladoga, Lake Kubenskoye	Russia	2019-07-19	
 2	1200	0	LANDS O' LAKES		In Europe, Lake Como	Italy	2019-07-19	
 2	1600	0	LANDS O' LAKES		Lake Chapala	Mexico	2019-07-19	
 2	2000	0	LANDS O' LAKES		Great Slave Lake	Canada	2019-07-19	
@@ -13117,11 +13114,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1600	0	COMPUTER "D"s		It's the colorful name of the IBM supercomputer that beat chess grandmaster Garry Kasparov	Deep Blue	2019-07-19	
 2	2000	0	COMPUTER "D"s		Folder is a synonym for one of these inside a computer's internal filing system	directory	2019-07-19	
 3	0	0	STATES' GOVERNORS		It's the only state to have had 4 female governors, 3 of whom served consecutively between 1997 & 2015	Arizona	2019-07-19	
-1	200	0	audible SUMMER READING		Ian McKellen narrates this epic that's perfect for a long road tripOld friend—our queen, wise Penelope, summons you, the prince's mother	the Odyssey	2019-07-22	
-1	400	0	audible SUMMER READING		She tells us how she created a modern TV classicA triangle between me, Alec Baldwin and Tracy Morgan felt like it had potential	Tina Fey	2019-07-22	
-1	600	0	audible SUMMER READING		Tim Curry takes us on an adventure with a classic by this authorLet no one take it into his head before us to try and discover the center of the Earth!	(Jules) Verne	2019-07-22	
-1	800	0	audible SUMMER READING		She tells humorous anecdotes from her long career on stage & screen"Yes, yes," she interrupted, "But you're going to be playing Mary Poppins?" Yes, Miss Travers. "Well, you're much to pretty, of course"	Julie Andrews	2019-07-22	
-1	1000	0	audible SUMMER READING		James Franco gives voice to this absurdist novel by Kurt VonnegutListen: Billy Pilgrim has come unstuck in time	Slaughterhouse-Five	2019-07-22	
+1	200	0	audible SUMMER READING		Ian McKellen narrates this epic that's perfect for a long road trip Old friend—our queen, wise Penelope, summons you, the prince's mother	the Odyssey	2019-07-22	
+1	400	0	audible SUMMER READING		She tells us how she created a modern TV classic A triangle between me, Alec Baldwin and Tracy Morgan felt like it had potential	Tina Fey	2019-07-22	
+1	600	0	audible SUMMER READING		Tim Curry takes us on an adventure with a classic by this author Let no one take it into his head before us to try and discover the center of the Earth!	(Jules) Verne	2019-07-22	
+1	800	0	audible SUMMER READING		She tells humorous anecdotes from her long career on stage & screen "Yes, yes," she interrupted, "But you're going to be playing Mary Poppins?" Yes, Miss Travers. "Well, you're much to pretty, of course\"	Julie Andrews	2019-07-22	
+1	1000	0	audible SUMMER READING		James Franco gives voice to this absurdist novel by Kurt Vonnegut Listen: Billy Pilgrim has come unstuck in time	Slaughterhouse-Five	2019-07-22	
 1	200	0	AT THE BALLPARK		Ivy since 1937; lights since 1988	Wrigley Field	2019-07-22	
 1	400	0	AT THE BALLPARK		An Eddie Murray statue & the B&O warehouse	Camden Yards (or Oriole Park)	2019-07-22	
 1	600	0	AT THE BALLPARK		The Vin Scully Press Box	Dodger Stadium	2019-07-22	

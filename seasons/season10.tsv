@@ -85,11 +85,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	PLUMBING		To allow drains to flow better, a vent lets this into the system	air	1993-09-07	
 1	400	0	PLUMBING		Emerson Electric owns In-Sink-Erator, a major manufacturer of these devices	a garbage disposal	1993-09-07	
 1	500	0	PLUMBING		This plumbing fixture contains a flapper or stopper ball	a toilet	1993-09-07	
-1	100	0	THE ROLE PLAYED		Mike Henry,Buster Crabbe &Johnny Weissmuller	Tarzan	1993-09-07	
-1	200	0	THE ROLE PLAYED		Walter Huston,Henry Fonda &Raymond Massey	Lincoln	1993-09-07	
-1	300	0	THE ROLE PLAYED		Sandra Dee,Deborah Walley &Cindy Carol	Gidget	1993-09-07	
-1	400	0	THE ROLE PLAYED		Lon Chaney,Claude Rains &Herbert Lom	the Phantom of the Opera	1993-09-07	
-1	500	0	THE ROLE PLAYED		Warner Oland,Sidney Toler &Roland Winters	Charlie Chan	1993-09-07	
+1	100	0	THE ROLE PLAYED		Mike Henry, Buster Crabbe & Johnny Weissmuller	Tarzan	1993-09-07	
+1	200	0	THE ROLE PLAYED		Walter Huston, Henry Fonda & Raymond Massey	Lincoln	1993-09-07	
+1	300	0	THE ROLE PLAYED		Sandra Dee, Deborah Walley & Cindy Carol	Gidget	1993-09-07	
+1	400	0	THE ROLE PLAYED		Lon Chaney, Claude Rains & Herbert Lom	the Phantom of the Opera	1993-09-07	
+1	500	0	THE ROLE PLAYED		Warner Oland, Sidney Toler & Roland Winters	Charlie Chan	1993-09-07	
 2	200	0	SCIENCE		In physics a rad is the unit used to measure the amount of this absorbed by matter	radiation	1993-09-07	
 2	400	0	SCIENCE		In 1975 Isaac Asimov published a history of this scientific instrument called "Eyes on the Universe\"	the telescope	1993-09-07	
 2	600	0	SCIENCE		It's the process by which light nuclei combine to form a single heavier nucleus	fusion	1993-09-07	
@@ -536,7 +536,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	0	ART		This 1885 painting by van Gogh depicts peasants at their evening meal	The Potato Eaters	1993-09-27	
 2	800	0	ART		His "Night Watch" painting was originally titled "The Militia Company of Captain Frans Banning Cocq\"	Rembrandt	1993-09-27	
 2	1000	0	ART		The Impressionists took their name from this French painter's "Impression: Sunrise\"	Monet	1993-09-27	
-2	200	0	WOMEN AUTHORS		She worked as a governess herself before writing about one in "Jane Eyre\"	Charlotte Bronte	1993-09-27	
+2	200	0	WOMEN AUTHORS		She worked as a governess herself before writing about one in "Jane Eyre\"	Charlotte Brontë	1993-09-27	
 2	400	0	WOMEN AUTHORS		In 1811 she published "Sense and Sensibility" at her own expense	Jane Austen	1993-09-27	
 2	600	0	WOMEN AUTHORS		She wrote several stories with husband F. Scott, & the novel "Save Me the Waltz" on her own	Zelda Fitzgerald	1993-09-27	
 2	800	0	WOMEN AUTHORS		She tried to turn "Atlas Shrugged" into a TV miniseries, but the project was never completed	Ayn Rand	1993-09-27	
@@ -722,7 +722,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	400	0	VICTOR HUGO		His father was one of this man's generals	Napoleon	1993-09-30	
 2	600	0	VICTOR HUGO		Hugo's "Le roi s'amuse" was turned into "Rigoletto" by this composer	Verdi	1993-09-30	
 2	800	0	VICTOR HUGO		During his national funeral, he lay in state for awhile under this Paris landmark	Arc de Triomphe	1993-09-30	
-2	1000	0	VICTOR HUGO		In 1841 Hugo was elected to this literary group on his fourth try	l'Academie francaise	1993-09-30	
+2	1000	0	VICTOR HUGO		In 1841 Hugo was elected to this literary group on his fourth try	l'Académie française	1993-09-30	
 3	0	0	U.S. CITIES		The closest port to Asia in the lower 48 states, it was named 1992's best U.S. city for doing business	Seattle	1993-09-30	
 1	100	0	AMERICAN HISTORY		An 1874 invasion by swarms of these leaping insects destroyed most of Nebraska's crops	locusts (grasshoppers)	1993-10-01	
 1	200	0	AMERICAN HISTORY		In 1769 Father Junipero Serra founded San Diego de Alcala, the 1st Franciscan mission in what's now this state	California	1993-10-01	
@@ -847,7 +847,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	500	0	19th CENTURY AMERICA		This first Chief Justice of the United States died in Bedford, N.Y. in 1829	John Jay	1993-10-05	
 1	100	0	CLINT EASTWOOD FILMS		To date "The Dead Pool" is the 5th & last film in which Eastwood played this San Francisco cop	Harry Callahan	1993-10-05	
 1	200	0	CLINT EASTWOOD FILMS		The Italian title of this first spaghetti Western is "Per un pugno di dollari\"	A Fistful of Dollars	1993-10-05	
-1	300	0	CLINT EASTWOOD FILMS		This 1992 Eastwood epic of the American West was mostly shot in⁠—Canada	Unforgiven	1993-10-05	
+1	300	0	CLINT EASTWOOD FILMS		This 1992 Eastwood epic of the American West was mostly shot in—Canada	Unforgiven	1993-10-05	
 1	400	0	CLINT EASTWOOD FILMS		The 1983 invasion of this Caribbean island was depicted in "Heartbreak Ridge\"	Grenada	1993-10-05	
 1	500	0	CLINT EASTWOOD FILMS		This 1971 film in which Eastwood played a disc jockey was the first that he directed	Play Misty for Me	1993-10-05	
 1	100	0	TRAVEL & TOURISM		This city's CNN Center also houses the Omni Hotel	Atlanta	1993-10-05	
@@ -860,7 +860,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	BIOLOGY		In vertebrates the oculomotor nerve stimulates the muscles that move this organ	the eyes	1993-10-05	
 1	400	500	BIOLOGY		Like human hair, a bird's feathers are made of this protein	keratin	1993-10-05	
 1	500	0	BIOLOGY		Many animals exhibit geotactic behavior; that is, they move in response to this force	gravity	1993-10-05	
-1	100	0	CLICHES		When you accept something you don't want to, you do this to your pride⁠—gulp!	swallow	1993-10-05	
+1	100	0	CLICHES		When you accept something you don't want to, you do this to your pride—gulp!	swallow	1993-10-05	
 1	200	0	CLICHES		A person whose motives are easy to "read" is described as an "open" one of these	a book	1993-10-05	
 1	300	0	CLICHES		It's the perfect shape for a fair deal or a satisfying meal	square	1993-10-05	
 1	400	0	CLICHES		An honored guest at a dinner party is said "to sit above" this seasoning	the salt	1993-10-05	
@@ -2000,11 +2000,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE 1480s		Published posthumously in 1485, this author's "Le Morte d'Arthur" was written mostly in prison	Sir Thomas Malory	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	400	0	THE 1480s		The death of Richard III in the 1485 battle of this field is said to have ended The Wars of the Roses	Bosworth Field	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	500	0	THE 1480s		In 1483, this Roman Catholic priest became Spain's first Grand Inquisitor	Tomas de Torquemada	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	100	0	TV ROLES		Zachary Powers,Khan,Mr. Roarke	Ricardo Montalban	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	200	0	TV ROLES		Charlie Townsend,Bentley Gregg, Blake Carrington	John Forsythe	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	300	0	TV ROLES		Dr. Vincent Markham,John Bracken,Detective Frank Drebin	Leslie Nielsen	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	400	0	TV ROLES		Toni "Feather" Danton,April Dancer,Jennifer Hart	Stefanie Powers	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	500	0	TV ROLES		Ruth Martin,Beverly Ann Stickle,Phyllis Lindstrom	Cloris Leachman	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	100	0	TV ROLES		Zachary Powers, Khan, Mr. Roarke	Ricardo Montalban	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	200	0	TV ROLES		Charlie Townsend, Bentley Gregg, Blake Carrington	John Forsythe	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	300	0	TV ROLES		Dr. Vincent Markham, John Bracken, Detective Frank Drebin	Leslie Nielsen	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	400	0	TV ROLES		Toni "Feather" Danton, April Dancer, Jennifer Hart	Stefanie Powers	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	500	0	TV ROLES		Ruth Martin, Beverly Ann Stickle, Phyllis Lindstrom	Cloris Leachman	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	100	0	DAYS OF THE WEEK		In 1993, on this day of the week, the Cowboys beat the Bills 52-17	(Super Bowl) Sunday	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	200	0	DAYS OF THE WEEK		For Jews, the sabbath starts on the evening of this day	Friday	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	300	0	DAYS OF THE WEEK		Its abbreviation is a synonym for marry	Wednesday (Wed.)	1993-11-23	1993 Tournament of Champions semifinal game 2.
@@ -2016,7 +2016,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	NONFICTION		This tennis great who passed away in 1993 left behind the memoir "Days Of Grace\"	Arthur Ashe	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	500	0	NONFICTION		\"Reversal Of Fortune", this attorney's book about the von Bulow case, was the basis for a 1990 film	Alan Dershowitz	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	100	0	PEOPLE & PLACES		A Genovese is from Genoa, while a Genevese comes from this city	Geneva	1993-11-23	1993 Tournament of Champions semifinal game 2.
-1	200	0	PEOPLE & PLACES		Tradition says these Polynesians, who now live in New Zealand, came from a land calledHawaiki	Maori	1993-11-23	1993 Tournament of Champions semifinal game 2.
+1	200	0	PEOPLE & PLACES		Tradition says these Polynesians, who now live in New Zealand, came from a land called Hawaiki	Maori	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	300	0	PEOPLE & PLACES		The people of this South American city are called Paulistas	Sao Paulo	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	400	0	PEOPLE & PLACES		This ethnic group descended from Celts is predominant in southern Belgium	Walloons	1993-11-23	1993 Tournament of Champions semifinal game 2.
 1	500	0	PEOPLE & PLACES		The two main ethnic groups in this mountainous country on the Adriatic are the Ghegs & the Tosks	Albania	1993-11-23	1993 Tournament of Champions semifinal game 2.
@@ -2100,11 +2100,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	600	1000	BIOLOGY		Metanephros is the medical name for this organ found in birds, reptiles & humans	Kidneys	1993-11-24	1993 Tournament of Champions semifinal game 3.
 2	800	0	BIOLOGY		The paramecium, a microorganism found in fresh water, moves by means of these tiny, hair-like threads	Cilia	1993-11-24	1993 Tournament of Champions semifinal game 3.
 2	1000	0	BIOLOGY		During fertilization, two of these cells, one each from the male & female, unite to form a zygote	Gametes	1993-11-24	1993 Tournament of Champions semifinal game 3.
-2	200	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Robert Preston,Barbara Cook,Pert Kelton,Iggie Wolfington	The Music Man	1993-11-24	1993 Tournament of Champions semifinal game 3.
-2	400	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Walter Matthau,Art Carney,Paul Dooley,Carole Shelley	The Odd Couple	1993-11-24	1993 Tournament of Champions semifinal game 3.
-2	600	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Donna McKechnie,Priscilla Lopez,Carole Bishop,Sammy Williams	A Chorus Line	1993-11-24	1993 Tournament of Champions semifinal game 3.
-2	800	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Lauren Bacall,Len Cariou,Penny Fuller,Lee Roy Reams	Applause	1993-11-24	1993 Tournament of Champions semifinal game 3.
-2	1000	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Alexis Smith,Dorothy Collins,Gene Nelson,Yvonne De Carlo	Follies	1993-11-24	1993 Tournament of Champions semifinal game 3.
+2	200	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Robert Preston, Barbara Cook, Pert Kelton, Iggie Wolfington	The Music Man	1993-11-24	1993 Tournament of Champions semifinal game 3.
+2	400	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Walter Matthau, Art Carney, Paul Dooley, Carole Shelley	The Odd Couple	1993-11-24	1993 Tournament of Champions semifinal game 3.
+2	600	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Donna McKechnie, Priscilla Lopez, Carole Bishop, Sammy Williams	A Chorus Line	1993-11-24	1993 Tournament of Champions semifinal game 3.
+2	800	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Lauren Bacall, Len Cariou, Penny Fuller, Lee Roy Reams	Applause	1993-11-24	1993 Tournament of Champions semifinal game 3.
+2	1000	0	THE ORIGINAL BROADWAY CAST	(Alex: We will give you the names of some members; you have to identify the show)	Alexis Smith, Dorothy Collins, Gene Nelson, Yvonne De Carlo	Follies	1993-11-24	1993 Tournament of Champions semifinal game 3.
 2	200	0	WORLD LITERATURE		Among the places visited in this novel are Glubdrubdib, an island of sorcerers, & Luggnagg	Gulliver's Travels	1993-11-24	1993 Tournament of Champions semifinal game 3.
 2	400	0	WORLD LITERATURE		In "Beowulf", this monster regularly devours Hrothgar's sleeping warriors	Grendel	1993-11-24	1993 Tournament of Champions semifinal game 3.
 2	600	0	WORLD LITERATURE		Esmeralda earns her living by dancing with her goat, Djali, in this novel	The Hunchback of Notre Dame	1993-11-24	1993 Tournament of Champions semifinal game 3.
@@ -2252,7 +2252,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	NATURE		These crustaceans that cling to ships & wharves also attach themselves to whales	barnacles	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
 1	300	0	NATURE		It's the term for the organism on which a parasite lives & feeds	Host	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
 1	400	0	NATURE		Made up of a filament & anther, this male organ of a flower varies in number from zero to hundreds	Stamen	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
-1	500	0	NATURE		It's any tailed amphibian,including the newt	Salamander	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
+1	500	0	NATURE		It's any tailed amphibian, including the newt	Salamander	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
 1	100	0	CRAFTS		The name of this artistic composition of materials pasted to a surface comes from the Greek "kolla\"	Collage	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
 1	200	0	CRAFTS		Morocco is one type of this material used in bookbinding	Leather	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
 1	300	0	CRAFTS		Pottery usually undergoes this heating process twice in the biscuit & glaze stages	Firing	1993-11-29	1993 10th Anniversary Tournament semifinal game 1.
@@ -2559,8 +2559,8 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	WORLD TRAVEL		In 1993 the admission price at this British castle was reduced almost 50%—sort of a "fire sale\"	Windsor Castle	1993-12-21	
 1	400	0	WORLD TRAVEL		There's a Wellington Museum in this Belgian town, about 2 miles north of the battlefield	Waterloo	1993-12-21	
 1	500	500	WORLD TRAVEL		\"Scandal tours" of this capital city show tourists sites associated with ousted President Fernando Collor	Brasília	1993-12-21	
-1	400	0	AUTO MAKES & MODELS		348,Mondial,Testarossa	Ferrari	1993-12-21	
-1	500	0	AUTO MAKES & MODELS		Galant,Eclipse, Mirage	Mitsubishi	1993-12-21	
+1	400	0	AUTO MAKES & MODELS		348, Mondial, Testarossa	Ferrari	1993-12-21	
+1	500	0	AUTO MAKES & MODELS		Galant, Eclipse, Mirage	Mitsubishi	1993-12-21	
 2	200	0	1989		In August Kristin M. Baker became this academy's first female first captain of the Corps of Cadets	West Point	1993-12-21	
 2	400	0	1989		He became NYC's new "Hizzoner" the mayor	David Dinkins	1993-12-21	
 2	600	0	1989		On July 21 Carl "The Truth" Williams lasted 93 seconds with this man	Mike Tyson	1993-12-21	
@@ -2900,7 +2900,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	200	0	SILLY SONGS		This rodent group gave us "The Alvin Twist: " in 1962	the Chipmunks	1994-01-11	
 1	300	0	SILLY SONGS		Tiny Tim also recorded "Animal Crackers in My Soup", but this little girl sang it first in "Curly Top\"	Shirley Temple	1994-01-11	
 1	400	0	SILLY SONGS		This singer ordered a "Cheeseburger in Paradise" in 1978, 1 year after "Margaritaville\"	Jimmy Buffett	1994-01-11	
-1	500	800	SILLY SONGS		This entertainer introduced the following silly song in the 1941 movie musical "That Night in Rio" "I, Yi, Yi, Yi, Yi, I like you very muchI, Yi, Yi, Yi, Yi, I think you're grandWhy, why, why is it...\"	Carmen Miranda	1994-01-11	
+1	500	800	SILLY SONGS		This entertainer introduced the following silly song in the 1941 movie musical "That Night in Rio" "I, Yi, Yi, Yi, Yi, I like you very much I, Yi, Yi, Yi, Yi, I think you're grand Why, why, why is it...\"	Carmen Miranda	1994-01-11	
 1	100	0	THE SMITHSONIAN		The Smithsonian Tropical Research Institute is in the Canal Zone in this country	Panama	1994-01-11	
 1	200	0	THE SMITHSONIAN		James Renwick, who designed the Smithsonian "Castle", also designed this city's St. Patrick's Cathedral	New York City	1994-01-11	
 1	300	0	THE SMITHSONIAN		The Nat'l Museum of Natural history contains the Warner crystal ball & this 45.5-carat blue diamond	the Hope Diamond	1994-01-11	
@@ -3319,7 +3319,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 2	1000	0	7-LETTER WORDS		It's the wide mouth of a river where its current meets the sea's tide	an estuary	1994-01-21	
 3	0	0	THE KENNEDY CENTER HONORS		The first ballet company founder honored by the Kennedy Center, he was born in St. Petersburg in 1904	George Balanchine	1994-01-21	
 1	100	0	MATH		It's the inverse operation of addition	subtraction	1994-01-24	
-1	200	0	MATH		It's the formula for the area of a circle	pir2	1994-01-24	
+1	200	0	MATH		It's the formula for the area of a circle	πr2	1994-01-24	
 1	300	0	MATH		Multiply 103 by 106 & you get 10 to this power	the 9th power	1994-01-24	
 1	400	0	MATH		If 2 of the interior angles of a triangle are 90o & 60o, the third one will measure this	30o	1994-01-24	
 1	500	0	MATH		Counting up from 1, it's the first whole number that's not a factor of 12	5	1994-01-24	
@@ -3343,11 +3343,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	FOOD & DRINK		Of all the slings, this one with a geographical name is probably the best known	a Singapore Sling	1994-01-24	
 1	400	0	FOOD & DRINK		Creme de menthe & creme de cacao both come in this "color\"	clear (or white)	1994-01-24	
 1	500	0	FOOD & DRINK		This leafy green vegetable is one of the many ingredients in spanakopita, a tasty Greek pie	spinach	1994-01-24	
-1	100	0	HOTELS BY CITY		The Mirage,Excalibur,Caesar's Palace	Las Vegas	1994-01-24	
-1	200	0	HOTELS BY CITY		Meridien Montparnasse,Balzac,George V	Paris	1994-01-24	
-1	300	0	HOTELS BY CITY		Dorchester,Connaught,Cadogan	London	1994-01-24	
-1	400	0	HOTELS BY CITY		Brunelleschi,Monna Lisa,Villa Medici	Florence	1994-01-24	
-1	500	0	HOTELS BY CITY		Metropol,Rossiya,Intourist	Moscow	1994-01-24	
+1	100	0	HOTELS BY CITY		The Mirage, Excalibur, Caesar's Palace	Las Vegas	1994-01-24	
+1	200	0	HOTELS BY CITY		Meridien Montparnasse, Balzac, George V	Paris	1994-01-24	
+1	300	0	HOTELS BY CITY		Dorchester, Connaught, Cadogan	London	1994-01-24	
+1	400	0	HOTELS BY CITY		Brunelleschi, Monna Lisa, Villa Medici	Florence	1994-01-24	
+1	500	0	HOTELS BY CITY		Metropol, Rossiya, Intourist	Moscow	1994-01-24	
 2	600	0	PATTON		He went to Mexico in 1916 as an aide to this general nicknamed "Black Jack\"	Pershing	1994-01-24	
 2	800	0	PATTON		While a teacher at the Mounted Service School at Ft. Riley, he wrote the manual for this curved sword	saber	1994-01-24	
 2	1000	0	PATTON		In 1917 he was sent to France, where he set up a school to teach soldiers to drive these vehicles	tanks	1994-01-24	
@@ -4429,11 +4429,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	FRUITS & VEGETABLES		The name of this popular soul food vegetable comes from colewort	collard greens	1994-03-22	
 1	400	0	FRUITS & VEGETABLES		The cardoon, a type of thistle, is closely related to this "globe" vegetable	artichoke	1994-03-22	
 1	500	0	FRUITS & VEGETABLES		The "Japanese" persimmon was introduced to the U.S. by this commodore in 1855	Commodore (Matthew) Perry	1994-03-22	
-1	100	0	CROSSWORD CLUES "A\"		Blackjack's one or eleven(3)	ace	1994-03-22	
-1	200	0	CROSSWORD CLUES "A\"		Galahad's garb(5)	armor	1994-03-22	
-1	300	0	CROSSWORD CLUES "A\"		A man of morals(5)	Aesop	1994-03-22	
-1	400	0	CROSSWORD CLUES "A\"		Greek beginning(5)	alpha	1994-03-22	
-1	500	0	CROSSWORD CLUES "A\"		Last battle site(10)	Armageddon	1994-03-22	
+1	100	0	CROSSWORD CLUES "A\"		Blackjack's one or eleven (3)	ace	1994-03-22	
+1	200	0	CROSSWORD CLUES "A\"		Galahad's garb (5)	armor	1994-03-22	
+1	300	0	CROSSWORD CLUES "A\"		A man of morals (5)	Aesop	1994-03-22	
+1	400	0	CROSSWORD CLUES "A\"		Greek beginning (5)	alpha	1994-03-22	
+1	500	0	CROSSWORD CLUES "A\"		Last battle site (10)	Armageddon	1994-03-22	
 2	200	0	KINGS & QUEENS		During his reign, 1953-1964, King Saud nearly bankrupted this country	Saudi Arabia	1994-03-22	
 2	400	0	KINGS & QUEENS		2 members of this Florentine family, Catherine & Marie, became queens of France	the de Medici	1994-03-22	
 2	600	0	KINGS & QUEENS		Named Franco's successor in 1969, he became king in 1975	Juan Carlos	1994-03-22	
@@ -4491,10 +4491,10 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	400	0	WINE		Marques de Riscal is one of the best red Rioja wines of this country	Spain	1994-04-20	
 1	500	0	WINE		A baron of this family bought Chateau Lafite in 1868	Rothschild	1994-04-20	
 1	100	0	COMMON BONDS		Nest, Easter, hard-boiled	eggs	1994-04-20	
-1	200	0	COMMON BONDS		Flea,Maximus,Piccadilly	circus	1994-04-20	
-1	300	0	COMMON BONDS		Horse,house,blue tail	fly	1994-04-20	
-1	400	0	COMMON BONDS		Sand,shoe,shadow	box	1994-04-20	
-1	500	0	COMMON BONDS		Lemon,banana,Emma	peel	1994-04-20	
+1	200	0	COMMON BONDS		Flea, Maximus, Piccadilly	circus	1994-04-20	
+1	300	0	COMMON BONDS		Horse, house, blue tail	fly	1994-04-20	
+1	400	0	COMMON BONDS		Sand, shoe, shadow	box	1994-04-20	
+1	500	0	COMMON BONDS		Lemon, banana, Emma	peel	1994-04-20	
 2	200	0	RELIGION		Once imposed, this formal expulsion from the Catholic community may be lifted by a pope or bishop	excommunication	1994-04-20	
 2	400	0	RELIGION		The name of this form of Buddhism is Japanese for "meditation\"	Zen	1994-04-20	
 2	600	0	RELIGION		In Judaism kaddish is a mourner's prayer, & this is a Sabbath prayer said over wine	kiddush	1994-04-20	
@@ -4853,11 +4853,11 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	300	0	THE CIRCLE		An arc that covers 25% of the circumference measures this many degrees	90	1994-05-05	
 1	400	400	THE CIRCLE		This part of a circle shares its name with a bone in the arm	the radius	1994-05-05	
 1	500	0	THE CIRCLE		Fraction used as a common estimate for pi	22/7	1994-05-05	
-1	100	0	COMMON BONDS		The RoyalStandard, the Jolly Roger, the Starsand Stripes	flags	1994-05-05	
+1	100	0	COMMON BONDS		The Royal Standard, the Jolly Roger, the Stars and Stripes	flags	1994-05-05	
 1	200	0	COMMON BONDS		Art, wax, natural history	types of museums	1994-05-05	
-1	300	0	COMMON BONDS		Sudd,Dismal,Okefenokee	swamps	1994-05-05	
-1	400	0	COMMON BONDS		Sheep,blessings,calories	things you count	1994-05-05	
-1	500	0	COMMON BONDS		Scottish,Skye, sealyham	different kinds of dogs (terriers)	1994-05-05	
+1	300	0	COMMON BONDS		Sudd, Dismal, Okefenokee	swamps	1994-05-05	
+1	400	0	COMMON BONDS		Sheep, blessings, calories	things you count	1994-05-05	
+1	500	0	COMMON BONDS		Scottish, Skye, sealyham	different kinds of dogs (terriers)	1994-05-05	
 2	200	0	FAMOUS NAMES		At 25 he captured a $25,000 prize for being the first person to fly the Atlantic solo	Lindbergh	1994-05-05	
 2	400	0	FAMOUS NAMES		In one year, 1882, he received 75 patents on his inventions	Edison	1994-05-05	
 2	600	0	FAMOUS NAMES		Survey says from 1929-1931 this famous pollster was head of the journalism dept. at Drake University	(George) Gallup	1994-05-05	
@@ -5765,7 +5765,7 @@ round	clue_value	daily_double_value	category	comments	answer	question	air_date	n
 1	100	0	COMMON BONDS		Doris, Dennis, D-	Day	1994-07-19	
 1	200	0	COMMON BONDS		Chop, drum, pick-up	sticks	1994-07-19	
 1	300	0	COMMON BONDS		Snow, blood, piggy	bank	1994-07-19	
-1	400	0	COMMON BONDS		Coins,pancakes, your wig	flip	1994-07-19	
+1	400	0	COMMON BONDS		Coins, pancakes, your wig	flip	1994-07-19	
 1	500	0	COMMON BONDS		Crow, salad, singles	bar	1994-07-19	
 2	200	0	BODIES OF WATER		Jean Laffite once lived on Grand Terre Island in Barataria Bay in this famous gulf	the Gulf of Mexico	1994-07-19	
 2	400	0	BODIES OF WATER		The Severn & the Wye are the longest rivers that enter this country, part of the United Kingdom	Wales	1994-07-19	
