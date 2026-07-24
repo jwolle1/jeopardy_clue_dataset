@@ -1,18 +1,18 @@
 ## jeopardy_clue_dataset
 
-<p align="center"><img src="images/jeo_logo_1994.jpg" alt="Jeopardy! Logo" /></p>
+<p align="center"><img src="images/jeo_logo_2005.jpg" alt="Jeopardy! Logo" /></p>
 
-**Download the latest version here: https://github.com/jwolle1/jeopardy_clue_dataset/releases/tag/v41**
+**Download the latest version here: https://github.com/jwolle1/jeopardy_clue_dataset/releases/tag/v42**
 
 ---
 
-This dataset contains _Jeopardy!_ clues from Season 1 through Season 41 (July 2025). It does not contain every clue that has appeared on the show. The data source prefers not to be credited.
+This dataset contains _Jeopardy!_ clues from Season 1 through Season 42 (July 2026).
 
-There are 538,845 clues in total. Most of them can be found in `combined_season1-41.tsv`. There are individual files for each season, located in the `seasons` folder.
+There are 554,131 clues in total. Most of them can be found in `combined_season1-42.tsv`. There are individual files for each season, located in the `seasons` folder.
 
-Clues appearing in special matches outside the daily syndicated program are found in `extra_matches.tsv`. This file has 8,906 clues and they do not appear in the combined dataset.
+Clues appearing in special matches outside the daily syndicated program are found in `extra_matches.tsv`. This file has 10,021 clues and they do not appear in the combined dataset.
 
-There is a `kids_teen_matches.tsv` file which contains only clues that were featured in Kids and Teen Tournament matches. These clues are also in the combined dataset but this file is included for convenience.
+There is a `kids_teen_matches.tsv` file which contains clues featured in Kids and Teen Tournament matches. These clues are also in the combined dataset but this file is included for convenience.
 
 I've done my best to clean the data and filter out clues that depend on images, video, or audio.
 
@@ -36,7 +36,7 @@ I've done my best to clean the data and filter out clues that depend on images, 
 
 **Other Data**
 
-A file with contestant scoring data can be found in the `other_data` folder. There are columns for each contestant's score after the _Single_, _Double_, and _Final Jeopardy_ rounds. Most but not all episodes from the clue dataset are included.
+A scoring dataset can be found in the `other_data` folder. There are columns for each contestant's score, Coryat scores, and the number of right and wrong responses. Most but not all episodes from the clue dataset are included.
 
 ---
 
@@ -44,15 +44,20 @@ A file with contestant scoring data can be found in the `other_data` folder. The
 
 > How do I download the dataset?
 
-The latest version of the dataset is linked at the top of this page. Find older versions in the `Releases` section.
+The latest version of the dataset is linked at the top of this page. Find older versions in the [Releases](https://github.com/jwolle1/jeopardy_clue_dataset/releases) section.
 
 > What is a `.TSV` file?
 
 The data is written in plain text and organized like a spreadsheet with a `TAB` character between each cell. You can open the files with applications like Microsoft Excel or Google Sheets.
 
+> Is this a complete dataset?
+
+No, some episodes are missing or incomplete.
+
+> Where does the data come from?
+
+The data source prefers not to be credited.
+
 ---
 
 All data is property of Jeopardy Productions, Inc. and protected under law. I am not affiliated with the show. Please don't use the data to make a public-facing web site, app, or any other product.
-
-
-
